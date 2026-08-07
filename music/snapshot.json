@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T15:43:46.758Z",
+  "updatedAt": "2026-08-07T16:41:41.696Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786117348364,
+  "lastPolledAt": 1786120758807,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 28
+    "playCount": 32
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -185,32 +185,32 @@
     "5FSP2hxGzUklR4bBb6oWk8": {
       "name": "余韻 - Off Vocal",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 1
+      "count": 2
     },
     "1Ua9Y9QG4QjEMKTocsOTNK": {
       "name": "MY舞☆TONIGHT",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "4oVdhvxZrKQTM9ZsUIZa3S": {
       "name": "December",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "1coE0U4cDTQVNVBlp6ljfG": {
       "name": "Reweave (Cover)",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
       "artist": "Epic Score",
-      "count": 1
+      "count": 2
     },
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "0OXdfW3Q6VJGpg1k5Ik1SW": {
       "name": "Give Me a Kiss",
@@ -876,12 +876,62 @@
       "name": "DROPOUT!?",
       "artist": "Saint Snow",
       "count": 1
+    },
+    "2LoXQxf8uj3nRCNZMbmvxr": {
+      "name": "overtuRe",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6htBSRPTfR3mD3cB5afXvG": {
+      "name": "Aile - Harmonized version",
+      "artist": "Tsubasa Ibuki (CV: Machico), Julia (CV: Aimi), Mizuki Makabe (CV: Rika Abe)",
+      "count": 1
+    },
+    "1AUlnhWLKa7bT5rS1toFPK": {
+      "name": "KING (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "3WlHeBv2athRcNTwbfjg0b": {
+      "name": "Back to Where It Began",
+      "artist": "Rockin' For Decades",
+      "count": 1
+    },
+    "1fEqKjJSC5N9knIalwYmJS": {
+      "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
+      "artist": "RichaadEB",
+      "count": 1
+    },
+    "3jizBdzPFS3ElexhMnuviI": {
+      "name": "Morose Dreamer",
+      "artist": "Mitsukiyo",
+      "count": 1
+    },
+    "1IV4KjKmVgk3tn1Ffnbtuh": {
+      "name": "The Grand Delusion",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "7JGQsYndk0VOmmaH8PSMJz": {
+      "name": "水彩世界 (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "6J03lGLFTEW0pLpPcgvadN": {
+      "name": "Emotion Overdrive",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "0WaOQy3YvVsMa3UuDGW9d7": {
+      "name": "キラキラだとか夢だとか ～Sing Girls～",
+      "artist": "Poppin'Party",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 28
+      "count": 32
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -893,7 +943,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 2
+      "count": 3
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -933,7 +983,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 8
+      "count": 9
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -993,15 +1043,15 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 1
+      "count": 2
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 4
+      "count": 5
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 6
+      "count": 8
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1041,7 +1091,7 @@
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 1
+      "count": 2
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
@@ -1109,7 +1159,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 2
+      "count": 3
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1125,7 +1175,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 1
+      "count": 2
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -1181,7 +1231,7 @@
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 1
+      "count": 2
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
@@ -1309,7 +1359,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
@@ -1425,6 +1475,18 @@
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
+      "count": 1
+    },
+    "10vdoYkSqeOCKyaZLp6Rhb": {
+      "name": "Tsubasa Ibuki (CV: Machico)",
+      "count": 1
+    },
+    "2mYqxXIhhzNE3bLwm3X0f7": {
+      "name": "Rockin' For Decades",
+      "count": 1
+    },
+    "0cdpFI2dZC34peIkjI1rLs": {
+      "name": "Mitsukiyo",
       "count": 1
     }
   }
