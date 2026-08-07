@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Noemi-chan's site!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alan+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/src/imgs/thumb.png">
+</head>
+<body>
+<!-- Startup .mp4 section -->
+<section id="intro">
+    <video id="intro-video" autoplay muted playsinline></video>
+</section>
+
+<!-- Profile section -->
+ <section id="profile" class="hidden">
+    <div class="profile-card-shell">
+      <div class="profile-card">
+        <div class="profile-card-content">
+          <div class="avatar-wrap">
+            <img src="/src/imgs/avatar.png" class="avatar" alt="Avatar">
+            <span id="status-ring" class="status-ring" aria-hidden="true"></span>
+          </div>
+          <h1>Noemi_</h1>
+          <p class="status" id="discord-status"></p>
+          
+          <p class="about">"The only easy day was yesterday."</p>
+
+          <div class="current">
+            <h2>Right Now</h2>
+            <p id="current-text">Loading...</p>
+          </div>
+
+          <!-- Actual bio starts here!!!! -->
+          <div id="actual-bio" class="actual-bio">
+            <div class="short-intro">
+              <h2>Some self introduction</h2>
+              <p id="introduction" class="introduction">Hi, I'm Noemi! A 19 year old second-year engineering student with a strong love for aviation, Bandori, and some other things. I am an introvert and pretty quiet in real life, but I'm always happy to chat if you start the conversation.<br>
+              <br>I also love listening to music, in fact, you will almost always find me wearing my earbuds/in-ears. I usually listen to some J-Rock/J-Pop, though wont be most that you'll think of when you think of them.<br>
+              <br>As of right now, I'm kinda in a weird mix where I can think of hundreds of exciting projects to do, yet I can hardly get started on one while also procrastinating on mountains of assignment.
+              </p>
+            </div>
+            <div class="PCstats">
+              <button class="pc-header" type="button" aria-expanded="false"><strong>My PC Specifications</strong></button>
+
+              <div class="pc-content">
+                
+                <div class="pc-block">
+                  <h3>Laptop (Main)</h3>
+                  <ul>
+                    <li><strong>Model:</strong> MSI Katana 17 B13VFK</li>
+                    <li><strong>CPU:</strong> Intel Core i7-13620H</li>
+                    <li><strong>GPU:</strong> RTX 4060 Laptop (8GB)</li>
+                    <li><strong>RAM:</strong> 32GB (16x2) DDR5 5600MHz</li>
+                    <li><strong>Storage:</strong> 1TB M.2 SSD</li>
+                  </ul>
+                </div>
+
+                <div class="pc-block">
+                  <h3>Desktop</h3>
+                  <ul>
+                    <li><strong>CPU:</strong> Intel Core i5-9400f</li>
+                    <li><strong>GPU:</strong> GIGABYTE GeForce RTX 3060 OC 12GB</li>
+                    <li><strong>RAM:</strong> 16GB (8x2) DDR4 3600MHz</li>
+                    <li><strong>Storage:</strong> 512GB SSD + 1TB HDD</li>
+                  </ul>
+                </div>
+
+                <div class="pc-block">
+                  <h3>Peripherals</h3>
+                  <ul>
+                    <li><strong>Mouse:</strong> Logitech G502 Hero</li>
+                    <li><strong>Keyboard:</strong> Redragon EISA K686 PRO</li>
+                    <li><strong>IEM:</strong> TRUTHEAR x Crinacle ZERO:RED In-ear Monitor</li>
+                    <li><strong>Sim racing:</strong> Logicool G29 Driving Force</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="music-section info-section" data-accordion>
+              <button class="section-header" type="button" aria-expanded="false"><strong>Music</strong></button>
+
+              <div class="section-content">
+                <p class="section-note">What I've had on repeat this month, stats from Spotify WebAPI.</p>
+
+                <div id="top-music" class="top-music-grid">
+                  <p id="top-music-status" class="section-note">Loading...</p>
+                </div>
+              </div>
+            </div>
+            <div class="anime-section info-section" data-accordion>
+              <button class="section-header" type="button" aria-expanded="false"><strong>Anime Corner</strong></button>
+
+              <div class="section-content">
+                <p class="section-note">A little corner for the series I adore, the other shows I love, and the mountain of anime I still want to get to.</p>
+
+                <div class="anime-grid">
+                  <div class="anime-block anime-block-featured">
+                    <div class="anime-copy anime-copy-featured">
+                      <h3>My favorite ever - Bandori!</h3>
+                      <p id="favorite-anime-description">BanG Dream! is and will always be my top pick of all animes. Good character designs. Peak music. Very cute and awesome casts too! Probably nothing will ever take it off my top spot.</p>
+                    </div>
+                    <div class="anime-visual anime-visual-featured">
+                      <img id="favorite-anime-image" src="/src/imgs/thumb.png" alt="Favorite anime visual">
+                    </div>
+                  </div>
+
+                  <div class="anime-block anime-list-split">
+                    <div class="anime-copy anime-list-column">
+                      <h3>Other animes I love</h3>
+                      <ul>
+                        <li>Adachi and Shimamura</li>
+                        <li>The Angel Next Door Spoils me Rotten</li>
+                        <li>Frieren</li>
+                        <li>Jellyfish Can't Swim in the Night</li>
+                        <li>Yagate Kimi ni Naru (Bloom Into You)</li>
+                        <li>GATE</li>
+                        <li>A Silent Voice</li>
+                        <li>Tenten Kakumei (MagicRevo)</li>
+                      </ul>
+                    </div>
+
+                    <div class="anime-copy anime-list-column">
+                      <h3>Want to Watch</h3>
+                      <ul>
+                        <li>Your Name</li>
+                        <li>Re:Zero</li>
+                        <li>The Eminence In Shadow</li>
+                        <li>A Sign of Affection</li>
+                        <li>Oreshura</li>
+                        <li>SHIBOYUGI</li>
+                        <li>My Next Life as a VILLAINESS</li>
+                        <li>Watanare</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ </section>
+<script src="script.js"></script>
+</body>
+</html>
