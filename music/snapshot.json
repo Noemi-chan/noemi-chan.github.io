@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T21:28:25.594Z",
+  "updatedAt": "2026-08-07T22:26:07.370Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786137864480,
+  "lastPolledAt": 1786141468250,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,13 +14,13 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 38
+    "playCount": 40
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
       "name": "Neo-Aspect",
       "artist": "Roselia",
-      "count": 14
+      "count": 15
     },
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
@@ -85,42 +85,42 @@
     "5dp3vri4d2JjeBsGriLFyW": {
       "name": "IMAWA IINDAYO - Cover",
       "artist": "Kotoha",
-      "count": 1
+      "count": 2
     },
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
       "artist": "Against The Current, guardin",
-      "count": 1
+      "count": 2
     },
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
       "artist": "西沢幸奏",
-      "count": 1
+      "count": 2
     },
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "5x4Txx7HwPFvj9SNLBNvQQ": {
       "name": "Blessing Chord",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4lPNuizRfDvXB8ltrNPd1v": {
       "name": "Choir ‘S’ Choir",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
       "artist": "RAISE A SUILEN",
-      "count": 1
+      "count": 2
     },
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
@@ -946,16 +946,41 @@
       "name": "Light our way",
       "artist": "安月名莉子",
       "count": 1
+    },
+    "6JV4PCBSzzrU692XMcrUvR": {
+      "name": "Reminder",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "4jOQ5QOwyu9dwWwbHYmQAm": {
+      "name": "Only Human - feat. AJ Channer",
+      "artist": "Memphis May Fire, AJ Channer",
+      "count": 1
+    },
+    "4tT95PXtSH6lPzaSNWiJhu": {
+      "name": "When the Morning Glory Falls",
+      "artist": "TUYU",
+      "count": 1
+    },
+    "3Zwu2K0Qa5sT6teCCHPShP": {
+      "name": "Thnks fr th Mmrs",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "3x66sbKzXN2KJfn9gxyoaZ": {
+      "name": "Veins of FLOWER",
+      "artist": "吉村・Thi・梅(CV:岩田陽葵)",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 38
+      "count": 40
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 4
+      "count": 5
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -971,11 +996,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 10
+      "count": 11
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 2
+      "count": 3
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -999,27 +1024,27 @@
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
-      "count": 1
+      "count": 2
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 14
+      "count": 15
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
-      "count": 1
+      "count": 2
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
-      "count": 1
+      "count": 2
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 3
+      "count": 4
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 6
+      "count": 7
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1195,7 +1220,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 3
+      "count": 4
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -1507,6 +1532,22 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
+      "count": 1
+    },
+    "0mTRdMo44irGKR85VtzGKd": {
+      "name": "AJ Channer",
+      "count": 1
+    },
+    "0PHf0oiic0xAnCrRuLTtHl": {
+      "name": "TUYU",
+      "count": 1
+    },
+    "4UXqAaa6dQYAk18Lv7PEgX": {
+      "name": "Fall Out Boy",
+      "count": 1
+    },
+    "5WQ3NPlPRXdO9jfUn4uMH2": {
+      "name": "吉村・Thi・梅(CV:岩田陽葵)",
       "count": 1
     }
   }
