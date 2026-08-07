@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T11:38:03.145Z",
+  "updatedAt": "2026-08-07T12:39:29.440Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786102515338,
+  "lastPolledAt": 1786106328490,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 25
+    "playCount": 26
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -571,12 +571,92 @@
       "name": "邂逅のフェタリテート",
       "artist": "彩音",
       "count": 1
+    },
+    "3rMpYPr4XQDNngm7OKtSwE": {
+      "name": "DAISY",
+      "artist": "安月名莉子",
+      "count": 1
+    },
+    "5x3ExaxnOVA4SwjLBYm6wX": {
+      "name": "V.I.P MONSTER",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "4SPKuPwXDa5rWFSgrI9Rxr": {
+      "name": "奏（かなで） (Cover)",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "0lgiIwUU7Y10uXfKkgXdjk": {
+      "name": "In Bloom",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "18CVZSCf490INSs7AmeQ2a": {
+      "name": "迷路日々",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "7K67LPW48UmDarAd7FELCn": {
+      "name": "Part of Me",
+      "artist": "American Wolves",
+      "count": 1
+    },
+    "5rehAVBJYYWngBV4iDW6T9": {
+      "name": "Deep Indigo - Album Ver.",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "49fItmms7twKQiboPZlqIX": {
+      "name": "BLACK SHOUT",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2xBibqkmXJ4NQCe8lJeZco": {
+      "name": "可愛くてごめん",
+      "artist": "HoneyWorks, ちゅーたん(CV:早見沙織)",
+      "count": 1
+    },
+    "1rTFsQZyUUdokzz3mibkqm": {
+      "name": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0iNEdxHGgVMsCBgHFycwmL": {
+      "name": "神さま、バカ",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "0SMtNovWLTRkt9UXMY3SCO": {
+      "name": "大胆",
+      "artist": "WANDS",
+      "count": 1
+    },
+    "2TIeha2ARcgw3cZT42eOfP": {
+      "name": "しゅわりん☆どり～みん",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "1nk9moKBnrWMsXoHxnaeJd": {
+      "name": "Y (Please Tell Me Why)",
+      "artist": "freestyle",
+      "count": 1
+    },
+    "0o8mdI1vf5ly2qpCxNJlC1": {
+      "name": "Let Me Dance",
+      "artist": "Alohaii, Miori Celesta",
+      "count": 1
+    },
+    "1CYznYPoNOmDX8laxr5SCh": {
+      "name": "イニシャル",
+      "artist": "Poppin'Party",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 25
+      "count": 26
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -596,7 +676,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -628,7 +708,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 6
+      "count": 7
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -644,7 +724,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 3
+      "count": 4
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -652,7 +732,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 4
+      "count": 6
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -660,7 +740,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 3
+      "count": 5
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -696,7 +776,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 3
+      "count": 4
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -816,7 +896,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 1
+      "count": 2
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -956,6 +1036,38 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
+      "count": 1
+    },
+    "7ChJuYuw9pM8MqaZOAmvHX": {
+      "name": "安月名莉子",
+      "count": 1
+    },
+    "6ELd8V4uVbjWXw5asYoISQ": {
+      "name": "American Wolves",
+      "count": 1
+    },
+    "40oxjbVm3kdeyJEiGsKrmd": {
+      "name": "HoneyWorks",
+      "count": 1
+    },
+    "6yKI6XBrsly4nzlmcn2nJU": {
+      "name": "ちゅーたん(CV:早見沙織)",
+      "count": 1
+    },
+    "4iaPh4BzUKBQuunyMKVxU7": {
+      "name": "WANDS",
+      "count": 1
+    },
+    "0LigV2SSsRZaeX2htEFXV9": {
+      "name": "freestyle",
+      "count": 1
+    },
+    "3kNWENaTd7pb0xFqNuq7Sc": {
+      "name": "Alohaii",
+      "count": 1
+    },
+    "189oT2Q0iCTjqIA8Oqu2fx": {
+      "name": "Miori Celesta",
       "count": 1
     }
   }
