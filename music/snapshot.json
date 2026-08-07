@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T09:51:13.205Z",
+  "updatedAt": "2026-08-07T10:42:07.473Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786096258377,
+  "lastPolledAt": 1786099272893,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -13,12 +13,8 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
-    "playCount": 22
+    "genres": [],
+    "playCount": 23
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -440,12 +436,77 @@
       "name": "きゅ〜まい＊flower",
       "artist": "Pastel*Palettes",
       "count": 1
+    },
+    "0g1Pa3zCIkmUwRqSo9yqH2": {
+      "name": "If I Can Stop One Heart From Breaking (instrumental ver.)",
+      "artist": "Chewie Melodies, Pealeaf",
+      "count": 1
+    },
+    "3aZQTrc9svekofLsXrv9WZ": {
+      "name": "Shinku no Pasión",
+      "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "6o39Ln9118FKTMbM4BvcEy": {
+      "name": "Drown",
+      "artist": "Bring Me The Horizon",
+      "count": 1
+    },
+    "3aJ2aJz5xL03hpaqdPS7Ah": {
+      "name": "only my railgun",
+      "artist": "fripSide",
+      "count": 1
+    },
+    "16exrY95yucY3Mkf7qIzhp": {
+      "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
+      "artist": "Wilbert Roget, II",
+      "count": 1
+    },
+    "6VTVySG44qtMjybocs9Rpo": {
+      "name": "Kimi ni Aetahi",
+      "artist": "Adachi(CV:Akari Kito), Shimamura(CV:Miku Ito)",
+      "count": 1
+    },
+    "72gv4zhNvRVdQA0eOenCal": {
+      "name": "Symphony (feat. Zara Larsson)",
+      "artist": "Clean Bandit, Zara Larsson",
+      "count": 1
+    },
+    "5rglT9cmL3jeVrYI0LQE2r": {
+      "name": "二羽鶴 Instrumental ver.",
+      "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "0asJiqD3Xwvjxhjzxe2XmZ": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "0WpDulmFSKKXr0Qfk5PDZD": {
+      "name": "Sacred world",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "72CJJVeeqzRRlWW1jv90A6": {
+      "name": "みんなと一緒なら",
+      "artist": "藤永龍太郎",
+      "count": 1
+    },
+    "6ZTMwdB4WIjrbphjQGUAV4": {
+      "name": "Here, the world!",
+      "artist": "sumimi",
+      "count": 1
+    },
+    "0MYYsZfZx6ECK5kefHUHJs": {
+      "name": "もういちど ルミナス",
+      "artist": "Pastel*Palettes",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 22
+      "count": 23
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -513,7 +574,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -529,7 +590,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -721,6 +782,74 @@
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
+      "count": 1
+    },
+    "2dbjQX4XbIMrb5kayolqSZ": {
+      "name": "Chewie Melodies",
+      "count": 1
+    },
+    "0KA6hGOfI1cXBiRikEXwoa": {
+      "name": "Pealeaf",
+      "count": 1
+    },
+    "0KaXjMCgk5f4maUi6vtZAw": {
+      "name": "chicAAmor",
+      "count": 1
+    },
+    "3tsSGK2yeVzdb9tqR2faOb": {
+      "name": "Sayoko Takayama (CV: Yuri Komagata)",
+      "count": 1
+    },
+    "7IFPSph621cFElVwhbhdlA": {
+      "name": "Fuka Toyokawa (CV: Rie Suegara)",
+      "count": 1
+    },
+    "1CLvL2z5LbARBiaOY5fVeH": {
+      "name": "Julia (CV: Aimi)",
+      "count": 1
+    },
+    "1QpIAQVxfJz3DMqFfs5B4G": {
+      "name": "Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "1Ffb6ejR6Fe5IamqA5oRUF": {
+      "name": "Bring Me The Horizon",
+      "count": 1
+    },
+    "7ucOhItVkxNqunNLo8AkzN": {
+      "name": "fripSide",
+      "count": 1
+    },
+    "4b6Khs68thyzQrWRISZFrT": {
+      "name": "Wilbert Roget, II",
+      "count": 1
+    },
+    "1doCP9Z7n18QpzRIr4gIFb": {
+      "name": "Adachi(CV:Akari Kito)",
+      "count": 1
+    },
+    "14UnECbGpVclTzr6qWo0QS": {
+      "name": "Shimamura(CV:Miku Ito)",
+      "count": 1
+    },
+    "6MDME20pz9RveH9rEXvrOM": {
+      "name": "Clean Bandit",
+      "count": 1
+    },
+    "1Xylc3o4UrD53lo9CvFvVg": {
+      "name": "Zara Larsson",
+      "count": 1
+    },
+    "5fHnNjwRhNBezGp6781fvz": {
+      "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "6D4A4P0cqfcqs8igavNaA1": {
+      "name": "藤永龍太郎",
+      "count": 1
+    },
+    "1mcQmE9C1mtNXk1i0qrPdA": {
+      "name": "sumimi",
       "count": 1
     }
   }
