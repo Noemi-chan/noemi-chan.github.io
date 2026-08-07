@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T19:43:52.105Z",
+  "updatedAt": "2026-08-07T20:29:32.510Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786130204217,
+  "lastPolledAt": 1786134380074,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -355,22 +355,22 @@
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
       "artist": "Ellie Goulding, Speed Radio",
-      "count": 1
+      "count": 2
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 1
+      "count": 2
     },
     "1MpimPh4legrECmPHcdofR": {
       "name": "Where Do We Go When We Go",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "304zLZAJFOviWv2zSFoaVg": {
       "name": "Thought Crime",
       "artist": "Rachie",
-      "count": 2
+      "count": 3
     },
     "5D3zXLF52fYYMbmqT3lY4J": {
       "name": "Happy Happy Party!",
@@ -944,7 +944,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 2
+      "count": 3
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -1056,7 +1056,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 8
+      "count": 9
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1168,15 +1168,15 @@
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
-      "count": 1
+      "count": 2
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 1
+      "count": 2
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 5
+      "count": 6
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
