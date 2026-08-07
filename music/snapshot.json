@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T20:29:32.510Z",
+  "updatedAt": "2026-08-07T21:28:25.594Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786134380074,
+  "lastPolledAt": 1786137864480,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 37
+    "playCount": 38
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -125,12 +125,12 @@
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
       "artist": "Afterglow",
-      "count": 1
+      "count": 2
     },
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
@@ -300,57 +300,57 @@
     "4B1nb9UxHTTNveM2lRhNXD": {
       "name": "Returns",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
       "artist": "Formula E",
-      "count": 1
+      "count": 2
     },
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
       "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 1
+      "count": 2
     },
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
       "artist": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 1
+      "count": 2
     },
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
       "artist": "Maroon 5",
-      "count": 1
+      "count": 2
     },
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
       "artist": "Junpei Fujita",
-      "count": 1
+      "count": 2
     },
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 1
+      "count": 2
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
       "artist": "Andora, WaMi",
-      "count": 1
+      "count": 2
     },
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -931,16 +931,31 @@
       "name": "Legendary",
       "artist": "Roselia",
       "count": 1
+    },
+    "4ZwvTeIpKafwcNxQEsUm4D": {
+      "name": "Make Believe",
+      "artist": "Memphis May Fire",
+      "count": 1
+    },
+    "3l44Dmif5PXKtkeiHj2Lst": {
+      "name": "LOUDER",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "5ww6R8cbL01jkhTrq4zJJN": {
+      "name": "Light our way",
+      "artist": "安月名莉子",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 37
+      "count": 38
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 3
+      "count": 4
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -988,7 +1003,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 13
+      "count": 14
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1008,11 +1023,11 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 2
+      "count": 3
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 6
+      "count": 7
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1052,11 +1067,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 6
+      "count": 7
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 9
+      "count": 10
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1132,39 +1147,39 @@
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
-      "count": 1
+      "count": 2
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 1
+      "count": 2
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 1
+      "count": 2
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
-      "count": 1
+      "count": 2
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 2
+      "count": 3
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 1
+      "count": 2
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
-      "count": 1
+      "count": 2
     },
     "6c0bV9hFYijaaGnG8n43O4": {
       "name": "WaMi",
-      "count": 1
+      "count": 2
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 3
+      "count": 4
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1320,7 +1335,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 1
+      "count": 2
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
