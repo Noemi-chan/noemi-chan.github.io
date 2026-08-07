@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T22:26:07.370Z",
+  "updatedAt": "2026-08-07T23:24:54.648Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786141468250,
+  "lastPolledAt": 1786145028102,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 40
+    "playCount": 41
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -60,27 +60,27 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 1
+      "count": 2
     },
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
       "artist": "Casey Edwards",
-      "count": 1
+      "count": 2
     },
     "6aWx4iupVFAYnOyGVMUDWr": {
       "name": "Hakanai Koigokoro",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 1
+      "count": 2
     },
     "3InXtCeZlSGPFdUpeVaiIP": {
       "name": "Crisis",
       "artist": "WSTR",
-      "count": 1
+      "count": 2
     },
     "22eHRqbCHzY8iP9C4FJiRa": {
       "name": "Day Dream",
       "artist": "NTE10AM",
-      "count": 1
+      "count": 2
     },
     "5dp3vri4d2JjeBsGriLFyW": {
       "name": "IMAWA IINDAYO - Cover",
@@ -971,12 +971,57 @@
       "name": "Veins of FLOWER",
       "artist": "吉村・Thi・梅(CV:岩田陽葵)",
       "count": 1
+    },
+    "7zxz9xLJvou9iSRYiIq3TX": {
+      "name": "影色舞",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "4tTfKPjzxibtueDLiYr5Yb": {
+      "name": "TITLE IDOL",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "25Eq9bzwKMX3yZTV4qpp8U": {
+      "name": "Smooth Seas Don't Make Good Sailors",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "1AWg0OaeyGyr56J3LEHF8N": {
+      "name": "Freedom",
+      "artist": "Poppin'Party, 海野夏希(CV：福圓美里)",
+      "count": 1
+    },
+    "3LwmcYxpqVyEJA8oyYA6js": {
+      "name": "way to answer",
+      "artist": "fripSide",
+      "count": 1
+    },
+    "2kxfYfgPqiIQMjyCONnDaZ": {
+      "name": "迷星叫",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "3rRkDjqEy2n8Qi930AjiSF": {
+      "name": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1
+    },
+    "2AwjcdksNfMMokTEl2t5ke": {
+      "name": "Realize (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4pqH9UhPa697MDOSIPiBvJ": {
+      "name": "Shiny Racers",
+      "artist": "小原鞠莉 (CV.鈴木愛奈)",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 40
+      "count": 41
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1004,23 +1049,23 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 1
+      "count": 2
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
-      "count": 1
+      "count": 2
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 1
+      "count": 2
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 1
+      "count": 2
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
-      "count": 1
+      "count": 2
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
@@ -1028,7 +1073,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 15
+      "count": 16
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1052,7 +1097,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 7
+      "count": 9
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1060,7 +1105,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 8
+      "count": 9
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1096,7 +1141,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 10
+      "count": 11
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1288,7 +1333,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 1
+      "count": 2
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -1548,6 +1593,18 @@
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
+      "count": 1
+    },
+    "1hUfCEkL8nv3iYXDRuvJcn": {
+      "name": "海野夏希(CV：福圓美里)",
+      "count": 1
+    },
+    "18Zr9CaElvS40S0AtizMWZ": {
+      "name": "hololive IDOL PROJECT",
+      "count": 1
+    },
+    "5AeHYcYFgZ8VHULQk0vHM2": {
+      "name": "小原鞠莉 (CV.鈴木愛奈)",
       "count": 1
     }
   }
