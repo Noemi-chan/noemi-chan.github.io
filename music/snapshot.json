@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T08:06:33.639Z",
+  "updatedAt": "2026-08-07T09:51:13.205Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786089926524,
+  "lastPolledAt": 1786096258377,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -18,7 +18,7 @@
       "j-pop",
       "anime"
     ],
-    "playCount": 20
+    "playCount": 22
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -295,12 +295,157 @@
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
       "count": 1
+    },
+    "3uXD2gHqRs6mitblJm9kng": {
+      "name": "ハミングフレンド (高海千歌 Solo Ver.)",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "count": 1
+    },
+    "4B1nb9UxHTTNveM2lRhNXD": {
+      "name": "Returns",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "3ZgsSyr3nNYyN1ghjshjTf": {
+      "name": "Rising - Main Titles Extended",
+      "artist": "Formula E",
+      "count": 1
+    },
+    "5EhTNo5ex4aAcYSDp1BG5j": {
+      "name": "ピンキー・プロミス",
+      "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
+      "count": 1
+    },
+    "1gGbdllxQWqNOTnjKtacj9": {
+      "name": "Embraced by the Flame",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "3rWUlpvT1IRxDmtbOnhw9D": {
+      "name": "心の羽よ君へ飛んでけ！",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "5wsqsHO57y8iWki0KErnIu": {
+      "name": "Threat Level Midnight",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "1Vixb2G70s0J2Irf6hi8VE": {
+      "name": "Payphone",
+      "artist": "Maroon 5",
+      "count": 1
+    },
+    "64ATI38dSy6g4g2bJrTtEU": {
+      "name": "始まりの季節",
+      "artist": "Junpei Fujita",
+      "count": 1
+    },
+    "2JoqtXeVgy7gZP0fgCoUth": {
+      "name": "Awful Ever After",
+      "artist": "Hot Milk",
+      "count": 1
+    },
+    "4BBwxAA4Ww0CRstH2epx41": {
+      "name": "Euphoria",
+      "artist": "Andora, WaMi",
+      "count": 1
+    },
+    "7ahptM6ggRFr7sHYoALoJP": {
+      "name": "Mix shake!!",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "4TZ2Ub8bZh4LTs06eANDXa": {
+      "name": "Lights - Sped Up Version",
+      "artist": "Ellie Goulding, Speed Radio",
+      "count": 1
+    },
+    "6BgQWUJd3BXytOhZZv7OW7": {
+      "name": "Colorful Dreams! Colorful Smiles!",
+      "artist": "Nijigasaki High School Idol Club",
+      "count": 1
+    },
+    "1MpimPh4legrECmPHcdofR": {
+      "name": "Where Do We Go When We Go",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "304zLZAJFOviWv2zSFoaVg": {
+      "name": "Thought Crime",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "5D3zXLF52fYYMbmqT3lY4J": {
+      "name": "Happy Happy Party!",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "4slbyzCHSXx0cI5MlyuQX9": {
+      "name": "Umbrella",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "2grjqo0Frpf2okIBiifQKs": {
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "count": 1
+    },
+    "68OymWhEAobP8ljyEoOo1M": {
+      "name": "Sage der Rosen",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "5VEsi6BxUXSYUXdOvJrZYe": {
+      "name": "Azalea",
+      "artist": "nano.RIPE",
+      "count": 1
+    },
+    "19ESOEBS7YYJsPOwHmsgTT": {
+      "name": "Do You Know How To Love Me",
+      "artist": "Henry Young, Ashley Alisha",
+      "count": 1
+    },
+    "404bfT8cVTOCHw2fvGhZNU": {
+      "name": "Step by Step",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "5vcQssUaCMTHTFKQXuTITt": {
+      "name": "BRAVE JEWEL",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "5Lcl4lqTR9p1I91LEqisbd": {
+      "name": "ときめきエクスペリエンス！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "5ciHaCIDGeVkf9cHg3PEuR": {
+      "name": "羅針盤の彼方",
+      "artist": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "6ehbDGFDROegSRlXhIoJhp": {
+      "name": "There's Nothing Holdin' Me Back",
+      "artist": "The Gospel Youth",
+      "count": 1
+    },
+    "4qHdhSUkmDh6r7Ea4NzAvM": {
+      "name": "EZ4ENCE (kannatuslaulu)",
+      "artist": "The Verkkars",
+      "count": 1
+    },
+    "656Ipbib8V7vJShg31rDIv": {
+      "name": "きゅ〜まい＊flower",
+      "artist": "Pastel*Palettes",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 20
+      "count": 22
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -308,7 +453,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 1
+      "count": 2
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -352,7 +497,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 3
+      "count": 6
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -384,7 +529,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -416,11 +561,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 2
+      "count": 3
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 1
+      "count": 3
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -488,6 +633,94 @@
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
+      "count": 1
+    },
+    "6plej5RLgqzBFny1o6uODr": {
+      "name": "高海千歌 (CV.伊波杏樹)",
+      "count": 1
+    },
+    "5ZwO7Q0ua9s0PdFoZ34Kn7": {
+      "name": "Formula E",
+      "count": 1
+    },
+    "4RCOP50kvNoZY3UwZcZ5AC": {
+      "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
+      "count": 1
+    },
+    "5NETkMPykaG8ngC1VcubSX": {
+      "name": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "04gDigrS5kc9YWfZHwBETP": {
+      "name": "Maroon 5",
+      "count": 1
+    },
+    "2ew3H8jZrLxHHqbs0b14F8": {
+      "name": "Junpei Fujita",
+      "count": 1
+    },
+    "1koutXdSFq2PHqtxSWj9tK": {
+      "name": "Hot Milk",
+      "count": 1
+    },
+    "65UVZimR43krwnW1JaScHi": {
+      "name": "Andora",
+      "count": 1
+    },
+    "6c0bV9hFYijaaGnG8n43O4": {
+      "name": "WaMi",
+      "count": 1
+    },
+    "6L7wKf6aQv6A3OpiuMITqM": {
+      "name": "スリーズブーケ",
+      "count": 1
+    },
+    "1YzaVDzA3EdEipDSUeNQER": {
+      "name": "Speed Radio",
+      "count": 1
+    },
+    "6xWuh7ypIYMh9BhqfHtQN1": {
+      "name": "Nijigasaki High School Idol Club",
+      "count": 1
+    },
+    "2SW5wli9uAsYHQnezGESFB": {
+      "name": "Rachie",
+      "count": 1
+    },
+    "3dUyIL0d0OzFNJhn7RxgK1": {
+      "name": "Nayori",
+      "count": 1
+    },
+    "4QQgXkCYTt3BlENzhyNETg": {
+      "name": "Earth, Wind & Fire",
+      "count": 1
+    },
+    "1GQptL2kOEsfMXerW4OjMT": {
+      "name": "nano.RIPE",
+      "count": 1
+    },
+    "7BFfb40nQrs3xKRMGK1GrC": {
+      "name": "Henry Young",
+      "count": 1
+    },
+    "63P6hjn73jNbnEFT0gKWKk": {
+      "name": "Ashley Alisha",
+      "count": 1
+    },
+    "2RVXnU56kIClg1UbAW9ehz": {
+      "name": "KARUT",
+      "count": 1
+    },
+    "77zL8fZvBM4UDw4IRtkkQs": {
+      "name": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "5EWAtvRDy8I6sSYlMjD6g0": {
+      "name": "The Gospel Youth",
+      "count": 1
+    },
+    "6G8D4xDyY4yocHtXiXxYmI": {
+      "name": "The Verkkars",
       "count": 1
     }
   }
