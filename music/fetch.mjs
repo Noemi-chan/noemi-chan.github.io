@@ -5,18 +5,14 @@
 import { writeFile, mkdir, readFile } from "node:fs/promises";
 import path from "node:path";
 
-const { SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN } = process.env;
+const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID?.trim();
+const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET?.trim();
+const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN?.trim();
 
 if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
   console.error("Missing required env vars: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN");
   process.exit(1);
 }
-
-// TEMP DIAGNOSTIC — remove after debugging invalid_grant
-console.log("DEBUG client_id length:", SPOTIFY_CLIENT_ID.length);
-console.log("DEBUG client_secret length:", SPOTIFY_CLIENT_SECRET.length);
-console.log("DEBUG refresh_token length:", SPOTIFY_REFRESH_TOKEN.length);
-console.log("DEBUG refresh_token first/last 6:", SPOTIFY_REFRESH_TOKEN.slice(0, 6), SPOTIFY_REFRESH_TOKEN.slice(-6));
 
 const SNAPSHOT_PATH = path.join(process.cwd(), "music", "snapshot.json");
 
