@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T10:42:07.473Z",
+  "updatedAt": "2026-08-07T11:38:03.145Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786099272893,
+  "lastPolledAt": 1786102515338,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 23
+    "playCount": 25
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -501,12 +501,82 @@
       "name": "もういちど ルミナス",
       "artist": "Pastel*Palettes",
       "count": 1
+    },
+    "3zjSOc0XcoOpRoh2fyfB35": {
+      "name": "Edel Lilie",
+      "artist": "一柳隊",
+      "count": 1
+    },
+    "2VfY6NbLJEzie37TkTEt6Q": {
+      "name": "Summer (Let's Make This Forever)",
+      "artist": "You vs Yesterday",
+      "count": 1
+    },
+    "2C7DrdqoU4U7Wc0vZRVi21": {
+      "name": "ぼなぺてぃーと▽S",
+      "artist": "ブレンド・A",
+      "count": 1
+    },
+    "4M3Tg9Pt350jg8Sv6OEvaD": {
+      "name": "Dye the sky. - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "count": 1
+    },
+    "4AyjEuG3ODerWxU0xUo0eY": {
+      "name": "六兆年と一夜物語 (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "74oAk5kk9HxpnxYNViPUQw": {
+      "name": "Eternal Light",
+      "artist": "DiverDiva",
+      "count": 1
+    },
+    "1U9DXW2cBhCju3l0OWK1i6": {
+      "name": "壱雫空",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "2GC2OsWhRm9ltfxWBKuHhE": {
+      "name": "春日影 (MyGO!!!!! ver.)",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "68pyZjn31y1s2MKgoOu4ug": {
+      "name": "詩超絆",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "708FNo9i6UHes8IR9BOFo5": {
+      "name": "SILENT PAIN",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "0JCUEFRzph1g3xBhhJc09l": {
+      "name": "わやわやわー！",
+      "artist": "亜咲花",
+      "count": 1
+    },
+    "3ajnP3J1EEPpdCjIF9keIE": {
+      "name": "In Your Eyes",
+      "artist": "Tom Wilson, MAJRO",
+      "count": 1
+    },
+    "5BZpy13fGkwbWbR2BEGzzn": {
+      "name": "Song I am.",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "36wgXlvAsueJyAWS87IpFy": {
+      "name": "邂逅のフェタリテート",
+      "artist": "彩音",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 23
+      "count": 25
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -582,7 +652,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 1
+      "count": 4
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -622,7 +692,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 3
+      "count": 4
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -850,6 +920,42 @@
     },
     "1mcQmE9C1mtNXk1i0qrPdA": {
       "name": "sumimi",
+      "count": 1
+    },
+    "4QRFu2rHyWeKiENyVKLeHs": {
+      "name": "一柳隊",
+      "count": 1
+    },
+    "1PxE1tqEDHBQMGsV1K7Dwu": {
+      "name": "You vs Yesterday",
+      "count": 1
+    },
+    "1djn2nFD39MVfBAYV3S7M2": {
+      "name": "ブレンド・A",
+      "count": 1
+    },
+    "7ApxPPvOHclelY9xkLZwBR": {
+      "name": "シャイニーカラーズ",
+      "count": 1
+    },
+    "0PyKHNnxTNPQDA4Ow7jRnd": {
+      "name": "DiverDiva",
+      "count": 1
+    },
+    "0QwTvn35AQMMELpKDU176h": {
+      "name": "亜咲花",
+      "count": 1
+    },
+    "4W9vuLWmzlcGv6stGVWPPC": {
+      "name": "Tom Wilson",
+      "count": 1
+    },
+    "6sUsfQ1mfjViQCKig0NtMp": {
+      "name": "MAJRO",
+      "count": 1
+    },
+    "18ept9gCH3chL1S16u5CSQ": {
+      "name": "彩音",
       "count": 1
     }
   }
