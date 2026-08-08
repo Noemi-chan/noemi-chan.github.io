@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T16:20:00.021Z",
+  "updatedAt": "2026-08-08T17:20:37.980Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786205815176,
+  "lastPolledAt": 1786209408817,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 56
+    "playCount": 58
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -100,7 +100,7 @@
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
       "artist": "西沢幸奏",
-      "count": 3
+      "count": 4
     },
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
@@ -160,7 +160,7 @@
     "3AZt0Kw4LzCOANkpNDZScz": {
       "name": "陽だまりロードナイト",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "61Faxn9e21mgi1UFP5C4AB": {
       "name": "Kudaranai ya",
@@ -275,7 +275,7 @@
     "3o9kpgkIcffx0iSwxhuNI2": {
       "name": "Numb Little Bug",
       "artist": "Em Beihold",
-      "count": 3
+      "count": 4
     },
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
@@ -300,7 +300,7 @@
     "4B1nb9UxHTTNveM2lRhNXD": {
       "name": "Returns",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
@@ -340,7 +340,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 3
+      "count": 4
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -375,7 +375,7 @@
     "5D3zXLF52fYYMbmqT3lY4J": {
       "name": "Happy Happy Party!",
       "artist": "Poppin'Party",
-      "count": 3
+      "count": 4
     },
     "4slbyzCHSXx0cI5MlyuQX9": {
       "name": "Umbrella",
@@ -475,7 +475,7 @@
     "5rglT9cmL3jeVrYI0LQE2r": {
       "name": "二羽鶴 Instrumental ver.",
       "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 2
+      "count": 3
     },
     "0asJiqD3Xwvjxhjzxe2XmZ": {
       "name": "FIRE BIRD",
@@ -485,7 +485,7 @@
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
       "artist": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "72CJJVeeqzRRlWW1jv90A6": {
       "name": "みんなと一緒なら",
@@ -510,7 +510,7 @@
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
       "artist": "You vs Yesterday",
-      "count": 2
+      "count": 3
     },
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
@@ -840,7 +840,7 @@
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
@@ -985,7 +985,7 @@
     "25Eq9bzwKMX3yZTV4qpp8U": {
       "name": "Smooth Seas Don't Make Good Sailors",
       "artist": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "1AWg0OaeyGyr56J3LEHF8N": {
       "name": "Freedom",
@@ -1200,7 +1200,7 @@
     "2UJqnLNlUSQ2ZRBQuEFZml": {
       "name": "Constant Moderato",
       "artist": "Mitsukiyo",
-      "count": 1
+      "count": 2
     },
     "1iKjPM2YygFxUqjUakAI4n": {
       "name": "Can't Kick Up The Roots",
@@ -1315,12 +1315,12 @@
     "7IZXTbPCnF4PJzsVIx4huE": {
       "name": "Everything Goes On",
       "artist": "AARCADE, Victoria Kwan",
-      "count": 1
+      "count": 2
     },
     "6vzxtLRnG1F2XrSD0O41lv": {
       "name": "Shelter (Piano Arrange) - Cover",
       "artist": "JubyPhonic",
-      "count": 1
+      "count": 2
     },
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
@@ -1501,12 +1501,17 @@
       "name": "“UNIONS” Road",
       "artist": "Roselia",
       "count": 1
+    },
+    "4MLhwIDQMhxGbEwDPeGuCF": {
+      "name": "Step×Step！",
+      "artist": "Poppin'Party",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 56
+      "count": 58
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1558,7 +1563,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 26
+      "count": 29
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1566,7 +1571,7 @@
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
-      "count": 3
+      "count": 4
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
@@ -1574,7 +1579,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 10
+      "count": 11
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1626,7 +1631,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 20
+      "count": 21
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1686,7 +1691,7 @@
     },
     "7o2ZQYM7nTsaVdkXY38UAA": {
       "name": "Em Beihold",
-      "count": 3
+      "count": 4
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
@@ -1722,7 +1727,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 4
+      "count": 5
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -1842,7 +1847,7 @@
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 3
+      "count": 4
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
@@ -1858,7 +1863,7 @@
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
-      "count": 2
+      "count": 3
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
@@ -2062,7 +2067,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 3
+      "count": 4
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
@@ -2230,15 +2235,15 @@
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
-      "count": 1
+      "count": 2
     },
     "5nMHOJgAzU0zLB2YAfOWgx": {
       "name": "Victoria Kwan",
-      "count": 1
+      "count": 2
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 2
+      "count": 3
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
