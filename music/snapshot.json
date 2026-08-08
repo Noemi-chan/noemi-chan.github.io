@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T22:17:32.863Z",
+  "updatedAt": "2026-08-08T23:18:05.927Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786227357935,
+  "lastPolledAt": 1786231068830,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,13 +14,13 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 67
+    "playCount": 70
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
       "name": "Neo-Aspect",
       "artist": "Roselia",
-      "count": 15
+      "count": 16
     },
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
@@ -135,12 +135,12 @@
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
       "artist": "Waterparks",
-      "count": 2
+      "count": 3
     },
     "44eo0BHw6yGD3loZQ0kAHY": {
       "name": "ゆら・ゆらRing-Dong-Dance",
       "artist": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
@@ -555,7 +555,7 @@
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
       "artist": "亜咲花",
-      "count": 1
+      "count": 2
     },
     "3ajnP3J1EEPpdCjIF9keIE": {
       "name": "In Your Eyes",
@@ -565,7 +565,7 @@
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -625,7 +625,7 @@
     "0iNEdxHGgVMsCBgHFycwmL": {
       "name": "神さま、バカ",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "0SMtNovWLTRkt9UXMY3SCO": {
       "name": "大胆",
@@ -650,7 +650,7 @@
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
@@ -875,7 +875,7 @@
     "7tI5GDU50puokqzVy3rlsR": {
       "name": "DROPOUT!?",
       "artist": "Saint Snow",
-      "count": 1
+      "count": 2
     },
     "2LoXQxf8uj3nRCNZMbmvxr": {
       "name": "overtuRe",
@@ -895,7 +895,7 @@
     "3WlHeBv2athRcNTwbfjg0b": {
       "name": "Back to Where It Began",
       "artist": "Rockin' For Decades",
-      "count": 1
+      "count": 2
     },
     "1fEqKjJSC5N9knIalwYmJS": {
       "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
@@ -930,7 +930,7 @@
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4ZwvTeIpKafwcNxQEsUm4D": {
       "name": "Make Believe",
@@ -1095,7 +1095,7 @@
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "4w1kRlzCTYQKXKXX2UULcK": {
       "name": "The Only Heaven You'll Know",
@@ -1210,7 +1210,7 @@
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
@@ -1230,7 +1230,7 @@
     "3foaVrwbNHvwXmKD0lMHWv": {
       "name": "幻日ミステリウム",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "47BBI51FKFwOMlIiX6m8ya": {
       "name": "I Want It That Way",
@@ -1561,12 +1561,27 @@
       "name": "Memories of Kindness",
       "artist": "Kano",
       "count": 1
+    },
+    "34pfgcl8vgLvlPIXSkeSWt": {
+      "name": "ANEMONE",
+      "artist": "常闇トワ",
+      "count": 1
+    },
+    "2yH6eL6f1Ada5MnmNpiPbr": {
+      "name": "blindfolded",
+      "artist": "Against The Current",
+      "count": 1
+    },
+    "4blpKVkTvNgEWIlwKWMceR": {
+      "name": "なんどだって約束！",
+      "artist": "Aqours",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 67
+      "count": 70
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1586,11 +1601,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 25
+      "count": 27
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 7
+      "count": 8
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -1618,7 +1633,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 31
+      "count": 32
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1630,7 +1645,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 14
+      "count": 15
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1646,11 +1661,11 @@
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
-      "count": 2
+      "count": 3
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 17
+      "count": 18
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1682,7 +1697,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 10
+      "count": 12
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -1934,7 +1949,7 @@
     },
     "0QwTvn35AQMMELpKDU176h": {
       "name": "亜咲花",
-      "count": 1
+      "count": 2
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
@@ -2110,7 +2125,7 @@
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
-      "count": 1
+      "count": 2
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
@@ -2118,7 +2133,7 @@
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
-      "count": 1
+      "count": 2
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
@@ -2382,6 +2397,10 @@
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
+      "count": 1
+    },
+    "0XZGQi9wNsE1z9L0AWhC82": {
+      "name": "常闇トワ",
       "count": 1
     }
   }
