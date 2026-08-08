@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T07:40:27.095Z",
+  "updatedAt": "2026-08-08T08:27:43.751Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786174742854,
+  "lastPolledAt": 1786177605046,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
     "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 34
+    "playCount": 46
   },
   "topArtist": {
     "name": "Roselia",
@@ -1220,7 +1220,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 34
+      "count": 46
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
@@ -1803,7 +1803,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 35
+      "count": 47
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
