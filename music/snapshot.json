@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T02:50:07.526Z",
+  "updatedAt": "2026-08-08T04:04:07.781Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786157249822,
+  "lastPolledAt": 1786159891859,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -1251,6 +1251,51 @@
       "name": "軌跡",
       "artist": "Roselia",
       "count": 1
+    },
+    "3wqdHdHcTC8mnQMCNLwTFi": {
+      "name": "ガランドFlash - Off Vocal",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "4lypt03XVYnSat94IWFVPd": {
+      "name": "焚音打",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0RvvNjSDtNedo0dy8C2TAC": {
+      "name": "hope ur happy",
+      "artist": "Until I Wake",
+      "count": 1
+    },
+    "4V1PhMpWs2nVaP7ikGuQwy": {
+      "name": "Silhouette",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "6SKZeTl2Qrw9SrpQ5FVyVv": {
+      "name": "R·I·O·T",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "4ogbBL1IaEdS64aJi7IFLO": {
+      "name": "二羽鶴",
+      "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "3QRii5A35ZfsGGiPrv9k0j": {
+      "name": "異次元★♥BIGBANG",
+      "artist": "島村卯月 (CV: 大橋彩香), 最上静香 (CV.田所あずさ), 月岡恋鐘 (CV.礒部花凜), 高海千歌 (CV.伊波杏樹), 上原歩夢 (CV.大西亜玖璃), 澁谷かのん (CV.伊達さゆり), 日野下花帆 (CV.楡井希実)",
+      "count": 1
+    },
+    "2Pc3uQU2zILsSvr2orD82o": {
+      "name": "Kaiten Screw!!!",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "3Xfg7AegXaDLoD5GOUMf2e": {
+      "name": "My Demons",
+      "artist": "STARSET",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1308,7 +1353,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 16
+      "count": 17
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1324,7 +1369,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 7
+      "count": 8
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1332,7 +1377,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 9
+      "count": 10
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1448,7 +1493,7 @@
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
-      "count": 1
+      "count": 2
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1500,7 +1545,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 4
+      "count": 5
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -1520,7 +1565,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 2
+      "count": 3
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
@@ -1592,7 +1637,7 @@
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 1
+      "count": 2
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
@@ -1932,6 +1977,42 @@
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
+      "count": 1
+    },
+    "6M4HRvHCFBOWlPW3Tn2Oqh": {
+      "name": "DOLLCHESTRA",
+      "count": 1
+    },
+    "4XYFjTd83FIwArFrWEYhd5": {
+      "name": "Until I Wake",
+      "count": 1
+    },
+    "6RQ5VjHW97K397QfPd0aXt": {
+      "name": "島村卯月 (CV: 大橋彩香)",
+      "count": 1
+    },
+    "66UKyfIWbPvoH82zGZlkdH": {
+      "name": "最上静香 (CV.田所あずさ)",
+      "count": 1
+    },
+    "2Nascsj90mN48cZBUS4CPA": {
+      "name": "月岡恋鐘 (CV.礒部花凜)",
+      "count": 1
+    },
+    "7it8CXxJEe5Rn1fSl34ugQ": {
+      "name": "上原歩夢 (CV.大西亜玖璃)",
+      "count": 1
+    },
+    "2KO3nQQqN4LJAKQebedEHF": {
+      "name": "澁谷かのん (CV.伊達さゆり)",
+      "count": 1
+    },
+    "3K0kUxY4moTB2FF7nYLgzs": {
+      "name": "日野下花帆 (CV.楡井希実)",
+      "count": 1
+    },
+    "0kD8IT1CzF7js2XKM9lLLa": {
+      "name": "STARSET",
       "count": 1
     }
   }
