@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-08T00:52:30.786Z",
+  "updatedAt": "2026-08-08T02:50:07.526Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786150119627,
+  "lastPolledAt": 1786157249822,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
     "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 0
+    "playCount": 1
   },
   "topArtist": {
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 41
+    "playCount": 44
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -25,27 +25,27 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4HLcj0MD2tg91flaBCIJHJ": {
       "name": "Tastes Like You",
       "artist": "Ellie Goulding",
-      "count": 1
+      "count": 2
     },
     "07dsyRP72k5SoudhrrP1nt": {
       "name": "I'll Make It Right",
       "artist": "Epic Score",
-      "count": 1
+      "count": 2
     },
     "6to6TiKkMz1o7fGyxw8se5": {
       "name": "フリイジア",
       "artist": "Amamiya Sora",
-      "count": 1
+      "count": 2
     },
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
@@ -1116,32 +1116,167 @@
       "name": "Stairs and Rooftops",
       "artist": "Lorne Balfe",
       "count": 1
+    },
+    "79zgdvnTPyWSuTrd48Ik5O": {
+      "name": "百花繚乱",
+      "artist": "Lilas",
+      "count": 1
+    },
+    "14WYmNQWvR2TTWoRp8t9Ml": {
+      "name": "RATATATA",
+      "artist": "BABYMETAL, Electric Callboy",
+      "count": 1
+    },
+    "2oMWhelb6C0Flhx0n5TKoM": {
+      "name": "Sting",
+      "artist": "Concrete Castles",
+      "count": 1
+    },
+    "6MtEzxuKMIDEXcKoUGJjy1": {
+      "name": "顔",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "6Cx7OtBOhEPgIijiNdrQtd": {
+      "name": "ハナヒバナ",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "4aI91AYZfMFs4cb8him5lI": {
+      "name": "Hop? Stop? Nonstop!",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "54yTYUoRaT1FKNIROug6Ke": {
+      "name": "Babel City Grace - 2023 Version",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "2afnAxLonvpNTTrITbHyD5": {
+      "name": "－HEROIC ADVENT－",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "5uraJqtCBvLpwt3VeomZdq": {
+      "name": "Shinzo wo Sasageyo !",
+      "artist": "Linked Horizon",
+      "count": 1
+    },
+    "6ss2vUwrV64xAVE4fXZMIh": {
+      "name": "I Really Like You",
+      "artist": "Carly Rae Jepsen",
+      "count": 1
+    },
+    "58DZO7oMpMRAxtHVhuDFdl": {
+      "name": "Fireworks Beneath My Shoes",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "3RiYi67LMqBpopK1b1D0fb": {
+      "name": "Citrus Love",
+      "artist": "Bao The Whale, Overspace",
+      "count": 1
+    },
+    "4QIA2VSrQDo4y53Pr4T5mE": {
+      "name": "Feathered Dreams",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "4pUSuZujEeDFHLnmpVncuR": {
+      "name": "Suicide Mission",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "4qbaQKSfKezCOdMUu9FOXS": {
+      "name": "Just You and I",
+      "artist": "Tacitly",
+      "count": 1
+    },
+    "2vAwfoFawdgwN8M1xjPyH0": {
+      "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "2UJqnLNlUSQ2ZRBQuEFZml": {
+      "name": "Constant Moderato",
+      "artist": "Mitsukiyo",
+      "count": 1
+    },
+    "1iKjPM2YygFxUqjUakAI4n": {
+      "name": "Can't Kick Up The Roots",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "2EXMoOCIHbhnLzDg5gZZ4U": {
+      "name": "DIVINE",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "3JF4yGrfMBrD1aPlFBMAi8": {
+      "name": "決意の光",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 1
+    },
+    "618sNpgK4RGCaqF3s5eP1C": {
+      "name": "カーネーションの咲く日に",
+      "artist": "millsage",
+      "count": 1
+    },
+    "5r7egnfTIQjaKSGREhIky9": {
+      "name": "Formula 1 Theme",
+      "artist": "Brian Tyler",
+      "count": 1
+    },
+    "3foaVrwbNHvwXmKD0lMHWv": {
+      "name": "幻日ミステリウム",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "47BBI51FKFwOMlIiX6m8ya": {
+      "name": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "count": 1
+    },
+    "15bTG0r5MIz5aOfpR1crYL": {
+      "name": "Know Your Heart - Japanese Ver.",
+      "artist": "Tacitly",
+      "count": 1
+    },
+    "3T0eF1bddzJ8GD7mZJfhlj": {
+      "name": "Best Laid Plans",
+      "artist": "Steve Ouimette",
+      "count": 1
+    },
+    "2abb1LnnH2S10dknazDbW4": {
+      "name": "軌跡",
+      "artist": "Roselia",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 41
+      "count": 44
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 5
+      "count": 6
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 3
+      "count": 4
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 3
+      "count": 5
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
-      "count": 1
+      "count": 2
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 13
+      "count": 15
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1149,7 +1284,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 3
+      "count": 4
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1185,7 +1320,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 5
+      "count": 7
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1205,7 +1340,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 9
+      "count": 10
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1233,15 +1368,15 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 2
+      "count": 3
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 7
+      "count": 9
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 11
+      "count": 12
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1289,7 +1424,7 @@
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 2
+      "count": 3
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
@@ -1361,7 +1496,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 6
+      "count": 7
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -1553,7 +1688,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 2
+      "count": 4
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -1613,7 +1748,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 1
+      "count": 2
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
@@ -1677,7 +1812,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 1
+      "count": 2
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
@@ -1757,6 +1892,46 @@
     },
     "6dU7gPN2BhEPfO5QHLt7es": {
       "name": "Lorne Balfe",
+      "count": 1
+    },
+    "1qM11R4ylJyQiPJ0DffE9z": {
+      "name": "Lilas",
+      "count": 1
+    },
+    "630wzNP2OL7fl4Xl0GnMWq": {
+      "name": "BABYMETAL",
+      "count": 1
+    },
+    "1WNoKxsp715jez1Td4vthc": {
+      "name": "Electric Callboy",
+      "count": 1
+    },
+    "1Cexar57ALO1nZIiKoIUuo": {
+      "name": "Concrete Castles",
+      "count": 1
+    },
+    "3eNYrVLcWfjJ9JdH9kiPJO": {
+      "name": "Linked Horizon",
+      "count": 1
+    },
+    "2TERX3Wyzpip8d9uw07qYZ": {
+      "name": "Bao The Whale",
+      "count": 1
+    },
+    "2DavS3976uZWJvbYH7sbuj": {
+      "name": "Overspace",
+      "count": 1
+    },
+    "109FvbnDVNag1UcJDVpFlr": {
+      "name": "Brian Tyler",
+      "count": 1
+    },
+    "5rSXSAkZ67PYJSvpUpkOr7": {
+      "name": "Backstreet Boys",
+      "count": 1
+    },
+    "0dl1CSyAIvbLjyXwE4LcCz": {
+      "name": "Steve Ouimette",
       "count": 1
     }
   }
