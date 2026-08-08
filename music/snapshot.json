@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T10:20:55.070Z",
+  "updatedAt": "2026-08-08T11:19:52.030Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786184221937,
+  "lastPolledAt": 1786187903322,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 47
+    "playCount": 49
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -205,7 +205,7 @@
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
       "artist": "Epic Score",
-      "count": 2
+      "count": 3
     },
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 3
+      "count": 4
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -525,7 +525,7 @@
     "4AyjEuG3ODerWxU0xUo0eY": {
       "name": "六兆年と一夜物語 (Cover)",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "74oAk5kk9HxpnxYNViPUQw": {
       "name": "Eternal Light",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -750,7 +750,7 @@
     "096DowSPWbfLWBKPx2mciP": {
       "name": "千本桜 (Cover)",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
@@ -960,7 +960,7 @@
     "4tT95PXtSH6lPzaSNWiJhu": {
       "name": "When the Morning Glory Falls",
       "artist": "TUYU",
-      "count": 1
+      "count": 2
     },
     "3Zwu2K0Qa5sT6teCCHPShP": {
       "name": "Thnks fr th Mmrs",
@@ -1240,7 +1240,7 @@
     "15bTG0r5MIz5aOfpR1crYL": {
       "name": "Know Your Heart - Japanese Ver.",
       "artist": "Tacitly",
-      "count": 1
+      "count": 2
     },
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
@@ -1346,12 +1346,52 @@
       "name": "Wide Awake",
       "artist": "Hot Milk",
       "count": 1
+    },
+    "4WhEwgjAvP4xC9cLXE5hY1": {
+      "name": "King A Zab",
+      "artist": "電音部, 野崎心平, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希), SHINPEI NOZAKI",
+      "count": 1
+    },
+    "5AUgGQ6WIJTGNClxBiip6D": {
+      "name": "天下トーイツA to Z☆",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "7jwDuO7UZvWs77KNj9HbvF": {
+      "name": "The Phoenix",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "772kg4oxkCZRur0u49cA6I": {
+      "name": "Move",
+      "artist": "Audio Adrenaline",
+      "count": 1
+    },
+    "6QYYzSQnGyMjcRRy67eYwF": {
+      "name": "Miss Wanna Die - English Cover",
+      "artist": "JubyPhonic, Master Andross",
+      "count": 1
+    },
+    "0wBfQ27OiE3IEGGKnmyARG": {
+      "name": "Rain with Cappuccino",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "1EGKoUUvsxhcAb0WXjFSNJ": {
+      "name": "ガランドFlash",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "2mWkRziSA8Mp9QOMC5OZmh": {
+      "name": "1日は25時間。",
+      "artist": "ツルシマアンナ",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 47
+      "count": 49
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1363,7 +1403,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 5
+      "count": 6
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -1403,7 +1443,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 20
+      "count": 22
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1435,7 +1475,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 11
+      "count": 13
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1591,7 +1631,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 8
+      "count": 9
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -1783,7 +1823,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 5
+      "count": 6
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -1851,7 +1891,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 2
+      "count": 3
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -1863,15 +1903,15 @@
     },
     "0JQ292eFZdsbZbYUfNWpph": {
       "name": "黒鉄たま (CV: 秋奈)",
-      "count": 1
+      "count": 2
     },
     "2xJeAewClnCHglceTI3gIw": {
       "name": "白金 煌 (CV: 小宮有紗)",
-      "count": 1
+      "count": 2
     },
     "5B4sSyRcbTVegDTQlj8aX2": {
       "name": "灰島銀華 (CV: 澁谷梓希)",
-      "count": 1
+      "count": 2
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
@@ -1915,11 +1955,11 @@
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
-      "count": 1
+      "count": 2
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 2
+      "count": 3
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
@@ -2031,7 +2071,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 1
+      "count": 2
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2083,10 +2123,30 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 1
+      "count": 2
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "0uoN997vSgxUQ0GxGyppxZ": {
+      "name": "野崎心平",
+      "count": 1
+    },
+    "69ffZygGAxBmf8EA471kCj": {
+      "name": "SHINPEI NOZAKI",
+      "count": 1
+    },
+    "01PBXLThJADrhufsPS5tER": {
+      "name": "Audio Adrenaline",
+      "count": 1
+    },
+    "5qOJ5nikwvfCIs5gf22n6G": {
+      "name": "Master Andross",
+      "count": 1
+    },
+    "66Tqv3DqPeLRlTDHzzNa63": {
+      "name": "ツルシマアンナ",
       "count": 1
     }
   }
