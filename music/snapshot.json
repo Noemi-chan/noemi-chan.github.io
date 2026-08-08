@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T11:19:52.030Z",
+  "updatedAt": "2026-08-08T12:26:16.984Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786187903322,
+  "lastPolledAt": 1786191924543,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 49
+    "playCount": 51
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -250,7 +250,7 @@
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
       "artist": "Caskets",
-      "count": 2
+      "count": 3
     },
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
@@ -260,7 +260,7 @@
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
       "artist": "Carly Rae Jepsen",
-      "count": 2
+      "count": 3
     },
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
@@ -405,7 +405,7 @@
     "404bfT8cVTOCHw2fvGhZNU": {
       "name": "Step by Step",
       "artist": "KARUT",
-      "count": 2
+      "count": 3
     },
     "5vcQssUaCMTHTFKQXuTITt": {
       "name": "BRAVE JEWEL",
@@ -705,7 +705,7 @@
     "3FTc8QsYzs2PRo8fTQ5JyM": {
       "name": "Night of Nights",
       "artist": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "6BCuusKOo7e2KT22kKghRV": {
       "name": "Georgette Me, Georgette You",
@@ -770,7 +770,7 @@
     "6TyNKENZ3rrnZklMzj1z6z": {
       "name": "3:03 PM",
       "artist": "しゃろう",
-      "count": 1
+      "count": 2
     },
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
@@ -870,7 +870,7 @@
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "7tI5GDU50puokqzVy3rlsR": {
       "name": "DROPOUT!?",
@@ -915,7 +915,7 @@
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "6J03lGLFTEW0pLpPcgvadN": {
       "name": "Emotion Overdrive",
@@ -935,12 +935,12 @@
     "4ZwvTeIpKafwcNxQEsUm4D": {
       "name": "Make Believe",
       "artist": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "3l44Dmif5PXKtkeiHj2Lst": {
       "name": "LOUDER",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "5ww6R8cbL01jkhTrq4zJJN": {
       "name": "Light our way",
@@ -1065,7 +1065,7 @@
     "4D8wqdUzClwaWXLWRCv0Vi": {
       "name": "Cassette Tape Dream",
       "artist": "しゃろう",
-      "count": 1
+      "count": 2
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
@@ -1135,7 +1135,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "6Cx7OtBOhEPgIijiNdrQtd": {
       "name": "ハナヒバナ",
@@ -1170,7 +1170,7 @@
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
       "artist": "Rachie",
-      "count": 1
+      "count": 3
     },
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
@@ -1386,16 +1386,51 @@
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
       "count": 1
+    },
+    "50palGbYA85jbX8y79aqRK": {
+      "name": "ムリムリ進化論",
+      "artist": "NANAOAKARI",
+      "count": 1
+    },
+    "0qMpU4VmLf6aMNc7CUErzV": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "48cHUSrX0pmHpgDvFg3xF7": {
+      "name": "御簾を上げろ！",
+      "artist": "Junpei Fujita",
+      "count": 1
+    },
+    "187GJu2lq9njUI5wYcPAft": {
+      "name": "盲目ラビリンス",
+      "artist": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
+      "count": 1
+    },
+    "2FbdvkGnTFEXxoXjV8iSVj": {
+      "name": "Thrash Trash",
+      "artist": "Jaron Takach, Derek Long",
+      "count": 1
+    },
+    "1gXAB8LVnrNFVkj4kBdaSE": {
+      "name": "Parachute",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "11DQVzIqXvyfOM0Io6U7xK": {
+      "name": "How Far I'll Go",
+      "artist": "Jonathan Young, Peyton Parrish, RichaadEB",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 49
+      "count": 51
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 8
+      "count": 9
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1411,7 +1446,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 15
+      "count": 17
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1511,7 +1546,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 15
+      "count": 16
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1535,7 +1570,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 4
+      "count": 5
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -1559,7 +1594,7 @@
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 3
+      "count": 4
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
@@ -1603,7 +1638,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 4
+      "count": 5
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -1619,7 +1654,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 5
+      "count": 6
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1631,7 +1666,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 9
+      "count": 11
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -1655,7 +1690,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 4
+      "count": 5
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
@@ -1819,7 +1854,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 2
+      "count": 4
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
@@ -1835,7 +1870,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 2
+      "count": 4
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2147,6 +2182,30 @@
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
+      "count": 1
+    },
+    "06jSjpC81wzjoUoE61Fhdn": {
+      "name": "NANAOAKARI",
+      "count": 1
+    },
+    "0QANpCVLoBS2BJhi7fKbZF": {
+      "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
+      "count": 1
+    },
+    "36bLfgFkAodzzHCeG45Jtm": {
+      "name": "Jaron Takach",
+      "count": 1
+    },
+    "5xJiiKiEDhJYn6Z3EdCZPt": {
+      "name": "Derek Long",
+      "count": 1
+    },
+    "2IeMt1qx6ZVt1HFjdfE5tl": {
+      "name": "Jonathan Young",
+      "count": 1
+    },
+    "62uiaKAdkbY94iXJnXyKzc": {
+      "name": "Peyton Parrish",
       "count": 1
     }
   }
