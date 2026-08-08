@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T09:27:13.385Z",
+  "updatedAt": "2026-08-08T10:20:55.070Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786181091738,
+  "lastPolledAt": 1786184221937,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 46
+    "playCount": 47
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -45,7 +45,7 @@
     "6to6TiKkMz1o7fGyxw8se5": {
       "name": "フリイジア",
       "artist": "Amamiya Sora",
-      "count": 2
+      "count": 3
     },
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
@@ -240,7 +240,7 @@
     "18ZgnKxWQ8z1KiA2A3xky6": {
       "name": "Numb Little Bug",
       "artist": "Our Last Night",
-      "count": 2
+      "count": 3
     },
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
@@ -305,7 +305,7 @@
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
       "artist": "Formula E",
-      "count": 2
+      "count": 3
     },
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
@@ -685,7 +685,7 @@
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
       "artist": "Mili",
-      "count": 1
+      "count": 2
     },
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
@@ -810,7 +810,7 @@
     "21GoIbILlS9VcI5aFIgiM9": {
       "name": "銀翼のアヴニール -become the brave-",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "0VjIjW4GlUZAMYd2vXMi3b": {
       "name": "Blinding Lights",
@@ -910,7 +910,7 @@
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
@@ -955,7 +955,7 @@
     "4jOQ5QOwyu9dwWwbHYmQAm": {
       "name": "Only Human - feat. AJ Channer",
       "artist": "Memphis May Fire, AJ Channer",
-      "count": 1
+      "count": 2
     },
     "4tT95PXtSH6lPzaSNWiJhu": {
       "name": "When the Morning Glory Falls",
@@ -1150,7 +1150,7 @@
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
@@ -1321,16 +1321,41 @@
       "name": "Shelter (Piano Arrange) - Cover",
       "artist": "JubyPhonic",
       "count": 1
+    },
+    "2qFUf9vh3e9CtCrkPMwMZz": {
+      "name": "レゴリス",
+      "artist": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "12Qwn2bEStx6ASvdBKVji0": {
+      "name": "名無声",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "4H0h0dLqZl6mR4Lt4vdIXx": {
+      "name": "Sonorous",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "7CKog95ty3gEj60M488SOn": {
+      "name": "ROZEN HORIZON",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "3FdI2uFUxKWm9kmPkIYYf3": {
+      "name": "Wide Awake",
+      "artist": "Hot Milk",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 46
+      "count": 47
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 7
+      "count": 8
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1342,7 +1367,7 @@
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
-      "count": 2
+      "count": 3
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -1354,7 +1379,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 4
+      "count": 5
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1390,7 +1415,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 8
+      "count": 10
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1402,7 +1427,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 10
+      "count": 11
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1446,7 +1471,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 14
+      "count": 15
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1466,7 +1491,7 @@
     },
     "00YTqRClk82aMchQQpYMd5": {
       "name": "Our Last Night",
-      "count": 2
+      "count": 3
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
@@ -1522,7 +1547,7 @@
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
-      "count": 2
+      "count": 3
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
@@ -1542,7 +1567,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 3
+      "count": 4
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -1750,7 +1775,7 @@
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
-      "count": 1
+      "count": 2
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
@@ -1886,7 +1911,7 @@
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
-      "count": 1
+      "count": 2
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -2058,6 +2083,10 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
+      "count": 1
+    },
+    "2ScjBZKTBFqJ5Rj9lgo0e8": {
+      "name": "ローレライ（歌：水上スイ）",
       "count": 1
     }
   }
