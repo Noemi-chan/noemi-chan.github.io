@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T15:19:27.280Z",
+  "updatedAt": "2026-08-08T16:20:00.021Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786202069381,
+  "lastPolledAt": 1786205815176,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 54
+    "playCount": 56
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -90,7 +90,7 @@
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
@@ -115,7 +115,7 @@
     "4lPNuizRfDvXB8ltrNPd1v": {
       "name": "Choir ‘S’ Choir",
       "artist": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
@@ -125,7 +125,7 @@
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
       "artist": "Afterglow",
-      "count": 2
+      "count": 3
     },
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
@@ -325,7 +325,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
@@ -670,7 +670,7 @@
     "5N5WcSciZ3I8QRRczhJzbZ": {
       "name": "るんっ♪てぃてぃー！",
       "artist": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
@@ -700,7 +700,7 @@
     "1zCH2Z7PZkzKnJbnKXP5Ov": {
       "name": "Ether",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "3FTc8QsYzs2PRo8fTQ5JyM": {
       "name": "Night of Nights",
@@ -950,7 +950,7 @@
     "6JV4PCBSzzrU692XMcrUvR": {
       "name": "Reminder",
       "artist": "Nayori",
-      "count": 1
+      "count": 2
     },
     "4jOQ5QOwyu9dwWwbHYmQAm": {
       "name": "Only Human - feat. AJ Channer",
@@ -1205,7 +1205,7 @@
     "1iKjPM2YygFxUqjUakAI4n": {
       "name": "Can't Kick Up The Roots",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
@@ -1471,12 +1471,42 @@
       "name": "Daylight -デイライト-",
       "artist": "Morfonica",
       "count": 1
+    },
+    "6UNnBoYJOhny1DytXoUYf9": {
+      "name": "Our Carol",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2GP0PeV4rJ5Llgm5u4Qi1j": {
+      "name": "前へススメ！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "1ubvzeEClhjtfXULU1UpTb": {
+      "name": "乙女詞華集",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "4m9bU1ifWPGprAtAab3VZn": {
+      "name": "KiLLKiSS",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "4HyMI0Vd5hv1LLrkWDhszY": {
+      "name": "Unsung Heroes",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "7KIPsvQQtxa8bzdxfA2eKB": {
+      "name": "“UNIONS” Road",
+      "artist": "Roselia",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 54
+      "count": 56
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1496,7 +1526,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 20
+      "count": 23
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1528,7 +1558,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 24
+      "count": 26
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1540,7 +1570,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 11
+      "count": 12
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1548,7 +1578,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 3
+      "count": 4
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -1560,7 +1590,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 14
+      "count": 15
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1596,7 +1626,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 18
+      "count": 20
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1704,7 +1734,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 7
+      "count": 8
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1720,7 +1750,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 5
+      "count": 6
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
