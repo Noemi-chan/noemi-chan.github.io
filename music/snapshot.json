@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T20:17:08.844Z",
+  "updatedAt": "2026-08-08T21:20:33.860Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786219938234,
+  "lastPolledAt": 1786223919408,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 63
+    "playCount": 65
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -260,7 +260,7 @@
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
       "artist": "Carly Rae Jepsen",
-      "count": 3
+      "count": 4
     },
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
@@ -455,7 +455,7 @@
     "3aJ2aJz5xL03hpaqdPS7Ah": {
       "name": "only my railgun",
       "artist": "fripSide",
-      "count": 1
+      "count": 2
     },
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
@@ -570,7 +570,7 @@
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
       "artist": "彩音",
-      "count": 1
+      "count": 2
     },
     "3rMpYPr4XQDNngm7OKtSwE": {
       "name": "DAISY",
@@ -580,7 +580,7 @@
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
       "artist": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
@@ -655,7 +655,7 @@
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
       "artist": "Alohaii, Miori Celesta",
-      "count": 1
+      "count": 2
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -935,7 +935,7 @@
     "4ZwvTeIpKafwcNxQEsUm4D": {
       "name": "Make Believe",
       "artist": "Memphis May Fire",
-      "count": 2
+      "count": 3
     },
     "3l44Dmif5PXKtkeiHj2Lst": {
       "name": "LOUDER",
@@ -1045,7 +1045,7 @@
     "2FSeQD4Tk5ELPtbJHIT1ea": {
       "name": "Clear Morning",
       "artist": "Yui Ogura",
-      "count": 1
+      "count": 2
     },
     "6e2ouMRqwr7bYvKrDBTfmD": {
       "name": "Mujikaku A Priori",
@@ -1055,7 +1055,7 @@
     "66JWJ7mOd9b44FPM515HrX": {
       "name": "THE SECRET NiGHT",
       "artist": "DiverDiva",
-      "count": 1
+      "count": 2
     },
     "4J3RBZPZ0XQjmO5fqJzYBU": {
       "name": "Moods Like English Weather",
@@ -1065,7 +1065,7 @@
     "4D8wqdUzClwaWXLWRCv0Vi": {
       "name": "Cassette Tape Dream",
       "artist": "しゃろう",
-      "count": 2
+      "count": 3
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
@@ -1170,7 +1170,7 @@
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
       "artist": "Rachie",
-      "count": 3
+      "count": 4
     },
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
@@ -1250,7 +1250,7 @@
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
@@ -1395,7 +1395,7 @@
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -1506,16 +1506,36 @@
       "name": "Step×Step！",
       "artist": "Poppin'Party",
       "count": 1
+    },
+    "0UtKB8cQG1rk4lBNC6whRg": {
+      "name": "Pushing Me Closer",
+      "artist": "August Whitaker",
+      "count": 1
+    },
+    "4Xgono4pmRbojXlCIYh8or": {
+      "name": "Riptide",
+      "artist": "Beartooth",
+      "count": 1
+    },
+    "2khCn0FtcHpiOPRchJxjfs": {
+      "name": "You Suck at Love",
+      "artist": "Simple Plan",
+      "count": 1
+    },
+    "1XIWSYnXC3qvytNmaAFG3T": {
+      "name": "余韻",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 63
+      "count": 65
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 10
+      "count": 11
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1579,7 +1599,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 11
+      "count": 12
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1623,7 +1643,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 3
+      "count": 4
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -1679,7 +1699,7 @@
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 4
+      "count": 5
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
@@ -1751,7 +1771,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 12
+      "count": 13
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -1823,7 +1843,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 3
+      "count": 4
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -1875,7 +1895,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 2
+      "count": 3
     },
     "0QwTvn35AQMMELpKDU176h": {
       "name": "亜咲花",
@@ -1891,7 +1911,7 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 3
+      "count": 4
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
@@ -1919,11 +1939,11 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 4
+      "count": 5
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 2
+      "count": 3
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
@@ -1955,7 +1975,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 5
+      "count": 6
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2127,7 +2147,7 @@
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
-      "count": 1
+      "count": 2
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
@@ -2303,6 +2323,18 @@
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
+      "count": 1
+    },
+    "3WYvIdZsoEzhbdBJ8tpxvw": {
+      "name": "August Whitaker",
+      "count": 1
+    },
+    "6vwjIs0tbIiseJMR3pqwiL": {
+      "name": "Beartooth",
+      "count": 1
+    },
+    "2p4FqHnazRucYQHyDCdBrJ": {
+      "name": "Simple Plan",
       "count": 1
     }
   }
