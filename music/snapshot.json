@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T23:24:54.648Z",
+  "updatedAt": "2026-08-08T00:52:30.786Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786145028102,
+  "lastPolledAt": 1786150119627,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -50,12 +50,12 @@
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "7tBbT0mu8TOhDciTPRsOMq": {
       "name": "silent stranger",
       "artist": "Against The Current",
-      "count": 1
+      "count": 2
     },
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
@@ -1016,6 +1016,106 @@
       "name": "Shiny Racers",
       "artist": "小原鞠莉 (CV.鈴木愛奈)",
       "count": 1
+    },
+    "2ZatDCxyPwTS1bZCbQ6ZnG": {
+      "name": "BURN BURN",
+      "artist": "ストレイライト",
+      "count": 1
+    },
+    "2XhP4CgI2cbsGjYeLZbzpE": {
+      "name": "Criminally Dinner: Seisan to Evil Knife",
+      "artist": "Miki Hoshii (CV: Akiko Hasegawa), Ayumu Maihama (CV: Megumi Toda), Shizuka Mogami (CV: Azusa Tadokoro), Karen Shinomiya (CV: Yui Kondo), Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "6O36bjXdeg0e1wv51Qp1kw": {
+      "name": "‘S/’ The Way",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "4LjIQmt1t6NjpM0tpttzjo": {
+      "name": "勇者",
+      "artist": "YOASOBI",
+      "count": 1
+    },
+    "75SixhsPWyRRmtqHeffiXr": {
+      "name": "Alone Together",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "2FSeQD4Tk5ELPtbJHIT1ea": {
+      "name": "Clear Morning",
+      "artist": "Yui Ogura",
+      "count": 1
+    },
+    "6e2ouMRqwr7bYvKrDBTfmD": {
+      "name": "Mujikaku A Priori",
+      "artist": "コメティック",
+      "count": 1
+    },
+    "66JWJ7mOd9b44FPM515HrX": {
+      "name": "THE SECRET NiGHT",
+      "artist": "DiverDiva",
+      "count": 1
+    },
+    "4J3RBZPZ0XQjmO5fqJzYBU": {
+      "name": "Moods Like English Weather",
+      "artist": "The Gospel Youth",
+      "count": 1
+    },
+    "4D8wqdUzClwaWXLWRCv0Vi": {
+      "name": "Cassette Tape Dream",
+      "artist": "しゃろう",
+      "count": 1
+    },
+    "1ZTni1JBrvpa6TaipvQ8ZW": {
+      "name": "Through The Night",
+      "artist": "Alohaii, Yuuka Bear",
+      "count": 1
+    },
+    "3ITmLRVfTAQkdBgCUyrBeA": {
+      "name": "Open Up My Heart",
+      "artist": "The Winking Owl",
+      "count": 1
+    },
+    "29vY6gIKRje259YNZ7FyDb": {
+      "name": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "0w1tZ33hR01YBsTPL41oZN": {
+      "name": "Operation Black Light: The Otherside Series, Vol. 4",
+      "artist": "Le Castle Vania",
+      "count": 1
+    },
+    "4yyQrtJtzHPZXzhhJRY0Oa": {
+      "name": "QUEEN (Cover)",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "3I35fTfZj04H43F6L8RRhi": {
+      "name": "Fudosei Innocence",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "4w1kRlzCTYQKXKXX2UULcK": {
+      "name": "The Only Heaven You'll Know",
+      "artist": "Caskets",
+      "count": 1
+    },
+    "7vwUPOzwMuaBuhckNt3jjf": {
+      "name": "Hangfire",
+      "artist": "Wind Walkers",
+      "count": 1
+    },
+    "4Jl3syKPuB2YFZZhsSeniv": {
+      "name": "Eastbound & Down",
+      "artist": "WSTR",
+      "count": 1
+    },
+    "6QX44Ng3HMHzZLDAMfO1Aa": {
+      "name": "Stairs and Rooftops",
+      "artist": "Lorne Balfe",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1041,15 +1141,15 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 11
+      "count": 13
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 3
+      "count": 4
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 2
+      "count": 3
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1061,7 +1161,7 @@
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 2
+      "count": 3
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -1085,7 +1185,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 4
+      "count": 5
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1125,7 +1225,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 4
+      "count": 5
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -1165,7 +1265,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 3
+      "count": 4
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -1249,7 +1349,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 4
+      "count": 5
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1293,7 +1393,7 @@
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
-      "count": 2
+      "count": 3
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
@@ -1385,7 +1485,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 1
+      "count": 2
     },
     "0QwTvn35AQMMELpKDU176h": {
       "name": "亜咲花",
@@ -1429,7 +1529,7 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 2
+      "count": 3
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
@@ -1465,7 +1565,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 1
+      "count": 2
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -1589,7 +1689,7 @@
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 1
+      "count": 2
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
@@ -1605,6 +1705,58 @@
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
+      "count": 1
+    },
+    "493MBQPclwtXx4zWgCalzd": {
+      "name": "ストレイライト",
+      "count": 1
+    },
+    "3WIltg9gs4B949YIw2D0Yl": {
+      "name": "Miki Hoshii (CV: Akiko Hasegawa)",
+      "count": 1
+    },
+    "76b3vdXkfXuar9vWeOF0Z9": {
+      "name": "Ayumu Maihama (CV: Megumi Toda)",
+      "count": 1
+    },
+    "4O0cUPcEXzU6U510RtnM8l": {
+      "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+      "count": 1
+    },
+    "5N2Y7IgJMpGvlTKS3RAIvA": {
+      "name": "Karen Shinomiya (CV: Yui Kondo)",
+      "count": 1
+    },
+    "0V7mNNTpBiNAILcuDPVwst": {
+      "name": "Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "64tJ2EAv1R6UaZqc4iOCyj": {
+      "name": "YOASOBI",
+      "count": 1
+    },
+    "4BVBO54UlQrzDW66hSEefy": {
+      "name": "Yui Ogura",
+      "count": 1
+    },
+    "59Mrjc0zATvjSZ0mLsmphn": {
+      "name": "Yuuka Bear",
+      "count": 1
+    },
+    "08aT4nW2iKh4WRoYojWmDE": {
+      "name": "The Winking Owl",
+      "count": 1
+    },
+    "2KrXlzpSX4wWvJ2555FWLv": {
+      "name": "Le Castle Vania",
+      "count": 1
+    },
+    "2K2bsaNeuQAFkuVwrrlJe0": {
+      "name": "Wind Walkers",
+      "count": 1
+    },
+    "6dU7gPN2BhEPfO5QHLt7es": {
+      "name": "Lorne Balfe",
       "count": 1
     }
   }
