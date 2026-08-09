@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T02:57:30.442Z",
+  "updatedAt": "2026-08-09T04:15:18.626Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786243672921,
+  "lastPolledAt": 1786248729296,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 75
+    "playCount": 76
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -65,7 +65,7 @@
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
       "artist": "Casey Edwards",
-      "count": 2
+      "count": 3
     },
     "6aWx4iupVFAYnOyGVMUDWr": {
       "name": "Hakanai Koigokoro",
@@ -100,7 +100,7 @@
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
       "artist": "西沢幸奏",
-      "count": 4
+      "count": 5
     },
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
@@ -170,7 +170,7 @@
     "6XWdcMK2pfSjDkFbRtiwIk": {
       "name": "イントロダクション",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "0XKe6ptxwy1yjusyER0ZTi": {
       "name": "DRIVE US CRAZY",
@@ -720,7 +720,7 @@
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
       "artist": "Memphis May Fire",
-      "count": 2
+      "count": 3
     },
     "2EPQXOr3VLvDImQnoHOYO3": {
       "name": "One More Last Time",
@@ -775,7 +775,7 @@
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
       "artist": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 1
+      "count": 2
     },
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
@@ -865,7 +865,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
@@ -925,7 +925,7 @@
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
@@ -1075,7 +1075,7 @@
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
       "artist": "The Winking Owl",
-      "count": 1
+      "count": 2
     },
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
@@ -1636,16 +1636,26 @@
       "name": "キズナミュージック♪",
       "artist": "Poppin'Party",
       "count": 1
+    },
+    "0js0DKykeOIT37jcmpwOpd": {
+      "name": "Sing Alive",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4I5Bsfl4gdoRcK3AF47hVf": {
+      "name": "黒のバースデイ",
+      "artist": "Ave Mujica",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 75
+      "count": 76
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 12
+      "count": 13
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1661,7 +1671,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 28
+      "count": 29
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1673,7 +1683,7 @@
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
-      "count": 2
+      "count": 3
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
@@ -1693,7 +1703,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 36
+      "count": 38
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1701,7 +1711,7 @@
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
-      "count": 4
+      "count": 5
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
@@ -2089,7 +2099,7 @@
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 1
+      "count": 2
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
@@ -2181,7 +2191,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
@@ -2265,7 +2275,7 @@
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
-      "count": 1
+      "count": 2
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
