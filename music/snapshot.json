@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T07:44:28.564Z",
+  "updatedAt": "2026-08-09T08:30:13.976Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786261257137,
+  "lastPolledAt": 1786264120589,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -130,7 +130,7 @@
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
       "artist": "MyGO!!!!!",
-      "count": 3
+      "count": 4
     },
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
@@ -280,7 +280,7 @@
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 2
+      "count": 3
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -465,7 +465,7 @@
     "6VTVySG44qtMjybocs9Rpo": {
       "name": "Kimi ni Aetahi",
       "artist": "Adachi(CV:Akari Kito), Shimamura(CV:Miku Ito)",
-      "count": 1
+      "count": 2
     },
     "72gv4zhNvRVdQA0eOenCal": {
       "name": "Symphony (feat. Zara Larsson)",
@@ -575,7 +575,7 @@
     "3rMpYPr4XQDNngm7OKtSwE": {
       "name": "DAISY",
       "artist": "安月名莉子",
-      "count": 2
+      "count": 3
     },
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
@@ -595,7 +595,7 @@
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
@@ -645,7 +645,7 @@
     "0o8mdI1vf5ly2qpCxNJlC1": {
       "name": "Let Me Dance",
       "artist": "Alohaii, Miori Celesta",
-      "count": 1
+      "count": 2
     },
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
@@ -690,7 +690,7 @@
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
       "artist": "スリーズブーケ",
-      "count": 2
+      "count": 3
     },
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
@@ -850,7 +850,7 @@
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
       "artist": "電音部, 犬吠埼紫杏 (CV: 長谷川玲奈), Moe Shop",
-      "count": 3
+      "count": 4
     },
     "4KnNm7hlCemSnknSVmwaP3": {
       "name": "Hareklavit",
@@ -1030,7 +1030,7 @@
     "6O36bjXdeg0e1wv51Qp1kw": {
       "name": "‘S/’ The Way",
       "artist": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "4LjIQmt1t6NjpM0tpttzjo": {
       "name": "勇者",
@@ -1175,7 +1175,7 @@
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
       "artist": "Bao The Whale, Overspace",
-      "count": 2
+      "count": 3
     },
     "4QIA2VSrQDo4y53Pr4T5mE": {
       "name": "Feathered Dreams",
@@ -1435,12 +1435,12 @@
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "0lpjCTr8jR9E51t1ha3aGj": {
       "name": "late in autumn",
@@ -1666,6 +1666,11 @@
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
       "count": 1
+    },
+    "1y3zD8d7VKzJjfXVp6KcUx": {
+      "name": "Opening Titles",
+      "artist": "Hans Zimmer",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1691,7 +1696,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 29
+      "count": 30
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1747,7 +1752,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 18
+      "count": 20
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1787,11 +1792,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 15
+      "count": 16
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 28
+      "count": 29
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1855,7 +1860,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 3
+      "count": 4
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -1899,7 +1904,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 9
+      "count": 10
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1991,11 +1996,11 @@
     },
     "1doCP9Z7n18QpzRIr4gIFb": {
       "name": "Adachi(CV:Akari Kito)",
-      "count": 1
+      "count": 2
     },
     "14UnECbGpVclTzr6qWo0QS": {
       "name": "Shimamura(CV:Miku Ito)",
-      "count": 1
+      "count": 2
     },
     "6MDME20pz9RveH9rEXvrOM": {
       "name": "Clean Bandit",
@@ -2055,7 +2060,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 4
+      "count": 5
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2079,11 +2084,11 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 5
+      "count": 6
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 3
+      "count": 4
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
@@ -2171,7 +2176,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 8
+      "count": 9
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2199,11 +2204,11 @@
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
-      "count": 3
+      "count": 4
     },
     "7cvljqLNhWNFMb8wP2NImJ": {
       "name": "Moe Shop",
-      "count": 3
+      "count": 4
     },
     "49yTs5PHrOjyslAqSF2iCG": {
       "name": "Keygen Church",
@@ -2331,11 +2336,11 @@
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
-      "count": 2
+      "count": 3
     },
     "2DavS3976uZWJvbYH7sbuj": {
       "name": "Overspace",
-      "count": 2
+      "count": 3
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
@@ -2519,6 +2524,10 @@
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
+      "count": 1
+    },
+    "0YC192cP3KPCRWx8zr8MfZ": {
+      "name": "Hans Zimmer",
       "count": 1
     }
   }
