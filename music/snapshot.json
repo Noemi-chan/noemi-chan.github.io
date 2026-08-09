@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T21:21:31.271Z",
+  "updatedAt": "2026-08-09T22:19:21.227Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786310298692,
+  "lastPolledAt": 1786313822427,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 101
+    "playCount": 103
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -80,7 +80,7 @@
     "22eHRqbCHzY8iP9C4FJiRa": {
       "name": "Day Dream",
       "artist": "NTE10AM",
-      "count": 3
+      "count": 4
     },
     "5dp3vri4d2JjeBsGriLFyW": {
       "name": "IMAWA IINDAYO - Cover",
@@ -130,7 +130,7 @@
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
       "artist": "MyGO!!!!!",
-      "count": 4
+      "count": 5
     },
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
@@ -280,7 +280,7 @@
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 3
+      "count": 4
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -575,7 +575,7 @@
     "3rMpYPr4XQDNngm7OKtSwE": {
       "name": "DAISY",
       "artist": "安月名莉子",
-      "count": 3
+      "count": 4
     },
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
@@ -645,7 +645,7 @@
     "0o8mdI1vf5ly2qpCxNJlC1": {
       "name": "Let Me Dance",
       "artist": "Alohaii, Miori Celesta",
-      "count": 2
+      "count": 3
     },
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
@@ -690,7 +690,7 @@
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
       "artist": "スリーズブーケ",
-      "count": 3
+      "count": 4
     },
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
@@ -850,7 +850,7 @@
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
       "artist": "電音部, 犬吠埼紫杏 (CV: 長谷川玲奈), Moe Shop",
-      "count": 4
+      "count": 5
     },
     "4KnNm7hlCemSnknSVmwaP3": {
       "name": "Hareklavit",
@@ -1010,7 +1010,7 @@
     "2AwjcdksNfMMokTEl2t5ke": {
       "name": "Realize (Cover)",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "4pqH9UhPa697MDOSIPiBvJ": {
       "name": "Shiny Racers",
@@ -1155,7 +1155,7 @@
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "5uraJqtCBvLpwt3VeomZdq": {
       "name": "Shinzo wo Sasageyo !",
@@ -1175,7 +1175,7 @@
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
       "artist": "Bao The Whale, Overspace",
-      "count": 3
+      "count": 4
     },
     "4QIA2VSrQDo4y53Pr4T5mE": {
       "name": "Feathered Dreams",
@@ -1435,12 +1435,12 @@
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
       "artist": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 2
+      "count": 3
     },
     "0lpjCTr8jR9E51t1ha3aGj": {
       "name": "late in autumn",
@@ -1650,12 +1650,12 @@
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
       "artist": "Piano Fantasia",
-      "count": 1
+      "count": 2
     },
     "2vCThgwnGOO2PofrVbsyhz": {
       "name": "Genwaku SILHOUETTE - 2023 Version",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
@@ -1670,7 +1670,7 @@
     "1y3zD8d7VKzJjfXVp6KcUx": {
       "name": "Opening Titles",
       "artist": "Hans Zimmer",
-      "count": 1
+      "count": 2
     },
     "6f5wgQEqniRTBX8lzQCW5s": {
       "name": "Neunt Praeludium",
@@ -1686,7 +1686,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 101
+      "count": 103
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1730,7 +1730,7 @@
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
-      "count": 3
+      "count": 4
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
@@ -1750,7 +1750,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 27
+      "count": 28
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1762,7 +1762,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 25
+      "count": 26
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1802,11 +1802,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 21
+      "count": 22
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 36
+      "count": 37
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1870,7 +1870,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 5
+      "count": 6
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -1914,7 +1914,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 12
+      "count": 13
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2070,7 +2070,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 7
+      "count": 8
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2094,11 +2094,11 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 7
+      "count": 8
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 5
+      "count": 6
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
@@ -2186,7 +2186,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 11
+      "count": 12
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2214,11 +2214,11 @@
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
-      "count": 4
+      "count": 5
     },
     "7cvljqLNhWNFMb8wP2NImJ": {
       "name": "Moe Shop",
-      "count": 4
+      "count": 5
     },
     "49yTs5PHrOjyslAqSF2iCG": {
       "name": "Keygen Church",
@@ -2346,11 +2346,11 @@
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
-      "count": 3
+      "count": 4
     },
     "2DavS3976uZWJvbYH7sbuj": {
       "name": "Overspace",
-      "count": 3
+      "count": 4
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
@@ -2534,11 +2534,11 @@
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
-      "count": 1
+      "count": 2
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
-      "count": 1
+      "count": 2
     }
   }
 }
