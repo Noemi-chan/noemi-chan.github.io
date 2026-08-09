@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T09:29:14.856Z",
+  "updatedAt": "2026-08-09T10:22:21.535Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786267407832,
+  "lastPolledAt": 1786270753668,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
     "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 46
+    "playCount": 47
   },
   "topArtist": {
     "name": "Roselia",
@@ -60,7 +60,7 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 3
+      "count": 4
     },
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
@@ -155,7 +155,7 @@
     "5fIyCNQWyLFdcqZW47QEQo": {
       "name": "Eight Melodies (From \"Earthbound Zero\") [Orchestral Remix]",
       "artist": "Pascal Michael Stiefel, Laura Platt",
-      "count": 2
+      "count": 3
     },
     "3AZt0Kw4LzCOANkpNDZScz": {
       "name": "陽だまりロードナイト",
@@ -715,7 +715,7 @@
     "4r1TBgEfkmH4hbSoZ2GaUT": {
       "name": "Just You and I - Japanese ver.",
       "artist": "Tacitly",
-      "count": 1
+      "count": 2
     },
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
@@ -785,7 +785,7 @@
     "7fh1kd9kH1F6aw1zjFOI6X": {
       "name": "天球(そら)のMúsica",
       "artist": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "1jj0Ha1vWMf32ka1adO0Q2": {
       "name": "Blood & Water",
@@ -795,7 +795,7 @@
     "6YDtl7oTbmqwhAeMpf9oOq": {
       "name": "Analogy",
       "artist": "彩音",
-      "count": 2
+      "count": 3
     },
     "1Ztka7fCyxUv46FW1mZH9T": {
       "name": "December (again) [feat. Mark Hoppus]",
@@ -845,7 +845,7 @@
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
       "artist": "Caskets, TELLE",
-      "count": 1
+      "count": 2
     },
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
@@ -945,7 +945,7 @@
     "5ww6R8cbL01jkhTrq4zJJN": {
       "name": "Light our way",
       "artist": "安月名莉子",
-      "count": 1
+      "count": 2
     },
     "6JV4PCBSzzrU692XMcrUvR": {
       "name": "Reminder",
@@ -1025,7 +1025,7 @@
     "2XhP4CgI2cbsGjYeLZbzpE": {
       "name": "Criminally Dinner: Seisan to Evil Knife",
       "artist": "Miki Hoshii (CV: Akiko Hasegawa), Ayumu Maihama (CV: Megumi Toda), Shizuka Mogami (CV: Azusa Tadokoro), Karen Shinomiya (CV: Yui Kondo), Iku Nakatani (CV: Akari Harashima)",
-      "count": 1
+      "count": 2
     },
     "6O36bjXdeg0e1wv51Qp1kw": {
       "name": "‘S/’ The Way",
@@ -1195,7 +1195,7 @@
     "2vAwfoFawdgwN8M1xjPyH0": {
       "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
       "artist": "アンティーカ",
-      "count": 2
+      "count": 3
     },
     "2UJqnLNlUSQ2ZRBQuEFZml": {
       "name": "Constant Moderato",
@@ -1220,7 +1220,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 46
+      "count": 47
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
@@ -1460,7 +1460,7 @@
     "7htKfb3uC5KrZvJnLVKO1Z": {
       "name": "GRASSHOPPER",
       "artist": "安月名莉子",
-      "count": 1
+      "count": 2
     },
     "2lTTUaOv8OQAucFoFJrouC": {
       "name": "Power of LOVE!!!",
@@ -1671,6 +1671,11 @@
       "name": "Opening Titles",
       "artist": "Hans Zimmer",
       "count": 1
+    },
+    "6f5wgQEqniRTBX8lzQCW5s": {
+      "name": "Neunt Praeludium",
+      "artist": "一柳隊",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1696,7 +1701,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 30
+      "count": 31
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1704,7 +1709,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 11
+      "count": 12
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1740,7 +1745,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 20
+      "count": 21
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1772,11 +1777,11 @@
     },
     "3FU61shb6MdX8NLBnBauTI": {
       "name": "Pascal Michael Stiefel",
-      "count": 2
+      "count": 3
     },
     "2K1Ps7vnKg2AnKsSoVqH4P": {
       "name": "Laura Platt",
-      "count": 2
+      "count": 3
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -1820,7 +1825,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 6
+      "count": 7
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -2024,7 +2029,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 3
+      "count": 4
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
@@ -2056,11 +2061,11 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 4
+      "count": 5
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 5
+      "count": 7
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2108,7 +2113,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 9
+      "count": 10
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2168,7 +2173,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 47
+      "count": 48
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
@@ -2200,7 +2205,7 @@
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
-      "count": 1
+      "count": 2
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
@@ -2268,23 +2273,23 @@
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
-      "count": 1
+      "count": 2
     },
     "76b3vdXkfXuar9vWeOF0Z9": {
       "name": "Ayumu Maihama (CV: Megumi Toda)",
-      "count": 1
+      "count": 2
     },
     "4O0cUPcEXzU6U510RtnM8l": {
       "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
-      "count": 1
+      "count": 2
     },
     "5N2Y7IgJMpGvlTKS3RAIvA": {
       "name": "Karen Shinomiya (CV: Yui Kondo)",
-      "count": 1
+      "count": 2
     },
     "0V7mNNTpBiNAILcuDPVwst": {
       "name": "Iku Nakatani (CV: Akari Harashima)",
-      "count": 1
+      "count": 2
     },
     "64tJ2EAv1R6UaZqc4iOCyj": {
       "name": "YOASOBI",
