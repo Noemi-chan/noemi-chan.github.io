@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T22:19:21.227Z",
+  "updatedAt": "2026-08-09T23:20:19.314Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786313822427,
+  "lastPolledAt": 1786317286480,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 103
+    "playCount": 104
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -95,7 +95,7 @@
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
       "artist": "Against The Current, guardin",
-      "count": 4
+      "count": 5
     },
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
@@ -200,7 +200,7 @@
     "1coE0U4cDTQVNVBlp6ljfG": {
       "name": "Reweave (Cover)",
       "artist": "Roselia",
-      "count": 3
+      "count": 4
     },
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
@@ -335,7 +335,7 @@
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
       "artist": "Junpei Fujita",
-      "count": 3
+      "count": 4
     },
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
@@ -360,7 +360,7 @@
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 3
+      "count": 4
     },
     "1MpimPh4legrECmPHcdofR": {
       "name": "Where Do We Go When We Go",
@@ -465,7 +465,7 @@
     "6VTVySG44qtMjybocs9Rpo": {
       "name": "Kimi ni Aetahi",
       "artist": "Adachi(CV:Akari Kito), Shimamura(CV:Miku Ito)",
-      "count": 2
+      "count": 3
     },
     "72gv4zhNvRVdQA0eOenCal": {
       "name": "Symphony (feat. Zara Larsson)",
@@ -505,7 +505,7 @@
     "3zjSOc0XcoOpRoh2fyfB35": {
       "name": "Edel Lilie",
       "artist": "一柳隊",
-      "count": 3
+      "count": 4
     },
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
@@ -560,7 +560,7 @@
     "3ajnP3J1EEPpdCjIF9keIE": {
       "name": "In Your Eyes",
       "artist": "Tom Wilson, MAJRO",
-      "count": 2
+      "count": 3
     },
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
@@ -595,7 +595,7 @@
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
       "artist": "MyGO!!!!!",
-      "count": 2
+      "count": 3
     },
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
@@ -630,7 +630,7 @@
     "0SMtNovWLTRkt9UXMY3SCO": {
       "name": "大胆",
       "artist": "WANDS",
-      "count": 2
+      "count": 3
     },
     "2TIeha2ARcgw3cZT42eOfP": {
       "name": "しゅわりん☆どり～みん",
@@ -800,7 +800,7 @@
     "1Ztka7fCyxUv46FW1mZH9T": {
       "name": "December (again) [feat. Mark Hoppus]",
       "artist": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "3dhWspMJASIE3VoCDpaNtw": {
       "name": "起死開戦",
@@ -905,7 +905,7 @@
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
       "artist": "Mitsukiyo",
-      "count": 3
+      "count": 4
     },
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
@@ -1030,7 +1030,7 @@
     "6O36bjXdeg0e1wv51Qp1kw": {
       "name": "‘S/’ The Way",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 4
     },
     "4LjIQmt1t6NjpM0tpttzjo": {
       "name": "勇者",
@@ -1425,12 +1425,12 @@
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "5AQxiOtc3EsQSQP2wirgg2": {
       "name": "ナカナ イナ カナイ",
       "artist": "花園たえ(CV:大塚紗英), レイヤ(CV:Raychell)",
-      "count": 1
+      "count": 2
     },
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
@@ -1450,12 +1450,12 @@
     "3RtcR7pL6YNQ57fsRciMdp": {
       "name": "Mas?uerade Rhapsody Re?uest",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "2nMVkKOSXWlx39bDb6O3Ac": {
       "name": "もういちど ルミナス",
       "artist": "ClariS, 丸山彩 from Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "7htKfb3uC5KrZvJnLVKO1Z": {
       "name": "GRASSHOPPER",
@@ -1686,7 +1686,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 103
+      "count": 104
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1706,11 +1706,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 39
+      "count": 41
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 12
+      "count": 13
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -1738,11 +1738,11 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 51
+      "count": 52
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
-      "count": 4
+      "count": 5
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
@@ -1762,7 +1762,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 26
+      "count": 27
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1806,7 +1806,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 37
+      "count": 38
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1814,7 +1814,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 3
+      "count": 4
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -1898,7 +1898,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 10
+      "count": 11
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -1922,7 +1922,7 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 3
+      "count": 4
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
@@ -2006,11 +2006,11 @@
     },
     "1doCP9Z7n18QpzRIr4gIFb": {
       "name": "Adachi(CV:Akari Kito)",
-      "count": 2
+      "count": 3
     },
     "14UnECbGpVclTzr6qWo0QS": {
       "name": "Shimamura(CV:Miku Ito)",
-      "count": 2
+      "count": 3
     },
     "6MDME20pz9RveH9rEXvrOM": {
       "name": "Clean Bandit",
@@ -2034,7 +2034,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 4
+      "count": 5
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
@@ -2058,11 +2058,11 @@
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
-      "count": 2
+      "count": 3
     },
     "6sUsfQ1mfjViQCKig0NtMp": {
       "name": "MAJRO",
-      "count": 2
+      "count": 3
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -2086,7 +2086,7 @@
     },
     "4iaPh4BzUKBQuunyMKVxU7": {
       "name": "WANDS",
-      "count": 2
+      "count": 3
     },
     "0LigV2SSsRZaeX2htEFXV9": {
       "name": "freestyle",
@@ -2242,7 +2242,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 5
+      "count": 6
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
@@ -2470,15 +2470,15 @@
     },
     "3m7Y1adYVPRrEcAFffxV7Q": {
       "name": "花園たえ(CV:大塚紗英)",
-      "count": 1
+      "count": 2
     },
     "2s43jUxV6eSRlc9IF6bUD1": {
       "name": "レイヤ(CV:Raychell)",
-      "count": 1
+      "count": 2
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "3WYvIdZsoEzhbdBJ8tpxvw": {
       "name": "August Whitaker",
