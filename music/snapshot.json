@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T12:43:45.717Z",
+  "updatedAt": "2026-08-10T14:13:04.033Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786365758079,
+  "lastPolledAt": 1786371091283,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 124
+    "playCount": 126
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 10
+      "count": 11
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 7
+      "count": 8
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 7
+      "count": 8
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -885,7 +885,7 @@
     "6htBSRPTfR3mD3cB5afXvG": {
       "name": "Aile - Harmonized version",
       "artist": "Tsubasa Ibuki (CV: Machico), Julia (CV: Aimi), Mizuki Makabe (CV: Rika Abe)",
-      "count": 4
+      "count": 5
     },
     "1AUlnhWLKa7bT5rS1toFPK": {
       "name": "KING (Cover)",
@@ -910,7 +910,7 @@
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
       "artist": "Neck Deep",
-      "count": 6
+      "count": 7
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
@@ -960,12 +960,12 @@
     "4tT95PXtSH6lPzaSNWiJhu": {
       "name": "When the Morning Glory Falls",
       "artist": "TUYU",
-      "count": 6
+      "count": 7
     },
     "3Zwu2K0Qa5sT6teCCHPShP": {
       "name": "Thnks fr th Mmrs",
       "artist": "Fall Out Boy",
-      "count": 3
+      "count": 4
     },
     "3x66sbKzXN2KJfn9gxyoaZ": {
       "name": "Veins of FLOWER",
@@ -1240,7 +1240,7 @@
     "15bTG0r5MIz5aOfpR1crYL": {
       "name": "Know Your Heart - Japanese Ver.",
       "artist": "Tacitly",
-      "count": 6
+      "count": 7
     },
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
@@ -1325,7 +1325,7 @@
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
       "artist": "ローレライ（歌：水上スイ）",
-      "count": 5
+      "count": 6
     },
     "12Qwn2bEStx6ASvdBKVji0": {
       "name": "名無声",
@@ -1335,7 +1335,7 @@
     "4H0h0dLqZl6mR4Lt4vdIXx": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 5
+      "count": 6
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
@@ -1365,32 +1365,32 @@
     "772kg4oxkCZRur0u49cA6I": {
       "name": "Move",
       "artist": "Audio Adrenaline",
-      "count": 5
+      "count": 6
     },
     "6QYYzSQnGyMjcRRy67eYwF": {
       "name": "Miss Wanna Die - English Cover",
       "artist": "JubyPhonic, Master Andross",
-      "count": 5
+      "count": 6
     },
     "0wBfQ27OiE3IEGGKnmyARG": {
       "name": "Rain with Cappuccino",
       "artist": "Rachie",
-      "count": 5
+      "count": 6
     },
     "1EGKoUUvsxhcAb0WXjFSNJ": {
       "name": "ガランドFlash",
       "artist": "DOLLCHESTRA",
-      "count": 5
+      "count": 6
     },
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
-      "count": 5
+      "count": 7
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
       "artist": "NANAOAKARI",
-      "count": 4
+      "count": 6
     },
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
@@ -1530,17 +1530,17 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 2
+      "count": 3
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "0iIcuwia47B5bzjVpyUwyI": {
       "name": "Drive (From F1® The Movie)",
       "artist": "Ed Sheeran, F1 The Album",
-      "count": 2
+      "count": 3
     },
     "6s9s4nySDJVfetQrPkpZot": {
       "name": "Sonorous",
@@ -1660,12 +1660,12 @@
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
       "artist": "Rachie",
-      "count": 3
+      "count": 4
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
-      "count": 3
+      "count": 4
     },
     "1y3zD8d7VKzJjfXVp6KcUx": {
       "name": "Opening Titles",
@@ -1706,7 +1706,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 124
+      "count": 126
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1734,7 +1734,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 20
+      "count": 21
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1758,7 +1758,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 60
+      "count": 61
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1782,7 +1782,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 29
+      "count": 30
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1790,7 +1790,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 31
+      "count": 32
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1826,7 +1826,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 45
+      "count": 46
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1866,7 +1866,7 @@
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 6
+      "count": 7
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
@@ -1946,7 +1946,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 27
+      "count": 29
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2006,7 +2006,7 @@
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 7
+      "count": 8
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
@@ -2138,7 +2138,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 15
+      "count": 16
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2254,7 +2254,7 @@
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
-      "count": 4
+      "count": 5
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
@@ -2270,11 +2270,11 @@
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
-      "count": 6
+      "count": 7
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 8
+      "count": 9
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
@@ -2386,7 +2386,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 8
+      "count": 9
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2438,11 +2438,11 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 13
+      "count": 15
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
-      "count": 5
+      "count": 6
     },
     "0uoN997vSgxUQ0GxGyppxZ": {
       "name": "野崎心平",
@@ -2454,19 +2454,19 @@
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
-      "count": 5
+      "count": 6
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
-      "count": 5
+      "count": 6
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
-      "count": 5
+      "count": 7
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
-      "count": 4
+      "count": 6
     },
     "0QANpCVLoBS2BJhi7fKbZF": {
       "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
@@ -2514,11 +2514,11 @@
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
-      "count": 2
+      "count": 3
     },
     "3aly4xJOy3LVznzvRIvFYC": {
       "name": "F1 The Album",
-      "count": 2
+      "count": 3
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
