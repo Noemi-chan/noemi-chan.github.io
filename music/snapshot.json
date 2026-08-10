@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T19:47:32.843Z",
+  "updatedAt": "2026-08-10T20:31:25.974Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786390731914,
+  "lastPolledAt": 1786393707854,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -145,7 +145,7 @@
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
       "artist": "由崎司(CV:鬼頭明里)",
-      "count": 2
+      "count": 3
     },
     "5XvpDIZqga1XDpt8HcAUOA": {
       "name": "realize",
@@ -190,7 +190,7 @@
     "1Ua9Y9QG4QjEMKTocsOTNK": {
       "name": "MY舞☆TONIGHT",
       "artist": "Aqours",
-      "count": 2
+      "count": 3
     },
     "4oVdhvxZrKQTM9ZsUIZa3S": {
       "name": "December",
@@ -315,7 +315,7 @@
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
       "artist": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 2
+      "count": 3
     },
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
@@ -350,7 +350,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 2
+      "count": 3
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -385,7 +385,7 @@
     "2grjqo0Frpf2okIBiifQKs": {
       "name": "September",
       "artist": "Earth, Wind & Fire",
-      "count": 2
+      "count": 3
     },
     "68OymWhEAobP8ljyEoOo1M": {
       "name": "Sage der Rosen",
@@ -460,7 +460,7 @@
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
       "artist": "Wilbert Roget, II",
-      "count": 1
+      "count": 2
     },
     "6VTVySG44qtMjybocs9Rpo": {
       "name": "Kimi ni Aetahi",
@@ -535,7 +535,7 @@
     "1U9DXW2cBhCju3l0OWK1i6": {
       "name": "壱雫空",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "2GC2OsWhRm9ltfxWBKuHhE": {
       "name": "春日影 (MyGO!!!!! ver.)",
@@ -640,7 +640,7 @@
     "1nk9moKBnrWMsXoHxnaeJd": {
       "name": "Y (Please Tell Me Why)",
       "artist": "freestyle",
-      "count": 1
+      "count": 2
     },
     "0o8mdI1vf5ly2qpCxNJlC1": {
       "name": "Let Me Dance",
@@ -1726,6 +1726,26 @@
       "name": "Jet Lag (feat. Natasha Bedingfield)",
       "artist": "Simple Plan, Natasha Bedingfield",
       "count": 1
+    },
+    "2BX1YuwKTlIX5LyTwIwBkP": {
+      "name": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "3wcT7Bndd1w4dVsKhEXcEm": {
+      "name": "Gold Steps",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "3ajGxMZOPTiH1T0olC2nlp": {
+      "name": "See You in Hell",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "2lfs1l1xaVOxrFNqKZrAkk": {
+      "name": "Blessing Chord (パラレルver.)",
+      "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1743,7 +1763,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 10
+      "count": 11
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -1807,7 +1827,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 33
+      "count": 34
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1819,7 +1839,7 @@
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
-      "count": 2
+      "count": 3
     },
     "2yRnjWtHzmDELwYaUiX0Yh": {
       "name": "Atarayo",
@@ -1847,11 +1867,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 27
+      "count": 28
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 49
+      "count": 50
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1935,7 +1955,7 @@
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 2
+      "count": 3
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
@@ -1959,7 +1979,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 18
+      "count": 19
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1971,7 +1991,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 29
+      "count": 30
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -1979,7 +1999,7 @@
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
-      "count": 2
+      "count": 3
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
@@ -2047,7 +2067,7 @@
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
-      "count": 1
+      "count": 2
     },
     "1doCP9Z7n18QpzRIr4gIFb": {
       "name": "Adachi(CV:Akari Kito)",
@@ -2135,7 +2155,7 @@
     },
     "0LigV2SSsRZaeX2htEFXV9": {
       "name": "freestyle",
-      "count": 1
+      "count": 2
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
@@ -2211,7 +2231,7 @@
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 2
+      "count": 3
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
@@ -2603,6 +2623,18 @@
     },
     "7o95ZoZt5ZYn31e9z1Hc0a": {
       "name": "Natasha Bedingfield",
+      "count": 1
+    },
+    "0HydIryDI0cb2xdizA8MRu": {
+      "name": "I♡インドア",
+      "count": 1
+    },
+    "0wm8M1C1O0Str979kE7MUR": {
+      "name": "市ヶ谷有咲(CV:伊藤彩沙)",
+      "count": 1
+    },
+    "5uMq5LpiCbQAuyx2t3oUFW": {
+      "name": "倉田ましろ(CV:進藤あまね)",
       "count": 1
     }
   }
