@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T18:42:07.559Z",
+  "updatedAt": "2026-08-10T19:47:32.843Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786387149908,
+  "lastPolledAt": 1786390731914,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 129
+    "playCount": 130
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -295,7 +295,7 @@
     "3uXD2gHqRs6mitblJm9kng": {
       "name": "ハミングフレンド (高海千歌 Solo Ver.)",
       "artist": "高海千歌 (CV.伊波杏樹)",
-      "count": 1
+      "count": 2
     },
     "4B1nb9UxHTTNveM2lRhNXD": {
       "name": "Returns",
@@ -310,7 +310,7 @@
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
       "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 2
+      "count": 3
     },
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
@@ -400,7 +400,7 @@
     "19ESOEBS7YYJsPOwHmsgTT": {
       "name": "Do You Know How To Love Me",
       "artist": "Henry Young, Ashley Alisha",
-      "count": 2
+      "count": 3
     },
     "404bfT8cVTOCHw2fvGhZNU": {
       "name": "Step by Step",
@@ -425,7 +425,7 @@
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
       "artist": "The Gospel Youth",
-      "count": 2
+      "count": 3
     },
     "4qHdhSUkmDh6r7Ea4NzAvM": {
       "name": "EZ4ENCE (kannatuslaulu)",
@@ -540,7 +540,7 @@
     "2GC2OsWhRm9ltfxWBKuHhE": {
       "name": "春日影 (MyGO!!!!! ver.)",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
@@ -600,7 +600,7 @@
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
       "artist": "American Wolves",
-      "count": 1
+      "count": 2
     },
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
@@ -675,7 +675,7 @@
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
       "artist": "A Day To Remember",
-      "count": 2
+      "count": 3
     },
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
@@ -710,7 +710,7 @@
     "6BCuusKOo7e2KT22kKghRV": {
       "name": "Georgette Me, Georgette You",
       "artist": "Ave Mujica",
-      "count": 4
+      "count": 5
     },
     "4r1TBgEfkmH4hbSoZ2GaUT": {
       "name": "Just You and I - Japanese ver.",
@@ -1005,7 +1005,7 @@
     "3rRkDjqEy2n8Qi930AjiSF": {
       "name": "至上主義アドトラック",
       "artist": "hololive IDOL PROJECT",
-      "count": 1
+      "count": 2
     },
     "2AwjcdksNfMMokTEl2t5ke": {
       "name": "Realize (Cover)",
@@ -1080,7 +1080,7 @@
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
@@ -1185,7 +1185,7 @@
     "4pUSuZujEeDFHLnmpVncuR": {
       "name": "Suicide Mission",
       "artist": "Epic Score",
-      "count": 1
+      "count": 2
     },
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
@@ -1215,7 +1215,7 @@
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 1
+      "count": 2
     },
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
@@ -1300,7 +1300,7 @@
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
       "artist": "森羅万象",
-      "count": 1
+      "count": 2
     },
     "05qCCJQJiOwvPQBb7akf1R": {
       "name": "Jamie All Over",
@@ -1711,12 +1711,27 @@
       "name": "Toaru Eiyutachi no Monogatari",
       "artist": "アンティーカ",
       "count": 1
+    },
+    "2fHByeuosUhSryrMXjQJhY": {
+      "name": "運命のFilament",
+      "artist": "白井夢結(CV:夏吉ゆうこ)",
+      "count": 1
+    },
+    "3uXz1lgsibXdWQ05wc2P6f": {
+      "name": "競宴Red×Violet",
+      "artist": "Roselia, Afterglow",
+      "count": 1
+    },
+    "0I329vpTJRdSRjEcWaQsSL": {
+      "name": "Jet Lag (feat. Natasha Bedingfield)",
+      "artist": "Simple Plan, Natasha Bedingfield",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 129
+      "count": 130
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1728,7 +1743,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 9
+      "count": 10
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -1736,7 +1751,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 51
+      "count": 52
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1788,11 +1803,11 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 8
+      "count": 9
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 32
+      "count": 33
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1828,7 +1843,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 6
+      "count": 7
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -1908,7 +1923,7 @@
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
-      "count": 4
+      "count": 5
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1916,7 +1931,7 @@
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 2
+      "count": 3
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -1944,7 +1959,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 17
+      "count": 18
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -1972,11 +1987,11 @@
     },
     "7BFfb40nQrs3xKRMGK1GrC": {
       "name": "Henry Young",
-      "count": 6
+      "count": 7
     },
     "63P6hjn73jNbnEFT0gKWKk": {
       "name": "Ashley Alisha",
-      "count": 6
+      "count": 7
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
@@ -1988,7 +2003,7 @@
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
-      "count": 5
+      "count": 6
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
@@ -2104,7 +2119,7 @@
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
-      "count": 1
+      "count": 2
     },
     "40oxjbVm3kdeyJEiGsKrmd": {
       "name": "HoneyWorks",
@@ -2132,7 +2147,7 @@
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
-      "count": 2
+      "count": 3
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
@@ -2296,7 +2311,7 @@
     },
     "18Zr9CaElvS40S0AtizMWZ": {
       "name": "hololive IDOL PROJECT",
-      "count": 1
+      "count": 2
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -2432,7 +2447,7 @@
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
-      "count": 1
+      "count": 2
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
@@ -2520,7 +2535,7 @@
     },
     "2p4FqHnazRucYQHyDCdBrJ": {
       "name": "Simple Plan",
-      "count": 3
+      "count": 4
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
@@ -2580,6 +2595,14 @@
     },
     "0LtYhakgj2VJgFrBh0JTfh": {
       "name": "Selo i Ludy",
+      "count": 1
+    },
+    "5vIveF4PTVZwgynLZmtkqw": {
+      "name": "白井夢結(CV:夏吉ゆうこ)",
+      "count": 1
+    },
+    "7o95ZoZt5ZYn31e9z1Hc0a": {
+      "name": "Natasha Bedingfield",
       "count": 1
     }
   }
