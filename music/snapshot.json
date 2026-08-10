@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T09:06:59.785Z",
+  "updatedAt": "2026-08-10T10:57:29.801Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786352519447,
+  "lastPolledAt": 1786359430105,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 117
+    "playCount": 121
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 9
+      "count": 10
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -525,7 +525,7 @@
     "4AyjEuG3ODerWxU0xUo0eY": {
       "name": "六兆年と一夜物語 (Cover)",
       "artist": "Roselia",
-      "count": 5
+      "count": 6
     },
     "74oAk5kk9HxpnxYNViPUQw": {
       "name": "Eternal Light",
@@ -580,12 +580,12 @@
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
       "artist": "RAISE A SUILEN",
-      "count": 4
+      "count": 5
     },
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 6
+      "count": 7
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -685,7 +685,7 @@
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
       "artist": "Mili",
-      "count": 5
+      "count": 6
     },
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 6
+      "count": 7
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -750,7 +750,7 @@
     "096DowSPWbfLWBKPx2mciP": {
       "name": "千本桜 (Cover)",
       "artist": "Poppin'Party",
-      "count": 6
+      "count": 7
     },
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
@@ -910,7 +910,7 @@
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
       "artist": "Neck Deep",
-      "count": 5
+      "count": 6
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
@@ -955,12 +955,12 @@
     "4jOQ5QOwyu9dwWwbHYmQAm": {
       "name": "Only Human - feat. AJ Channer",
       "artist": "Memphis May Fire, AJ Channer",
-      "count": 4
+      "count": 5
     },
     "4tT95PXtSH6lPzaSNWiJhu": {
       "name": "When the Morning Glory Falls",
       "artist": "TUYU",
-      "count": 5
+      "count": 6
     },
     "3Zwu2K0Qa5sT6teCCHPShP": {
       "name": "Thnks fr th Mmrs",
@@ -1045,7 +1045,7 @@
     "2FSeQD4Tk5ELPtbJHIT1ea": {
       "name": "Clear Morning",
       "artist": "Yui Ogura",
-      "count": 3
+      "count": 4
     },
     "6e2ouMRqwr7bYvKrDBTfmD": {
       "name": "Mujikaku A Priori",
@@ -1150,7 +1150,7 @@
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
       "artist": "アンティーカ",
-      "count": 5
+      "count": 6
     },
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
@@ -1240,7 +1240,7 @@
     "15bTG0r5MIz5aOfpR1crYL": {
       "name": "Know Your Heart - Japanese Ver.",
       "artist": "Tacitly",
-      "count": 5
+      "count": 6
     },
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
@@ -1250,7 +1250,7 @@
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
       "artist": "Roselia",
-      "count": 3
+      "count": 5
     },
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
@@ -1325,17 +1325,17 @@
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
       "artist": "ローレライ（歌：水上スイ）",
-      "count": 4
+      "count": 5
     },
     "12Qwn2bEStx6ASvdBKVji0": {
       "name": "名無声",
       "artist": "MyGO!!!!!",
-      "count": 4
+      "count": 5
     },
     "4H0h0dLqZl6mR4Lt4vdIXx": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 4
+      "count": 5
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
@@ -1365,32 +1365,32 @@
     "772kg4oxkCZRur0u49cA6I": {
       "name": "Move",
       "artist": "Audio Adrenaline",
-      "count": 4
+      "count": 5
     },
     "6QYYzSQnGyMjcRRy67eYwF": {
       "name": "Miss Wanna Die - English Cover",
       "artist": "JubyPhonic, Master Andross",
-      "count": 4
+      "count": 5
     },
     "0wBfQ27OiE3IEGGKnmyARG": {
       "name": "Rain with Cappuccino",
       "artist": "Rachie",
-      "count": 4
+      "count": 5
     },
     "1EGKoUUvsxhcAb0WXjFSNJ": {
       "name": "ガランドFlash",
       "artist": "DOLLCHESTRA",
-      "count": 4
+      "count": 5
     },
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
-      "count": 4
+      "count": 5
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
       "artist": "NANAOAKARI",
-      "count": 3
+      "count": 4
     },
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
@@ -1706,11 +1706,11 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 117
+      "count": 121
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 20
+      "count": 21
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1734,7 +1734,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 18
+      "count": 19
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1758,7 +1758,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 58
+      "count": 60
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1770,11 +1770,11 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 31
+      "count": 32
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 18
+      "count": 19
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1782,7 +1782,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 27
+      "count": 28
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1790,7 +1790,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 30
+      "count": 31
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1826,7 +1826,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 43
+      "count": 44
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1946,7 +1946,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 25
+      "count": 26
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2130,7 +2130,7 @@
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
-      "count": 5
+      "count": 6
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
@@ -2138,7 +2138,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 14
+      "count": 15
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2266,11 +2266,11 @@
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
-      "count": 4
+      "count": 5
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
-      "count": 5
+      "count": 6
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
@@ -2322,7 +2322,7 @@
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
-      "count": 3
+      "count": 4
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
@@ -2386,7 +2386,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 7
+      "count": 8
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2438,11 +2438,11 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 11
+      "count": 12
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
-      "count": 4
+      "count": 5
     },
     "0uoN997vSgxUQ0GxGyppxZ": {
       "name": "野崎心平",
@@ -2454,19 +2454,19 @@
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
-      "count": 4
+      "count": 5
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
-      "count": 4
+      "count": 5
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
-      "count": 4
+      "count": 5
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
-      "count": 3
+      "count": 4
     },
     "0QANpCVLoBS2BJhi7fKbZF": {
       "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
