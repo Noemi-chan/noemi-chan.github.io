@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T15:50:20.960Z",
+  "updatedAt": "2026-08-10T16:42:37.819Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786377011717,
+  "lastPolledAt": 1786380100867,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -220,7 +220,7 @@
     "6P1bG5AN1C1s7oTIF5nSm3": {
       "name": "最強☆ソング",
       "artist": "Poppin'Party",
-      "count": 4
+      "count": 5
     },
     "3rT0UIwun3kYrsDhunfmiR": {
       "name": "Blue Canvas",
@@ -680,7 +680,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 3
+      "count": 16
     },
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
@@ -1145,7 +1145,7 @@
     "4aI91AYZfMFs4cb8him5lI": {
       "name": "Hop? Stop? Nonstop!",
       "artist": "Aqours",
-      "count": 4
+      "count": 5
     },
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
@@ -1758,7 +1758,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 61
+      "count": 62
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1822,7 +1822,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 26
+      "count": 27
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2126,7 +2126,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 3
+      "count": 16
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
