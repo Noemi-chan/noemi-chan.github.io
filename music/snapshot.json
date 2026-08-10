@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T21:32:01.636Z",
+  "updatedAt": "2026-08-10T22:26:26.945Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786397470540,
+  "lastPolledAt": 1786400758189,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 130
+    "playCount": 131
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -120,7 +120,7 @@
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
       "artist": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
@@ -320,7 +320,7 @@
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
       "artist": "Aqours",
-      "count": 2
+      "count": 3
     },
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
@@ -635,7 +635,7 @@
     "2TIeha2ARcgw3cZT42eOfP": {
       "name": "しゅわりん☆どり～みん",
       "artist": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "1nk9moKBnrWMsXoHxnaeJd": {
       "name": "Y (Please Tell Me Why)",
@@ -660,7 +660,7 @@
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "5FYlc7iKGQTlXjIKdBSgWB": {
       "name": "Any Other Way",
@@ -805,7 +805,7 @@
     "3dhWspMJASIE3VoCDpaNtw": {
       "name": "起死開戦",
       "artist": "millsage",
-      "count": 1
+      "count": 4
     },
     "21GoIbILlS9VcI5aFIgiM9": {
       "name": "銀翼のアヴニール -become the brave-",
@@ -830,7 +830,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -995,7 +995,7 @@
     "3LwmcYxpqVyEJA8oyYA6js": {
       "name": "way to answer",
       "artist": "fripSide",
-      "count": 1
+      "count": 2
     },
     "2kxfYfgPqiIQMjyCONnDaZ": {
       "name": "迷星叫",
@@ -1130,7 +1130,7 @@
     "2oMWhelb6C0Flhx0n5TKoM": {
       "name": "Sting",
       "artist": "Concrete Castles",
-      "count": 1
+      "count": 2
     },
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
@@ -1265,7 +1265,7 @@
     "0RvvNjSDtNedo0dy8C2TAC": {
       "name": "hope ur happy",
       "artist": "Until I Wake",
-      "count": 1
+      "count": 2
     },
     "4V1PhMpWs2nVaP7ikGuQwy": {
       "name": "Silhouette",
@@ -1786,12 +1786,22 @@
       "name": "キセキヒカル",
       "artist": "Aqours",
       "count": 1
+    },
+    "1xwYqbWwl2DBDmXnWErYsZ": {
+      "name": "THE HISTORIC...",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "48fqIDIQDD1ARyTrlSb8wW": {
+      "name": "If I Can Stop One Heart From Breaking",
+      "artist": "Chewie Melodies, Pealeaf",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 130
+      "count": 131
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1811,7 +1821,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 53
+      "count": 55
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1859,7 +1869,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 20
+      "count": 21
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1875,7 +1885,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 34
+      "count": 35
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1907,7 +1917,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 29
+      "count": 30
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2071,11 +2081,11 @@
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 1
+      "count": 2
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 1
+      "count": 2
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
@@ -2103,7 +2113,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 10
+      "count": 11
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2283,7 +2293,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 49
+      "count": 52
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
@@ -2443,7 +2453,7 @@
     },
     "1Cexar57ALO1nZIiKoIUuo": {
       "name": "Concrete Castles",
-      "count": 1
+      "count": 2
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
@@ -2475,7 +2485,7 @@
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
-      "count": 1
+      "count": 2
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
