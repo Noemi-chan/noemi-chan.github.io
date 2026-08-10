@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T17:43:13.987Z",
+  "updatedAt": "2026-08-10T18:42:07.559Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786383679681,
+  "lastPolledAt": 1786387149908,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 128
+    "playCount": 129
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -170,7 +170,7 @@
     "6XWdcMK2pfSjDkFbRtiwIk": {
       "name": "イントロダクション",
       "artist": "Poppin'Party",
-      "count": 3
+      "count": 4
     },
     "0XKe6ptxwy1yjusyER0ZTi": {
       "name": "DRIVE US CRAZY",
@@ -230,7 +230,7 @@
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
       "artist": "Nor",
-      "count": 3
+      "count": 4
     },
     "2nIF3nXAKPmbeONeQVEVWg": {
       "name": "Stay Alive (Official ESL Theme)",
@@ -330,7 +330,7 @@
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
       "artist": "Maroon 5",
-      "count": 3
+      "count": 4
     },
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
@@ -355,7 +355,7 @@
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
       "artist": "Ellie Goulding, Speed Radio",
-      "count": 3
+      "count": 4
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
@@ -695,7 +695,7 @@
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
       "artist": "Afterglow",
-      "count": 2
+      "count": 3
     },
     "1zCH2Z7PZkzKnJbnKXP5Ov": {
       "name": "Ether",
@@ -720,12 +720,12 @@
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
       "artist": "Memphis May Fire",
-      "count": 3
+      "count": 4
     },
     "2EPQXOr3VLvDImQnoHOYO3": {
       "name": "One More Last Time",
       "artist": "Henry Young, Ashley Alisha",
-      "count": 3
+      "count": 4
     },
     "76mLhwXLppB4LiOO6P8Ucy": {
       "name": "Citizens Of Earth",
@@ -865,7 +865,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 2
+      "count": 3
     },
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
@@ -980,7 +980,7 @@
     "4tTfKPjzxibtueDLiYr5Yb": {
       "name": "TITLE IDOL",
       "artist": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "25Eq9bzwKMX3yZTV4qpp8U": {
       "name": "Smooth Seas Don't Make Good Sailors",
@@ -1075,7 +1075,7 @@
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
       "artist": "The Winking Owl",
-      "count": 2
+      "count": 3
     },
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
@@ -1090,7 +1090,7 @@
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 2
+      "count": 3
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
@@ -1245,7 +1245,7 @@
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
       "artist": "Steve Ouimette",
-      "count": 2
+      "count": 3
     },
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
@@ -1640,7 +1640,7 @@
     "0js0DKykeOIT37jcmpwOpd": {
       "name": "Sing Alive",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4I5Bsfl4gdoRcK3AF47hVf": {
       "name": "黒のバースデイ",
@@ -1680,7 +1680,7 @@
     "30YHwRbmrAftaqaoURY44m": {
       "name": "Tabimichi Yoiyoi Yume Hanabi",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 1
+      "count": 2
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -1701,20 +1701,30 @@
       "name": "It's My Life - Old Classic Version",
       "artist": "Selo i Ludy",
       "count": 1
+    },
+    "4Ssi6tKwrTHi5qvDndrZRP": {
+      "name": "Wish You Were Here",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "6D0IAyrFw0vhSlC4LWVvXQ": {
+      "name": "Toaru Eiyutachi no Monogatari",
+      "artist": "アンティーカ",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 128
+      "count": 129
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 21
+      "count": 22
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 10
+      "count": 11
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -1734,7 +1744,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 21
+      "count": 22
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -1742,7 +1752,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 8
+      "count": 9
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -1758,7 +1768,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 63
+      "count": 64
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -1770,7 +1780,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 37
+      "count": 38
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1778,7 +1788,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 7
+      "count": 8
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -1790,7 +1800,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 33
+      "count": 34
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1826,7 +1836,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 48
+      "count": 49
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1838,7 +1848,7 @@
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
-      "count": 3
+      "count": 4
     },
     "37H5Xn3SbccttHx8hPcahK": {
       "name": "Leet Mob",
@@ -1914,7 +1924,7 @@
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
-      "count": 3
+      "count": 4
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
@@ -1938,7 +1948,7 @@
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
-      "count": 3
+      "count": 4
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
@@ -1962,11 +1972,11 @@
     },
     "7BFfb40nQrs3xKRMGK1GrC": {
       "name": "Henry Young",
-      "count": 5
+      "count": 6
     },
     "63P6hjn73jNbnEFT0gKWKk": {
       "name": "Ashley Alisha",
-      "count": 5
+      "count": 6
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
@@ -2246,7 +2256,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 2
+      "count": 3
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
@@ -2330,7 +2340,7 @@
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
-      "count": 2
+      "count": 3
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
@@ -2382,7 +2392,7 @@
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
-      "count": 2
+      "count": 3
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
