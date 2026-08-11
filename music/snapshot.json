@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-11T20:34:32.723Z",
+  "updatedAt": "2026-08-11T21:35:00.181Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786480428590,
+  "lastPolledAt": 1786480994677,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -13,11 +13,7 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
+    "genres": [],
     "playCount": 137
   },
   "trackPlayCounts": {
@@ -439,7 +435,7 @@
     "656Ipbib8V7vJShg31rDIv": {
       "name": "きゅ〜まい＊flower",
       "artist": "Pastel*Palettes",
-      "count": 4
+      "count": 5
     },
     "0g1Pa3zCIkmUwRqSo9yqH2": {
       "name": "If I Can Stop One Heart From Breaking (instrumental ver.)",
@@ -1229,7 +1225,7 @@
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
       "artist": "Brian Tyler",
-      "count": 3
+      "count": 4
     },
     "3foaVrwbNHvwXmKD0lMHWv": {
       "name": "幻日ミステリウム",
@@ -1414,7 +1410,7 @@
     "2FbdvkGnTFEXxoXjV8iSVj": {
       "name": "Thrash Trash",
       "artist": "Jaron Takach, Derek Long",
-      "count": 4
+      "count": 5
     },
     "1gXAB8LVnrNFVkj4kBdaSE": {
       "name": "Parachute",
@@ -1914,7 +1910,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 40
+      "count": 41
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2498,7 +2494,7 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
-      "count": 3
+      "count": 4
     },
     "5rSXSAkZ67PYJSvpUpkOr7": {
       "name": "Backstreet Boys",
@@ -2598,11 +2594,11 @@
     },
     "36bLfgFkAodzzHCeG45Jtm": {
       "name": "Jaron Takach",
-      "count": 4
+      "count": 5
     },
     "5xJiiKiEDhJYn6Z3EdCZPt": {
       "name": "Derek Long",
-      "count": 4
+      "count": 5
     },
     "2IeMt1qx6ZVt1HFjdfE5tl": {
       "name": "Jonathan Young",
