@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-12T11:38:54.467Z",
+  "updatedAt": "2026-08-12T12:43:13.022Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786534687417,
+  "lastPolledAt": 1786538452431,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -245,7 +245,7 @@
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
       "artist": "Aqours",
-      "count": 4
+      "count": 5
     },
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
@@ -545,7 +545,7 @@
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
       "artist": "MyGO!!!!!",
-      "count": 3
+      "count": 4
     },
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
@@ -615,7 +615,7 @@
     "2xBibqkmXJ4NQCe8lJeZco": {
       "name": "可愛くてごめん",
       "artist": "HoneyWorks, ちゅーたん(CV:早見沙織)",
-      "count": 4
+      "count": 5
     },
     "1rTFsQZyUUdokzz3mibkqm": {
       "name": "潜在表明",
@@ -710,7 +710,7 @@
     "6BCuusKOo7e2KT22kKghRV": {
       "name": "Georgette Me, Georgette You",
       "artist": "Ave Mujica",
-      "count": 5
+      "count": 7
     },
     "4r1TBgEfkmH4hbSoZ2GaUT": {
       "name": "Just You and I - Japanese ver.",
@@ -780,7 +780,7 @@
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
       "artist": "丸山 彩(CV:前島亜美), 氷川日菜(CV:小澤亜李), 白鷺千聖(CV:上坂すみれ), 大和麻弥(CV:中上育実), 湊 友希那(CV:相羽あいな), 氷川紗夜(CV:工藤晴香), 今井リサ(CV:中島由貴), 白金燐子(CV:志崎樺音), 瀬田 薫(CV:田所あずさ), 松原花音(CV:豊田萌絵)",
-      "count": 2
+      "count": 3
     },
     "7fh1kd9kH1F6aw1zjFOI6X": {
       "name": "天球(そら)のMúsica",
@@ -805,7 +805,7 @@
     "3dhWspMJASIE3VoCDpaNtw": {
       "name": "起死開戦",
       "artist": "millsage",
-      "count": 9
+      "count": 16
     },
     "21GoIbILlS9VcI5aFIgiM9": {
       "name": "銀翼のアヴニール -become the brave-",
@@ -1110,7 +1110,7 @@
     "4Jl3syKPuB2YFZZhsSeniv": {
       "name": "Eastbound & Down",
       "artist": "WSTR",
-      "count": 3
+      "count": 5
     },
     "6QX44Ng3HMHzZLDAMfO1Aa": {
       "name": "Stairs and Rooftops",
@@ -1485,7 +1485,7 @@
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
       "artist": "スリーズブーケ",
-      "count": 47
+      "count": 49
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -1660,7 +1660,7 @@
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
       "artist": "Rachie",
-      "count": 5
+      "count": 6
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
@@ -1851,7 +1851,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 69
+      "count": 71
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1871,7 +1871,7 @@
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 5
+      "count": 7
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -1907,7 +1907,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 41
+      "count": 42
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -1947,7 +1947,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 33
+      "count": 34
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2059,7 +2059,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 66
+      "count": 68
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2071,7 +2071,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 34
+      "count": 35
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2223,11 +2223,11 @@
     },
     "40oxjbVm3kdeyJEiGsKrmd": {
       "name": "HoneyWorks",
-      "count": 4
+      "count": 5
     },
     "6yKI6XBrsly4nzlmcn2nJU": {
       "name": "ちゅーたん(CV:早見沙織)",
-      "count": 4
+      "count": 5
     },
     "4iaPh4BzUKBQuunyMKVxU7": {
       "name": "WANDS",
@@ -2283,47 +2283,47 @@
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
-      "count": 5
+      "count": 6
     },
     "5fBSjYZtRepKT6Om7tofEK": {
       "name": "氷川日菜(CV:小澤亜李)",
-      "count": 2
+      "count": 3
     },
     "1jv55vLFewxt2UQiQYc2IY": {
       "name": "白鷺千聖(CV:上坂すみれ)",
-      "count": 2
+      "count": 3
     },
     "3YdtVks1owJtVkEPrBf47Y": {
       "name": "大和麻弥(CV:中上育実)",
-      "count": 2
+      "count": 3
     },
     "5tb5Ya8txUfxvU3USDffwT": {
       "name": "湊 友希那(CV:相羽あいな)",
-      "count": 5
+      "count": 6
     },
     "6VA1ej0NbUtMULBhiJdD0T": {
       "name": "氷川紗夜(CV:工藤晴香)",
-      "count": 2
+      "count": 3
     },
     "5mHviKZS305LZ8EVFu8BOb": {
       "name": "今井リサ(CV:中島由貴)",
-      "count": 2
+      "count": 3
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 3
+      "count": 4
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
-      "count": 2
+      "count": 3
     },
     "67oUulZoqpQ8GtSoCoumNg": {
       "name": "松原花音(CV:豊田萌絵)",
-      "count": 2
+      "count": 3
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 58
+      "count": 65
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
