@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-11T23:29:39.095Z",
+  "updatedAt": "2026-08-12T01:03:32.201Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786480994677,
+  "lastPolledAt": 1786491709382,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 137
+    "playCount": 138
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -430,7 +430,7 @@
     "4qHdhSUkmDh6r7Ea4NzAvM": {
       "name": "EZ4ENCE (kannatuslaulu)",
       "artist": "The Verkkars",
-      "count": 4
+      "count": 5
     },
     "656Ipbib8V7vJShg31rDIv": {
       "name": "きゅ〜まい＊flower",
@@ -1340,7 +1340,7 @@
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
       "artist": "Roselia",
-      "count": 6
+      "count": 7
     },
     "3FdI2uFUxKWm9kmPkIYYf3": {
       "name": "Wide Awake",
@@ -1826,7 +1826,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 137
+      "count": 138
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2102,7 +2102,7 @@
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
-      "count": 4
+      "count": 5
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
