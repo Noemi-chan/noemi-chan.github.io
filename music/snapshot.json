@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-13T17:49:44.566Z",
+  "updatedAt": "2026-08-13T18:48:24.052Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786643036793,
+  "lastPolledAt": 1786644711310,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -290,7 +290,7 @@
     "3NRYoA2lCeDF2ltxECA1e8": {
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
-      "count": 8
+      "count": 9
     },
     "3uXD2gHqRs6mitblJm9kng": {
       "name": "ハミングフレンド (高海千歌 Solo Ver.)",
@@ -475,7 +475,7 @@
     "5rglT9cmL3jeVrYI0LQE2r": {
       "name": "二羽鶴 Instrumental ver.",
       "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 6
+      "count": 7
     },
     "0asJiqD3Xwvjxhjzxe2XmZ": {
       "name": "FIRE BIRD",
@@ -1230,12 +1230,12 @@
     "3foaVrwbNHvwXmKD0lMHWv": {
       "name": "幻日ミステリウム",
       "artist": "Aqours",
-      "count": 4
+      "count": 5
     },
     "47BBI51FKFwOMlIiX6m8ya": {
       "name": "I Want It That Way",
       "artist": "Backstreet Boys",
-      "count": 1
+      "count": 2
     },
     "15bTG0r5MIz5aOfpR1crYL": {
       "name": "Know Your Heart - Japanese Ver.",
@@ -1295,7 +1295,7 @@
     "3Xfg7AegXaDLoD5GOUMf2e": {
       "name": "My Demons",
       "artist": "STARSET",
-      "count": 1
+      "count": 2
     },
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
@@ -1490,7 +1490,7 @@
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 4
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
@@ -1680,7 +1680,7 @@
     "30YHwRbmrAftaqaoURY44m": {
       "name": "Tabimichi Yoiyoi Yume Hanabi",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 2
+      "count": 3
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -1981,7 +1981,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 83
+      "count": 84
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -1997,7 +1997,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 9
+      "count": 10
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2077,7 +2077,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 38
+      "count": 39
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2149,7 +2149,7 @@
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
-      "count": 8
+      "count": 9
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
@@ -2297,7 +2297,7 @@
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 8
+      "count": 9
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
@@ -2633,7 +2633,7 @@
     },
     "5rSXSAkZ67PYJSvpUpkOr7": {
       "name": "Backstreet Boys",
-      "count": 1
+      "count": 2
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
@@ -2673,7 +2673,7 @@
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
-      "count": 1
+      "count": 2
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
