@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-14T19:41:26.307Z",
+  "updatedAt": "2026-08-14T20:21:43.656Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786736218915,
+  "lastPolledAt": 1786738827527,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -25,7 +25,7 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 8
+      "count": 9
     },
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 14
+      "count": 15
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -820,7 +820,7 @@
     "2LpBokrAiZaTTAoStHMKKP": {
       "name": "Yusaishoku Eureka",
       "artist": "アンティーカ",
-      "count": 3
+      "count": 4
     },
     "4nfozdNRD6T715w5tmP4XL": {
       "name": "Love me harder",
@@ -1580,7 +1580,7 @@
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 3
+      "count": 4
     },
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
@@ -1710,7 +1710,7 @@
     "6D0IAyrFw0vhSlC4LWVvXQ": {
       "name": "Toaru Eiyutachi no Monogatari",
       "artist": "アンティーカ",
-      "count": 3
+      "count": 4
     },
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
@@ -1955,7 +1955,7 @@
     "3QjpMmI6meIZoBD663oHAU": {
       "name": "ノンフィクションヒーローショー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 3
+      "count": 4
     },
     "1E6nwGciS5IV8Ag5x9PZ4q": {
       "name": "夏に閉じこめて",
@@ -1975,7 +1975,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 31
+      "count": 32
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -2007,7 +2007,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 12
+      "count": 13
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2023,7 +2023,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 107
+      "count": 108
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2035,7 +2035,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 50
+      "count": 52
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2895,7 +2895,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 11
+      "count": 12
     }
   }
 }
