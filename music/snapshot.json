@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-14T17:44:26.066Z",
+  "updatedAt": "2026-08-14T18:40:37.785Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786729264028,
+  "lastPolledAt": 1786732749220,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 200
+    "playCount": 201
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -75,7 +75,7 @@
     "3InXtCeZlSGPFdUpeVaiIP": {
       "name": "Crisis",
       "artist": "WSTR",
-      "count": 3
+      "count": 4
     },
     "22eHRqbCHzY8iP9C4FJiRa": {
       "name": "Day Dream",
@@ -230,7 +230,7 @@
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
       "artist": "Nor",
-      "count": 6
+      "count": 7
     },
     "2nIF3nXAKPmbeONeQVEVWg": {
       "name": "Stay Alive (Official ESL Theme)",
@@ -265,7 +265,7 @@
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
       "artist": "コメティック",
-      "count": 8
+      "count": 9
     },
     "3bYUFS0H27cU8A7DJW0AOY": {
       "name": "When We Were Young",
@@ -475,7 +475,7 @@
     "5rglT9cmL3jeVrYI0LQE2r": {
       "name": "二羽鶴 Instrumental ver.",
       "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 7
+      "count": 8
     },
     "0asJiqD3Xwvjxhjzxe2XmZ": {
       "name": "FIRE BIRD",
@@ -525,7 +525,7 @@
     "4AyjEuG3ODerWxU0xUo0eY": {
       "name": "六兆年と一夜物語 (Cover)",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "74oAk5kk9HxpnxYNViPUQw": {
       "name": "Eternal Light",
@@ -925,7 +925,7 @@
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 6
+      "count": 7
     },
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
@@ -1160,7 +1160,7 @@
     "5uraJqtCBvLpwt3VeomZdq": {
       "name": "Shinzo wo Sasageyo !",
       "artist": "Linked Horizon",
-      "count": 7
+      "count": 8
     },
     "6ss2vUwrV64xAVE4fXZMIh": {
       "name": "I Really Like You",
@@ -1190,7 +1190,7 @@
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
       "artist": "Tacitly",
-      "count": 4
+      "count": 5
     },
     "2vAwfoFawdgwN8M1xjPyH0": {
       "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
@@ -1230,7 +1230,7 @@
     "3foaVrwbNHvwXmKD0lMHWv": {
       "name": "幻日ミステリウム",
       "artist": "Aqours",
-      "count": 5
+      "count": 6
     },
     "47BBI51FKFwOMlIiX6m8ya": {
       "name": "I Want It That Way",
@@ -1285,7 +1285,7 @@
     "3QRii5A35ZfsGGiPrv9k0j": {
       "name": "異次元★♥BIGBANG",
       "artist": "島村卯月 (CV: 大橋彩香), 最上静香 (CV.田所あずさ), 月岡恋鐘 (CV.礒部花凜), 高海千歌 (CV.伊波杏樹), 上原歩夢 (CV.大西亜玖璃), 澁谷かのん (CV.伊達さゆり), 日野下花帆 (CV.楡井希実)",
-      "count": 5
+      "count": 6
     },
     "2Pc3uQU2zILsSvr2orD82o": {
       "name": "Kaiten Screw!!!",
@@ -1400,7 +1400,7 @@
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
       "artist": "Junpei Fujita",
-      "count": 6
+      "count": 7
     },
     "187GJu2lq9njUI5wYcPAft": {
       "name": "盲目ラビリンス",
@@ -1570,7 +1570,7 @@
     "2yH6eL6f1Ada5MnmNpiPbr": {
       "name": "blindfolded",
       "artist": "Against The Current",
-      "count": 4
+      "count": 5
     },
     "4blpKVkTvNgEWIlwKWMceR": {
       "name": "なんどだって約束！",
@@ -1680,7 +1680,7 @@
     "30YHwRbmrAftaqaoURY44m": {
       "name": "Tabimichi Yoiyoi Yume Hanabi",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 4
+      "count": 5
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -1765,7 +1765,7 @@
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 4
+      "count": 5
     },
     "2RsB1iRK8dqys4xPYcK73B": {
       "name": "Critical Mistake",
@@ -1971,7 +1971,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 200
+      "count": 201
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -1995,7 +1995,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 16
+      "count": 17
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2007,11 +2007,11 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 11
+      "count": 12
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 9
+      "count": 10
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -2023,7 +2023,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 103
+      "count": 105
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2075,7 +2075,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 20
+      "count": 21
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -2087,7 +2087,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 43
+      "count": 44
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2103,7 +2103,7 @@
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
-      "count": 6
+      "count": 7
     },
     "37H5Xn3SbccttHx8hPcahK": {
       "name": "Leet Mob",
@@ -2163,7 +2163,7 @@
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
-      "count": 7
+      "count": 8
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -2183,7 +2183,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 22
+      "count": 23
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2307,7 +2307,7 @@
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 9
+      "count": 10
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
@@ -2403,7 +2403,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 25
+      "count": 26
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2627,7 +2627,7 @@
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
-      "count": 7
+      "count": 8
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
@@ -2659,27 +2659,27 @@
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
-      "count": 5
+      "count": 6
     },
     "66UKyfIWbPvoH82zGZlkdH": {
       "name": "最上静香 (CV.田所あずさ)",
-      "count": 5
+      "count": 6
     },
     "2Nascsj90mN48cZBUS4CPA": {
       "name": "月岡恋鐘 (CV.礒部花凜)",
-      "count": 5
+      "count": 6
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
-      "count": 5
+      "count": 6
     },
     "2KO3nQQqN4LJAKQebedEHF": {
       "name": "澁谷かのん (CV.伊達さゆり)",
-      "count": 5
+      "count": 6
     },
     "3K0kUxY4moTB2FF7nYLgzs": {
       "name": "日野下花帆 (CV.楡井希実)",
-      "count": 5
+      "count": 6
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
