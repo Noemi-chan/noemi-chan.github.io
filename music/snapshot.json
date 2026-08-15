@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-15T10:12:37.531Z",
+  "updatedAt": "2026-08-15T11:10:23.371Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786788621522,
+  "lastPolledAt": 1786792088649,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -345,7 +345,7 @@
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
       "artist": "Andora, WaMi",
-      "count": 7
+      "count": 8
     },
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
@@ -675,7 +675,7 @@
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
       "artist": "A Day To Remember",
-      "count": 6
+      "count": 18
     },
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
@@ -1015,7 +1015,7 @@
     "4pqH9UhPa697MDOSIPiBvJ": {
       "name": "Shiny Racers",
       "artist": "小原鞠莉 (CV.鈴木愛奈)",
-      "count": 6
+      "count": 7
     },
     "2ZatDCxyPwTS1bZCbQ6ZnG": {
       "name": "BURN BURN",
@@ -1715,7 +1715,7 @@
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
       "artist": "白井夢結(CV:夏吉ゆうこ)",
-      "count": 2
+      "count": 3
     },
     "3uXz1lgsibXdWQ05wc2P6f": {
       "name": "競宴Red×Violet",
@@ -1905,7 +1905,7 @@
     "0KbxDQoJBg40hvg34xPuxW": {
       "name": "マハラジャンボリー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 4
+      "count": 5
     },
     "5WPNF8kwbWEDf4A7YA31nI": {
       "name": "ココン東西 (104期Ver.)",
@@ -2196,11 +2196,11 @@
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
-      "count": 7
+      "count": 8
     },
     "6c0bV9hFYijaaGnG8n43O4": {
       "name": "WaMi",
-      "count": 7
+      "count": 8
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
@@ -2392,7 +2392,7 @@
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
-      "count": 6
+      "count": 18
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
@@ -2560,7 +2560,7 @@
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
-      "count": 6
+      "count": 7
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
@@ -2844,7 +2844,7 @@
     },
     "5vIveF4PTVZwgynLZmtkqw": {
       "name": "白井夢結(CV:夏吉ゆうこ)",
-      "count": 2
+      "count": 3
     },
     "7o95ZoZt5ZYn31e9z1Hc0a": {
       "name": "Natasha Bedingfield",
@@ -2900,7 +2900,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 13
+      "count": 14
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
