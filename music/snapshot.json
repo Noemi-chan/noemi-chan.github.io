@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-15T17:12:00.486Z",
+  "updatedAt": "2026-08-15T18:14:21.376Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786802878742,
+  "lastPolledAt": 1786817639394,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 209
+    "playCount": 210
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -90,7 +90,7 @@
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 10
+      "count": 11
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
@@ -200,7 +200,7 @@
     "1coE0U4cDTQVNVBlp6ljfG": {
       "name": "Reweave (Cover)",
       "artist": "Roselia",
-      "count": 8
+      "count": 9
     },
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
@@ -340,7 +340,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 11
+      "count": 12
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -460,7 +460,7 @@
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
       "artist": "Wilbert Roget, II",
-      "count": 6
+      "count": 7
     },
     "6VTVySG44qtMjybocs9Rpo": {
       "name": "Kimi ni Aetahi",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 10
+      "count": 11
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -775,7 +775,7 @@
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
       "artist": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 9
+      "count": 10
     },
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
@@ -1175,7 +1175,7 @@
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
       "artist": "Bao The Whale, Overspace",
-      "count": 10
+      "count": 11
     },
     "4QIA2VSrQDo4y53Pr4T5mE": {
       "name": "Feathered Dreams",
@@ -1345,7 +1345,7 @@
     "3FdI2uFUxKWm9kmPkIYYf3": {
       "name": "Wide Awake",
       "artist": "Hot Milk",
-      "count": 11
+      "count": 12
     },
     "4WhEwgjAvP4xC9cLXE5hY1": {
       "name": "King A Zab",
@@ -1545,7 +1545,7 @@
     "6s9s4nySDJVfetQrPkpZot": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 9
+      "count": 10
     },
     "1KpbrM0wNIeqiG1JgrUL2U": {
       "name": "Start up Stand up",
@@ -1755,7 +1755,7 @@
     "48SXLkk7Af6UtE1GGUu261": {
       "name": "CiRCLING",
       "artist": "Poppin'Party",
-      "count": 5
+      "count": 6
     },
     "50nRYeiTbC3QpKYFdAR6HJ": {
       "name": "What’s the POPIPA!?",
@@ -1780,7 +1780,7 @@
     "1cwpxTBmnJrN7Qj1UAvB4x": {
       "name": "Rain then Rainbow",
       "artist": "安月名莉子",
-      "count": 4
+      "count": 5
     },
     "4jiyKqRJ25IjaCBaJasQpt": {
       "name": "キセキヒカル",
@@ -1976,7 +1976,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 209
+      "count": 210
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2004,7 +2004,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 44
+      "count": 45
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2028,7 +2028,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 115
+      "count": 117
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2188,11 +2188,11 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 23
+      "count": 24
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 22
+      "count": 24
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2292,7 +2292,7 @@
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
-      "count": 6
+      "count": 7
     },
     "1doCP9Z7n18QpzRIr4gIFb": {
       "name": "Adachi(CV:Akari Kito)",
@@ -2360,7 +2360,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 16
+      "count": 17
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2424,7 +2424,7 @@
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 9
+      "count": 10
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
@@ -2636,11 +2636,11 @@
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
-      "count": 10
+      "count": 11
     },
     "2DavS3976uZWJvbYH7sbuj": {
       "name": "Overspace",
-      "count": 10
+      "count": 11
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
