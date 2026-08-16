@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T09:17:18.187Z",
+  "updatedAt": "2026-08-16T10:13:02.222Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786871582334,
+  "lastPolledAt": 1786875097899,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 225
+    "playCount": 227
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -25,7 +25,7 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 10
+      "count": 11
     },
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
@@ -115,7 +115,7 @@
     "4lPNuizRfDvXB8ltrNPd1v": {
       "name": "Choir ‘S’ Choir",
       "artist": "Ave Mujica",
-      "count": 8
+      "count": 9
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
@@ -280,7 +280,7 @@
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 9
+      "count": 10
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -325,7 +325,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 8
+      "count": 9
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
@@ -650,7 +650,7 @@
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
       "artist": "Poppin'Party",
-      "count": 10
+      "count": 11
     },
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
@@ -1250,7 +1250,7 @@
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
       "artist": "Roselia",
-      "count": 10
+      "count": 11
     },
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
@@ -1260,7 +1260,7 @@
     "4lypt03XVYnSat94IWFVPd": {
       "name": "焚音打",
       "artist": "MyGO!!!!!",
-      "count": 10
+      "count": 11
     },
     "0RvvNjSDtNedo0dy8C2TAC": {
       "name": "hope ur happy",
@@ -1275,7 +1275,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 7
+      "count": 8
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -1385,7 +1385,7 @@
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
-      "count": 13
+      "count": 14
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
@@ -1530,7 +1530,7 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 8
+      "count": 9
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
@@ -1590,7 +1590,7 @@
     "5CfYWKBfDGaU9yRt9EDOSm": {
       "name": "シアター生き様",
       "artist": "Edel Note",
-      "count": 8
+      "count": 9
     },
     "0cvKr5hsDQV5DxKgmxWtZm": {
       "name": "STAR BEAT!～ホシノコドウ～",
@@ -1640,7 +1640,7 @@
     "0js0DKykeOIT37jcmpwOpd": {
       "name": "Sing Alive",
       "artist": "Roselia",
-      "count": 7
+      "count": 8
     },
     "4I5Bsfl4gdoRcK3AF47hVf": {
       "name": "黒のバースデイ",
@@ -1825,7 +1825,7 @@
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 4
+      "count": 5
     },
     "0fUep9cjt7yDLBUs2q581v": {
       "name": "AWOKE (104期Ver.)",
@@ -1976,11 +1976,11 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 225
+      "count": 227
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 36
+      "count": 37
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -1996,7 +1996,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 122
+      "count": 123
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2028,7 +2028,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 122
+      "count": 124
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2044,7 +2044,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 37
+      "count": 38
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2052,7 +2052,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 68
+      "count": 70
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2096,7 +2096,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 91
+      "count": 92
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2160,7 +2160,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 14
+      "count": 15
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -2732,7 +2732,7 @@
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
-      "count": 13
+      "count": 14
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
@@ -2800,7 +2800,7 @@
     },
     "1OmA8j6y4aXQt03qMw5bU1": {
       "name": "Edel Note",
-      "count": 8
+      "count": 9
     },
     "3U8W8KZ51Z96pSqPjkWNYz": {
       "name": "日高零奈 (CV: 蔀 祐佳)",
@@ -2892,7 +2892,7 @@
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 4
+      "count": 5
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
