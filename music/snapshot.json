@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T18:14:23.103Z",
+  "updatedAt": "2026-08-16T19:13:21.152Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786903805490,
+  "lastPolledAt": 1786907507136,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 240
+    "playCount": 241
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -90,7 +90,7 @@
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 11
+      "count": 12
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
@@ -200,7 +200,7 @@
     "1coE0U4cDTQVNVBlp6ljfG": {
       "name": "Reweave (Cover)",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
@@ -775,7 +775,7 @@
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
       "artist": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 10
+      "count": 11
     },
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
@@ -1175,7 +1175,7 @@
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
       "artist": "Bao The Whale, Overspace",
-      "count": 11
+      "count": 12
     },
     "4QIA2VSrQDo4y53Pr4T5mE": {
       "name": "Feathered Dreams",
@@ -1345,7 +1345,7 @@
     "3FdI2uFUxKWm9kmPkIYYf3": {
       "name": "Wide Awake",
       "artist": "Hot Milk",
-      "count": 12
+      "count": 13
     },
     "4WhEwgjAvP4xC9cLXE5hY1": {
       "name": "King A Zab",
@@ -1545,7 +1545,7 @@
     "6s9s4nySDJVfetQrPkpZot": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 10
+      "count": 12
     },
     "1KpbrM0wNIeqiG1JgrUL2U": {
       "name": "Start up Stand up",
@@ -1780,7 +1780,7 @@
     "1cwpxTBmnJrN7Qj1UAvB4x": {
       "name": "Rain then Rainbow",
       "artist": "安月名莉子",
-      "count": 5
+      "count": 6
     },
     "4jiyKqRJ25IjaCBaJasQpt": {
       "name": "キセキヒカル",
@@ -1976,7 +1976,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 240
+      "count": 241
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2004,7 +2004,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 53
+      "count": 55
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2028,7 +2028,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 128
+      "count": 129
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2192,7 +2192,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 24
+      "count": 25
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2360,7 +2360,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 17
+      "count": 18
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2424,7 +2424,7 @@
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 10
+      "count": 11
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
@@ -2636,11 +2636,11 @@
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
-      "count": 11
+      "count": 12
     },
     "2DavS3976uZWJvbYH7sbuj": {
       "name": "Overspace",
-      "count": 11
+      "count": 12
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
