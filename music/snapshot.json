@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T21:16:42.231Z",
+  "updatedAt": "2026-08-17T22:13:47.152Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787001307043,
+  "lastPolledAt": 1787004287256,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -830,7 +830,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 13
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -1435,7 +1435,7 @@
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
       "artist": "Neck Deep",
-      "count": 12
+      "count": 13
     },
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
@@ -2001,7 +2001,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 142
+      "count": 152
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2101,7 +2101,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 112
+      "count": 113
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
