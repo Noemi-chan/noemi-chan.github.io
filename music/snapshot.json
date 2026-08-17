@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T05:26:30.753Z",
+  "updatedAt": "2026-08-17T06:32:50.150Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786944248171,
+  "lastPolledAt": 1786946921914,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 251
+    "playCount": 252
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -365,7 +365,7 @@
     "1MpimPh4legrECmPHcdofR": {
       "name": "Where Do We Go When We Go",
       "artist": "Neck Deep",
-      "count": 8
+      "count": 9
     },
     "304zLZAJFOviWv2zSFoaVg": {
       "name": "Thought Crime",
@@ -495,7 +495,7 @@
     "6ZTMwdB4WIjrbphjQGUAV4": {
       "name": "Here, the world!",
       "artist": "sumimi",
-      "count": 9
+      "count": 10
     },
     "0MYYsZfZx6ECK5kefHUHJs": {
       "name": "もういちど ルミナス",
@@ -560,7 +560,7 @@
     "3ajnP3J1EEPpdCjIF9keIE": {
       "name": "In Your Eyes",
       "artist": "Tom Wilson, MAJRO",
-      "count": 10
+      "count": 11
     },
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
@@ -1090,7 +1090,7 @@
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 9
+      "count": 10
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
@@ -1120,7 +1120,7 @@
     "79zgdvnTPyWSuTrd48Ik5O": {
       "name": "百花繚乱",
       "artist": "Lilas",
-      "count": 10
+      "count": 11
     },
     "14WYmNQWvR2TTWoRp8t9Ml": {
       "name": "RATATATA",
@@ -1155,7 +1155,7 @@
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "5uraJqtCBvLpwt3VeomZdq": {
       "name": "Shinzo wo Sasageyo !",
@@ -1425,12 +1425,12 @@
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
       "artist": "Poppin'Party",
-      "count": 8
+      "count": 9
     },
     "5AQxiOtc3EsQSQP2wirgg2": {
       "name": "ナカナ イナ カナイ",
       "artist": "花園たえ(CV:大塚紗英), レイヤ(CV:Raychell)",
-      "count": 7
+      "count": 8
     },
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
@@ -1800,7 +1800,7 @@
     "56qTvG1Ej0wwpKhoWrVdMY": {
       "name": "Yokan Koiuta",
       "artist": "Mamiya(CV:Yui Horie)",
-      "count": 7
+      "count": 8
     },
     "0XeIF0B93rJBlwcoYcLgnX": {
       "name": "Sprechchor",
@@ -1905,7 +1905,7 @@
     "0KbxDQoJBg40hvg34xPuxW": {
       "name": "マハラジャンボリー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 7
+      "count": 8
     },
     "5WPNF8kwbWEDf4A7YA31nI": {
       "name": "ココン東西 (104期Ver.)",
@@ -1976,7 +1976,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 251
+      "count": 252
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2004,7 +2004,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 56
+      "count": 57
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2028,7 +2028,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 134
+      "count": 135
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2096,7 +2096,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 102
+      "count": 103
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2320,7 +2320,7 @@
     },
     "1mcQmE9C1mtNXk1i0qrPdA": {
       "name": "sumimi",
-      "count": 9
+      "count": 10
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
@@ -2348,11 +2348,11 @@
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
-      "count": 10
+      "count": 11
     },
     "6sUsfQ1mfjViQCKig0NtMp": {
       "name": "MAJRO",
-      "count": 10
+      "count": 11
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -2616,7 +2616,7 @@
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
-      "count": 10
+      "count": 11
     },
     "630wzNP2OL7fl4Xl0GnMWq": {
       "name": "BABYMETAL",
@@ -2760,11 +2760,11 @@
     },
     "3m7Y1adYVPRrEcAFffxV7Q": {
       "name": "花園たえ(CV:大塚紗英)",
-      "count": 7
+      "count": 8
     },
     "2s43jUxV6eSRlc9IF6bUD1": {
       "name": "レイヤ(CV:Raychell)",
-      "count": 7
+      "count": 8
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
@@ -2868,7 +2868,7 @@
     },
     "3gkk1UGN5kNXyV6Nbpv279": {
       "name": "Mamiya(CV:Yui Horie)",
-      "count": 7
+      "count": 8
     },
     "0e0gYNGBRufy5XlLh5LJ1Q": {
       "name": "Gaijin Entertainment",
@@ -2900,7 +2900,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 17
+      "count": 18
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
