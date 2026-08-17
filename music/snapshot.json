@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T04:31:29.970Z",
+  "updatedAt": "2026-08-17T05:26:30.753Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786941059424,
+  "lastPolledAt": 1786944248171,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 250
+    "playCount": 251
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -100,7 +100,7 @@
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
       "artist": "西沢幸奏",
-      "count": 14
+      "count": 15
     },
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
@@ -445,7 +445,7 @@
     "3aZQTrc9svekofLsXrv9WZ": {
       "name": "Shinku no Pasión",
       "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 9
+      "count": 10
     },
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
@@ -620,7 +620,7 @@
     "1rTFsQZyUUdokzz3mibkqm": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 7
+      "count": 8
     },
     "0iNEdxHGgVMsCBgHFycwmL": {
       "name": "神さま、バカ",
@@ -655,7 +655,7 @@
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
       "artist": "Alohaii, Miori Celesta",
-      "count": 9
+      "count": 10
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -840,7 +840,7 @@
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
       "artist": "Roselia",
-      "count": 7
+      "count": 8
     },
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
@@ -915,7 +915,7 @@
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 14
+      "count": 15
     },
     "6J03lGLFTEW0pLpPcgvadN": {
       "name": "Emotion Overdrive",
@@ -1335,7 +1335,7 @@
     "4H0h0dLqZl6mR4Lt4vdIXx": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 13
+      "count": 14
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
@@ -1690,7 +1690,7 @@
     "4GHW4tzEf6OBIoyewdBnZX": {
       "name": "Happy Judgement Day",
       "artist": "Neck Deep",
-      "count": 7
+      "count": 8
     },
     "73PAbYaVbnFG0tQ4aBfxeN": {
       "name": "I Ain't Worried",
@@ -1976,7 +1976,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 250
+      "count": 251
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2004,7 +2004,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 55
+      "count": 56
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2036,7 +2036,7 @@
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
-      "count": 14
+      "count": 15
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
@@ -2052,7 +2052,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 77
+      "count": 78
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2096,7 +2096,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 101
+      "count": 102
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2204,7 +2204,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 95
+      "count": 96
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2264,23 +2264,23 @@
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
-      "count": 9
+      "count": 10
     },
     "3tsSGK2yeVzdb9tqR2faOb": {
       "name": "Sayoko Takayama (CV: Yuri Komagata)",
-      "count": 9
+      "count": 10
     },
     "7IFPSph621cFElVwhbhdlA": {
       "name": "Fuka Toyokawa (CV: Rie Suegara)",
-      "count": 9
+      "count": 10
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 14
+      "count": 15
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 9
+      "count": 10
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
@@ -2384,11 +2384,11 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 21
+      "count": 22
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 18
+      "count": 19
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
