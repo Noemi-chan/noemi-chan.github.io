@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T03:40:28.446Z",
+  "updatedAt": "2026-08-17T04:31:29.970Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786937803015,
+  "lastPolledAt": 1786941059424,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 248
+    "playCount": 250
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -160,7 +160,7 @@
     "3AZt0Kw4LzCOANkpNDZScz": {
       "name": "陽だまりロードナイト",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "61Faxn9e21mgi1UFP5C4AB": {
       "name": "Kudaranai ya",
@@ -280,7 +280,7 @@
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 10
+      "count": 11
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -325,12 +325,12 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 9
+      "count": 10
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
       "artist": "Maroon 5",
-      "count": 9
+      "count": 10
     },
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
@@ -635,7 +635,7 @@
     "2TIeha2ARcgw3cZT42eOfP": {
       "name": "しゅわりん☆どり～みん",
       "artist": "Pastel*Palettes",
-      "count": 10
+      "count": 11
     },
     "1nk9moKBnrWMsXoHxnaeJd": {
       "name": "Y (Please Tell Me Why)",
@@ -695,7 +695,7 @@
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
       "artist": "Afterglow",
-      "count": 9
+      "count": 10
     },
     "1zCH2Z7PZkzKnJbnKXP5Ov": {
       "name": "Ether",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 13
+      "count": 14
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -1275,7 +1275,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 8
+      "count": 9
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -1530,7 +1530,7 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 9
+      "count": 10
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
@@ -1825,7 +1825,7 @@
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 5
+      "count": 6
     },
     "0fUep9cjt7yDLBUs2q581v": {
       "name": "AWOKE (104期Ver.)",
@@ -1976,7 +1976,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 248
+      "count": 250
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2028,7 +2028,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 133
+      "count": 134
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2044,15 +2044,15 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 40
+      "count": 41
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 25
+      "count": 26
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 76
+      "count": 77
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2060,7 +2060,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 88
+      "count": 89
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2096,7 +2096,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 100
+      "count": 101
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2160,7 +2160,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 16
+      "count": 17
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -2184,7 +2184,7 @@
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
-      "count": 9
+      "count": 10
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
@@ -2892,7 +2892,7 @@
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 5
+      "count": 6
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
