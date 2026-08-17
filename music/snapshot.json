@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T06:32:50.150Z",
+  "updatedAt": "2026-08-17T07:43:03.038Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1786946921914,
+  "lastPolledAt": 1786952490249,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -495,7 +495,7 @@
     "6ZTMwdB4WIjrbphjQGUAV4": {
       "name": "Here, the world!",
       "artist": "sumimi",
-      "count": 10
+      "count": 11
     },
     "0MYYsZfZx6ECK5kefHUHJs": {
       "name": "もういちど ルミナス",
@@ -2320,7 +2320,7 @@
     },
     "1mcQmE9C1mtNXk1i0qrPdA": {
       "name": "sumimi",
-      "count": 10
+      "count": 11
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
