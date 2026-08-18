@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T18:21:55.878Z",
+  "updatedAt": "2026-08-18T19:21:08.053Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787077278259,
+  "lastPolledAt": 1787080732921,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -25,7 +25,7 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 11
+      "count": 12
     },
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 15
+      "count": 16
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -625,7 +625,7 @@
     "0iNEdxHGgVMsCBgHFycwmL": {
       "name": "神さま、バカ",
       "artist": "Ave Mujica",
-      "count": 4
+      "count": 5
     },
     "0SMtNovWLTRkt9UXMY3SCO": {
       "name": "大胆",
@@ -825,7 +825,7 @@
     "4nfozdNRD6T715w5tmP4XL": {
       "name": "Love me harder",
       "artist": "電音部, Shogo, 早川博隆, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希)",
-      "count": 4
+      "count": 5
     },
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
@@ -1035,7 +1035,7 @@
     "4LjIQmt1t6NjpM0tpttzjo": {
       "name": "勇者",
       "artist": "YOASOBI",
-      "count": 6
+      "count": 7
     },
     "75SixhsPWyRRmtqHeffiXr": {
       "name": "Alone Together",
@@ -1215,7 +1215,7 @@
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 7
+      "count": 8
     },
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
@@ -1745,7 +1745,7 @@
     "2lfs1l1xaVOxrFNqKZrAkk": {
       "name": "Blessing Chord (パラレルver.)",
       "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
-      "count": 2
+      "count": 3
     },
     "7nzbVPqd0HVjdPiK5LZN70": {
       "name": "Tring Quarry",
@@ -1780,7 +1780,7 @@
     "1cwpxTBmnJrN7Qj1UAvB4x": {
       "name": "Rain then Rainbow",
       "artist": "安月名莉子",
-      "count": 6
+      "count": 7
     },
     "4jiyKqRJ25IjaCBaJasQpt": {
       "name": "キセキヒカル",
@@ -1885,7 +1885,7 @@
     "24fIQnkpmhXorJRJXxjbbG": {
       "name": "Link to the FUTURE (104期Ver.)",
       "artist": "スリーズブーケ, DOLLCHESTRA, みらくらぱーく!",
-      "count": 2
+      "count": 7
     },
     "7dNndlA0UPWsjBH2q2oD9k": {
       "name": "Proof",
@@ -2000,7 +2000,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 41
+      "count": 42
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -2016,7 +2016,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 170
+      "count": 171
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2048,7 +2048,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 140
+      "count": 141
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2108,7 +2108,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 20
+      "count": 21
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -2224,7 +2224,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 109
+      "count": 114
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2380,7 +2380,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 18
+      "count": 19
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2476,7 +2476,7 @@
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 8
+      "count": 9
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
@@ -2496,27 +2496,27 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 26
+      "count": 27
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
-      "count": 4
+      "count": 5
     },
     "6HpFEyrszzNRDgU7dpzpdv": {
       "name": "早川博隆",
-      "count": 4
+      "count": 5
     },
     "0JQ292eFZdsbZbYUfNWpph": {
       "name": "黒鉄たま (CV: 秋奈)",
-      "count": 9
+      "count": 10
     },
     "2xJeAewClnCHglceTI3gIw": {
       "name": "白金 煌 (CV: 小宮有紗)",
-      "count": 9
+      "count": 10
     },
     "5B4sSyRcbTVegDTQlj8aX2": {
       "name": "灰島銀華 (CV: 澁谷梓希)",
-      "count": 9
+      "count": 10
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
@@ -2608,7 +2608,7 @@
     },
     "64tJ2EAv1R6UaZqc4iOCyj": {
       "name": "YOASOBI",
-      "count": 6
+      "count": 7
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
@@ -2676,7 +2676,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 43
+      "count": 48
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2872,15 +2872,15 @@
     },
     "0HydIryDI0cb2xdizA8MRu": {
       "name": "I♡インドア",
-      "count": 2
+      "count": 3
     },
     "0wm8M1C1O0Str979kE7MUR": {
       "name": "市ヶ谷有咲(CV:伊藤彩沙)",
-      "count": 2
+      "count": 3
     },
     "5uMq5LpiCbQAuyx2t3oUFW": {
       "name": "倉田ましろ(CV:進藤あまね)",
-      "count": 2
+      "count": 3
     },
     "0XGJ3GUPwslwFJ66yNbHeh": {
       "name": "Trash Boat",
@@ -2920,7 +2920,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 19
+      "count": 24
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
