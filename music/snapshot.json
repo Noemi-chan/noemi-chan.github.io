@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T14:22:50.956Z",
+  "updatedAt": "2026-08-18T15:21:16.427Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787062813064,
+  "lastPolledAt": 1787066435254,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -60,7 +60,7 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 10
+      "count": 13
     },
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
@@ -350,7 +350,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 14
+      "count": 15
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -995,7 +995,7 @@
     "3LwmcYxpqVyEJA8oyYA6js": {
       "name": "way to answer",
       "artist": "fripSide",
-      "count": 8
+      "count": 13
     },
     "2kxfYfgPqiIQMjyCONnDaZ": {
       "name": "迷星叫",
@@ -1890,7 +1890,7 @@
     "7dNndlA0UPWsjBH2q2oD9k": {
       "name": "Proof",
       "artist": "DOLLCHESTRA",
-      "count": 4
+      "count": 5
     },
     "6jIOsqdFCsIo0dTxhO5HBd": {
       "name": "KNOT",
@@ -2014,7 +2014,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 60
+      "count": 63
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2214,7 +2214,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 108
+      "count": 109
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2298,7 +2298,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 25
+      "count": 30
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2666,7 +2666,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 42
+      "count": 43
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
