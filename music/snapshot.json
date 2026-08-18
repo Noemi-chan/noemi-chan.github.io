@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T13:35:17.043Z",
+  "updatedAt": "2026-08-18T14:22:50.956Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787059884246,
+  "lastPolledAt": 1787062813064,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 274
+    "playCount": 275
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -255,7 +255,7 @@
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
       "artist": "Kotoha Tanaka (CV: Risa Taneda), Momoko Suou (CV: Keiko Watanabe), Konomi Baba (CV: Minami Takahashi), Mizuki Makabe (CV: Rika Abe), Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 3
+      "count": 4
     },
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
@@ -350,7 +350,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 4
+      "count": 14
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -1790,7 +1790,7 @@
     "1xwYqbWwl2DBDmXnWErYsZ": {
       "name": "THE HISTORIC...",
       "artist": "Roselia",
-      "count": 7
+      "count": 8
     },
     "48fqIDIQDD1ARyTrlSb8wW": {
       "name": "If I Can Stop One Heart From Breaking",
@@ -1986,7 +1986,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 274
+      "count": 275
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2134,23 +2134,23 @@
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
-      "count": 3
+      "count": 4
     },
     "3Amsmaln3plXWWVJi684Kr": {
       "name": "Momoko Suou (CV: Keiko Watanabe)",
-      "count": 3
+      "count": 4
     },
     "71gXraRrIXOxtuvIGPhQKw": {
       "name": "Konomi Baba (CV: Minami Takahashi)",
-      "count": 3
+      "count": 4
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 9
+      "count": 10
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 3
+      "count": 4
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2214,7 +2214,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 98
+      "count": 108
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
