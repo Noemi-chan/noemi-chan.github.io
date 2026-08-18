@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T22:11:58.418Z",
+  "updatedAt": "2026-08-18T23:12:30.979Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787091117402,
+  "lastPolledAt": 1787094625384,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 275
+    "playCount": 279
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -680,7 +680,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 80
+      "count": 92
     },
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
@@ -1395,7 +1395,7 @@
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 6
+      "count": 10
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -1996,7 +1996,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 275
+      "count": 279
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2416,7 +2416,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 80
+      "count": 92
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
