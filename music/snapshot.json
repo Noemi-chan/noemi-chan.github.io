@@ -1,19 +1,23 @@
 {
-  "updatedAt": "2026-08-18T15:21:16.427Z",
+  "updatedAt": "2026-08-18T16:19:15.756Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787066435254,
+  "lastPolledAt": 1787069914255,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
     "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 50
+    "playCount": 61
   },
   "topArtist": {
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [],
+    "genres": [
+      "j-rock",
+      "j-pop",
+      "anime"
+    ],
     "playCount": 275
   },
   "trackPlayCounts": {
@@ -995,7 +999,7 @@
     "3LwmcYxpqVyEJA8oyYA6js": {
       "name": "way to answer",
       "artist": "fripSide",
-      "count": 13
+      "count": 14
     },
     "2kxfYfgPqiIQMjyCONnDaZ": {
       "name": "迷星叫",
@@ -1220,7 +1224,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 50
+      "count": 61
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
@@ -1981,6 +1985,11 @@
       "name": "CHASE!",
       "artist": "優木せつ菜 (CV.楠木ともり)",
       "count": 1
+    },
+    "0x3mYQTVysvTLp9NlCqORi": {
+      "name": "Dragonhearted",
+      "artist": "Tryhardninja",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -2298,7 +2307,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 30
+      "count": 31
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2478,7 +2487,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 83
+      "count": 94
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
@@ -2922,6 +2931,10 @@
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
+      "count": 1
+    },
+    "0B7Y5KDNScTBzeN7DY74YG": {
+      "name": "Tryhardninja",
       "count": 1
     }
   }
