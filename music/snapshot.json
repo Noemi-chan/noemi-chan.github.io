@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T23:13:08.526Z",
+  "updatedAt": "2026-08-18T00:37:50.884Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787008320931,
+  "lastPolledAt": 1787011733304,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -830,7 +830,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 16
+      "count": 24
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -1570,7 +1570,7 @@
     "2yH6eL6f1Ada5MnmNpiPbr": {
       "name": "blindfolded",
       "artist": "Against The Current",
-      "count": 7
+      "count": 8
     },
     "4blpKVkTvNgEWIlwKWMceR": {
       "name": "なんどだって約束！",
@@ -1650,7 +1650,7 @@
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
       "artist": "Piano Fantasia",
-      "count": 6
+      "count": 7
     },
     "2vCThgwnGOO2PofrVbsyhz": {
       "name": "Genwaku SILHOUETTE - 2023 Version",
@@ -1785,7 +1785,7 @@
     "4jiyKqRJ25IjaCBaJasQpt": {
       "name": "キセキヒカル",
       "artist": "Aqours",
-      "count": 3
+      "count": 4
     },
     "1xwYqbWwl2DBDmXnWErYsZ": {
       "name": "THE HISTORIC...",
@@ -2001,11 +2001,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 155
+      "count": 163
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 19
+      "count": 20
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2097,7 +2097,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 54
+      "count": 55
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2829,7 +2829,7 @@
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
-      "count": 6
+      "count": 7
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
