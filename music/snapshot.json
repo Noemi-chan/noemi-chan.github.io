@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T16:19:15.756Z",
+  "updatedAt": "2026-08-18T17:18:09.243Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787069914255,
+  "lastPolledAt": 1787073310933,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -13,11 +13,7 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
+    "genres": [],
     "playCount": 275
   },
   "trackPlayCounts": {
@@ -1990,6 +1986,11 @@
       "name": "Dragonhearted",
       "artist": "Tryhardninja",
       "count": 1
+    },
+    "35RXJDidNCccveymKdZ2Bp": {
+      "name": "Find the Pieces",
+      "artist": "Tryhardninja",
+      "count": 13
     }
   },
   "artistPlayCounts": {
@@ -2935,7 +2936,7 @@
     },
     "0B7Y5KDNScTBzeN7DY74YG": {
       "name": "Tryhardninja",
-      "count": 1
+      "count": 14
     }
   }
 }
