@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T21:13:54.455Z",
+  "updatedAt": "2026-08-18T22:11:58.418Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787087481242,
+  "lastPolledAt": 1787091117402,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -680,7 +680,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 60
+      "count": 80
     },
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
@@ -2416,7 +2416,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 60
+      "count": 80
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
