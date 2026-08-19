@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T20:15:41.302Z",
+  "updatedAt": "2026-08-19T21:16:12.491Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787170165204,
+  "lastPolledAt": 1787173971820,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 326
+    "playCount": 327
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -60,7 +60,7 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 13
+      "count": 14
     },
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
@@ -140,7 +140,7 @@
     "44eo0BHw6yGD3loZQ0kAHY": {
       "name": "ゆら・ゆらRing-Dong-Dance",
       "artist": "Pastel*Palettes",
-      "count": 10
+      "count": 11
     },
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
@@ -245,7 +245,7 @@
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
       "artist": "Aqours",
-      "count": 9
+      "count": 10
     },
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
@@ -340,7 +340,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 15
+      "count": 16
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -410,7 +410,7 @@
     "5vcQssUaCMTHTFKQXuTITt": {
       "name": "BRAVE JEWEL",
       "artist": "Roselia",
-      "count": 8
+      "count": 9
     },
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
@@ -450,7 +450,7 @@
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
       "artist": "Bring Me The Horizon",
-      "count": 9
+      "count": 10
     },
     "3aJ2aJz5xL03hpaqdPS7Ah": {
       "name": "only my railgun",
@@ -550,7 +550,7 @@
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
       "artist": "Aqours",
-      "count": 5
+      "count": 6
     },
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
@@ -995,12 +995,12 @@
     "3LwmcYxpqVyEJA8oyYA6js": {
       "name": "way to answer",
       "artist": "fripSide",
-      "count": 14
+      "count": 15
     },
     "2kxfYfgPqiIQMjyCONnDaZ": {
       "name": "迷星叫",
       "artist": "MyGO!!!!!",
-      "count": 9
+      "count": 10
     },
     "3rRkDjqEy2n8Qi930AjiSF": {
       "name": "至上主義アドトラック",
@@ -1150,7 +1150,7 @@
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
       "artist": "アンティーカ",
-      "count": 6
+      "count": 7
     },
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
@@ -1590,7 +1590,7 @@
     "5CfYWKBfDGaU9yRt9EDOSm": {
       "name": "シアター生き様",
       "artist": "Edel Note",
-      "count": 11
+      "count": 12
     },
     "0cvKr5hsDQV5DxKgmxWtZm": {
       "name": "STAR BEAT!～ホシノコドウ～",
@@ -1600,7 +1600,7 @@
     "5hJQB4qDmypCtoIpkfOCqC": {
       "name": "Anthem of Dawn",
       "artist": "電音部, 日高零奈 (CV: 蔀 祐佳)",
-      "count": 2
+      "count": 3
     },
     "3pBtDocY7yVquMcs8oUs6V": {
       "name": "Eventually",
@@ -1650,7 +1650,7 @@
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
       "artist": "Piano Fantasia",
-      "count": 8
+      "count": 9
     },
     "2vCThgwnGOO2PofrVbsyhz": {
       "name": "Genwaku SILHOUETTE - 2023 Version",
@@ -1890,7 +1890,7 @@
     "7dNndlA0UPWsjBH2q2oD9k": {
       "name": "Proof",
       "artist": "DOLLCHESTRA",
-      "count": 6
+      "count": 7
     },
     "6jIOsqdFCsIo0dTxhO5HBd": {
       "name": "KNOT",
@@ -1996,7 +1996,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 326
+      "count": 327
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2024,7 +2024,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 63
+      "count": 64
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2060,7 +2060,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 64
+      "count": 65
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2072,7 +2072,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 88
+      "count": 89
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2080,7 +2080,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 97
+      "count": 98
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2112,7 +2112,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 56
+      "count": 58
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2212,7 +2212,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 29
+      "count": 30
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2304,11 +2304,11 @@
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
-      "count": 9
+      "count": 10
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 33
+      "count": 34
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2496,7 +2496,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 27
+      "count": 28
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2676,7 +2676,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 58
+      "count": 59
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2820,11 +2820,11 @@
     },
     "1OmA8j6y4aXQt03qMw5bU1": {
       "name": "Edel Note",
-      "count": 11
+      "count": 12
     },
     "3U8W8KZ51Z96pSqPjkWNYz": {
       "name": "日高零奈 (CV: 蔀 祐佳)",
-      "count": 2
+      "count": 3
     },
     "1qqdO7xMptucPDMopsOdkr": {
       "name": "State Champs",
@@ -2844,7 +2844,7 @@
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
-      "count": 8
+      "count": 9
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
