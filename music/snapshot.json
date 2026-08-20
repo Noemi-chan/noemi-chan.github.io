@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-20T10:19:25.040Z",
+  "updatedAt": "2026-08-20T11:17:41.397Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787220999340,
+  "lastPolledAt": 1787224533599,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 343
+    "playCount": 344
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -180,7 +180,7 @@
     "1rDgAHDX95RmylxjgVW9tN": {
       "name": "Show",
       "artist": "Ado",
-      "count": 3
+      "count": 4
     },
     "5FSP2hxGzUklR4bBb6oWk8": {
       "name": "余韻 - Off Vocal",
@@ -275,12 +275,12 @@
     "3o9kpgkIcffx0iSwxhuNI2": {
       "name": "Numb Little Bug",
       "artist": "Em Beihold",
-      "count": 8
+      "count": 9
     },
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 12
+      "count": 13
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -350,7 +350,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 36
+      "count": 37
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -455,7 +455,7 @@
     "3aJ2aJz5xL03hpaqdPS7Ah": {
       "name": "only my railgun",
       "artist": "fripSide",
-      "count": 11
+      "count": 12
     },
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
@@ -605,7 +605,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 3
+      "count": 4
     },
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
@@ -640,7 +640,7 @@
     "1nk9moKBnrWMsXoHxnaeJd": {
       "name": "Y (Please Tell Me Why)",
       "artist": "freestyle",
-      "count": 4
+      "count": 5
     },
     "0o8mdI1vf5ly2qpCxNJlC1": {
       "name": "Let Me Dance",
@@ -695,7 +695,7 @@
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
       "artist": "Afterglow",
-      "count": 11
+      "count": 12
     },
     "1zCH2Z7PZkzKnJbnKXP5Ov": {
       "name": "Ether",
@@ -860,7 +860,7 @@
     "5TpXNMoNyHiQADfECSfSBD": {
       "name": "Just a Sunny Day for You",
       "artist": "Rachie",
-      "count": 8
+      "count": 9
     },
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
@@ -905,7 +905,7 @@
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
       "artist": "Mitsukiyo",
-      "count": 7
+      "count": 8
     },
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
@@ -1305,7 +1305,7 @@
     "05qCCJQJiOwvPQBb7akf1R": {
       "name": "Jamie All Over",
       "artist": "Mayday Parade",
-      "count": 5
+      "count": 6
     },
     "37o4hZa24AZRREyq0c50Oa": {
       "name": "Oriental Drop",
@@ -1555,7 +1555,7 @@
     "32JhiDVk9SzLbPtdHbCqcB": {
       "name": "VIOLET LINE",
       "artist": "Roselia",
-      "count": 10
+      "count": 11
     },
     "1DSlH3bKoMyah4hythflEG": {
       "name": "Memories of Kindness",
@@ -1765,7 +1765,7 @@
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 7
+      "count": 8
     },
     "2RsB1iRK8dqys4xPYcK73B": {
       "name": "Critical Mistake",
@@ -1855,7 +1855,7 @@
     "0e9I5yTCg5rna47HiIFJMQ": {
       "name": "Holiday∞Holiday (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 2
+      "count": 3
     },
     "54LP7tYJRcYZ06l7AWkIWE": {
       "name": "Mix shake!! (104期Ver.)",
@@ -1905,7 +1905,7 @@
     "0KbxDQoJBg40hvg34xPuxW": {
       "name": "マハラジャンボリー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 9
+      "count": 10
     },
     "5WPNF8kwbWEDf4A7YA31nI": {
       "name": "ココン東西 (104期Ver.)",
@@ -2001,7 +2001,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 343
+      "count": 344
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2053,7 +2053,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 153
+      "count": 154
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2073,7 +2073,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 31
+      "count": 32
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -2109,7 +2109,7 @@
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
-      "count": 3
+      "count": 4
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
@@ -2181,11 +2181,11 @@
     },
     "7o2ZQYM7nTsaVdkXY38UAA": {
       "name": "Em Beihold",
-      "count": 8
+      "count": 9
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 18
+      "count": 19
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -2229,7 +2229,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 144
+      "count": 146
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2241,7 +2241,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 70
+      "count": 72
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2313,7 +2313,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 35
+      "count": 36
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2405,7 +2405,7 @@
     },
     "0LigV2SSsRZaeX2htEFXV9": {
       "name": "freestyle",
-      "count": 4
+      "count": 5
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
@@ -2557,7 +2557,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 13
+      "count": 14
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
@@ -2721,7 +2721,7 @@
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
-      "count": 5
+      "count": 6
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
@@ -2925,7 +2925,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 31
+      "count": 32
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
