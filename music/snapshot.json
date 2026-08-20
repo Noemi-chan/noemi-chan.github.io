@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T15:24:04.091Z",
+  "updatedAt": "2026-08-20T16:22:01.397Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787239359149,
+  "lastPolledAt": 1787242739750,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
     "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 62
+    "playCount": 63
   },
   "topArtist": {
     "name": "Roselia",
@@ -25,7 +25,7 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 12
+      "count": 13
     },
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
@@ -75,7 +75,7 @@
     "3InXtCeZlSGPFdUpeVaiIP": {
       "name": "Crisis",
       "artist": "WSTR",
-      "count": 6
+      "count": 7
     },
     "22eHRqbCHzY8iP9C4FJiRa": {
       "name": "Day Dream",
@@ -625,7 +625,7 @@
     "0iNEdxHGgVMsCBgHFycwmL": {
       "name": "神さま、バカ",
       "artist": "Ave Mujica",
-      "count": 5
+      "count": 6
     },
     "0SMtNovWLTRkt9UXMY3SCO": {
       "name": "大胆",
@@ -780,7 +780,7 @@
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
       "artist": "丸山 彩(CV:前島亜美), 氷川日菜(CV:小澤亜李), 白鷺千聖(CV:上坂すみれ), 大和麻弥(CV:中上育実), 湊 友希那(CV:相羽あいな), 氷川紗夜(CV:工藤晴香), 今井リサ(CV:中島由貴), 白金燐子(CV:志崎樺音), 瀬田 薫(CV:田所あずさ), 松原花音(CV:豊田萌絵)",
-      "count": 7
+      "count": 8
     },
     "7fh1kd9kH1F6aw1zjFOI6X": {
       "name": "天球(そら)のMúsica",
@@ -825,7 +825,7 @@
     "4nfozdNRD6T715w5tmP4XL": {
       "name": "Love me harder",
       "artist": "電音部, Shogo, 早川博隆, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希)",
-      "count": 5
+      "count": 6
     },
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
@@ -835,7 +835,7 @@
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
       "artist": "RAISE A SUILEN",
-      "count": 6
+      "count": 7
     },
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
@@ -1035,7 +1035,7 @@
     "4LjIQmt1t6NjpM0tpttzjo": {
       "name": "勇者",
       "artist": "YOASOBI",
-      "count": 7
+      "count": 8
     },
     "75SixhsPWyRRmtqHeffiXr": {
       "name": "Alone Together",
@@ -1045,7 +1045,7 @@
     "2FSeQD4Tk5ELPtbJHIT1ea": {
       "name": "Clear Morning",
       "artist": "Yui Ogura",
-      "count": 12
+      "count": 13
     },
     "6e2ouMRqwr7bYvKrDBTfmD": {
       "name": "Mujikaku A Priori",
@@ -1220,7 +1220,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 62
+      "count": 63
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
@@ -1550,7 +1550,7 @@
     "1KpbrM0wNIeqiG1JgrUL2U": {
       "name": "Start up Stand up",
       "artist": "ストレイライト",
-      "count": 9
+      "count": 10
     },
     "32JhiDVk9SzLbPtdHbCqcB": {
       "name": "VIOLET LINE",
@@ -1575,7 +1575,7 @@
     "4blpKVkTvNgEWIlwKWMceR": {
       "name": "なんどだって約束！",
       "artist": "Aqours",
-      "count": 9
+      "count": 10
     },
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
@@ -1745,7 +1745,7 @@
     "2lfs1l1xaVOxrFNqKZrAkk": {
       "name": "Blessing Chord (パラレルver.)",
       "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
-      "count": 3
+      "count": 4
     },
     "7nzbVPqd0HVjdPiK5LZN70": {
       "name": "Tring Quarry",
@@ -1885,7 +1885,7 @@
     "24fIQnkpmhXorJRJXxjbbG": {
       "name": "Link to the FUTURE (104期Ver.)",
       "artist": "スリーズブーケ, DOLLCHESTRA, みらくらぱーく!",
-      "count": 13
+      "count": 14
     },
     "7dNndlA0UPWsjBH2q2oD9k": {
       "name": "Proof",
@@ -2005,7 +2005,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 44
+      "count": 45
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -2021,7 +2021,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 203
+      "count": 204
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2041,7 +2041,7 @@
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 15
+      "count": 16
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -2069,7 +2069,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 51
+      "count": 52
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2117,7 +2117,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 62
+      "count": 63
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2229,7 +2229,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 147
+      "count": 148
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2453,47 +2453,47 @@
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
-      "count": 17
+      "count": 18
     },
     "5fBSjYZtRepKT6Om7tofEK": {
       "name": "氷川日菜(CV:小澤亜李)",
-      "count": 7
+      "count": 8
     },
     "1jv55vLFewxt2UQiQYc2IY": {
       "name": "白鷺千聖(CV:上坂すみれ)",
-      "count": 7
+      "count": 8
     },
     "3YdtVks1owJtVkEPrBf47Y": {
       "name": "大和麻弥(CV:中上育実)",
-      "count": 7
+      "count": 8
     },
     "5tb5Ya8txUfxvU3USDffwT": {
       "name": "湊 友希那(CV:相羽あいな)",
-      "count": 17
+      "count": 18
     },
     "6VA1ej0NbUtMULBhiJdD0T": {
       "name": "氷川紗夜(CV:工藤晴香)",
-      "count": 7
+      "count": 8
     },
     "5mHviKZS305LZ8EVFu8BOb": {
       "name": "今井リサ(CV:中島由貴)",
-      "count": 7
+      "count": 8
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 10
+      "count": 12
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
-      "count": 7
+      "count": 8
     },
     "67oUulZoqpQ8GtSoCoumNg": {
       "name": "松原花音(CV:豊田萌絵)",
-      "count": 7
+      "count": 8
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 96
+      "count": 97
     },
     "1Xyo4u8uXC1ZmMpatF05PJ": {
       "name": "The Weeknd",
@@ -2501,27 +2501,27 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 31
+      "count": 32
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
-      "count": 5
+      "count": 6
     },
     "6HpFEyrszzNRDgU7dpzpdv": {
       "name": "早川博隆",
-      "count": 5
+      "count": 6
     },
     "0JQ292eFZdsbZbYUfNWpph": {
       "name": "黒鉄たま (CV: 秋奈)",
-      "count": 11
+      "count": 12
     },
     "2xJeAewClnCHglceTI3gIw": {
       "name": "白金 煌 (CV: 小宮有紗)",
-      "count": 11
+      "count": 12
     },
     "5B4sSyRcbTVegDTQlj8aX2": {
       "name": "灰島銀華 (CV: 澁谷梓希)",
-      "count": 11
+      "count": 12
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
@@ -2589,7 +2589,7 @@
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
-      "count": 12
+      "count": 13
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
@@ -2613,11 +2613,11 @@
     },
     "64tJ2EAv1R6UaZqc4iOCyj": {
       "name": "YOASOBI",
-      "count": 7
+      "count": 8
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
-      "count": 12
+      "count": 13
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
@@ -2681,7 +2681,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 61
+      "count": 62
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2877,15 +2877,15 @@
     },
     "0HydIryDI0cb2xdizA8MRu": {
       "name": "I♡インドア",
-      "count": 3
+      "count": 4
     },
     "0wm8M1C1O0Str979kE7MUR": {
       "name": "市ヶ谷有咲(CV:伊藤彩沙)",
-      "count": 3
+      "count": 4
     },
     "5uMq5LpiCbQAuyx2t3oUFW": {
       "name": "倉田ましろ(CV:進藤あまね)",
-      "count": 3
+      "count": 4
     },
     "0XGJ3GUPwslwFJ66yNbHeh": {
       "name": "Trash Boat",
@@ -2925,7 +2925,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 32
+      "count": 33
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
