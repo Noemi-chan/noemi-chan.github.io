@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T19:18:54.255Z",
+  "updatedAt": "2026-08-21T20:14:05.190Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787339711957,
+  "lastPolledAt": 1787343063957,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 374
+    "playCount": 376
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -50,7 +50,7 @@
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
       "artist": "Ave Mujica",
-      "count": 14
+      "count": 15
     },
     "7tBbT0mu8TOhDciTPRsOMq": {
       "name": "silent stranger",
@@ -125,7 +125,7 @@
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
       "artist": "Afterglow",
-      "count": 14
+      "count": 15
     },
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
@@ -155,7 +155,7 @@
     "5fIyCNQWyLFdcqZW47QEQo": {
       "name": "Eight Melodies (From \"Earthbound Zero\") [Orchestral Remix]",
       "artist": "Pascal Michael Stiefel, Laura Platt",
-      "count": 6
+      "count": 7
     },
     "3AZt0Kw4LzCOANkpNDZScz": {
       "name": "陽だまりロードナイト",
@@ -205,7 +205,7 @@
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
       "artist": "Epic Score",
-      "count": 7
+      "count": 8
     },
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
@@ -225,7 +225,7 @@
     "3rT0UIwun3kYrsDhunfmiR": {
       "name": "Blue Canvas",
       "artist": "ClariS",
-      "count": 9
+      "count": 10
     },
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
@@ -250,7 +250,7 @@
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
       "artist": "Caskets",
-      "count": 14
+      "count": 15
     },
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
@@ -315,7 +315,7 @@
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
       "artist": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 10
+      "count": 11
     },
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
@@ -325,7 +325,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 12
+      "count": 13
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
@@ -390,7 +390,7 @@
     "68OymWhEAobP8ljyEoOo1M": {
       "name": "Sage der Rosen",
       "artist": "Roselia",
-      "count": 8
+      "count": 9
     },
     "5VEsi6BxUXSYUXdOvJrZYe": {
       "name": "Azalea",
@@ -590,7 +590,7 @@
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
       "artist": "Neck Deep",
-      "count": 3
+      "count": 4
     },
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 13
+      "count": 14
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -1065,7 +1065,7 @@
     "4D8wqdUzClwaWXLWRCv0Vi": {
       "name": "Cassette Tape Dream",
       "artist": "しゃろう",
-      "count": 7
+      "count": 8
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
@@ -1155,7 +1155,7 @@
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
       "artist": "Roselia",
-      "count": 13
+      "count": 14
     },
     "5uraJqtCBvLpwt3VeomZdq": {
       "name": "Shinzo wo Sasageyo !",
@@ -1265,7 +1265,7 @@
     "0RvvNjSDtNedo0dy8C2TAC": {
       "name": "hope ur happy",
       "artist": "Until I Wake",
-      "count": 5
+      "count": 6
     },
     "4V1PhMpWs2nVaP7ikGuQwy": {
       "name": "Silhouette",
@@ -1710,7 +1710,7 @@
     "6D0IAyrFw0vhSlC4LWVvXQ": {
       "name": "Toaru Eiyutachi no Monogatari",
       "artist": "アンティーカ",
-      "count": 5
+      "count": 6
     },
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
@@ -2011,7 +2011,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 374
+      "count": 376
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2023,7 +2023,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 25
+      "count": 26
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -2031,7 +2031,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 212
+      "count": 213
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2075,7 +2075,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 78
+      "count": 79
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2083,7 +2083,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 33
+      "count": 34
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -2107,11 +2107,11 @@
     },
     "3FU61shb6MdX8NLBnBauTI": {
       "name": "Pascal Michael Stiefel",
-      "count": 6
+      "count": 7
     },
     "2K1Ps7vnKg2AnKsSoVqH4P": {
       "name": "Laura Platt",
-      "count": 6
+      "count": 7
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -2131,7 +2131,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 135
+      "count": 137
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2139,7 +2139,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 19
+      "count": 20
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -2155,7 +2155,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 26
+      "count": 27
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -2215,7 +2215,7 @@
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 10
+      "count": 11
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
@@ -2223,7 +2223,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 29
+      "count": 30
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2455,7 +2455,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 18
+      "count": 19
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2695,7 +2695,7 @@
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
-      "count": 5
+      "count": 6
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
