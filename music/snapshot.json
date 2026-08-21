@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T10:19:47.596Z",
+  "updatedAt": "2026-08-21T11:16:55.329Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787307371176,
+  "lastPolledAt": 1787310903424,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 364
+    "playCount": 365
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -145,7 +145,7 @@
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
       "artist": "由崎司(CV:鬼頭明里)",
-      "count": 6
+      "count": 7
     },
     "5XvpDIZqga1XDpt8HcAUOA": {
       "name": "realize",
@@ -360,7 +360,7 @@
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 7
+      "count": 8
     },
     "1MpimPh4legrECmPHcdofR": {
       "name": "Where Do We Go When We Go",
@@ -385,7 +385,7 @@
     "2grjqo0Frpf2okIBiifQKs": {
       "name": "September",
       "artist": "Earth, Wind & Fire",
-      "count": 9
+      "count": 10
     },
     "68OymWhEAobP8ljyEoOo1M": {
       "name": "Sage der Rosen",
@@ -405,7 +405,7 @@
     "404bfT8cVTOCHw2fvGhZNU": {
       "name": "Step by Step",
       "artist": "KARUT",
-      "count": 9
+      "count": 10
     },
     "5vcQssUaCMTHTFKQXuTITt": {
       "name": "BRAVE JEWEL",
@@ -485,7 +485,7 @@
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
       "artist": "RAISE A SUILEN",
-      "count": 9
+      "count": 10
     },
     "72CJJVeeqzRRlWW1jv90A6": {
       "name": "みんなと一緒なら",
@@ -505,7 +505,7 @@
     "3zjSOc0XcoOpRoh2fyfB35": {
       "name": "Edel Lilie",
       "artist": "一柳隊",
-      "count": 11
+      "count": 12
     },
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
@@ -535,7 +535,7 @@
     "1U9DXW2cBhCju3l0OWK1i6": {
       "name": "壱雫空",
       "artist": "MyGO!!!!!",
-      "count": 11
+      "count": 12
     },
     "2GC2OsWhRm9ltfxWBKuHhE": {
       "name": "春日影 (MyGO!!!!! ver.)",
@@ -675,7 +675,7 @@
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
       "artist": "A Day To Remember",
-      "count": 23
+      "count": 24
     },
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
@@ -765,7 +765,7 @@
     "0COqiPhxzoWICwFCS4eZcp": {
       "name": "Bring Me To Life",
       "artist": "Evanescence",
-      "count": 4
+      "count": 5
     },
     "6TyNKENZ3rrnZklMzj1z6z": {
       "name": "3:03 PM",
@@ -900,7 +900,7 @@
     "1fEqKjJSC5N9knIalwYmJS": {
       "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
       "artist": "RichaadEB",
-      "count": 7
+      "count": 8
     },
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
@@ -985,7 +985,7 @@
     "25Eq9bzwKMX3yZTV4qpp8U": {
       "name": "Smooth Seas Don't Make Good Sailors",
       "artist": "Neck Deep",
-      "count": 13
+      "count": 14
     },
     "1AWg0OaeyGyr56J3LEHF8N": {
       "name": "Freedom",
@@ -1075,7 +1075,7 @@
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
       "artist": "The Winking Owl",
-      "count": 5
+      "count": 6
     },
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
@@ -1120,7 +1120,7 @@
     "79zgdvnTPyWSuTrd48Ik5O": {
       "name": "百花繚乱",
       "artist": "Lilas",
-      "count": 14
+      "count": 15
     },
     "14WYmNQWvR2TTWoRp8t9Ml": {
       "name": "RATATATA",
@@ -1475,12 +1475,12 @@
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "2GP0PeV4rJ5Llgm5u4Qi1j": {
       "name": "前へススメ！",
       "artist": "Poppin'Party",
-      "count": 8
+      "count": 9
     },
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
@@ -2011,7 +2011,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 364
+      "count": 365
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2063,7 +2063,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 164
+      "count": 165
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2079,7 +2079,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 55
+      "count": 56
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2087,7 +2087,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 105
+      "count": 106
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2099,7 +2099,7 @@
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
-      "count": 6
+      "count": 7
     },
     "2yRnjWtHzmDELwYaUiX0Yh": {
       "name": "Atarayo",
@@ -2131,7 +2131,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 132
+      "count": 133
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2247,7 +2247,7 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 7
+      "count": 8
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
@@ -2259,7 +2259,7 @@
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
-      "count": 9
+      "count": 10
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
@@ -2275,7 +2275,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 28
+      "count": 29
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
@@ -2359,7 +2359,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 20
+      "count": 21
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
@@ -2427,7 +2427,7 @@
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
-      "count": 23
+      "count": 24
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
@@ -2439,7 +2439,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 25
+      "count": 26
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
@@ -2451,7 +2451,7 @@
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
-      "count": 4
+      "count": 5
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
@@ -2635,7 +2635,7 @@
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
-      "count": 5
+      "count": 6
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
@@ -2651,7 +2651,7 @@
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
-      "count": 14
+      "count": 15
     },
     "630wzNP2OL7fl4Xl0GnMWq": {
       "name": "BABYMETAL",
