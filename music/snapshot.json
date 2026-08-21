@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T12:25:31.462Z",
+  "updatedAt": "2026-08-21T13:37:10.367Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787313136732,
+  "lastPolledAt": 1787319352718,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 365
+    "playCount": 366
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -60,12 +60,12 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 16
+      "count": 17
     },
     "0FcS0Cpz3tK1DLXIzr6iL2": {
       "name": "Bury the Light",
       "artist": "Casey Edwards",
-      "count": 6
+      "count": 7
     },
     "6aWx4iupVFAYnOyGVMUDWr": {
       "name": "Hakanai Koigokoro",
@@ -165,7 +165,7 @@
     "61Faxn9e21mgi1UFP5C4AB": {
       "name": "Kudaranai ya",
       "artist": "コメティック",
-      "count": 12
+      "count": 13
     },
     "6XWdcMK2pfSjDkFbRtiwIk": {
       "name": "イントロダクション",
@@ -310,7 +310,7 @@
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
       "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 12
+      "count": 13
     },
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
@@ -450,7 +450,7 @@
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
       "artist": "Bring Me The Horizon",
-      "count": 11
+      "count": 12
     },
     "3aJ2aJz5xL03hpaqdPS7Ah": {
       "name": "only my railgun",
@@ -515,7 +515,7 @@
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
       "artist": "ブレンド・A",
-      "count": 8
+      "count": 9
     },
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
@@ -530,7 +530,7 @@
     "74oAk5kk9HxpnxYNViPUQw": {
       "name": "Eternal Light",
       "artist": "DiverDiva",
-      "count": 11
+      "count": 12
     },
     "1U9DXW2cBhCju3l0OWK1i6": {
       "name": "壱雫空",
@@ -550,7 +550,7 @@
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
       "artist": "Aqours",
-      "count": 8
+      "count": 9
     },
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
@@ -560,7 +560,7 @@
     "3ajnP3J1EEPpdCjIF9keIE": {
       "name": "In Your Eyes",
       "artist": "Tom Wilson, MAJRO",
-      "count": 13
+      "count": 14
     },
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
@@ -760,7 +760,7 @@
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
       "artist": "Tacitly",
-      "count": 14
+      "count": 15
     },
     "0COqiPhxzoWICwFCS4eZcp": {
       "name": "Bring Me To Life",
@@ -970,7 +970,7 @@
     "3x66sbKzXN2KJfn9gxyoaZ": {
       "name": "Veins of FLOWER",
       "artist": "吉村・Thi・梅(CV:岩田陽葵)",
-      "count": 13
+      "count": 14
     },
     "7zxz9xLJvou9iSRYiIq3TX": {
       "name": "影色舞",
@@ -1085,7 +1085,7 @@
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
       "artist": "Le Castle Vania",
-      "count": 5
+      "count": 6
     },
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
@@ -1395,7 +1395,7 @@
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 19
+      "count": 20
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -1600,7 +1600,7 @@
     "5hJQB4qDmypCtoIpkfOCqC": {
       "name": "Anthem of Dawn",
       "artist": "電音部, 日高零奈 (CV: 蔀 祐佳)",
-      "count": 5
+      "count": 6
     },
     "3pBtDocY7yVquMcs8oUs6V": {
       "name": "Eventually",
@@ -1690,7 +1690,7 @@
     "4GHW4tzEf6OBIoyewdBnZX": {
       "name": "Happy Judgement Day",
       "artist": "Neck Deep",
-      "count": 9
+      "count": 10
     },
     "73PAbYaVbnFG0tQ4aBfxeN": {
       "name": "I Ain't Worried",
@@ -1980,7 +1980,7 @@
     "0G9AVuZ44K6QKsFOX4wgJ9": {
       "name": "CHASE!",
       "artist": "優木せつ菜 (CV.楠木ともり)",
-      "count": 5
+      "count": 6
     },
     "0x3mYQTVysvTLp9NlCqORi": {
       "name": "Dragonhearted",
@@ -2011,7 +2011,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 365
+      "count": 366
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2039,11 +2039,11 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 69
+      "count": 70
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
-      "count": 6
+      "count": 7
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
@@ -2115,7 +2115,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 27
+      "count": 28
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -2127,11 +2127,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 68
+      "count": 69
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 133
+      "count": 134
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2211,7 +2211,7 @@
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 12
+      "count": 13
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -2319,7 +2319,7 @@
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
-      "count": 11
+      "count": 12
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
@@ -2367,7 +2367,7 @@
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
-      "count": 8
+      "count": 9
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
@@ -2375,7 +2375,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 25
+      "count": 26
     },
     "0QwTvn35AQMMELpKDU176h": {
       "name": "亜咲花",
@@ -2383,11 +2383,11 @@
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
-      "count": 13
+      "count": 14
     },
     "6sUsfQ1mfjViQCKig0NtMp": {
       "name": "MAJRO",
-      "count": 13
+      "count": 14
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -2443,7 +2443,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 39
+      "count": 40
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2511,7 +2511,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 35
+      "count": 36
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2583,7 +2583,7 @@
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
-      "count": 13
+      "count": 14
     },
     "1hUfCEkL8nv3iYXDRuvJcn": {
       "name": "海野夏希(CV：福圓美里)",
@@ -2639,7 +2639,7 @@
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
-      "count": 5
+      "count": 6
     },
     "2K2bsaNeuQAFkuVwrrlJe0": {
       "name": "Wind Walkers",
@@ -2839,7 +2839,7 @@
     },
     "3U8W8KZ51Z96pSqPjkWNYz": {
       "name": "日高零奈 (CV: 蔀 祐佳)",
-      "count": 5
+      "count": 6
     },
     "1qqdO7xMptucPDMopsOdkr": {
       "name": "State Champs",
@@ -2947,7 +2947,7 @@
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
-      "count": 5
+      "count": 6
     },
     "0B7Y5KDNScTBzeN7DY74YG": {
       "name": "Tryhardninja",
