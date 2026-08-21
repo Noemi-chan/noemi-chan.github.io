@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T00:41:01.164Z",
+  "updatedAt": "2026-08-21T02:17:49.490Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787272540568,
+  "lastPolledAt": 1787278190281,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 361
+    "playCount": 362
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -170,7 +170,7 @@
     "6XWdcMK2pfSjDkFbRtiwIk": {
       "name": "イントロダクション",
       "artist": "Poppin'Party",
-      "count": 9
+      "count": 10
     },
     "0XKe6ptxwy1yjusyER0ZTi": {
       "name": "DRIVE US CRAZY",
@@ -260,7 +260,7 @@
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
       "artist": "Carly Rae Jepsen",
-      "count": 7
+      "count": 8
     },
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
@@ -515,7 +515,7 @@
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
       "artist": "ブレンド・A",
-      "count": 7
+      "count": 8
     },
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
@@ -925,7 +925,7 @@
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 8
+      "count": 9
     },
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
@@ -1165,7 +1165,7 @@
     "6ss2vUwrV64xAVE4fXZMIh": {
       "name": "I Really Like You",
       "artist": "Carly Rae Jepsen",
-      "count": 6
+      "count": 7
     },
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
@@ -1395,7 +1395,7 @@
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 18
+      "count": 19
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -1440,7 +1440,7 @@
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 10
+      "count": 11
     },
     "0lpjCTr8jR9E51t1ha3aGj": {
       "name": "late in autumn",
@@ -1510,7 +1510,7 @@
     "0UtKB8cQG1rk4lBNC6whRg": {
       "name": "Pushing Me Closer",
       "artist": "August Whitaker",
-      "count": 9
+      "count": 10
     },
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
@@ -1680,7 +1680,7 @@
     "30YHwRbmrAftaqaoURY44m": {
       "name": "Tabimichi Yoiyoi Yume Hanabi",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 5
+      "count": 6
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -2006,7 +2006,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 361
+      "count": 362
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2042,7 +2042,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 19
+      "count": 20
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2058,7 +2058,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 158
+      "count": 160
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2122,7 +2122,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 66
+      "count": 67
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2174,7 +2174,7 @@
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 13
+      "count": 15
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
@@ -2362,7 +2362,7 @@
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
-      "count": 7
+      "count": 8
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
@@ -2802,7 +2802,7 @@
     },
     "3WYvIdZsoEzhbdBJ8tpxvw": {
       "name": "August Whitaker",
-      "count": 9
+      "count": 10
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
