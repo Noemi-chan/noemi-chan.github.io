@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T18:21:57.206Z",
+  "updatedAt": "2026-08-21T19:18:54.255Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787336510443,
+  "lastPolledAt": 1787339711957,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 373
+    "playCount": 374
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -30,7 +30,7 @@
     "1500AmV840OOc0hJnTQGrL": {
       "name": "PASSIONATE ANTHEM",
       "artist": "Roselia",
-      "count": 9
+      "count": 10
     },
     "4HLcj0MD2tg91flaBCIJHJ": {
       "name": "Tastes Like You",
@@ -520,7 +520,7 @@
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
       "artist": "シャイニーカラーズ",
-      "count": 4
+      "count": 5
     },
     "4AyjEuG3ODerWxU0xUo0eY": {
       "name": "六兆年と一夜物語 (Cover)",
@@ -595,7 +595,7 @@
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
       "artist": "MyGO!!!!!",
-      "count": 7
+      "count": 9
     },
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
@@ -810,7 +810,7 @@
     "21GoIbILlS9VcI5aFIgiM9": {
       "name": "銀翼のアヴニール -become the brave-",
       "artist": "アンティーカ",
-      "count": 10
+      "count": 11
     },
     "0VjIjW4GlUZAMYd2vXMi3b": {
       "name": "Blinding Lights",
@@ -870,7 +870,7 @@
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
       "artist": "Ave Mujica",
-      "count": 25
+      "count": 26
     },
     "7tI5GDU50puokqzVy3rlsR": {
       "name": "DROPOUT!?",
@@ -1275,7 +1275,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 11
+      "count": 12
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -1465,12 +1465,12 @@
     "2lTTUaOv8OQAucFoFJrouC": {
       "name": "Power of LOVE!!!",
       "artist": "Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "7c7Mi8PKULCCvhWkpgyM2t": {
       "name": "Daylight -デイライト-",
       "artist": "Morfonica",
-      "count": 7
+      "count": 8
     },
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
@@ -1660,7 +1660,7 @@
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
       "artist": "Rachie",
-      "count": 16
+      "count": 17
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
@@ -2011,7 +2011,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 373
+      "count": 374
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2031,7 +2031,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 211
+      "count": 212
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2039,7 +2039,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 71
+      "count": 72
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2075,11 +2075,11 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 77
+      "count": 78
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 57
+      "count": 58
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2087,7 +2087,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 110
+      "count": 112
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2095,7 +2095,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 113
+      "count": 114
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2251,7 +2251,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 77
+      "count": 78
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2371,7 +2371,7 @@
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
-      "count": 4
+      "count": 5
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
