@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T22:11:11.306Z",
+  "updatedAt": "2026-08-22T23:11:04.201Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787436433780,
+  "lastPolledAt": 1787440124074,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 411
+    "playCount": 413
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -235,7 +235,7 @@
     "2nIF3nXAKPmbeONeQVEVWg": {
       "name": "Stay Alive (Official ESL Theme)",
       "artist": "Leet Mob",
-      "count": 11
+      "count": 12
     },
     "18ZgnKxWQ8z1KiA2A3xky6": {
       "name": "Numb Little Bug",
@@ -315,7 +315,7 @@
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
       "artist": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 12
+      "count": 13
     },
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
@@ -340,7 +340,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 17
+      "count": 18
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -420,7 +420,7 @@
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 5
+      "count": 6
     },
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
@@ -540,7 +540,7 @@
     "2GC2OsWhRm9ltfxWBKuHhE": {
       "name": "春日影 (MyGO!!!!! ver.)",
       "artist": "MyGO!!!!!",
-      "count": 5
+      "count": 6
     },
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
@@ -565,7 +565,7 @@
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
       "artist": "Roselia",
-      "count": 5
+      "count": 6
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -620,7 +620,7 @@
     "1rTFsQZyUUdokzz3mibkqm": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 8
+      "count": 9
     },
     "0iNEdxHGgVMsCBgHFycwmL": {
       "name": "神さま、バカ",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 18
+      "count": 19
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -1275,7 +1275,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 13
+      "count": 14
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -1295,7 +1295,7 @@
     "3Xfg7AegXaDLoD5GOUMf2e": {
       "name": "My Demons",
       "artist": "STARSET",
-      "count": 4
+      "count": 5
     },
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
@@ -1315,7 +1315,7 @@
     "7IZXTbPCnF4PJzsVIx4huE": {
       "name": "Everything Goes On",
       "artist": "AARCADE, Victoria Kwan",
-      "count": 13
+      "count": 14
     },
     "6vzxtLRnG1F2XrSD0O41lv": {
       "name": "Shelter (Piano Arrange) - Cover",
@@ -1355,7 +1355,7 @@
     "5AUgGQ6WIJTGNClxBiip6D": {
       "name": "天下トーイツA to Z☆",
       "artist": "Pastel*Palettes",
-      "count": 10
+      "count": 11
     },
     "7jwDuO7UZvWs77KNj9HbvF": {
       "name": "The Phoenix",
@@ -1530,7 +1530,7 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 12
+      "count": 13
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
@@ -1580,7 +1580,7 @@
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 8
+      "count": 9
     },
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
@@ -2010,13 +2010,13 @@
     "5cGTr7yx9wo6NkgQV4eqdW": {
       "name": "Trapped in the past",
       "artist": "TUYU",
-      "count": 1
+      "count": 2
     }
   },
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 411
+      "count": 413
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2052,7 +2052,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 25
+      "count": 26
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2084,7 +2084,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 61
+      "count": 62
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2092,7 +2092,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 123
+      "count": 126
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 119
+      "count": 120
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2152,7 +2152,7 @@
     },
     "37H5Xn3SbccttHx8hPcahK": {
       "name": "Leet Mob",
-      "count": 11
+      "count": 12
     },
     "00YTqRClk82aMchQQpYMd5": {
       "name": "Our Last Night",
@@ -2220,7 +2220,7 @@
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
-      "count": 12
+      "count": 13
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
@@ -2232,7 +2232,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 31
+      "count": 32
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2284,7 +2284,7 @@
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 5
+      "count": 6
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -2580,7 +2580,7 @@
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
-      "count": 16
+      "count": 17
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
@@ -2728,7 +2728,7 @@
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
-      "count": 4
+      "count": 5
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
@@ -2740,11 +2740,11 @@
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
-      "count": 13
+      "count": 14
     },
     "5nMHOJgAzU0zLB2YAfOWgx": {
       "name": "Victoria Kwan",
-      "count": 13
+      "count": 14
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
