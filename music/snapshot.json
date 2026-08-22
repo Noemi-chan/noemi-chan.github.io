@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T08:17:17.230Z",
+  "updatedAt": "2026-08-22T09:17:17.150Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787386537630,
+  "lastPolledAt": 1787390019908,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 392
+    "playCount": 393
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -50,7 +50,7 @@
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
       "artist": "Ave Mujica",
-      "count": 15
+      "count": 16
     },
     "7tBbT0mu8TOhDciTPRsOMq": {
       "name": "silent stranger",
@@ -85,7 +85,7 @@
     "5dp3vri4d2JjeBsGriLFyW": {
       "name": "IMAWA IINDAYO - Cover",
       "artist": "Kotoha",
-      "count": 16
+      "count": 17
     },
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
@@ -210,7 +210,7 @@
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
       "artist": "Roselia",
-      "count": 12
+      "count": 13
     },
     "0OXdfW3Q6VJGpg1k5Ik1SW": {
       "name": "Give Me a Kiss",
@@ -510,7 +510,7 @@
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
       "artist": "You vs Yesterday",
-      "count": 19
+      "count": 20
     },
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
@@ -645,7 +645,7 @@
     "0o8mdI1vf5ly2qpCxNJlC1": {
       "name": "Let Me Dance",
       "artist": "Alohaii, Miori Celesta",
-      "count": 12
+      "count": 13
     },
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
@@ -720,7 +720,7 @@
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
       "artist": "Memphis May Fire",
-      "count": 13
+      "count": 14
     },
     "2EPQXOr3VLvDImQnoHOYO3": {
       "name": "One More Last Time",
@@ -850,7 +850,7 @@
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
       "artist": "電音部, 犬吠埼紫杏 (CV: 長谷川玲奈), Moe Shop",
-      "count": 17
+      "count": 18
     },
     "4KnNm7hlCemSnknSVmwaP3": {
       "name": "Hareklavit",
@@ -1655,7 +1655,7 @@
     "2vCThgwnGOO2PofrVbsyhz": {
       "name": "Genwaku SILHOUETTE - 2023 Version",
       "artist": "アンティーカ",
-      "count": 14
+      "count": 15
     },
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
@@ -1670,7 +1670,7 @@
     "1y3zD8d7VKzJjfXVp6KcUx": {
       "name": "Opening Titles",
       "artist": "Hans Zimmer",
-      "count": 7
+      "count": 8
     },
     "6f5wgQEqniRTBX8lzQCW5s": {
       "name": "Neunt Praeludium",
@@ -1700,7 +1700,7 @@
     "1uPqnaQ4r1Fwe4KijfYGKD": {
       "name": "It's My Life - Old Classic Version",
       "artist": "Selo i Ludy",
-      "count": 6
+      "count": 7
     },
     "4Ssi6tKwrTHi5qvDndrZRP": {
       "name": "Wish You Were Here",
@@ -1715,7 +1715,7 @@
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
       "artist": "白井夢結(CV:夏吉ゆうこ)",
-      "count": 7
+      "count": 8
     },
     "3uXz1lgsibXdWQ05wc2P6f": {
       "name": "競宴Red×Violet",
@@ -1755,7 +1755,7 @@
     "48SXLkk7Af6UtE1GGUu261": {
       "name": "CiRCLING",
       "artist": "Poppin'Party",
-      "count": 11
+      "count": 12
     },
     "50nRYeiTbC3QpKYFdAR6HJ": {
       "name": "What’s the POPIPA!?",
@@ -1875,7 +1875,7 @@
     "1sBEdnQ0GFLG82thCDKsYq": {
       "name": "夏めきペイン (104期Ver.)",
       "artist": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 5
+      "count": 6
     },
     "59F8u0SW47p647a1Dzslra": {
       "name": "DEEPNESS (ReC Ver.)",
@@ -2016,11 +2016,11 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 392
+      "count": 393
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 53
+      "count": 54
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 221
+      "count": 222
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2064,11 +2064,11 @@
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
-      "count": 16
+      "count": 17
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 180
+      "count": 181
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2080,7 +2080,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 84
+      "count": 85
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2368,7 +2368,7 @@
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
-      "count": 19
+      "count": 20
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
@@ -2424,11 +2424,11 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 26
+      "count": 27
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 23
+      "count": 24
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
@@ -2516,7 +2516,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 38
+      "count": 39
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2544,11 +2544,11 @@
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
-      "count": 17
+      "count": 18
     },
     "7cvljqLNhWNFMb8wP2NImJ": {
       "name": "Moe Shop",
-      "count": 17
+      "count": 18
     },
     "49yTs5PHrOjyslAqSF2iCG": {
       "name": "Keygen Church",
@@ -2868,7 +2868,7 @@
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
-      "count": 7
+      "count": 8
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2880,11 +2880,11 @@
     },
     "0LtYhakgj2VJgFrBh0JTfh": {
       "name": "Selo i Ludy",
-      "count": 6
+      "count": 7
     },
     "5vIveF4PTVZwgynLZmtkqw": {
       "name": "白井夢結(CV:夏吉ゆうこ)",
-      "count": 7
+      "count": 8
     },
     "7o95ZoZt5ZYn31e9z1Hc0a": {
       "name": "Natasha Bedingfield",
@@ -2936,7 +2936,7 @@
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 22
+      "count": 23
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
