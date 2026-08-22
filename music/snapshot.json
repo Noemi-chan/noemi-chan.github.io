@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T13:23:57.312Z",
+  "updatedAt": "2026-08-22T14:11:52.952Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787404873274,
+  "lastPolledAt": 1787407587678,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 400
+    "playCount": 401
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -205,7 +205,7 @@
     "2vQrgBIkFTILDjXaY1AMxX": {
       "name": "Eruption",
       "artist": "Epic Score",
-      "count": 9
+      "count": 10
     },
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
@@ -225,7 +225,7 @@
     "3rT0UIwun3kYrsDhunfmiR": {
       "name": "Blue Canvas",
       "artist": "ClariS",
-      "count": 10
+      "count": 11
     },
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
@@ -325,7 +325,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 14
+      "count": 15
     },
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
@@ -460,7 +460,7 @@
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
       "artist": "Wilbert Roget, II",
-      "count": 13
+      "count": 14
     },
     "6VTVySG44qtMjybocs9Rpo": {
       "name": "Kimi ni Aetahi",
@@ -590,7 +590,7 @@
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
       "artist": "Neck Deep",
-      "count": 4
+      "count": 5
     },
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 14
+      "count": 15
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -1065,7 +1065,7 @@
     "4D8wqdUzClwaWXLWRCv0Vi": {
       "name": "Cassette Tape Dream",
       "artist": "しゃろう",
-      "count": 8
+      "count": 9
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
@@ -1090,7 +1090,7 @@
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 13
+      "count": 14
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
@@ -1265,7 +1265,7 @@
     "0RvvNjSDtNedo0dy8C2TAC": {
       "name": "hope ur happy",
       "artist": "Until I Wake",
-      "count": 6
+      "count": 7
     },
     "4V1PhMpWs2nVaP7ikGuQwy": {
       "name": "Silhouette",
@@ -1315,7 +1315,7 @@
     "7IZXTbPCnF4PJzsVIx4huE": {
       "name": "Everything Goes On",
       "artist": "AARCADE, Victoria Kwan",
-      "count": 11
+      "count": 12
     },
     "6vzxtLRnG1F2XrSD0O41lv": {
       "name": "Shelter (Piano Arrange) - Cover",
@@ -1340,7 +1340,7 @@
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
       "artist": "Roselia",
-      "count": 15
+      "count": 16
     },
     "3FdI2uFUxKWm9kmPkIYYf3": {
       "name": "Wide Awake",
@@ -1665,7 +1665,7 @@
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
-      "count": 8
+      "count": 9
     },
     "1y3zD8d7VKzJjfXVp6KcUx": {
       "name": "Opening Titles",
@@ -1710,7 +1710,7 @@
     "6D0IAyrFw0vhSlC4LWVvXQ": {
       "name": "Toaru Eiyutachi no Monogatari",
       "artist": "アンティーカ",
-      "count": 7
+      "count": 8
     },
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 400
+      "count": 401
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2028,7 +2028,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 28
+      "count": 29
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
@@ -2044,7 +2044,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 76
+      "count": 77
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2080,7 +2080,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 87
+      "count": 88
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2136,7 +2136,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 143
+      "count": 145
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2144,7 +2144,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 21
+      "count": 22
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -2228,7 +2228,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 31
+      "count": 32
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2332,7 +2332,7 @@
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
-      "count": 13
+      "count": 14
     },
     "1doCP9Z7n18QpzRIr4gIFb": {
       "name": "Adachi(CV:Akari Kito)",
@@ -2460,7 +2460,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 20
+      "count": 21
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2700,7 +2700,7 @@
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
-      "count": 6
+      "count": 7
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
@@ -2740,15 +2740,15 @@
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
-      "count": 11
+      "count": 12
     },
     "5nMHOJgAzU0zLB2YAfOWgx": {
       "name": "Victoria Kwan",
-      "count": 11
+      "count": 12
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 41
+      "count": 42
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
