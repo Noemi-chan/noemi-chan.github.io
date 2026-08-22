@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T09:17:17.150Z",
+  "updatedAt": "2026-08-22T10:12:59.006Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787390019908,
+  "lastPolledAt": 1787393425052,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 393
+    "playCount": 395
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -70,7 +70,7 @@
     "6aWx4iupVFAYnOyGVMUDWr": {
       "name": "Hakanai Koigokoro",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 7
+      "count": 8
     },
     "3InXtCeZlSGPFdUpeVaiIP": {
       "name": "Crisis",
@@ -110,7 +110,7 @@
     "5x4Txx7HwPFvj9SNLBNvQQ": {
       "name": "Blessing Chord",
       "artist": "Roselia",
-      "count": 14
+      "count": 15
     },
     "4lPNuizRfDvXB8ltrNPd1v": {
       "name": "Choir ‘S’ Choir",
@@ -130,7 +130,7 @@
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
       "artist": "MyGO!!!!!",
-      "count": 11
+      "count": 12
     },
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
@@ -150,7 +150,7 @@
     "5XvpDIZqga1XDpt8HcAUOA": {
       "name": "realize",
       "artist": "Atarayo",
-      "count": 9
+      "count": 10
     },
     "5fIyCNQWyLFdcqZW47QEQo": {
       "name": "Eight Melodies (From \"Earthbound Zero\") [Orchestral Remix]",
@@ -255,7 +255,7 @@
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
       "artist": "Kotoha Tanaka (CV: Risa Taneda), Momoko Suou (CV: Keiko Watanabe), Konomi Baba (CV: Minami Takahashi), Mizuki Makabe (CV: Rika Abe), Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 6
+      "count": 7
     },
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
@@ -305,7 +305,7 @@
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
       "artist": "Formula E",
-      "count": 11
+      "count": 12
     },
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
@@ -440,7 +440,7 @@
     "0g1Pa3zCIkmUwRqSo9yqH2": {
       "name": "If I Can Stop One Heart From Breaking (instrumental ver.)",
       "artist": "Chewie Melodies, Pealeaf",
-      "count": 10
+      "count": 11
     },
     "3aZQTrc9svekofLsXrv9WZ": {
       "name": "Shinku no Pasión",
@@ -665,7 +665,7 @@
     "5FYlc7iKGQTlXjIKdBSgWB": {
       "name": "Any Other Way",
       "artist": "We The Kings",
-      "count": 10
+      "count": 11
     },
     "5N5WcSciZ3I8QRRczhJzbZ": {
       "name": "るんっ♪てぃてぃー！",
@@ -1160,7 +1160,7 @@
     "5uraJqtCBvLpwt3VeomZdq": {
       "name": "Shinzo wo Sasageyo !",
       "artist": "Linked Horizon",
-      "count": 13
+      "count": 14
     },
     "6ss2vUwrV64xAVE4fXZMIh": {
       "name": "I Really Like You",
@@ -1585,7 +1585,7 @@
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
       "artist": "fripSide",
-      "count": 7
+      "count": 8
     },
     "5CfYWKBfDGaU9yRt9EDOSm": {
       "name": "シアター生き様",
@@ -1790,7 +1790,7 @@
     "1xwYqbWwl2DBDmXnWErYsZ": {
       "name": "THE HISTORIC...",
       "artist": "Roselia",
-      "count": 10
+      "count": 11
     },
     "48fqIDIQDD1ARyTrlSb8wW": {
       "name": "If I Can Stop One Heart From Breaking",
@@ -1825,7 +1825,7 @@
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 10
+      "count": 11
     },
     "0fUep9cjt7yDLBUs2q581v": {
       "name": "AWOKE (104期Ver.)",
@@ -1965,7 +1965,7 @@
     "7Iuh4MrwLBU1fIM3uWExKW": {
       "name": "Denshi Toujou!",
       "artist": "KARUT",
-      "count": 5
+      "count": 6
     },
     "1NHWG8zxSEypSRF3UufrnO": {
       "name": "Don't Stop Me Now",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 393
+      "count": 395
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2052,7 +2052,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 22
+      "count": 23
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2068,7 +2068,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 181
+      "count": 182
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2092,7 +2092,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 116
+      "count": 117
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2108,7 +2108,7 @@
     },
     "2yRnjWtHzmDELwYaUiX0Yh": {
       "name": "Atarayo",
-      "count": 9
+      "count": 10
     },
     "3FU61shb6MdX8NLBnBauTI": {
       "name": "Pascal Michael Stiefel",
@@ -2164,23 +2164,23 @@
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
-      "count": 6
+      "count": 7
     },
     "3Amsmaln3plXWWVJi684Kr": {
       "name": "Momoko Suou (CV: Keiko Watanabe)",
-      "count": 6
+      "count": 7
     },
     "71gXraRrIXOxtuvIGPhQKw": {
       "name": "Konomi Baba (CV: Minami Takahashi)",
-      "count": 6
+      "count": 7
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 15
+      "count": 16
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 6
+      "count": 7
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2188,7 +2188,7 @@
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
-      "count": 19
+      "count": 20
     },
     "5vfh5OHbhWef7NigPS6CCE": {
       "name": "Derek Sanders",
@@ -2212,7 +2212,7 @@
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
-      "count": 11
+      "count": 12
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
@@ -2280,7 +2280,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 32
+      "count": 33
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
@@ -2296,11 +2296,11 @@
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 13
+      "count": 14
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 13
+      "count": 14
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
@@ -2328,7 +2328,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 43
+      "count": 44
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2672,7 +2672,7 @@
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
-      "count": 13
+      "count": 14
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
@@ -2932,7 +2932,7 @@
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 12
+      "count": 13
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
