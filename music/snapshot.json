@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T13:25:06.122Z",
+  "updatedAt": "2026-08-23T14:14:10.106Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787491461092,
+  "lastPolledAt": 1787494202717,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -105,7 +105,7 @@
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
       "artist": "アンティーカ",
-      "count": 13
+      "count": 14
     },
     "5x4Txx7HwPFvj9SNLBNvQQ": {
       "name": "Blessing Chord",
@@ -250,7 +250,7 @@
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
       "artist": "Caskets",
-      "count": 17
+      "count": 18
     },
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
@@ -470,7 +470,7 @@
     "72gv4zhNvRVdQA0eOenCal": {
       "name": "Symphony (feat. Zara Larsson)",
       "artist": "Clean Bandit, Zara Larsson",
-      "count": 10
+      "count": 11
     },
     "5rglT9cmL3jeVrYI0LQE2r": {
       "name": "二羽鶴 Instrumental ver.",
@@ -665,7 +665,7 @@
     "5FYlc7iKGQTlXjIKdBSgWB": {
       "name": "Any Other Way",
       "artist": "We The Kings",
-      "count": 14
+      "count": 15
     },
     "5N5WcSciZ3I8QRRczhJzbZ": {
       "name": "るんっ♪てぃてぃー！",
@@ -985,7 +985,7 @@
     "25Eq9bzwKMX3yZTV4qpp8U": {
       "name": "Smooth Seas Don't Make Good Sailors",
       "artist": "Neck Deep",
-      "count": 15
+      "count": 16
     },
     "1AWg0OaeyGyr56J3LEHF8N": {
       "name": "Freedom",
@@ -1110,7 +1110,7 @@
     "4Jl3syKPuB2YFZZhsSeniv": {
       "name": "Eastbound & Down",
       "artist": "WSTR",
-      "count": 10
+      "count": 11
     },
     "6QX44Ng3HMHzZLDAMfO1Aa": {
       "name": "Stairs and Rooftops",
@@ -1205,7 +1205,7 @@
     "1iKjPM2YygFxUqjUakAI4n": {
       "name": "Can't Kick Up The Roots",
       "artist": "Neck Deep",
-      "count": 7
+      "count": 8
     },
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
@@ -1700,7 +1700,7 @@
     "1uPqnaQ4r1Fwe4KijfYGKD": {
       "name": "It's My Life - Old Classic Version",
       "artist": "Selo i Ludy",
-      "count": 9
+      "count": 10
     },
     "4Ssi6tKwrTHi5qvDndrZRP": {
       "name": "Wish You Were Here",
@@ -1795,7 +1795,7 @@
     "48fqIDIQDD1ARyTrlSb8wW": {
       "name": "If I Can Stop One Heart From Breaking",
       "artist": "Chewie Melodies, Pealeaf",
-      "count": 4
+      "count": 5
     },
     "56qTvG1Ej0wwpKhoWrVdMY": {
       "name": "Yokan Koiuta",
@@ -2056,7 +2056,7 @@
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
-      "count": 19
+      "count": 20
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -2080,7 +2080,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 96
+      "count": 97
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2136,7 +2136,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 159
+      "count": 161
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2160,7 +2160,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 30
+      "count": 31
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -2188,7 +2188,7 @@
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
-      "count": 24
+      "count": 25
     },
     "5vfh5OHbhWef7NigPS6CCE": {
       "name": "Derek Sanders",
@@ -2296,11 +2296,11 @@
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 18
+      "count": 19
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 18
+      "count": 19
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
@@ -2344,11 +2344,11 @@
     },
     "6MDME20pz9RveH9rEXvrOM": {
       "name": "Clean Bandit",
-      "count": 10
+      "count": 11
     },
     "1Xylc3o4UrD53lo9CvFvVg": {
       "name": "Zara Larsson",
-      "count": 10
+      "count": 11
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
@@ -2880,7 +2880,7 @@
     },
     "0LtYhakgj2VJgFrBh0JTfh": {
       "name": "Selo i Ludy",
-      "count": 9
+      "count": 10
     },
     "5vIveF4PTVZwgynLZmtkqw": {
       "name": "白井夢結(CV:夏吉ゆうこ)",
