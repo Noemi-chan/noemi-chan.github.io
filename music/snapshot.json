@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T23:11:04.201Z",
+  "updatedAt": "2026-08-23T00:41:18.580Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787440124074,
+  "lastPolledAt": 1787445412629,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 413
+    "playCount": 414
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -35,7 +35,7 @@
     "4HLcj0MD2tg91flaBCIJHJ": {
       "name": "Tastes Like You",
       "artist": "Ellie Goulding",
-      "count": 11
+      "count": 12
     },
     "07dsyRP72k5SoudhrrP1nt": {
       "name": "I'll Make It Right",
@@ -125,7 +125,7 @@
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
       "artist": "Afterglow",
-      "count": 16
+      "count": 17
     },
     "61WJfem6nwyZC51aJQa5eL": {
       "name": "無路矢",
@@ -265,7 +265,7 @@
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
       "artist": "コメティック",
-      "count": 10
+      "count": 11
     },
     "3bYUFS0H27cU8A7DJW0AOY": {
       "name": "When We Were Young",
@@ -280,7 +280,7 @@
     "6vYCGBkuvGF0DLQ7NWlQLm": {
       "name": "Eulogy",
       "artist": "First and Forever",
-      "count": 16
+      "count": 17
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -415,7 +415,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 19
+      "count": 20
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -425,7 +425,7 @@
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
       "artist": "The Gospel Youth",
-      "count": 8
+      "count": 9
     },
     "4qHdhSUkmDh6r7Ea4NzAvM": {
       "name": "EZ4ENCE (kannatuslaulu)",
@@ -605,7 +605,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 6
+      "count": 7
     },
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
@@ -710,7 +710,7 @@
     "6BCuusKOo7e2KT22kKghRV": {
       "name": "Georgette Me, Georgette You",
       "artist": "Ave Mujica",
-      "count": 17
+      "count": 18
     },
     "4r1TBgEfkmH4hbSoZ2GaUT": {
       "name": "Just You and I - Japanese ver.",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 16
+      "count": 17
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -795,7 +795,7 @@
     "6YDtl7oTbmqwhAeMpf9oOq": {
       "name": "Analogy",
       "artist": "彩音",
-      "count": 12
+      "count": 13
     },
     "1Ztka7fCyxUv46FW1mZH9T": {
       "name": "December (again) [feat. Mark Hoppus]",
@@ -830,7 +830,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 46
+      "count": 47
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -1115,7 +1115,7 @@
     "6QX44Ng3HMHzZLDAMfO1Aa": {
       "name": "Stairs and Rooftops",
       "artist": "Lorne Balfe",
-      "count": 9
+      "count": 10
     },
     "79zgdvnTPyWSuTrd48Ik5O": {
       "name": "百花繚乱",
@@ -1130,7 +1130,7 @@
     "2oMWhelb6C0Flhx0n5TKoM": {
       "name": "Sting",
       "artist": "Concrete Castles",
-      "count": 5
+      "count": 6
     },
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
@@ -1170,7 +1170,7 @@
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
       "artist": "Rachie",
-      "count": 17
+      "count": 18
     },
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
@@ -1340,7 +1340,7 @@
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
       "artist": "Roselia",
-      "count": 17
+      "count": 18
     },
     "3FdI2uFUxKWm9kmPkIYYf3": {
       "name": "Wide Awake",
@@ -1415,7 +1415,7 @@
     "1gXAB8LVnrNFVkj4kBdaSE": {
       "name": "Parachute",
       "artist": "Neck Deep",
-      "count": 13
+      "count": 14
     },
     "11DQVzIqXvyfOM0Io6U7xK": {
       "name": "How Far I'll Go",
@@ -1440,12 +1440,12 @@
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 12
+      "count": 13
     },
     "0lpjCTr8jR9E51t1ha3aGj": {
       "name": "late in autumn",
       "artist": "fripSide",
-      "count": 5
+      "count": 6
     },
     "3RtcR7pL6YNQ57fsRciMdp": {
       "name": "Mas?uerade Rhapsody Re?uest",
@@ -1485,7 +1485,7 @@
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
       "artist": "スリーズブーケ",
-      "count": 57
+      "count": 58
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -1520,12 +1520,12 @@
     "2khCn0FtcHpiOPRchJxjfs": {
       "name": "You Suck at Love",
       "artist": "Simple Plan",
-      "count": 8
+      "count": 9
     },
     "1XIWSYnXC3qvytNmaAFG3T": {
       "name": "余韻",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 7
+      "count": 8
     },
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
@@ -1810,7 +1810,7 @@
     "23lV0aX1uhNpvkNF8uk1ow": {
       "name": "アイドル (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 413
+      "count": 414
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2024,7 +2024,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 19
+      "count": 20
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 226
+      "count": 228
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2068,7 +2068,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 191
+      "count": 192
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2088,7 +2088,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 38
+      "count": 39
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 120
+      "count": 121
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2120,7 +2120,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 28
+      "count": 29
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -2128,15 +2128,15 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 32
+      "count": 33
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 77
+      "count": 78
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 147
+      "count": 148
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2200,7 +2200,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 25
+      "count": 26
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -2228,7 +2228,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 33
+      "count": 34
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2244,7 +2244,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 159
+      "count": 160
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2256,7 +2256,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 90
+      "count": 92
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2288,7 +2288,7 @@
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
-      "count": 14
+      "count": 15
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
@@ -2328,7 +2328,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 47
+      "count": 48
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -2396,7 +2396,7 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 22
+      "count": 23
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
@@ -2652,7 +2652,7 @@
     },
     "6dU7gPN2BhEPfO5QHLt7es": {
       "name": "Lorne Balfe",
-      "count": 9
+      "count": 10
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
@@ -2668,7 +2668,7 @@
     },
     "1Cexar57ALO1nZIiKoIUuo": {
       "name": "Concrete Castles",
-      "count": 5
+      "count": 6
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
@@ -2820,7 +2820,7 @@
     },
     "2p4FqHnazRucYQHyDCdBrJ": {
       "name": "Simple Plan",
-      "count": 16
+      "count": 17
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
