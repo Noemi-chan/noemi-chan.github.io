@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T11:12:25.231Z",
+  "updatedAt": "2026-08-23T12:18:35.909Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787483401028,
+  "lastPolledAt": 1787487470617,
   "topTrack": {
     "name": "カーネーションの咲く日に",
     "artist": "millsage",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 424
+    "playCount": 425
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -340,7 +340,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 18
+      "count": 19
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -420,7 +420,7 @@
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 6
+      "count": 7
     },
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
@@ -540,7 +540,7 @@
     "2GC2OsWhRm9ltfxWBKuHhE": {
       "name": "春日影 (MyGO!!!!! ver.)",
       "artist": "MyGO!!!!!",
-      "count": 6
+      "count": 7
     },
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
@@ -605,7 +605,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 7
+      "count": 8
     },
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 19
+      "count": 20
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 17
+      "count": 19
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -1295,7 +1295,7 @@
     "3Xfg7AegXaDLoD5GOUMf2e": {
       "name": "My Demons",
       "artist": "STARSET",
-      "count": 5
+      "count": 6
     },
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
@@ -1315,7 +1315,7 @@
     "7IZXTbPCnF4PJzsVIx4huE": {
       "name": "Everything Goes On",
       "artist": "AARCADE, Victoria Kwan",
-      "count": 14
+      "count": 15
     },
     "6vzxtLRnG1F2XrSD0O41lv": {
       "name": "Shelter (Piano Arrange) - Cover",
@@ -1530,7 +1530,7 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 13
+      "count": 14
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
@@ -1810,7 +1810,7 @@
     "23lV0aX1uhNpvkNF8uk1ow": {
       "name": "アイドル (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 4
+      "count": 5
     },
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 424
+      "count": 425
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2092,7 +2092,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 134
+      "count": 136
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 125
+      "count": 126
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2228,11 +2228,11 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 35
+      "count": 37
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 32
+      "count": 33
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2256,7 +2256,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 93
+      "count": 94
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2284,7 +2284,7 @@
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 6
+      "count": 7
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -2728,7 +2728,7 @@
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
-      "count": 5
+      "count": 6
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
@@ -2740,11 +2740,11 @@
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
-      "count": 14
+      "count": 15
     },
     "5nMHOJgAzU0zLB2YAfOWgx": {
       "name": "Victoria Kwan",
-      "count": 14
+      "count": 15
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
