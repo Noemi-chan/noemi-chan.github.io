@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T21:12:05.623Z",
+  "updatedAt": "2026-08-23T22:11:23.879Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787519209689,
+  "lastPolledAt": 1787523010488,
   "topTrack": {
-    "name": "カーネーションの咲く日に",
-    "artist": "millsage",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecd8d1821e7a8a2bff8b444a",
-    "url": "https://open.spotify.com/track/618sNpgK4RGCaqF3s5eP1C",
-    "playCount": 66
+    "name": "FIRE BIRD",
+    "artist": "Roselia",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737e1fa5801c053621370ea2c6",
+    "url": "https://open.spotify.com/track/0qMpU4VmLf6aMNc7CUErzV",
+    "playCount": 21
   },
   "topArtist": {
     "name": "Roselia",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 55
+      "count": 68
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 165
+      "count": 178
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
