@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-24T04:35:20.435Z",
+  "updatedAt": "2026-08-24T05:29:46.286Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787536012436,
+  "lastPolledAt": 1787549053498,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 432
+    "playCount": 434
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -715,7 +715,7 @@
     "4r1TBgEfkmH4hbSoZ2GaUT": {
       "name": "Just You and I - Japanese ver.",
       "artist": "Tacitly",
-      "count": 8
+      "count": 9
     },
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
@@ -780,7 +780,7 @@
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
       "artist": "丸山 彩(CV:前島亜美), 氷川日菜(CV:小澤亜李), 白鷺千聖(CV:上坂すみれ), 大和麻弥(CV:中上育実), 湊 友希那(CV:相羽あいな), 氷川紗夜(CV:工藤晴香), 今井リサ(CV:中島由貴), 白金燐子(CV:志崎樺音), 瀬田 薫(CV:田所あずさ), 松原花音(CV:豊田萌絵)",
-      "count": 12
+      "count": 13
     },
     "7fh1kd9kH1F6aw1zjFOI6X": {
       "name": "天球(そら)のMúsica",
@@ -840,7 +840,7 @@
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
       "artist": "Roselia",
-      "count": 13
+      "count": 15
     },
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
@@ -1135,7 +1135,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 19
+      "count": 20
     },
     "6Cx7OtBOhEPgIijiNdrQtd": {
       "name": "ハナヒバナ",
@@ -1430,7 +1430,7 @@
     "5AQxiOtc3EsQSQP2wirgg2": {
       "name": "ナカナ イナ カナイ",
       "artist": "花園たえ(CV:大塚紗英), レイヤ(CV:Raychell)",
-      "count": 13
+      "count": 14
     },
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 432
+      "count": 434
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 242
+      "count": 243
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2448,7 +2448,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 46
+      "count": 47
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2468,43 +2468,43 @@
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
-      "count": 22
+      "count": 23
     },
     "5fBSjYZtRepKT6Om7tofEK": {
       "name": "氷川日菜(CV:小澤亜李)",
-      "count": 12
+      "count": 13
     },
     "1jv55vLFewxt2UQiQYc2IY": {
       "name": "白鷺千聖(CV:上坂すみれ)",
-      "count": 12
+      "count": 13
     },
     "3YdtVks1owJtVkEPrBf47Y": {
       "name": "大和麻弥(CV:中上育実)",
-      "count": 12
+      "count": 13
     },
     "5tb5Ya8txUfxvU3USDffwT": {
       "name": "湊 友希那(CV:相羽あいな)",
-      "count": 22
+      "count": 23
     },
     "6VA1ej0NbUtMULBhiJdD0T": {
       "name": "氷川紗夜(CV:工藤晴香)",
-      "count": 12
+      "count": 13
     },
     "5mHviKZS305LZ8EVFu8BOb": {
       "name": "今井リサ(CV:中島由貴)",
-      "count": 12
+      "count": 13
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 20
+      "count": 21
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
-      "count": 12
+      "count": 13
     },
     "67oUulZoqpQ8GtSoCoumNg": {
       "name": "松原花音(CV:豊田萌絵)",
-      "count": 12
+      "count": 13
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
@@ -2800,11 +2800,11 @@
     },
     "3m7Y1adYVPRrEcAFffxV7Q": {
       "name": "花園たえ(CV:大塚紗英)",
-      "count": 13
+      "count": 14
     },
     "2s43jUxV6eSRlc9IF6bUD1": {
       "name": "レイヤ(CV:Raychell)",
-      "count": 13
+      "count": 14
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
