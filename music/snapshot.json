@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T23:11:08.939Z",
+  "updatedAt": "2026-08-24T00:40:25.044Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787526519046,
+  "lastPolledAt": 1787531939803,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 80
+      "count": 98
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 190
+      "count": 208
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
