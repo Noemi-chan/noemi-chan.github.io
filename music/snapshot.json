@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T21:17:47.776Z",
+  "updatedAt": "2026-08-25T22:15:51.353Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787692500834,
+  "lastPolledAt": 1787695935749,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -14,13 +14,13 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 471
+    "playCount": 473
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
       "name": "Neo-Aspect",
       "artist": "Roselia",
-      "count": 28
+      "count": 29
     },
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
@@ -55,7 +55,7 @@
     "7tBbT0mu8TOhDciTPRsOMq": {
       "name": "silent stranger",
       "artist": "Against The Current",
-      "count": 11
+      "count": 12
     },
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
@@ -550,7 +550,7 @@
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
       "artist": "Aqours",
-      "count": 12
+      "count": 13
     },
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 108
+      "count": 109
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -850,7 +850,7 @@
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
       "artist": "電音部, 犬吠埼紫杏 (CV: 長谷川玲奈), Moe Shop",
-      "count": 26
+      "count": 27
     },
     "4KnNm7hlCemSnknSVmwaP3": {
       "name": "Hareklavit",
@@ -910,7 +910,7 @@
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
       "artist": "Neck Deep",
-      "count": 17
+      "count": 18
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
@@ -1045,7 +1045,7 @@
     "2FSeQD4Tk5ELPtbJHIT1ea": {
       "name": "Clear Morning",
       "artist": "Yui Ogura",
-      "count": 18
+      "count": 19
     },
     "6e2ouMRqwr7bYvKrDBTfmD": {
       "name": "Mujikaku A Priori",
@@ -1070,7 +1070,7 @@
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
       "artist": "Alohaii, Yuuka Bear",
-      "count": 6
+      "count": 7
     },
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
@@ -1080,12 +1080,12 @@
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
       "artist": "スリーズブーケ",
-      "count": 9
+      "count": 10
     },
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
       "artist": "Le Castle Vania",
-      "count": 9
+      "count": 10
     },
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
@@ -1320,7 +1320,7 @@
     "6vzxtLRnG1F2XrSD0O41lv": {
       "name": "Shelter (Piano Arrange) - Cover",
       "artist": "JubyPhonic",
-      "count": 14
+      "count": 15
     },
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
@@ -1475,7 +1475,7 @@
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 14
+      "count": 15
     },
     "2GP0PeV4rJ5Llgm5u4Qi1j": {
       "name": "前へススメ！",
@@ -1490,12 +1490,12 @@
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
       "artist": "Ave Mujica",
-      "count": 11
+      "count": 12
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
       "artist": "アンティーカ",
-      "count": 16
+      "count": 17
     },
     "7KIPsvQQtxa8bzdxfA2eKB": {
       "name": "“UNIONS” Road",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 471
+      "count": 473
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2036,11 +2036,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 269
+      "count": 270
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 30
+      "count": 31
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2080,7 +2080,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 111
+      "count": 112
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 233
+      "count": 234
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2132,11 +2132,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 93
+      "count": 94
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 189
+      "count": 190
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2244,7 +2244,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 177
+      "count": 178
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2424,7 +2424,7 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 33
+      "count": 34
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
@@ -2516,7 +2516,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 54
+      "count": 55
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -2544,11 +2544,11 @@
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
-      "count": 26
+      "count": 27
     },
     "7cvljqLNhWNFMb8wP2NImJ": {
       "name": "Moe Shop",
-      "count": 26
+      "count": 27
     },
     "49yTs5PHrOjyslAqSF2iCG": {
       "name": "Keygen Church",
@@ -2632,11 +2632,11 @@
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
-      "count": 18
+      "count": 19
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
-      "count": 6
+      "count": 7
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
@@ -2644,7 +2644,7 @@
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
-      "count": 9
+      "count": 10
     },
     "2K2bsaNeuQAFkuVwrrlJe0": {
       "name": "Wind Walkers",
@@ -2748,7 +2748,7 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 51
+      "count": 52
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
