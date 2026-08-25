@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T00:39:17.578Z",
+  "updatedAt": "2026-08-25T02:12:16.374Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787618271118,
+  "lastPolledAt": 1787622507146,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 451
+    "playCount": 452
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -350,7 +350,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 43
+      "count": 44
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -480,7 +480,7 @@
     "0asJiqD3Xwvjxhjzxe2XmZ": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 51
+      "count": 52
     },
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
@@ -650,7 +650,7 @@
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
       "artist": "Poppin'Party",
-      "count": 12
+      "count": 13
     },
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
@@ -950,7 +950,7 @@
     "6JV4PCBSzzrU692XMcrUvR": {
       "name": "Reminder",
       "artist": "Nayori",
-      "count": 2
+      "count": 3
     },
     "4jOQ5QOwyu9dwWwbHYmQAm": {
       "name": "Only Human - feat. AJ Channer",
@@ -1065,7 +1065,7 @@
     "4D8wqdUzClwaWXLWRCv0Vi": {
       "name": "Cassette Tape Dream",
       "artist": "しゃろう",
-      "count": 10
+      "count": 11
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
@@ -1100,7 +1100,7 @@
     "4w1kRlzCTYQKXKXX2UULcK": {
       "name": "The Only Heaven You'll Know",
       "artist": "Caskets",
-      "count": 9
+      "count": 10
     },
     "7vwUPOzwMuaBuhckNt3jjf": {
       "name": "Hangfire",
@@ -1135,7 +1135,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 21
+      "count": 23
     },
     "6Cx7OtBOhEPgIijiNdrQtd": {
       "name": "ハナヒバナ",
@@ -1235,7 +1235,7 @@
     "47BBI51FKFwOMlIiX6m8ya": {
       "name": "I Want It That Way",
       "artist": "Backstreet Boys",
-      "count": 5
+      "count": 6
     },
     "15bTG0r5MIz5aOfpR1crYL": {
       "name": "Know Your Heart - Japanese Ver.",
@@ -1385,7 +1385,7 @@
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
-      "count": 18
+      "count": 19
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
@@ -1645,7 +1645,7 @@
     "4I5Bsfl4gdoRcK3AF47hVf": {
       "name": "黒のバースデイ",
       "artist": "Ave Mujica",
-      "count": 5
+      "count": 6
     },
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
@@ -1680,7 +1680,7 @@
     "30YHwRbmrAftaqaoURY44m": {
       "name": "Tabimichi Yoiyoi Yume Hanabi",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 7
+      "count": 8
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 451
+      "count": 452
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 254
+      "count": 257
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2052,7 +2052,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 30
+      "count": 31
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2068,7 +2068,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 220
+      "count": 221
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2160,7 +2160,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 34
+      "count": 35
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -2244,7 +2244,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 171
+      "count": 172
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2260,7 +2260,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 23
+      "count": 24
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -2460,7 +2460,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 23
+      "count": 24
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2688,7 +2688,7 @@
     },
     "5rSXSAkZ67PYJSvpUpkOr7": {
       "name": "Backstreet Boys",
-      "count": 5
+      "count": 6
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
@@ -2772,7 +2772,7 @@
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
-      "count": 18
+      "count": 19
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
