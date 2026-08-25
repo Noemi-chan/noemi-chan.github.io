@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T15:33:11.010Z",
+  "updatedAt": "2026-08-25T16:24:18.757Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787671949545,
+  "lastPolledAt": 1787674981839,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -35,7 +35,7 @@
     "4HLcj0MD2tg91flaBCIJHJ": {
       "name": "Tastes Like You",
       "artist": "Ellie Goulding",
-      "count": 14
+      "count": 15
     },
     "07dsyRP72k5SoudhrrP1nt": {
       "name": "I'll Make It Right",
@@ -265,7 +265,7 @@
     "1C7XFuIyp7zoURPRd0kbmW": {
       "name": "Heads or Tails？",
       "artist": "コメティック",
-      "count": 13
+      "count": 14
     },
     "3bYUFS0H27cU8A7DJW0AOY": {
       "name": "When We Were Young",
@@ -420,12 +420,12 @@
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 8
+      "count": 9
     },
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
       "artist": "The Gospel Youth",
-      "count": 10
+      "count": 11
     },
     "4qHdhSUkmDh6r7Ea4NzAvM": {
       "name": "EZ4ENCE (kannatuslaulu)",
@@ -605,7 +605,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 9
+      "count": 10
     },
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
@@ -755,7 +755,7 @@
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
       "artist": "Junpei Fujita",
-      "count": 20
+      "count": 21
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -1130,7 +1130,7 @@
     "2oMWhelb6C0Flhx0n5TKoM": {
       "name": "Sting",
       "artist": "Concrete Castles",
-      "count": 7
+      "count": 8
     },
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
@@ -1170,7 +1170,7 @@
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
       "artist": "Rachie",
-      "count": 20
+      "count": 21
     },
     "3RiYi67LMqBpopK1b1D0fb": {
       "name": "Citrus Love",
@@ -1295,7 +1295,7 @@
     "3Xfg7AegXaDLoD5GOUMf2e": {
       "name": "My Demons",
       "artist": "STARSET",
-      "count": 7
+      "count": 8
     },
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
@@ -1440,7 +1440,7 @@
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 15
+      "count": 16
     },
     "0lpjCTr8jR9E51t1ha3aGj": {
       "name": "late in autumn",
@@ -1485,7 +1485,7 @@
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
       "artist": "スリーズブーケ",
-      "count": 60
+      "count": 61
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -1530,7 +1530,7 @@
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 15
+      "count": 16
     },
     "2bUZYtvlrv8AuoZA4FvgvB": {
       "name": "鳥の詩 (Cover)",
@@ -1810,7 +1810,7 @@
     "23lV0aX1uhNpvkNF8uk1ow": {
       "name": "アイドル (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 6
+      "count": 7
     },
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
@@ -2024,7 +2024,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 22
+      "count": 23
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -2092,7 +2092,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 160
+      "count": 161
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 231
+      "count": 232
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2120,7 +2120,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 35
+      "count": 36
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -2132,7 +2132,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 92
+      "count": 93
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2228,7 +2228,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 40
+      "count": 41
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2244,7 +2244,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 174
+      "count": 175
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2256,7 +2256,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 102
+      "count": 104
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2284,11 +2284,11 @@
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 8
+      "count": 9
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
-      "count": 18
+      "count": 19
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
@@ -2668,7 +2668,7 @@
     },
     "1Cexar57ALO1nZIiKoIUuo": {
       "name": "Concrete Castles",
-      "count": 7
+      "count": 8
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
@@ -2728,7 +2728,7 @@
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
-      "count": 7
+      "count": 8
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
