@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T03:39:49.054Z",
+  "updatedAt": "2026-08-25T04:29:26.584Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787623933270,
+  "lastPolledAt": 1787631914710,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 452
+    "playCount": 454
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -55,7 +55,7 @@
     "7tBbT0mu8TOhDciTPRsOMq": {
       "name": "silent stranger",
       "artist": "Against The Current",
-      "count": 9
+      "count": 10
     },
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
@@ -585,7 +585,7 @@
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 106
+      "count": 107
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -1010,7 +1010,7 @@
     "2AwjcdksNfMMokTEl2t5ke": {
       "name": "Realize (Cover)",
       "artist": "Roselia",
-      "count": 8
+      "count": 9
     },
     "4pqH9UhPa697MDOSIPiBvJ": {
       "name": "Shiny Racers",
@@ -1080,7 +1080,7 @@
     "29vY6gIKRje259YNZ7FyDb": {
       "name": "月夜見海月",
       "artist": "スリーズブーケ",
-      "count": 7
+      "count": 8
     },
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
@@ -1190,7 +1190,7 @@
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
       "artist": "Tacitly",
-      "count": 8
+      "count": 9
     },
     "2vAwfoFawdgwN8M1xjPyH0": {
       "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
@@ -1475,7 +1475,7 @@
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 12
+      "count": 13
     },
     "2GP0PeV4rJ5Llgm5u4Qi1j": {
       "name": "前へススメ！",
@@ -1490,12 +1490,12 @@
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
       "artist": "Ave Mujica",
-      "count": 9
+      "count": 10
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
       "artist": "アンティーカ",
-      "count": 14
+      "count": 15
     },
     "7KIPsvQQtxa8bzdxfA2eKB": {
       "name": "“UNIONS” Road",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 452
+      "count": 454
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2036,11 +2036,11 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 258
+      "count": 259
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 28
+      "count": 29
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2080,7 +2080,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 105
+      "count": 106
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 223
+      "count": 224
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2244,7 +2244,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 172
+      "count": 173
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2448,7 +2448,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 49
+      "count": 50
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
