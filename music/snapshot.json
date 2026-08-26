@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T11:20:03.230Z",
+  "updatedAt": "2026-08-26T12:29:23.292Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787738871780,
+  "lastPolledAt": 1787747031717,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -420,7 +420,7 @@
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 9
+      "count": 10
     },
     "6ehbDGFDROegSRlXhIoJhp": {
       "name": "There's Nothing Holdin' Me Back",
@@ -600,7 +600,7 @@
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
       "artist": "American Wolves",
-      "count": 11
+      "count": 12
     },
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
@@ -780,7 +780,7 @@
     "6PY9tZQuunCtgBIWMUp54Z": {
       "name": "YELL (Cover)",
       "artist": "丸山 彩(CV:前島亜美), 氷川日菜(CV:小澤亜李), 白鷺千聖(CV:上坂すみれ), 大和麻弥(CV:中上育実), 湊 友希那(CV:相羽あいな), 氷川紗夜(CV:工藤晴香), 今井リサ(CV:中島由貴), 白金燐子(CV:志崎樺音), 瀬田 薫(CV:田所あずさ), 松原花音(CV:豊田萌絵)",
-      "count": 17
+      "count": 18
     },
     "7fh1kd9kH1F6aw1zjFOI6X": {
       "name": "天球(そら)のMúsica",
@@ -1300,7 +1300,7 @@
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
       "artist": "森羅万象",
-      "count": 5
+      "count": 6
     },
     "05qCCJQJiOwvPQBb7akf1R": {
       "name": "Jamie All Over",
@@ -1430,7 +1430,7 @@
     "5AQxiOtc3EsQSQP2wirgg2": {
       "name": "ナカナ イナ カナイ",
       "artist": "花園たえ(CV:大塚紗英), レイヤ(CV:Raychell)",
-      "count": 16
+      "count": 17
     },
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
@@ -2284,7 +2284,7 @@
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 9
+      "count": 10
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -2404,7 +2404,7 @@
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
-      "count": 11
+      "count": 12
     },
     "40oxjbVm3kdeyJEiGsKrmd": {
       "name": "HoneyWorks",
@@ -2468,43 +2468,43 @@
     },
     "4yvuKmdw1adgH4GC6d5tJ9": {
       "name": "丸山 彩(CV:前島亜美)",
-      "count": 27
+      "count": 28
     },
     "5fBSjYZtRepKT6Om7tofEK": {
       "name": "氷川日菜(CV:小澤亜李)",
-      "count": 17
+      "count": 18
     },
     "1jv55vLFewxt2UQiQYc2IY": {
       "name": "白鷺千聖(CV:上坂すみれ)",
-      "count": 17
+      "count": 18
     },
     "3YdtVks1owJtVkEPrBf47Y": {
       "name": "大和麻弥(CV:中上育実)",
-      "count": 17
+      "count": 18
     },
     "5tb5Ya8txUfxvU3USDffwT": {
       "name": "湊 友希那(CV:相羽あいな)",
-      "count": 27
+      "count": 28
     },
     "6VA1ej0NbUtMULBhiJdD0T": {
       "name": "氷川紗夜(CV:工藤晴香)",
-      "count": 17
+      "count": 18
     },
     "5mHviKZS305LZ8EVFu8BOb": {
       "name": "今井リサ(CV:中島由貴)",
-      "count": 17
+      "count": 18
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 28
+      "count": 29
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
-      "count": 17
+      "count": 18
     },
     "67oUulZoqpQ8GtSoCoumNg": {
       "name": "松原花音(CV:豊田萌絵)",
-      "count": 17
+      "count": 18
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
@@ -2732,7 +2732,7 @@
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
-      "count": 5
+      "count": 6
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
@@ -2800,11 +2800,11 @@
     },
     "3m7Y1adYVPRrEcAFffxV7Q": {
       "name": "花園たえ(CV:大塚紗英)",
-      "count": 16
+      "count": 17
     },
     "2s43jUxV6eSRlc9IF6bUD1": {
       "name": "レイヤ(CV:Raychell)",
-      "count": 16
+      "count": 17
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
