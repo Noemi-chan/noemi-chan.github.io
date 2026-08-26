@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T02:18:50.294Z",
+  "updatedAt": "2026-08-26T03:44:16.840Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787710511049,
+  "lastPolledAt": 1787715737881,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 477
+    "playCount": 481
   },
   "trackPlayCounts": {
     "6GIi8LrBsHmhFSp9eDXCUf": {
@@ -235,7 +235,7 @@
     "2nIF3nXAKPmbeONeQVEVWg": {
       "name": "Stay Alive (Official ESL Theme)",
       "artist": "Leet Mob",
-      "count": 14
+      "count": 15
     },
     "18ZgnKxWQ8z1KiA2A3xky6": {
       "name": "Numb Little Bug",
@@ -245,7 +245,7 @@
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
       "artist": "Aqours",
-      "count": 15
+      "count": 16
     },
     "0JWpbl3Ppr71ONy6VDP5vu": {
       "name": "Hold Me Now",
@@ -395,7 +395,7 @@
     "5VEsi6BxUXSYUXdOvJrZYe": {
       "name": "Azalea",
       "artist": "nano.RIPE",
-      "count": 7
+      "count": 8
     },
     "19ESOEBS7YYJsPOwHmsgTT": {
       "name": "Do You Know How To Love Me",
@@ -445,7 +445,7 @@
     "3aZQTrc9svekofLsXrv9WZ": {
       "name": "Shinku no Pasión",
       "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 13
+      "count": 14
     },
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
@@ -510,7 +510,7 @@
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
       "artist": "You vs Yesterday",
-      "count": 26
+      "count": 27
     },
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
@@ -545,7 +545,7 @@
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
       "artist": "MyGO!!!!!",
-      "count": 15
+      "count": 16
     },
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
@@ -565,7 +565,7 @@
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
       "artist": "Roselia",
-      "count": 8
+      "count": 9
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -735,7 +735,7 @@
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
       "artist": "Roselia",
-      "count": 22
+      "count": 23
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
@@ -770,7 +770,7 @@
     "6TyNKENZ3rrnZklMzj1z6z": {
       "name": "3:03 PM",
       "artist": "しゃろう",
-      "count": 15
+      "count": 16
     },
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
@@ -840,12 +840,12 @@
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
       "artist": "Roselia",
-      "count": 18
+      "count": 19
     },
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
       "artist": "Caskets, TELLE",
-      "count": 7
+      "count": 8
     },
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
@@ -870,7 +870,7 @@
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
       "artist": "Ave Mujica",
-      "count": 28
+      "count": 29
     },
     "7tI5GDU50puokqzVy3rlsR": {
       "name": "DROPOUT!?",
@@ -1010,7 +1010,7 @@
     "2AwjcdksNfMMokTEl2t5ke": {
       "name": "Realize (Cover)",
       "artist": "Roselia",
-      "count": 10
+      "count": 11
     },
     "4pqH9UhPa697MDOSIPiBvJ": {
       "name": "Shiny Racers",
@@ -1190,7 +1190,7 @@
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
       "artist": "Tacitly",
-      "count": 10
+      "count": 11
     },
     "2vAwfoFawdgwN8M1xjPyH0": {
       "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
@@ -1255,7 +1255,7 @@
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
       "artist": "DOLLCHESTRA",
-      "count": 7
+      "count": 8
     },
     "4lypt03XVYnSat94IWFVPd": {
       "name": "焚音打",
@@ -1275,7 +1275,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 17
+      "count": 18
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -1355,7 +1355,7 @@
     "5AUgGQ6WIJTGNClxBiip6D": {
       "name": "天下トーイツA to Z☆",
       "artist": "Pastel*Palettes",
-      "count": 14
+      "count": 15
     },
     "7jwDuO7UZvWs77KNj9HbvF": {
       "name": "The Phoenix",
@@ -1365,7 +1365,7 @@
     "772kg4oxkCZRur0u49cA6I": {
       "name": "Move",
       "artist": "Audio Adrenaline",
-      "count": 16
+      "count": 17
     },
     "6QYYzSQnGyMjcRRy67eYwF": {
       "name": "Miss Wanna Die - English Cover",
@@ -1515,7 +1515,7 @@
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
       "artist": "Beartooth",
-      "count": 9
+      "count": 10
     },
     "2khCn0FtcHpiOPRchJxjfs": {
       "name": "You Suck at Love",
@@ -1540,12 +1540,12 @@
     "0iIcuwia47B5bzjVpyUwyI": {
       "name": "Drive (From F1® The Movie)",
       "artist": "Ed Sheeran, F1 The Album",
-      "count": 10
+      "count": 11
     },
     "6s9s4nySDJVfetQrPkpZot": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 14
+      "count": 15
     },
     "1KpbrM0wNIeqiG1JgrUL2U": {
       "name": "Start up Stand up",
@@ -1580,7 +1580,7 @@
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 12
+      "count": 13
     },
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
@@ -2016,7 +2016,7 @@
   "artistPlayCounts": {
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 477
+      "count": 481
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 270
+      "count": 271
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2044,7 +2044,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 97
+      "count": 98
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2052,7 +2052,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 33
+      "count": 34
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2084,7 +2084,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 79
+      "count": 80
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -2092,7 +2092,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 165
+      "count": 166
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 234
+      "count": 235
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2132,7 +2132,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 95
+      "count": 96
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2152,7 +2152,7 @@
     },
     "37H5Xn3SbccttHx8hPcahK": {
       "name": "Leet Mob",
-      "count": 14
+      "count": 15
     },
     "00YTqRClk82aMchQQpYMd5": {
       "name": "Our Last Night",
@@ -2160,7 +2160,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 37
+      "count": 38
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
@@ -2268,7 +2268,7 @@
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
-      "count": 7
+      "count": 8
     },
     "7BFfb40nQrs3xKRMGK1GrC": {
       "name": "Henry Young",
@@ -2304,23 +2304,23 @@
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
-      "count": 13
+      "count": 14
     },
     "3tsSGK2yeVzdb9tqR2faOb": {
       "name": "Sayoko Takayama (CV: Yuri Komagata)",
-      "count": 13
+      "count": 14
     },
     "7IFPSph621cFElVwhbhdlA": {
       "name": "Fuka Toyokawa (CV: Rie Suegara)",
-      "count": 13
+      "count": 14
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 26
+      "count": 27
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 13
+      "count": 14
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
@@ -2368,7 +2368,7 @@
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
-      "count": 26
+      "count": 27
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
@@ -2448,7 +2448,7 @@
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
-      "count": 53
+      "count": 54
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2460,7 +2460,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 26
+      "count": 27
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2540,7 +2540,7 @@
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
-      "count": 7
+      "count": 8
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
@@ -2696,7 +2696,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 82
+      "count": 83
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2764,7 +2764,7 @@
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
-      "count": 16
+      "count": 17
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
@@ -2816,7 +2816,7 @@
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
-      "count": 9
+      "count": 10
     },
     "2p4FqHnazRucYQHyDCdBrJ": {
       "name": "Simple Plan",
@@ -2824,11 +2824,11 @@
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
-      "count": 10
+      "count": 11
     },
     "3aly4xJOy3LVznzvRIvFYC": {
       "name": "F1 The Album",
-      "count": 10
+      "count": 11
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
