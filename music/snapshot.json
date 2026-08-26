@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T04:30:11.028Z",
+  "updatedAt": "2026-08-26T05:23:52.476Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787718507840,
+  "lastPolledAt": 1787721801365,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -45,7 +45,7 @@
     "6to6TiKkMz1o7fGyxw8se5": {
       "name": "フリイジア",
       "artist": "Amamiya Sora",
-      "count": 14
+      "count": 15
     },
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
@@ -70,7 +70,7 @@
     "6aWx4iupVFAYnOyGVMUDWr": {
       "name": "Hakanai Koigokoro",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 13
+      "count": 14
     },
     "3InXtCeZlSGPFdUpeVaiIP": {
       "name": "Crisis",
@@ -225,7 +225,7 @@
     "3rT0UIwun3kYrsDhunfmiR": {
       "name": "Blue Canvas",
       "artist": "ClariS",
-      "count": 15
+      "count": 16
     },
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
@@ -335,7 +335,7 @@
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
       "artist": "Junpei Fujita",
-      "count": 11
+      "count": 12
     },
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
@@ -1145,7 +1145,7 @@
     "4aI91AYZfMFs4cb8him5lI": {
       "name": "Hop? Stop? Nonstop!",
       "artist": "Aqours",
-      "count": 10
+      "count": 11
     },
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
@@ -1410,7 +1410,7 @@
     "2FbdvkGnTFEXxoXjV8iSVj": {
       "name": "Thrash Trash",
       "artist": "Jaron Takach, Derek Long",
-      "count": 17
+      "count": 18
     },
     "1gXAB8LVnrNFVkj4kBdaSE": {
       "name": "Parachute",
@@ -1425,7 +1425,7 @@
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
       "artist": "Poppin'Party",
-      "count": 13
+      "count": 14
     },
     "5AQxiOtc3EsQSQP2wirgg2": {
       "name": "ナカナ イナ カナイ",
@@ -1450,7 +1450,7 @@
     "3RtcR7pL6YNQ57fsRciMdp": {
       "name": "Mas?uerade Rhapsody Re?uest",
       "artist": "Ave Mujica",
-      "count": 12
+      "count": 13
     },
     "2nMVkKOSXWlx39bDb6O3Ac": {
       "name": "もういちど ルミナス",
@@ -1470,7 +1470,7 @@
     "7c7Mi8PKULCCvhWkpgyM2t": {
       "name": "Daylight -デイライト-",
       "artist": "Morfonica",
-      "count": 12
+      "count": 13
     },
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
@@ -1905,7 +1905,7 @@
     "0KbxDQoJBg40hvg34xPuxW": {
       "name": "マハラジャンボリー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 16
+      "count": 17
     },
     "5WPNF8kwbWEDf4A7YA31nI": {
       "name": "ココン東西 (104期Ver.)",
@@ -2032,11 +2032,11 @@
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
-      "count": 14
+      "count": 15
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 271
+      "count": 272
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
@@ -2044,7 +2044,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 98
+      "count": 99
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
@@ -2052,7 +2052,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 34
+      "count": 35
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2068,7 +2068,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 234
+      "count": 235
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2132,7 +2132,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 96
+      "count": 97
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
@@ -2144,7 +2144,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 33
+      "count": 34
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -2228,7 +2228,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 41
+      "count": 42
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
@@ -2784,11 +2784,11 @@
     },
     "36bLfgFkAodzzHCeG45Jtm": {
       "name": "Jaron Takach",
-      "count": 17
+      "count": 18
     },
     "5xJiiKiEDhJYn6Z3EdCZPt": {
       "name": "Derek Long",
-      "count": 17
+      "count": 18
     },
     "2IeMt1qx6ZVt1HFjdfE5tl": {
       "name": "Jonathan Young",
@@ -2940,7 +2940,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 46
+      "count": 47
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
       "name": "Queen",
