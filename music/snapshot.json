@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T21:27:29.950Z",
+  "updatedAt": "2026-08-27T02:24:02.970Z",
   "monthKey": "2026-08",
   "lastPolledAt": 1787765726373,
   "topTrack": {
@@ -13,7 +13,11 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [],
+    "genres": [
+      "j-rock",
+      "j-pop",
+      "anime"
+    ],
     "playCount": 488
   },
   "trackPlayCounts": {
