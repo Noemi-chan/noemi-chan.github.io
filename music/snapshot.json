@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-27T23:21:01.004Z",
+  "updatedAt": "2026-08-28T07:51:50.940Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787871489177,
+  "lastPolledAt": 1787895907856,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -13,11 +13,7 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
+    "genres": [],
     "playCount": 493
   },
   "trackPlayCounts": {
@@ -229,7 +225,7 @@
     "3rT0UIwun3kYrsDhunfmiR": {
       "name": "Blue Canvas",
       "artist": "ClariS",
-      "count": 16
+      "count": 17
     },
     "4gOHIJEgIO0PI4W32WWzts": {
       "name": "SAKURA PUNCH",
@@ -294,7 +290,7 @@
     "3NRYoA2lCeDF2ltxECA1e8": {
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
-      "count": 23
+      "count": 60
     },
     "3uXD2gHqRs6mitblJm9kng": {
       "name": "ハミングフレンド (高海千歌 Solo Ver.)",
@@ -314,7 +310,7 @@
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
       "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 15
+      "count": 16
     },
     "1gGbdllxQWqNOTnjKtacj9": {
       "name": "Embraced by the Flame",
@@ -334,7 +330,7 @@
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
       "artist": "Maroon 5",
-      "count": 15
+      "count": 16
     },
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
@@ -674,7 +670,7 @@
     "5N5WcSciZ3I8QRRczhJzbZ": {
       "name": "るんっ♪てぃてぃー！",
       "artist": "Pastel*Palettes",
-      "count": 14
+      "count": 15
     },
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
@@ -684,7 +680,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 94
+      "count": 95
     },
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
@@ -754,7 +750,7 @@
     "096DowSPWbfLWBKPx2mciP": {
       "name": "千本桜 (Cover)",
       "artist": "Poppin'Party",
-      "count": 12
+      "count": 13
     },
     "3kc4BXcgIP55qpPmdArZRi": {
       "name": "はじめの一歩",
@@ -769,7 +765,7 @@
     "0COqiPhxzoWICwFCS4eZcp": {
       "name": "Bring Me To Life",
       "artist": "Evanescence",
-      "count": 5
+      "count": 6
     },
     "6TyNKENZ3rrnZklMzj1z6z": {
       "name": "3:03 PM",
@@ -929,7 +925,7 @@
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 15
+      "count": 16
     },
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
@@ -1284,7 +1280,7 @@
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
       "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 2
+      "count": 3
     },
     "3QRii5A35ZfsGGiPrv9k0j": {
       "name": "異次元★♥BIGBANG",
@@ -1304,7 +1300,7 @@
     "7aRZV9axsW32NIsewNXHZf": {
       "name": "無間嫉妬劇場『666』",
       "artist": "森羅万象",
-      "count": 6
+      "count": 7
     },
     "05qCCJQJiOwvPQBb7akf1R": {
       "name": "Jamie All Over",
@@ -1384,7 +1380,7 @@
     "1EGKoUUvsxhcAb0WXjFSNJ": {
       "name": "ガランドFlash",
       "artist": "DOLLCHESTRA",
-      "count": 12
+      "count": 13
     },
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
@@ -1819,7 +1815,7 @@
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
       "artist": "Gaijin Entertainment, Jimmie Asche, Nikita Mokrov",
-      "count": 7
+      "count": 8
     },
     "4Iwamr24yU9cp36moCsnLn": {
       "name": "hectopascal",
@@ -1984,7 +1980,7 @@
     "0G9AVuZ44K6QKsFOX4wgJ9": {
       "name": "CHASE!",
       "artist": "優木せつ菜 (CV.楠木ともり)",
-      "count": 7
+      "count": 8
     },
     "0x3mYQTVysvTLp9NlCqORi": {
       "name": "Dragonhearted",
@@ -2072,7 +2068,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 247
+      "count": 249
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -2104,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 242
+      "count": 243
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -2148,7 +2144,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 36
+      "count": 37
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -2208,7 +2204,7 @@
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
-      "count": 23
+      "count": 60
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
@@ -2220,7 +2216,7 @@
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 15
+      "count": 16
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -2228,7 +2224,7 @@
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
-      "count": 15
+      "count": 16
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
@@ -2356,7 +2352,7 @@
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 11
+      "count": 12
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
@@ -2440,7 +2436,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 94
+      "count": 95
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2460,7 +2456,7 @@
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
-      "count": 5
+      "count": 6
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
@@ -2700,7 +2696,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 86
+      "count": 87
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2736,7 +2732,7 @@
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
-      "count": 6
+      "count": 7
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
@@ -2916,15 +2912,15 @@
     },
     "0e0gYNGBRufy5XlLh5LJ1Q": {
       "name": "Gaijin Entertainment",
-      "count": 7
+      "count": 8
     },
     "0Kn3iPQHkFB4sLMSu5rltP": {
       "name": "Jimmie Asche",
-      "count": 7
+      "count": 8
     },
     "2K9GlcaZ7KZNuWqAJuzSd3": {
       "name": "Nikita Mokrov",
-      "count": 7
+      "count": 8
     },
     "1DJHntdu7NoSc8rd4b7GcT": {
       "name": "小糸 侑(CV:高田憂希)",
@@ -2956,7 +2952,7 @@
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
-      "count": 7
+      "count": 8
     },
     "0B7Y5KDNScTBzeN7DY74YG": {
       "name": "Tryhardninja",
