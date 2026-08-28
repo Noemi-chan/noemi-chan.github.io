@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-28T07:51:50.940Z",
+  "updatedAt": "2026-08-28T19:46:11.089Z",
   "monthKey": "2026-08",
-  "lastPolledAt": 1787895907856,
+  "lastPolledAt": 1787946261613,
   "topTrack": {
     "name": "FIRE BIRD",
     "artist": "Roselia",
@@ -1135,7 +1135,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 26
+      "count": 76
     },
     "6Cx7OtBOhEPgIijiNdrQtd": {
       "name": "ハナヒバナ",
@@ -2036,7 +2036,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 285
+      "count": 335
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
