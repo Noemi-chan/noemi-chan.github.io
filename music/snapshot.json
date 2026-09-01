@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-01T15:17:57.447Z",
+  "updatedAt": "2026-09-01T18:59:06.742Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788275704188,
+  "lastPolledAt": 1788289115949,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273521c7ec8fa2506ab94d99cac",
     "url": "https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy",
-    "playCount": 121
+    "playCount": 163
   },
   "topArtist": {
     "name": "Roselia",
@@ -265,7 +265,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 121
+      "count": 163
     },
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
@@ -306,6 +306,26 @@
       "name": "King A Zab",
       "artist": "電音部, 野崎心平, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希), SHINPEI NOZAKI",
       "count": 1
+    },
+    "3rT0UIwun3kYrsDhunfmiR": {
+      "name": "Blue Canvas",
+      "artist": "ClariS",
+      "count": 1
+    },
+    "68pyZjn31y1s2MKgoOu4ug": {
+      "name": "詩超絆",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0MYYsZfZx6ECK5kefHUHJs": {
+      "name": "もういちど ルミナス",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "6o39Ln9118FKTMbM4BvcEy": {
+      "name": "Drown",
+      "artist": "Bring Me The Horizon",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -319,7 +339,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 128
+      "count": 170
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -327,7 +347,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -359,7 +379,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -451,7 +471,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 2
+      "count": 3
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
@@ -583,6 +603,10 @@
     },
     "69ffZygGAxBmf8EA471kCj": {
       "name": "SHINPEI NOZAKI",
+      "count": 1
+    },
+    "1Ffb6ejR6Fe5IamqA5oRUF": {
+      "name": "Bring Me The Horizon",
       "count": 1
     }
   }
