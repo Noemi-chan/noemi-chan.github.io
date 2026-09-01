@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T18:59:06.742Z",
+  "updatedAt": "2026-09-01T21:37:18.930Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788289115949,
+  "lastPolledAt": 1788298379556,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 7
+    "playCount": 10
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -326,6 +326,201 @@
       "name": "Drown",
       "artist": "Bring Me The Horizon",
       "count": 1
+    },
+    "3DXAJeYw1DeTUAbAE9JojM": {
+      "name": "眩耀夜行",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "3Zwu2K0Qa5sT6teCCHPShP": {
+      "name": "Thnks fr th Mmrs",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "0VWWojVxx5JF7QVwg6EMiV": {
+      "name": "メモワール・アンタクト",
+      "artist": "幽谷霧子 (CV.結名美月)",
+      "count": 1
+    },
+    "72CJJVeeqzRRlWW1jv90A6": {
+      "name": "みんなと一緒なら",
+      "artist": "藤永龍太郎",
+      "count": 1
+    },
+    "4lypt03XVYnSat94IWFVPd": {
+      "name": "焚音打",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "1ubvzeEClhjtfXULU1UpTb": {
+      "name": "乙女詞華集",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "3aZQTrc9svekofLsXrv9WZ": {
+      "name": "Shinku no Pasión",
+      "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "1coE0U4cDTQVNVBlp6ljfG": {
+      "name": "Reweave (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6UNnBoYJOhny1DytXoUYf9": {
+      "name": "Our Carol",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "3I35fTfZj04H43F6L8RRhi": {
+      "name": "Fudosei Innocence",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "4Xgono4pmRbojXlCIYh8or": {
+      "name": "Riptide",
+      "artist": "Beartooth",
+      "count": 1
+    },
+    "2qFUf9vh3e9CtCrkPMwMZz": {
+      "name": "レゴリス",
+      "artist": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "16exrY95yucY3Mkf7qIzhp": {
+      "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
+      "artist": "Wilbert Roget, II",
+      "count": 1
+    },
+    "4pUSuZujEeDFHLnmpVncuR": {
+      "name": "Suicide Mission",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "5rglT9cmL3jeVrYI0LQE2r": {
+      "name": "二羽鶴 Instrumental ver.",
+      "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "734cyaTXP3BEcmcEkBo2aS": {
+      "name": "夢を撃ち抜く瞬間に！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "56qTvG1Ej0wwpKhoWrVdMY": {
+      "name": "Yokan Koiuta",
+      "artist": "Mamiya(CV:Yui Horie)",
+      "count": 1
+    },
+    "2yH6eL6f1Ada5MnmNpiPbr": {
+      "name": "blindfolded",
+      "artist": "Against The Current",
+      "count": 1
+    },
+    "6rtgV9S15N9tuCwJR7wJNY": {
+      "name": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "2XhP4CgI2cbsGjYeLZbzpE": {
+      "name": "Criminally Dinner: Seisan to Evil Knife",
+      "artist": "Miki Hoshii (CV: Akiko Hasegawa), Ayumu Maihama (CV: Megumi Toda), Shizuka Mogami (CV: Azusa Tadokoro), Karen Shinomiya (CV: Yui Kondo), Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "4IX6QvjOI62tyHigVsTUlv": {
+      "name": "Have Faith In Me",
+      "artist": "A Day To Remember",
+      "count": 1
+    },
+    "2GC2OsWhRm9ltfxWBKuHhE": {
+      "name": "春日影 (MyGO!!!!! ver.)",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "1500AmV840OOc0hJnTQGrL": {
+      "name": "PASSIONATE ANTHEM",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "48cHUSrX0pmHpgDvFg3xF7": {
+      "name": "御簾を上げろ！",
+      "artist": "Junpei Fujita",
+      "count": 1
+    },
+    "0RvvNjSDtNedo0dy8C2TAC": {
+      "name": "hope ur happy",
+      "artist": "Until I Wake",
+      "count": 1
+    },
+    "3o9kpgkIcffx0iSwxhuNI2": {
+      "name": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "count": 1
+    },
+    "4SPKuPwXDa5rWFSgrI9Rxr": {
+      "name": "奏（かなで） (Cover)",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "1gXAB8LVnrNFVkj4kBdaSE": {
+      "name": "Parachute",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "6Cx7OtBOhEPgIijiNdrQtd": {
+      "name": "ハナヒバナ",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "6MtEzxuKMIDEXcKoUGJjy1": {
+      "name": "顔",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "6P1bG5AN1C1s7oTIF5nSm3": {
+      "name": "最強☆ソング",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "3FdI2uFUxKWm9kmPkIYYf3": {
+      "name": "Wide Awake",
+      "artist": "Hot Milk",
+      "count": 1
+    },
+    "4D8wqdUzClwaWXLWRCv0Vi": {
+      "name": "Cassette Tape Dream",
+      "artist": "しゃろう",
+      "count": 1
+    },
+    "5rehAVBJYYWngBV4iDW6T9": {
+      "name": "Deep Indigo - Album Ver.",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "4HyMI0Vd5hv1LLrkWDhszY": {
+      "name": "Unsung Heroes",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "772kg4oxkCZRur0u49cA6I": {
+      "name": "Move",
+      "artist": "Audio Adrenaline",
+      "count": 1
+    },
+    "2sdXeSyXeOIFzx1A6A0d4U": {
+      "name": "Hopes And Dreams",
+      "artist": "Toby Fox",
+      "count": 1
+    },
+    "2FbdvkGnTFEXxoXjV8iSVj": {
+      "name": "Thrash Trash",
+      "artist": "Jaron Takach, Derek Long",
+      "count": 1
+    },
+    "6gfUOprNMeD8amncMOSFl0": {
+      "name": "Misery",
+      "artist": "Memphis May Fire",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -335,11 +530,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 7
+      "count": 10
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 170
+      "count": 171
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -347,7 +542,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 2
+      "count": 5
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -363,7 +558,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -379,7 +574,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 4
+      "count": 6
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -387,7 +582,7 @@
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 1
+      "count": 2
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
@@ -395,7 +590,7 @@
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 1
+      "count": 2
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
@@ -407,7 +602,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 1
+      "count": 3
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -419,7 +614,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 1
+      "count": 2
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -427,7 +622,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 1
+      "count": 2
     },
     "4qqHB9SmuXrOopifD0YzMa": {
       "name": "戸山香澄(CV:愛美)",
@@ -503,7 +698,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 2
+      "count": 3
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
@@ -607,6 +802,122 @@
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
+      "count": 1
+    },
+    "6L7wKf6aQv6A3OpiuMITqM": {
+      "name": "スリーズブーケ",
+      "count": 2
+    },
+    "2cqPrv4nO5puTb0WBGaso3": {
+      "name": "幽谷霧子 (CV.結名美月)",
+      "count": 1
+    },
+    "6D4A4P0cqfcqs8igavNaA1": {
+      "name": "藤永龍太郎",
+      "count": 1
+    },
+    "0KaXjMCgk5f4maUi6vtZAw": {
+      "name": "chicAAmor",
+      "count": 1
+    },
+    "3tsSGK2yeVzdb9tqR2faOb": {
+      "name": "Sayoko Takayama (CV: Yuri Komagata)",
+      "count": 1
+    },
+    "7IFPSph621cFElVwhbhdlA": {
+      "name": "Fuka Toyokawa (CV: Rie Suegara)",
+      "count": 1
+    },
+    "1QpIAQVxfJz3DMqFfs5B4G": {
+      "name": "Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "6NpkNdWFWIvQpS1GLvdQrY": {
+      "name": "アンティーカ",
+      "count": 2
+    },
+    "6vwjIs0tbIiseJMR3pqwiL": {
+      "name": "Beartooth",
+      "count": 1
+    },
+    "2ScjBZKTBFqJ5Rj9lgo0e8": {
+      "name": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "4b6Khs68thyzQrWRISZFrT": {
+      "name": "Wilbert Roget, II",
+      "count": 1
+    },
+    "4Kyb02r7dR3H1PH7pYkb8X": {
+      "name": "Epic Score",
+      "count": 1
+    },
+    "5fHnNjwRhNBezGp6781fvz": {
+      "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "3gkk1UGN5kNXyV6Nbpv279": {
+      "name": "Mamiya(CV:Yui Horie)",
+      "count": 1
+    },
+    "6yhD1KjhLxIETFF7vIRf8B": {
+      "name": "Against The Current",
+      "count": 1
+    },
+    "3WIltg9gs4B949YIw2D0Yl": {
+      "name": "Miki Hoshii (CV: Akiko Hasegawa)",
+      "count": 1
+    },
+    "76b3vdXkfXuar9vWeOF0Z9": {
+      "name": "Ayumu Maihama (CV: Megumi Toda)",
+      "count": 1
+    },
+    "4O0cUPcEXzU6U510RtnM8l": {
+      "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+      "count": 1
+    },
+    "5N2Y7IgJMpGvlTKS3RAIvA": {
+      "name": "Karen Shinomiya (CV: Yui Kondo)",
+      "count": 1
+    },
+    "0V7mNNTpBiNAILcuDPVwst": {
+      "name": "Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "4NiJW4q9ichVqL1aUsgGAN": {
+      "name": "A Day To Remember",
+      "count": 1
+    },
+    "4XYFjTd83FIwArFrWEYhd5": {
+      "name": "Until I Wake",
+      "count": 1
+    },
+    "7o2ZQYM7nTsaVdkXY38UAA": {
+      "name": "Em Beihold",
+      "count": 1
+    },
+    "78Oq5iXIM9HCAe0zYg8E7o": {
+      "name": "しゃろう",
+      "count": 1
+    },
+    "2SW5wli9uAsYHQnezGESFB": {
+      "name": "Rachie",
+      "count": 1
+    },
+    "01PBXLThJADrhufsPS5tER": {
+      "name": "Audio Adrenaline",
+      "count": 1
+    },
+    "57DlMWmbVIf2ssJ8QBpBau": {
+      "name": "Toby Fox",
+      "count": 1
+    },
+    "36bLfgFkAodzzHCeG45Jtm": {
+      "name": "Jaron Takach",
+      "count": 1
+    },
+    "5xJiiKiEDhJYn6Z3EdCZPt": {
+      "name": "Derek Long",
       "count": 1
     }
   }
