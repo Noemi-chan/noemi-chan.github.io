@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-01T05:51:47.989Z",
+  "updatedAt": "2026-09-01T10:45:03.181Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788241826310,
+  "lastPolledAt": 1788259341367,
   "topTrack": {
-    "name": "Wreath of Brave",
-    "artist": "Morfonica",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc3ba437f3932bf8ff80b4ff",
-    "url": "https://open.spotify.com/track/4ASq7X4whuOi22olYMRnAw",
-    "playCount": 1
+    "name": "八芒星ダンス",
+    "artist": "Ave Mujica",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273521c7ec8fa2506ab94d99cac",
+    "url": "https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy",
+    "playCount": 71
   },
   "topArtist": {
     "name": "Roselia",
@@ -265,7 +265,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 21
+      "count": 71
     },
     "0JCUEFRzph1g3xBhhJc09l": {
       "name": "わやわやわー！",
@@ -319,7 +319,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 28
+      "count": 78
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
