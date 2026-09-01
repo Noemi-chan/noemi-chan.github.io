@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T21:37:18.930Z",
+  "updatedAt": "2026-09-01T23:40:09.221Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788298379556,
+  "lastPolledAt": 1788301328143,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 10
+    "playCount": 12
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -521,6 +521,71 @@
       "name": "Misery",
       "artist": "Memphis May Fire",
       "count": 1
+    },
+    "4oVdhvxZrKQTM9ZsUIZa3S": {
+      "name": "December",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "2LoXQxf8uj3nRCNZMbmvxr": {
+      "name": "overtuRe",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6TyNKENZ3rrnZklMzj1z6z": {
+      "name": "3:03 PM",
+      "artist": "しゃろう",
+      "count": 1
+    },
+    "3ITmLRVfTAQkdBgCUyrBeA": {
+      "name": "Open Up My Heart",
+      "artist": "The Winking Owl",
+      "count": 1
+    },
+    "1C7XFuIyp7zoURPRd0kbmW": {
+      "name": "Heads or Tails？",
+      "artist": "コメティック",
+      "count": 1
+    },
+    "0JWpbl3Ppr71ONy6VDP5vu": {
+      "name": "Hold Me Now",
+      "artist": "Caskets",
+      "count": 1
+    },
+    "7IZXTbPCnF4PJzsVIx4huE": {
+      "name": "Everything Goes On",
+      "artist": "AARCADE, Victoria Kwan",
+      "count": 1
+    },
+    "1nk9moKBnrWMsXoHxnaeJd": {
+      "name": "Y (Please Tell Me Why)",
+      "artist": "freestyle",
+      "count": 1
+    },
+    "1MpimPh4legrECmPHcdofR": {
+      "name": "Where Do We Go When We Go",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "5ByAGFPwMLf6ykn5UzIks1": {
+      "name": "More Than Misery",
+      "artist": "Caskets, TELLE",
+      "count": 1
+    },
+    "50nRYeiTbC3QpKYFdAR6HJ": {
+      "name": "What’s the POPIPA!?",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "68OymWhEAobP8ljyEoOo1M": {
+      "name": "Sage der Rosen",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6BCuusKOo7e2KT22kKghRV": {
+      "name": "Georgette Me, Georgette You",
+      "artist": "Ave Mujica",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -530,15 +595,15 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 10
+      "count": 12
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 171
+      "count": 172
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 1
+      "count": 2
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -558,7 +623,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 3
+      "count": 5
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -602,7 +667,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 3
+      "count": 4
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -898,7 +963,7 @@
     },
     "78Oq5iXIM9HCAe0zYg8E7o": {
       "name": "しゃろう",
-      "count": 1
+      "count": 2
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
@@ -918,6 +983,30 @@
     },
     "5xJiiKiEDhJYn6Z3EdCZPt": {
       "name": "Derek Long",
+      "count": 1
+    },
+    "08aT4nW2iKh4WRoYojWmDE": {
+      "name": "The Winking Owl",
+      "count": 1
+    },
+    "2XIbOWDT5vZPW7jNyzdfcK": {
+      "name": "Caskets",
+      "count": 2
+    },
+    "7FcsmP4uqRlBKh2Y7Q9kd0": {
+      "name": "AARCADE",
+      "count": 1
+    },
+    "5nMHOJgAzU0zLB2YAfOWgx": {
+      "name": "Victoria Kwan",
+      "count": 1
+    },
+    "0LigV2SSsRZaeX2htEFXV9": {
+      "name": "freestyle",
+      "count": 1
+    },
+    "2ZLkrrjhoAzlDuxGZJSWB2": {
+      "name": "TELLE",
       "count": 1
     }
   }
