@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T00:11:15.112Z",
+  "updatedAt": "2026-09-01T05:51:47.989Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788203635343,
+  "lastPolledAt": 1788241826310,
   "topTrack": {
     "name": "Wreath of Brave",
     "artist": "Morfonica",
@@ -13,12 +13,8 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
-    "playCount": 4
+    "genres": [],
+    "playCount": 7
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -159,111 +155,156 @@
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "6ss2vUwrV64xAVE4fXZMIh": {
       "name": "I Really Like You",
       "artist": "Carly Rae Jepsen",
-      "count": 1
+      "count": 2
     },
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
       "artist": "Kotoha Tanaka (CV: Risa Taneda), Momoko Suou (CV: Keiko Watanabe), Konomi Baba (CV: Minami Takahashi), Mizuki Makabe (CV: Rika Abe), Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 1
+      "count": 2
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "2nMVkKOSXWlx39bDb6O3Ac": {
       "name": "もういちど ルミナス",
       "artist": "ClariS, 丸山彩 from Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "34pfgcl8vgLvlPIXSkeSWt": {
       "name": "ANEMONE",
       "artist": "常闇トワ",
-      "count": 1
+      "count": 2
     },
     "7Iuh4MrwLBU1fIM3uWExKW": {
       "name": "Denshi Toujou!",
       "artist": "KARUT",
-      "count": 1
+      "count": 2
     },
     "4I5Bsfl4gdoRcK3AF47hVf": {
       "name": "黒のバースデイ",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "3foaVrwbNHvwXmKD0lMHWv": {
       "name": "幻日ミステリウム",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "3RtcR7pL6YNQ57fsRciMdp": {
       "name": "Mas?uerade Rhapsody Re?uest",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "3ajnP3J1EEPpdCjIF9keIE": {
       "name": "In Your Eyes",
       "artist": "Tom Wilson, MAJRO",
-      "count": 1
+      "count": 2
     },
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
       "artist": "You vs Yesterday",
-      "count": 1
+      "count": 2
     },
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "4ZwvTeIpKafwcNxQEsUm4D": {
       "name": "Make Believe",
       "artist": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "3WlHeBv2athRcNTwbfjg0b": {
       "name": "Back to Where It Began",
       "artist": "Rockin' For Decades",
-      "count": 1
+      "count": 2
     },
     "5AUgGQ6WIJTGNClxBiip6D": {
       "name": "天下トーイツA to Z☆",
       "artist": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "3NRYoA2lCeDF2ltxECA1e8": {
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
-      "count": 1
+      "count": 2
     },
     "3QRii5A35ZfsGGiPrv9k0j": {
       "name": "異次元★♥BIGBANG",
       "artist": "島村卯月 (CV: 大橋彩香), 最上静香 (CV.田所あずさ), 月岡恋鐘 (CV.礒部花凜), 高海千歌 (CV.伊波杏樹), 上原歩夢 (CV.大西亜玖璃), 澁谷かのん (CV.伊達さゆり), 日野下花帆 (CV.楡井希実)",
-      "count": 1
+      "count": 2
     },
     "2oMWhelb6C0Flhx0n5TKoM": {
       "name": "Sting",
       "artist": "Concrete Castles",
-      "count": 1
+      "count": 2
     },
     "1ZTni1JBrvpa6TaipvQ8ZW": {
       "name": "Through The Night",
       "artist": "Alohaii, Yuuka Bear",
-      "count": 1
+      "count": 2
     },
     "5XvpDIZqga1XDpt8HcAUOA": {
       "name": "realize",
       "artist": "Atarayo",
-      "count": 1
+      "count": 2
     },
     "73PAbYaVbnFG0tQ4aBfxeN": {
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
+      "count": 1
+    },
+    "4eR1tqIsDouIiI1cbTuCMy": {
+      "name": "八芒星ダンス",
+      "artist": "Ave Mujica",
+      "count": 21
+    },
+    "0JCUEFRzph1g3xBhhJc09l": {
+      "name": "わやわやわー！",
+      "artist": "亜咲花",
+      "count": 1
+    },
+    "2mWkRziSA8Mp9QOMC5OZmh": {
+      "name": "1日は25時間。",
+      "artist": "ツルシマアンナ",
+      "count": 1
+    },
+    "50palGbYA85jbX8y79aqRK": {
+      "name": "ムリムリ進化論",
+      "artist": "NANAOAKARI",
+      "count": 1
+    },
+    "3pBtDocY7yVquMcs8oUs6V": {
+      "name": "Eventually",
+      "artist": "State Champs",
+      "count": 1
+    },
+    "2bUZYtvlrv8AuoZA4FvgvB": {
+      "name": "鳥の詩 (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6s9s4nySDJVfetQrPkpZot": {
+      "name": "Sonorous",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "3FTc8QsYzs2PRo8fTQ5JyM": {
+      "name": "Night of Nights",
+      "artist": "RichaadEB",
+      "count": 1
+    },
+    "4WhEwgjAvP4xC9cLXE5hY1": {
+      "name": "King A Zab",
+      "artist": "電音部, 野崎心平, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希), SHINPEI NOZAKI",
       "count": 1
     }
   },
@@ -274,11 +315,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 4
+      "count": 7
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 5
+      "count": 28
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -306,7 +347,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 1
+      "count": 2
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
@@ -314,11 +355,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 2
+      "count": 3
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -338,7 +379,7 @@
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 2
+      "count": 3
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
@@ -390,114 +431,158 @@
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 1
+      "count": 2
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
-      "count": 1
+      "count": 2
     },
     "3Amsmaln3plXWWVJi684Kr": {
       "name": "Momoko Suou (CV: Keiko Watanabe)",
-      "count": 1
+      "count": 2
     },
     "71gXraRrIXOxtuvIGPhQKw": {
       "name": "Konomi Baba (CV: Minami Takahashi)",
-      "count": 1
+      "count": 2
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 1
+      "count": 2
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 1
+      "count": 2
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "0XZGQi9wNsE1z9L0AWhC82": {
       "name": "常闇トワ",
-      "count": 1
+      "count": 2
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 1
+      "count": 2
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
-      "count": 1
+      "count": 2
     },
     "6sUsfQ1mfjViQCKig0NtMp": {
       "name": "MAJRO",
-      "count": 1
+      "count": 2
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
-      "count": 1
+      "count": 2
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
-      "count": 1
+      "count": 2
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
-      "count": 1
+      "count": 2
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
-      "count": 1
+      "count": 2
     },
     "66UKyfIWbPvoH82zGZlkdH": {
       "name": "最上静香 (CV.田所あずさ)",
-      "count": 1
+      "count": 2
     },
     "2Nascsj90mN48cZBUS4CPA": {
       "name": "月岡恋鐘 (CV.礒部花凜)",
-      "count": 1
+      "count": 2
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
-      "count": 1
+      "count": 2
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
-      "count": 1
+      "count": 2
     },
     "2KO3nQQqN4LJAKQebedEHF": {
       "name": "澁谷かのん (CV.伊達さゆり)",
-      "count": 1
+      "count": 2
     },
     "3K0kUxY4moTB2FF7nYLgzs": {
       "name": "日野下花帆 (CV.楡井希実)",
-      "count": 1
+      "count": 2
     },
     "1Cexar57ALO1nZIiKoIUuo": {
       "name": "Concrete Castles",
-      "count": 1
+      "count": 2
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 1
+      "count": 2
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
-      "count": 1
+      "count": 2
     },
     "2yRnjWtHzmDELwYaUiX0Yh": {
       "name": "Atarayo",
-      "count": 1
+      "count": 2
     },
     "5Pwc4xIPtQLFEnJriah9YJ": {
       "name": "OneRepublic",
+      "count": 1
+    },
+    "0QwTvn35AQMMELpKDU176h": {
+      "name": "亜咲花",
+      "count": 1
+    },
+    "66Tqv3DqPeLRlTDHzzNa63": {
+      "name": "ツルシマアンナ",
+      "count": 1
+    },
+    "06jSjpC81wzjoUoE61Fhdn": {
+      "name": "NANAOAKARI",
+      "count": 1
+    },
+    "1qqdO7xMptucPDMopsOdkr": {
+      "name": "State Champs",
+      "count": 1
+    },
+    "4IF11U0nzFhAaLDGZH3vSx": {
+      "name": "RichaadEB",
+      "count": 1
+    },
+    "3wCJxpjgYDXbwLn4vmSBEx": {
+      "name": "電音部",
+      "count": 1
+    },
+    "0uoN997vSgxUQ0GxGyppxZ": {
+      "name": "野崎心平",
+      "count": 1
+    },
+    "0JQ292eFZdsbZbYUfNWpph": {
+      "name": "黒鉄たま (CV: 秋奈)",
+      "count": 1
+    },
+    "2xJeAewClnCHglceTI3gIw": {
+      "name": "白金 煌 (CV: 小宮有紗)",
+      "count": 1
+    },
+    "5B4sSyRcbTVegDTQlj8aX2": {
+      "name": "灰島銀華 (CV: 澁谷梓希)",
+      "count": 1
+    },
+    "69ffZygGAxBmf8EA471kCj": {
+      "name": "SHINPEI NOZAKI",
       "count": 1
     }
   }
