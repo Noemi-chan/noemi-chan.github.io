@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T23:40:09.221Z",
+  "updatedAt": "2026-09-02T01:56:46.548Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788301328143,
+  "lastPolledAt": 1788313891483,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -586,6 +586,51 @@
       "name": "Georgette Me, Georgette You",
       "artist": "Ave Mujica",
       "count": 1
+    },
+    "1vdYPvIKC9ekIGbUWmTP2z": {
+      "name": "Guruguru Live",
+      "artist": "由崎司(CV:鬼頭明里)",
+      "count": 1
+    },
+    "0WaOQy3YvVsMa3UuDGW9d7": {
+      "name": "キラキラだとか夢だとか ～Sing Girls～",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "5dp3vri4d2JjeBsGriLFyW": {
+      "name": "IMAWA IINDAYO - Cover",
+      "artist": "Kotoha",
+      "count": 1
+    },
+    "5uraJqtCBvLpwt3VeomZdq": {
+      "name": "Shinzo wo Sasageyo !",
+      "artist": "Linked Horizon",
+      "count": 1
+    },
+    "1uPqnaQ4r1Fwe4KijfYGKD": {
+      "name": "It's My Life - Old Classic Version",
+      "artist": "Selo i Ludy",
+      "count": 1
+    },
+    "3x66sbKzXN2KJfn9gxyoaZ": {
+      "name": "Veins of FLOWER",
+      "artist": "吉村・Thi・梅(CV:岩田陽葵)",
+      "count": 1
+    },
+    "6hjoFJtQBfrtbvih5PBOrX": {
+      "name": "Daydream Warrior",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "6ehbDGFDROegSRlXhIoJhp": {
+      "name": "There's Nothing Holdin' Me Back",
+      "artist": "The Gospel Youth",
+      "count": 1
+    },
+    "58DZO7oMpMRAxtHVhuDFdl": {
+      "name": "Fireworks Beneath My Shoes",
+      "artist": "Rachie",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -635,7 +680,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 3
+      "count": 4
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
@@ -667,7 +712,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 4
+      "count": 5
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -967,7 +1012,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 1
+      "count": 2
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -1007,6 +1052,30 @@
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
+      "count": 1
+    },
+    "3DZPDkF2LcgJBefu3J1k6k": {
+      "name": "由崎司(CV:鬼頭明里)",
+      "count": 1
+    },
+    "76pJHTMyTukyWJNR6yRrZS": {
+      "name": "Kotoha",
+      "count": 1
+    },
+    "3eNYrVLcWfjJ9JdH9kiPJO": {
+      "name": "Linked Horizon",
+      "count": 1
+    },
+    "0LtYhakgj2VJgFrBh0JTfh": {
+      "name": "Selo i Ludy",
+      "count": 1
+    },
+    "5WQ3NPlPRXdO9jfUn4uMH2": {
+      "name": "吉村・Thi・梅(CV:岩田陽葵)",
+      "count": 1
+    },
+    "5EWAtvRDy8I6sSYlMjD6g0": {
+      "name": "The Gospel Youth",
       "count": 1
     }
   }
