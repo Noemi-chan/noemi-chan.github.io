@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-02T15:35:57.395Z",
+  "updatedAt": "2026-09-02T19:04:52.369Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788363314900,
+  "lastPolledAt": 1788375729549,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 20
+    "playCount": 21
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -295,12 +295,12 @@
     "6s9s4nySDJVfetQrPkpZot": {
       "name": "Sonorous",
       "artist": "Morfonica",
-      "count": 2
+      "count": 3
     },
     "3FTc8QsYzs2PRo8fTQ5JyM": {
       "name": "Night of Nights",
       "artist": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "4WhEwgjAvP4xC9cLXE5hY1": {
       "name": "King A Zab",
@@ -950,7 +950,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 28
+      "count": 49
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -1061,6 +1061,121 @@
       "name": "FIRE BIRD",
       "artist": "Roselia",
       "count": 1
+    },
+    "1zCH2Z7PZkzKnJbnKXP5Ov": {
+      "name": "Ether",
+      "artist": "Ave Mujica",
+      "count": 2
+    },
+    "37o4hZa24AZRREyq0c50Oa": {
+      "name": "Oriental Drop",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "29vY6gIKRje259YNZ7FyDb": {
+      "name": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "408vxBzcZxn9FwCQIOGZTb": {
+      "name": "HELL! or HELL?",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "3wcT7Bndd1w4dVsKhEXcEm": {
+      "name": "Gold Steps",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "69xq52Yl3XgWRPIAOwfaYY": {
+      "name": "In Loving Memory",
+      "artist": "First and Forever",
+      "count": 1
+    },
+    "4aI91AYZfMFs4cb8him5lI": {
+      "name": "Hop? Stop? Nonstop!",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "0I329vpTJRdSRjEcWaQsSL": {
+      "name": "Jet Lag (feat. Natasha Bedingfield)",
+      "artist": "Simple Plan, Natasha Bedingfield",
+      "count": 1
+    },
+    "7aRZV9axsW32NIsewNXHZf": {
+      "name": "無間嫉妬劇場『666』",
+      "artist": "森羅万象",
+      "count": 1
+    },
+    "3uXz1lgsibXdWQ05wc2P6f": {
+      "name": "競宴Red×Violet",
+      "artist": "Roselia, Afterglow",
+      "count": 1
+    },
+    "1XIWSYnXC3qvytNmaAFG3T": {
+      "name": "余韻",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 1
+    },
+    "0o8mdI1vf5ly2qpCxNJlC1": {
+      "name": "Let Me Dance",
+      "artist": "Alohaii, Miori Celesta",
+      "count": 1
+    },
+    "47BBI51FKFwOMlIiX6m8ya": {
+      "name": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "count": 1
+    },
+    "2xBibqkmXJ4NQCe8lJeZco": {
+      "name": "可愛くてごめん",
+      "artist": "HoneyWorks, ちゅーたん(CV:早見沙織)",
+      "count": 1
+    },
+    "1fEpLSVj6JZLH6vEuhePb0": {
+      "name": "Ghost in a Flower",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "6O36bjXdeg0e1wv51Qp1kw": {
+      "name": "‘S/’ The Way",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "0SMtNovWLTRkt9UXMY3SCO": {
+      "name": "大胆",
+      "artist": "WANDS",
+      "count": 1
+    },
+    "4tTfKPjzxibtueDLiYr5Yb": {
+      "name": "TITLE IDOL",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "0lpjCTr8jR9E51t1ha3aGj": {
+      "name": "late in autumn",
+      "artist": "fripSide",
+      "count": 1
+    },
+    "304zLZAJFOviWv2zSFoaVg": {
+      "name": "Thought Crime",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "0w1tZ33hR01YBsTPL41oZN": {
+      "name": "Operation Black Light: The Otherside Series, Vol. 4",
+      "artist": "Le Castle Vania",
+      "count": 1
+    },
+    "4M3Tg9Pt350jg8Sv6OEvaD": {
+      "name": "Dye the sky. - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "count": 1
+    },
+    "16ckvh75PRhSKz7PkmCwpf": {
+      "name": "銀翼のアレジアンス -blade of truth-",
+      "artist": "アンティーカ",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1070,11 +1185,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 20
+      "count": 21
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 179
+      "count": 182
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -1098,11 +1213,11 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 7
+      "count": 8
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 4
+      "count": 5
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
@@ -1110,11 +1225,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 8
+      "count": 9
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 9
+      "count": 10
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -1138,7 +1253,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 2
+      "count": 3
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
@@ -1218,7 +1333,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 3
+      "count": 4
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
@@ -1282,7 +1397,7 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 4
+      "count": 5
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
@@ -1314,7 +1429,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -1346,7 +1461,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 5
+      "count": 6
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -1374,7 +1489,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 4
+      "count": 5
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
@@ -1442,7 +1557,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 4
+      "count": 6
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -1554,7 +1669,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 3
+      "count": 4
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -1618,7 +1733,7 @@
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 1
+      "count": 2
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
@@ -1638,7 +1753,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 1
+      "count": 2
     },
     "0e0gYNGBRufy5XlLh5LJ1Q": {
       "name": "Gaijin Entertainment",
@@ -1674,7 +1789,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 28
+      "count": 49
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -1682,7 +1797,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 2
+      "count": 3
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
@@ -1694,7 +1809,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 1
+      "count": 2
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -1714,6 +1829,42 @@
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
+      "count": 1
+    },
+    "2p4FqHnazRucYQHyDCdBrJ": {
+      "name": "Simple Plan",
+      "count": 1
+    },
+    "7o95ZoZt5ZYn31e9z1Hc0a": {
+      "name": "Natasha Bedingfield",
+      "count": 1
+    },
+    "5ofxS8vbpzqmcgfs8LouBQ": {
+      "name": "森羅万象",
+      "count": 1
+    },
+    "5rSXSAkZ67PYJSvpUpkOr7": {
+      "name": "Backstreet Boys",
+      "count": 1
+    },
+    "40oxjbVm3kdeyJEiGsKrmd": {
+      "name": "HoneyWorks",
+      "count": 1
+    },
+    "6yKI6XBrsly4nzlmcn2nJU": {
+      "name": "ちゅーたん(CV:早見沙織)",
+      "count": 1
+    },
+    "4iaPh4BzUKBQuunyMKVxU7": {
+      "name": "WANDS",
+      "count": 1
+    },
+    "2KrXlzpSX4wWvJ2555FWLv": {
+      "name": "Le Castle Vania",
+      "count": 1
+    },
+    "7ApxPPvOHclelY9xkLZwBR": {
+      "name": "シャイニーカラーズ",
       "count": 1
     }
   }
