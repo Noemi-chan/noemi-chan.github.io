@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-02T11:51:28.765Z",
+  "updatedAt": "2026-09-02T15:35:57.395Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788349802801,
+  "lastPolledAt": 1788363314900,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 18
+    "playCount": 20
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -946,6 +946,121 @@
       "name": "Ave Mujica",
       "artist": "Ave Mujica",
       "count": 1
+    },
+    "618sNpgK4RGCaqF3s5eP1C": {
+      "name": "カーネーションの咲く日に",
+      "artist": "millsage",
+      "count": 28
+    },
+    "36wgXlvAsueJyAWS87IpFy": {
+      "name": "邂逅のフェタリテート",
+      "artist": "彩音",
+      "count": 1
+    },
+    "74oAk5kk9HxpnxYNViPUQw": {
+      "name": "Eternal Light",
+      "artist": "DiverDiva",
+      "count": 1
+    },
+    "1v6FImr8Ebpd5j2ZanEphC": {
+      "name": "dual existence<TVsize>",
+      "artist": "fripSide",
+      "count": 1
+    },
+    "0iIcuwia47B5bzjVpyUwyI": {
+      "name": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran, F1 The Album",
+      "count": 1
+    },
+    "3LwmcYxpqVyEJA8oyYA6js": {
+      "name": "way to answer",
+      "artist": "fripSide",
+      "count": 1
+    },
+    "7Ghf5I1Nvrx0QmAJHxLB3T": {
+      "name": "燦々",
+      "artist": "Afterglow",
+      "count": 1
+    },
+    "0XKe6ptxwy1yjusyER0ZTi": {
+      "name": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "1gGbdllxQWqNOTnjKtacj9": {
+      "name": "Embraced by the Flame",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "3AZt0Kw4LzCOANkpNDZScz": {
+      "name": "陽だまりロードナイト",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "12Qwn2bEStx6ASvdBKVji0": {
+      "name": "名無声",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "7fh1kd9kH1F6aw1zjFOI6X": {
+      "name": "天球(そら)のMúsica",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "4lPNuizRfDvXB8ltrNPd1v": {
+      "name": "Choir ‘S’ Choir",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "4nfozdNRD6T715w5tmP4XL": {
+      "name": "Love me harder",
+      "artist": "電音部, Shogo, 早川博隆, 黒鉄たま (CV: 秋奈), 白金 煌 (CV: 小宮有紗), 灰島銀華 (CV: 澁谷梓希)",
+      "count": 1
+    },
+    "07dsyRP72k5SoudhrrP1nt": {
+      "name": "I'll Make It Right",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "4w1kRlzCTYQKXKXX2UULcK": {
+      "name": "The Only Heaven You'll Know",
+      "artist": "Caskets",
+      "count": 1
+    },
+    "708FNo9i6UHes8IR9BOFo5": {
+      "name": "SILENT PAIN",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "7cSGyahLFeXWyhTmJCoYmh": {
+      "name": "Hitchcock",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "1Ua9Y9QG4QjEMKTocsOTNK": {
+      "name": "MY舞☆TONIGHT",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "1EGKoUUvsxhcAb0WXjFSNJ": {
+      "name": "ガランドFlash",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "3rWUlpvT1IRxDmtbOnhw9D": {
+      "name": "心の羽よ君へ飛んでけ！",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "0COqiPhxzoWICwFCS4eZcp": {
+      "name": "Bring Me To Life",
+      "artist": "Evanescence",
+      "count": 1
+    },
+    "0asJiqD3Xwvjxhjzxe2XmZ": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -955,11 +1070,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 18
+      "count": 20
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 177
+      "count": 179
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -967,7 +1082,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 7
+      "count": 8
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -991,11 +1106,11 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 1
+      "count": 2
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 5
+      "count": 8
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
@@ -1203,7 +1318,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 3
+      "count": 4
     },
     "0uoN997vSgxUQ0GxGyppxZ": {
       "name": "野崎心平",
@@ -1211,15 +1326,15 @@
     },
     "0JQ292eFZdsbZbYUfNWpph": {
       "name": "黒鉄たま (CV: 秋奈)",
-      "count": 2
+      "count": 3
     },
     "2xJeAewClnCHglceTI3gIw": {
       "name": "白金 煌 (CV: 小宮有紗)",
-      "count": 2
+      "count": 3
     },
     "5B4sSyRcbTVegDTQlj8aX2": {
       "name": "灰島銀華 (CV: 澁谷梓希)",
-      "count": 2
+      "count": 3
     },
     "69ffZygGAxBmf8EA471kCj": {
       "name": "SHINPEI NOZAKI",
@@ -1275,7 +1390,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 2
+      "count": 3
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
@@ -1327,7 +1442,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 3
+      "count": 4
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -1351,7 +1466,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 2
+      "count": 3
     },
     "7FcsmP4uqRlBKh2Y7Q9kd0": {
       "name": "AARCADE",
@@ -1439,7 +1554,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -1555,6 +1670,50 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
+      "count": 1
+    },
+    "7cBKwPovugxX15beVkPZGA": {
+      "name": "millsage",
+      "count": 28
+    },
+    "18ept9gCH3chL1S16u5CSQ": {
+      "name": "彩音",
+      "count": 1
+    },
+    "7ucOhItVkxNqunNLo8AkzN": {
+      "name": "fripSide",
+      "count": 2
+    },
+    "6eUKZXaKkcviH0Ku9w2n3V": {
+      "name": "Ed Sheeran",
+      "count": 1
+    },
+    "3aly4xJOy3LVznzvRIvFYC": {
+      "name": "F1 The Album",
+      "count": 1
+    },
+    "4Gahj9N72kVKOBZbKMu0OI": {
+      "name": "Afterglow",
+      "count": 1
+    },
+    "5NETkMPykaG8ngC1VcubSX": {
+      "name": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "4KBiAMGIoarxbHuyBB25aU": {
+      "name": "Shogo",
+      "count": 1
+    },
+    "6HpFEyrszzNRDgU7dpzpdv": {
+      "name": "早川博隆",
+      "count": 1
+    },
+    "6M4HRvHCFBOWlPW3Tn2Oqh": {
+      "name": "DOLLCHESTRA",
+      "count": 1
+    },
+    "5nGIFgo0shDenQYSE0Sn7c": {
+      "name": "Evanescence",
       "count": 1
     }
   }
