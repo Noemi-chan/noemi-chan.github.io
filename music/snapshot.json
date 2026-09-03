@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-03T00:51:01.100Z",
+  "updatedAt": "2026-09-03T05:20:18.167Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788396328555,
+  "lastPolledAt": 1788412655929,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 25
+    "playCount": 30
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -70,42 +70,42 @@
     "1Ztka7fCyxUv46FW1mZH9T": {
       "name": "December (again) [feat. Mark Hoppus]",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 1
+      "count": 2
     },
     "66JWJ7mOd9b44FPM515HrX": {
       "name": "THE SECRET NiGHT",
       "artist": "DiverDiva",
-      "count": 1
+      "count": 2
     },
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "6pDxzY3V1Df7RxLZuxMG7F": {
       "name": "ホワイト ノスタルジア",
       "artist": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "4pqH9UhPa697MDOSIPiBvJ": {
       "name": "Shiny Racers",
       "artist": "小原鞠莉 (CV.鈴木愛奈)",
-      "count": 1
+      "count": 2
     },
     "75SixhsPWyRRmtqHeffiXr": {
       "name": "Alone Together",
       "artist": "Fall Out Boy",
-      "count": 1
+      "count": 2
     },
     "6htBSRPTfR3mD3cB5afXvG": {
       "name": "Aile - Harmonized version",
       "artist": "Tsubasa Ibuki (CV: Machico), Julia (CV: Aimi), Mizuki Makabe (CV: Rika Abe)",
-      "count": 2
+      "count": 3
     },
     "2RsB1iRK8dqys4xPYcK73B": {
       "name": "Critical Mistake",
@@ -275,7 +275,7 @@
     "2mWkRziSA8Mp9QOMC5OZmh": {
       "name": "1日は25時間。",
       "artist": "ツルシマアンナ",
-      "count": 2
+      "count": 4
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
@@ -300,7 +300,7 @@
     "3FTc8QsYzs2PRo8fTQ5JyM": {
       "name": "Night of Nights",
       "artist": "RichaadEB",
-      "count": 2
+      "count": 3
     },
     "4WhEwgjAvP4xC9cLXE5hY1": {
       "name": "King A Zab",
@@ -330,102 +330,102 @@
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "3Zwu2K0Qa5sT6teCCHPShP": {
       "name": "Thnks fr th Mmrs",
       "artist": "Fall Out Boy",
-      "count": 1
+      "count": 2
     },
     "0VWWojVxx5JF7QVwg6EMiV": {
       "name": "メモワール・アンタクト",
       "artist": "幽谷霧子 (CV.結名美月)",
-      "count": 1
+      "count": 2
     },
     "72CJJVeeqzRRlWW1jv90A6": {
       "name": "みんなと一緒なら",
       "artist": "藤永龍太郎",
-      "count": 1
+      "count": 2
     },
     "4lypt03XVYnSat94IWFVPd": {
       "name": "焚音打",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "3aZQTrc9svekofLsXrv9WZ": {
       "name": "Shinku no Pasión",
       "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 1
+      "count": 2
     },
     "1coE0U4cDTQVNVBlp6ljfG": {
       "name": "Reweave (Cover)",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
       "artist": "Beartooth",
-      "count": 1
+      "count": 2
     },
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
       "artist": "ローレライ（歌：水上スイ）",
-      "count": 1
+      "count": 2
     },
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
       "artist": "Wilbert Roget, II",
-      "count": 1
+      "count": 2
     },
     "4pUSuZujEeDFHLnmpVncuR": {
       "name": "Suicide Mission",
       "artist": "Epic Score",
-      "count": 1
+      "count": 2
     },
     "5rglT9cmL3jeVrYI0LQE2r": {
       "name": "二羽鶴 Instrumental ver.",
       "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 1
+      "count": 2
     },
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "56qTvG1Ej0wwpKhoWrVdMY": {
       "name": "Yokan Koiuta",
       "artist": "Mamiya(CV:Yui Horie)",
-      "count": 1
+      "count": 2
     },
     "2yH6eL6f1Ada5MnmNpiPbr": {
       "name": "blindfolded",
       "artist": "Against The Current",
-      "count": 1
+      "count": 2
     },
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
       "artist": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "2XhP4CgI2cbsGjYeLZbzpE": {
       "name": "Criminally Dinner: Seisan to Evil Knife",
       "artist": "Miki Hoshii (CV: Akiko Hasegawa), Ayumu Maihama (CV: Megumi Toda), Shizuka Mogami (CV: Azusa Tadokoro), Karen Shinomiya (CV: Yui Kondo), Iku Nakatani (CV: Akari Harashima)",
-      "count": 1
+      "count": 2
     },
     "4IX6QvjOI62tyHigVsTUlv": {
       "name": "Have Faith In Me",
@@ -580,12 +580,12 @@
     "68OymWhEAobP8ljyEoOo1M": {
       "name": "Sage der Rosen",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "6BCuusKOo7e2KT22kKghRV": {
       "name": "Georgette Me, Georgette You",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
@@ -635,12 +635,12 @@
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
       "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 1
+      "count": 2
     },
     "1DSlH3bKoMyah4hythflEG": {
       "name": "Memories of Kindness",
       "artist": "Kano",
-      "count": 2
+      "count": 3
     },
     "2vCThgwnGOO2PofrVbsyhz": {
       "name": "Genwaku SILHOUETTE - 2023 Version",
@@ -705,32 +705,32 @@
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
       "artist": "RAISE A SUILEN",
-      "count": 1
+      "count": 2
     },
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
       "artist": "American Wolves",
-      "count": 1
+      "count": 2
     },
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4J3RBZPZ0XQjmO5fqJzYBU": {
       "name": "Moods Like English Weather",
       "artist": "The Gospel Youth",
-      "count": 1
+      "count": 2
     },
     "4B1nb9UxHTTNveM2lRhNXD": {
       "name": "Returns",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "1KpbrM0wNIeqiG1JgrUL2U": {
       "name": "Start up Stand up",
@@ -1306,6 +1306,41 @@
       "name": "EZ4ENCE (kannatuslaulu)",
       "artist": "The Verkkars",
       "count": 1
+    },
+    "4LjIQmt1t6NjpM0tpttzjo": {
+      "name": "勇者",
+      "artist": "YOASOBI",
+      "count": 1
+    },
+    "0XeIF0B93rJBlwcoYcLgnX": {
+      "name": "Sprechchor",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "187GJu2lq9njUI5wYcPAft": {
+      "name": "盲目ラビリンス",
+      "artist": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
+      "count": 1
+    },
+    "5cGTr7yx9wo6NkgQV4eqdW": {
+      "name": "Trapped in the past",
+      "artist": "TUYU",
+      "count": 1
+    },
+    "4slbyzCHSXx0cI5MlyuQX9": {
+      "name": "Umbrella",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "1IV4KjKmVgk3tn1Ffnbtuh": {
+      "name": "The Grand Delusion",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "5fIyCNQWyLFdcqZW47QEQo": {
+      "name": "Eight Melodies (From \"Earthbound Zero\") [Orchestral Remix]",
+      "artist": "Pascal Michael Stiefel, Laura Platt",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1315,11 +1350,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 25
+      "count": 30
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 186
+      "count": 187
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -1327,7 +1362,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 11
+      "count": 13
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1343,43 +1378,43 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 12
+      "count": 14
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 5
+      "count": 6
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 2
+      "count": 3
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 10
+      "count": 11
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 13
+      "count": 14
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
-      "count": 1
+      "count": 2
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 2
+      "count": 4
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
-      "count": 2
+      "count": 3
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 3
+      "count": 5
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 5
+      "count": 6
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
@@ -1387,7 +1422,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 18
+      "count": 20
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -1547,7 +1582,7 @@
     },
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
-      "count": 2
+      "count": 4
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
@@ -1559,7 +1594,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 4
+      "count": 5
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -1591,83 +1626,83 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 6
+      "count": 9
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
-      "count": 1
+      "count": 2
     },
     "6D4A4P0cqfcqs8igavNaA1": {
       "name": "藤永龍太郎",
-      "count": 1
+      "count": 2
     },
     "0KaXjMCgk5f4maUi6vtZAw": {
       "name": "chicAAmor",
-      "count": 1
+      "count": 2
     },
     "3tsSGK2yeVzdb9tqR2faOb": {
       "name": "Sayoko Takayama (CV: Yuri Komagata)",
-      "count": 1
+      "count": 2
     },
     "7IFPSph621cFElVwhbhdlA": {
       "name": "Fuka Toyokawa (CV: Rie Suegara)",
-      "count": 1
+      "count": 2
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
-      "count": 1
+      "count": 2
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 8
+      "count": 9
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
-      "count": 1
+      "count": 2
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
-      "count": 1
+      "count": 2
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
-      "count": 1
+      "count": 2
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 3
+      "count": 4
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
-      "count": 3
+      "count": 4
     },
     "3gkk1UGN5kNXyV6Nbpv279": {
       "name": "Mamiya(CV:Yui Horie)",
-      "count": 1
+      "count": 2
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 1
+      "count": 2
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
-      "count": 1
+      "count": 2
     },
     "76b3vdXkfXuar9vWeOF0Z9": {
       "name": "Ayumu Maihama (CV: Megumi Toda)",
-      "count": 1
+      "count": 2
     },
     "4O0cUPcEXzU6U510RtnM8l": {
       "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
-      "count": 1
+      "count": 2
     },
     "5N2Y7IgJMpGvlTKS3RAIvA": {
       "name": "Karen Shinomiya (CV: Yui Kondo)",
-      "count": 1
+      "count": 2
     },
     "0V7mNNTpBiNAILcuDPVwst": {
       "name": "Iku Nakatani (CV: Akari Harashima)",
-      "count": 1
+      "count": 2
     },
     "4NiJW4q9ichVqL1aUsgGAN": {
       "name": "A Day To Remember",
@@ -1751,15 +1786,15 @@
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
-      "count": 3
+      "count": 4
     },
     "4RCOP50kvNoZY3UwZcZ5AC": {
       "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
-      "count": 1
+      "count": 2
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
-      "count": 2
+      "count": 3
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
@@ -1787,7 +1822,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 1
+      "count": 2
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -1799,11 +1834,11 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 5
+      "count": 6
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
-      "count": 1
+      "count": 2
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
@@ -1831,7 +1866,7 @@
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
-      "count": 2
+      "count": 3
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
@@ -2075,6 +2110,22 @@
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
+      "count": 1
+    },
+    "64tJ2EAv1R6UaZqc4iOCyj": {
+      "name": "YOASOBI",
+      "count": 1
+    },
+    "0QANpCVLoBS2BJhi7fKbZF": {
+      "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
+      "count": 1
+    },
+    "3FU61shb6MdX8NLBnBauTI": {
+      "name": "Pascal Michael Stiefel",
+      "count": 1
+    },
+    "2K1Ps7vnKg2AnKsSoVqH4P": {
+      "name": "Laura Platt",
       "count": 1
     }
   }
