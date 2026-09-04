@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-03T23:40:56.766Z",
+  "updatedAt": "2026-09-04T01:57:39.583Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788478665300,
+  "lastPolledAt": 1788486968068,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 48
+    "playCount": 52
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -965,22 +965,22 @@
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
       "artist": "fripSide",
-      "count": 1
+      "count": 2
     },
     "0iIcuwia47B5bzjVpyUwyI": {
       "name": "Drive (From F1® The Movie)",
       "artist": "Ed Sheeran, F1 The Album",
-      "count": 1
+      "count": 2
     },
     "3LwmcYxpqVyEJA8oyYA6js": {
       "name": "way to answer",
       "artist": "fripSide",
-      "count": 1
+      "count": 2
     },
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
       "artist": "Afterglow",
-      "count": 1
+      "count": 2
     },
     "0XKe6ptxwy1yjusyER0ZTi": {
       "name": "DRIVE US CRAZY",
@@ -1416,6 +1416,136 @@
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
       "count": 1
+    },
+    "6QYYzSQnGyMjcRRy67eYwF": {
+      "name": "Miss Wanna Die - English Cover",
+      "artist": "JubyPhonic, Master Andross",
+      "count": 1
+    },
+    "2OBaqSp29mGmA06Sjf7wIG": {
+      "name": "ベノム (Cover)",
+      "artist": "Afterglow",
+      "count": 1
+    },
+    "2nIF3nXAKPmbeONeQVEVWg": {
+      "name": "Stay Alive (Official ESL Theme)",
+      "artist": "Leet Mob",
+      "count": 1
+    },
+    "5hJQB4qDmypCtoIpkfOCqC": {
+      "name": "Anthem of Dawn",
+      "artist": "電音部, 日高零奈 (CV: 蔀 祐佳)",
+      "count": 1
+    },
+    "4QIA2VSrQDo4y53Pr4T5mE": {
+      "name": "Feathered Dreams",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "4xNLwVQQqiJeuNx65CSAJd": {
+      "name": "Compared Child - English Cover",
+      "artist": "JubyPhonic",
+      "count": 1
+    },
+    "0VjIjW4GlUZAMYd2vXMi3b": {
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "count": 1
+    },
+    "24fIQnkpmhXorJRJXxjbbG": {
+      "name": "Link to the FUTURE (104期Ver.)",
+      "artist": "スリーズブーケ, DOLLCHESTRA, みらくらぱーく!",
+      "count": 1
+    },
+    "4H0h0dLqZl6mR4Lt4vdIXx": {
+      "name": "Sonorous",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "1xwYqbWwl2DBDmXnWErYsZ": {
+      "name": "THE HISTORIC...",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2TIeha2ARcgw3cZT42eOfP": {
+      "name": "しゅわりん☆どり～みん",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "7htKfb3uC5KrZvJnLVKO1Z": {
+      "name": "GRASSHOPPER",
+      "artist": "安月名莉子",
+      "count": 1
+    },
+    "3ajGxMZOPTiH1T0olC2nlp": {
+      "name": "See You in Hell",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "26STVZHzUpepcrRHF1aiQJ": {
+      "name": "THRONE OF ROSE",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "1BEZWpUeIKNvESkYRgedYq": {
+      "name": "Song for Denise - Maxi version",
+      "artist": "Piano Fantasia",
+      "count": 1
+    },
+    "1iKjPM2YygFxUqjUakAI4n": {
+      "name": "Can't Kick Up The Roots",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "3wqdHdHcTC8mnQMCNLwTFi": {
+      "name": "ガランドFlash - Off Vocal",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "54yTYUoRaT1FKNIROug6Ke": {
+      "name": "Babel City Grace - 2023 Version",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "1E6nwGciS5IV8Ag5x9PZ4q": {
+      "name": "夏に閉じこめて",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "2GP0PeV4rJ5Llgm5u4Qi1j": {
+      "name": "前へススメ！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "6GIi8LrBsHmhFSp9eDXCUf": {
+      "name": "Neo-Aspect",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "6YDtl7oTbmqwhAeMpf9oOq": {
+      "name": "Analogy",
+      "artist": "彩音",
+      "count": 1
+    },
+    "2BX1YuwKTlIX5LyTwIwBkP": {
+      "name": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "0QXsOCM6d0uQ6WqWH23KKo": {
+      "name": "Re:birth day (instrumental)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2kxfYfgPqiIQMjyCONnDaZ": {
+      "name": "迷星叫",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "2FSeQD4Tk5ELPtbJHIT1ea": {
+      "name": "Clear Morning",
+      "artist": "Yui Ogura",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1425,7 +1555,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 48
+      "count": 52
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -1437,7 +1567,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 22
+      "count": 23
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1453,11 +1583,11 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 23
+      "count": 24
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 9
+      "count": 11
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
@@ -1469,7 +1599,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 21
+      "count": 22
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -1497,7 +1627,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 34
+      "count": 36
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -1673,7 +1803,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 8
+      "count": 9
     },
     "0uoN997vSgxUQ0GxGyppxZ": {
       "name": "野崎心平",
@@ -1701,7 +1831,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 13
+      "count": 14
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -1729,7 +1859,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 15
+      "count": 16
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
@@ -1745,7 +1875,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 7
+      "count": 8
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
@@ -1797,7 +1927,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 15
+      "count": 16
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -1905,7 +2035,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 2
+      "count": 3
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1945,7 +2075,7 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 5
+      "count": 7
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
@@ -2033,23 +2163,23 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 1
+      "count": 2
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 5
+      "count": 7
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
-      "count": 1
+      "count": 2
     },
     "3aly4xJOy3LVznzvRIvFYC": {
       "name": "F1 The Album",
-      "count": 1
+      "count": 2
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 2
+      "count": 4
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -2065,7 +2195,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 3
+      "count": 5
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
@@ -2225,6 +2355,34 @@
     },
     "1hGdQOfaZ5saQ6JWVuxVDZ": {
       "name": "Casey Edwards",
+      "count": 1
+    },
+    "5qOJ5nikwvfCIs5gf22n6G": {
+      "name": "Master Andross",
+      "count": 1
+    },
+    "37H5Xn3SbccttHx8hPcahK": {
+      "name": "Leet Mob",
+      "count": 1
+    },
+    "3U8W8KZ51Z96pSqPjkWNYz": {
+      "name": "日高零奈 (CV: 蔀 祐佳)",
+      "count": 1
+    },
+    "1Xyo4u8uXC1ZmMpatF05PJ": {
+      "name": "The Weeknd",
+      "count": 1
+    },
+    "7ChJuYuw9pM8MqaZOAmvHX": {
+      "name": "安月名莉子",
+      "count": 1
+    },
+    "3fwPbUnAOAhzd60TyDfE8t": {
+      "name": "Piano Fantasia",
+      "count": 1
+    },
+    "4BVBO54UlQrzDW66hSEefy": {
+      "name": "Yui Ogura",
       "count": 1
     }
   }
