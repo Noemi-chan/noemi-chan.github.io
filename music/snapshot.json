@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-04T15:25:23.948Z",
+  "updatedAt": "2026-09-04T18:41:53.928Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788535381450,
+  "lastPolledAt": 1788547220243,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 63
+    "playCount": 68
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -875,7 +875,7 @@
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
       "artist": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
@@ -950,7 +950,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 50
+      "count": 52
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -1370,7 +1370,7 @@
     "7dNndlA0UPWsjBH2q2oD9k": {
       "name": "Proof",
       "artist": "DOLLCHESTRA",
-      "count": 1
+      "count": 2
     },
     "0lgiIwUU7Y10uXfKkgXdjk": {
       "name": "In Bloom",
@@ -1636,6 +1636,216 @@
       "name": "CHASE!",
       "artist": "優木せつ菜 (CV.楠木ともり)",
       "count": 1
+    },
+    "7jwDuO7UZvWs77KNj9HbvF": {
+      "name": "The Phoenix",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "2khCn0FtcHpiOPRchJxjfs": {
+      "name": "You Suck at Love",
+      "artist": "Simple Plan",
+      "count": 1
+    },
+    "2lfs1l1xaVOxrFNqKZrAkk": {
+      "name": "Blessing Chord - パラレルver.",
+      "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
+      "count": 1
+    },
+    "5vcQssUaCMTHTFKQXuTITt": {
+      "name": "BRAVE JEWEL",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4Iwamr24yU9cp36moCsnLn": {
+      "name": "hectopascal",
+      "artist": "小糸 侑(CV:高田憂希), 七海燈子(CV:寿 美菜子)",
+      "count": 1
+    },
+    "44eo0BHw6yGD3loZQ0kAHY": {
+      "name": "ゆら・ゆらRing-Dong-Dance",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "7KIPsvQQtxa8bzdxfA2eKB": {
+      "name": "“UNIONS” Road",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "19ESOEBS7YYJsPOwHmsgTT": {
+      "name": "Do You Know How To Love Me",
+      "artist": "Henry Young, Ashley Alisha",
+      "count": 1
+    },
+    "4AyjEuG3ODerWxU0xUo0eY": {
+      "name": "六兆年と一夜物語 (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "7tBbT0mu8TOhDciTPRsOMq": {
+      "name": "silent stranger",
+      "artist": "Against The Current",
+      "count": 1
+    },
+    "4KnNm7hlCemSnknSVmwaP3": {
+      "name": "Hareklavit",
+      "artist": "Keygen Church",
+      "count": 1
+    },
+    "3dhWspMJASIE3VoCDpaNtw": {
+      "name": "起死開戦",
+      "artist": "millsage",
+      "count": 1
+    },
+    "3zjSOc0XcoOpRoh2fyfB35": {
+      "name": "Edel Lilie",
+      "artist": "一柳隊",
+      "count": 1
+    },
+    "4HLcj0MD2tg91flaBCIJHJ": {
+      "name": "Tastes Like You",
+      "artist": "Ellie Goulding",
+      "count": 1
+    },
+    "2EPQXOr3VLvDImQnoHOYO3": {
+      "name": "One More Last Time",
+      "artist": "Henry Young, Ashley Alisha",
+      "count": 1
+    },
+    "6GQHTuC5aRpAy179r91FC8": {
+      "name": "Dream Believers (SAKURA Ver.)",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "count": 1
+    },
+    "5ww6R8cbL01jkhTrq4zJJN": {
+      "name": "Light our way",
+      "artist": "安月名莉子",
+      "count": 1
+    },
+    "3rMpYPr4XQDNngm7OKtSwE": {
+      "name": "DAISY",
+      "artist": "安月名莉子",
+      "count": 1
+    },
+    "3uXD2gHqRs6mitblJm9kng": {
+      "name": "ハミングフレンド (高海千歌 Solo Ver.)",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "count": 1
+    },
+    "6aWx4iupVFAYnOyGVMUDWr": {
+      "name": "Hakanai Koigokoro",
+      "artist": "Tsurezure naru Ayatsuri Mugenan",
+      "count": 1
+    },
+    "1cwpxTBmnJrN7Qj1UAvB4x": {
+      "name": "Rain then Rainbow",
+      "artist": "安月名莉子",
+      "count": 1
+    },
+    "2ZatDCxyPwTS1bZCbQ6ZnG": {
+      "name": "BURN BURN",
+      "artist": "ストレイライト",
+      "count": 1
+    },
+    "2LpBokrAiZaTTAoStHMKKP": {
+      "name": "Yusaishoku Eureka",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "6J03lGLFTEW0pLpPcgvadN": {
+      "name": "Emotion Overdrive",
+      "artist": "Nayori",
+      "count": 1
+    },
+    "7zxz9xLJvou9iSRYiIq3TX": {
+      "name": "影色舞",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "5wsqsHO57y8iWki0KErnIu": {
+      "name": "Threat Level Midnight",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "0UpfqToYuoB8rUYDQI6nJA": {
+      "name": "吹雪",
+      "artist": "西沢幸奏",
+      "count": 1
+    },
+    "21GoIbILlS9VcI5aFIgiM9": {
+      "name": "銀翼のアヴニール -become the brave-",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "2AwjcdksNfMMokTEl2t5ke": {
+      "name": "Realize (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4hDXe9C6UbApzZhw5AXbC7": {
+      "name": "again&again",
+      "artist": "Against The Current, guardin",
+      "count": 1
+    },
+    "1tdwcvpJyVJkfhu1K5XwaD": {
+      "name": "Blessing Chord",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "1jj0Ha1vWMf32ka1adO0Q2": {
+      "name": "Blood & Water",
+      "artist": "Memphis May Fire",
+      "count": 1
+    },
+    "69Fm2YuD3usLPD0RvK71Oo": {
+      "name": "メリトクラシー",
+      "artist": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "1sBEdnQ0GFLG82thCDKsYq": {
+      "name": "夏めきペイン (104期Ver.)",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "count": 1
+    },
+    "6ZTMwdB4WIjrbphjQGUAV4": {
+      "name": "Here, the world!",
+      "artist": "sumimi",
+      "count": 1
+    },
+    "2Pc3uQU2zILsSvr2orD82o": {
+      "name": "Kaiten Screw!!!",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "25Eq9bzwKMX3yZTV4qpp8U": {
+      "name": "Smooth Seas Don't Make Good Sailors",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "2grjqo0Frpf2okIBiifQKs": {
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "count": 1
+    },
+    "0e9I5yTCg5rna47HiIFJMQ": {
+      "name": "Holiday∞Holiday (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "6tNk1tjuv4s7yiN4xjELdS": {
+      "name": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "4jiyKqRJ25IjaCBaJasQpt": {
+      "name": "キセキヒカル",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "30YHwRbmrAftaqaoURY44m": {
+      "name": "Tabimichi Yoiyoi Yume Hanabi",
+      "artist": "Tsurezure naru Ayatsuri Mugenan",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1645,11 +1855,11 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 63
+      "count": 68
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 206
+      "count": 208
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -1657,7 +1867,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 26
+      "count": 27
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1665,7 +1875,7 @@
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 3
+      "count": 5
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
@@ -1673,7 +1883,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 32
+      "count": 34
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -1685,11 +1895,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 18
+      "count": 19
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 28
+      "count": 29
     },
     "5AeHYcYFgZ8VHULQk0vHM2": {
       "name": "小原鞠莉 (CV.鈴木愛奈)",
@@ -1697,7 +1907,7 @@
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 5
+      "count": 6
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
@@ -1793,7 +2003,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 8
+      "count": 9
     },
     "4W9vuLWmzlcGv6stGVWPPC": {
       "name": "Tom Wilson",
@@ -1813,7 +2023,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 15
+      "count": 16
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
@@ -1837,7 +2047,7 @@
     },
     "6plej5RLgqzBFny1o6uODr": {
       "name": "高海千歌 (CV.伊波杏樹)",
-      "count": 5
+      "count": 6
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
@@ -1921,7 +2131,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 16
+      "count": 17
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -1949,7 +2159,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 19
+      "count": 21
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
@@ -1957,7 +2167,7 @@
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
-      "count": 4
+      "count": 5
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
@@ -1977,7 +2187,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 4
+      "count": 6
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
@@ -2101,7 +2311,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 2
+      "count": 3
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2117,7 +2327,7 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 4
+      "count": 5
     },
     "6d8NscVVbeMVINZwJDOoN5": {
       "name": "Crash Adams",
@@ -2137,7 +2347,7 @@
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
-      "count": 2
+      "count": 3
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
@@ -2249,7 +2459,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 50
+      "count": 53
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -2285,7 +2495,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 6
+      "count": 7
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
@@ -2293,7 +2503,7 @@
     },
     "2p4FqHnazRucYQHyDCdBrJ": {
       "name": "Simple Plan",
-      "count": 2
+      "count": 3
     },
     "7o95ZoZt5ZYn31e9z1Hc0a": {
       "name": "Natasha Bedingfield",
@@ -2365,7 +2575,7 @@
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 3
+      "count": 4
     },
     "0bXvTlUbn2LCcJzifq6slZ": {
       "name": "瀬田 薫(CV:田所あずさ)",
@@ -2381,7 +2591,7 @@
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 2
+      "count": 4
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
@@ -2389,7 +2599,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 2
+      "count": 3
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2465,7 +2675,7 @@
     },
     "7ChJuYuw9pM8MqaZOAmvHX": {
       "name": "安月名莉子",
-      "count": 1
+      "count": 4
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
@@ -2489,6 +2699,54 @@
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
+      "count": 1
+    },
+    "0HydIryDI0cb2xdizA8MRu": {
+      "name": "I♡インドア",
+      "count": 1
+    },
+    "0wm8M1C1O0Str979kE7MUR": {
+      "name": "市ヶ谷有咲(CV:伊藤彩沙)",
+      "count": 1
+    },
+    "5uMq5LpiCbQAuyx2t3oUFW": {
+      "name": "倉田ましろ(CV:進藤あまね)",
+      "count": 1
+    },
+    "1DJHntdu7NoSc8rd4b7GcT": {
+      "name": "小糸 侑(CV:高田憂希)",
+      "count": 1
+    },
+    "6qUczxgk62pVNKkA04wAcp": {
+      "name": "七海燈子(CV:寿 美菜子)",
+      "count": 1
+    },
+    "7BFfb40nQrs3xKRMGK1GrC": {
+      "name": "Henry Young",
+      "count": 2
+    },
+    "63P6hjn73jNbnEFT0gKWKk": {
+      "name": "Ashley Alisha",
+      "count": 2
+    },
+    "49yTs5PHrOjyslAqSF2iCG": {
+      "name": "Keygen Church",
+      "count": 1
+    },
+    "5aiaXK8lcIBT52N1WmN9BK": {
+      "name": "西沢幸奏",
+      "count": 1
+    },
+    "6zqcGQ6MH6yetBUoquMnL7": {
+      "name": "guardin",
+      "count": 1
+    },
+    "1mcQmE9C1mtNXk1i0qrPdA": {
+      "name": "sumimi",
+      "count": 1
+    },
+    "4QQgXkCYTt3BlENzhyNETg": {
+      "name": "Earth, Wind & Fire",
       "count": 1
     }
   }
