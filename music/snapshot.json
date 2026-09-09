@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09T10:22:19.642Z",
+  "updatedAt": "2026-09-09T14:54:07.043Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1788948636630,
+  "lastPolledAt": 1788965463447,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -30,7 +30,7 @@
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
       "artist": "Ave Mujica",
-      "count": 8
+      "count": 9
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -50,7 +50,7 @@
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
       "artist": "MyGO!!!!!",
-      "count": 9
+      "count": 10
     },
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
@@ -350,7 +350,7 @@
     "4lypt03XVYnSat94IWFVPd": {
       "name": "焚音打",
       "artist": "MyGO!!!!!",
-      "count": 8
+      "count": 9
     },
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
@@ -565,7 +565,7 @@
     "1MpimPh4legrECmPHcdofR": {
       "name": "Where Do We Go When We Go",
       "artist": "Neck Deep",
-      "count": 6
+      "count": 7
     },
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
@@ -785,7 +785,7 @@
     "4BqCbm2gzhR14lxyyPGy7O": {
       "name": "good night baby",
       "artist": "電音部, 犬吠埼紫杏 (CV: 長谷川玲奈), Moe Shop",
-      "count": 8
+      "count": 9
     },
     "48SXLkk7Af6UtE1GGUu261": {
       "name": "CiRCLING",
@@ -830,7 +830,7 @@
     "1RMshaKVpGW00tVcTQl82Q": {
       "name": "One Step At A Time",
       "artist": "Alohaii, Miori Celesta",
-      "count": 7
+      "count": 8
     },
     "4ogbBL1IaEdS64aJi7IFLO": {
       "name": "二羽鶴",
@@ -840,7 +840,7 @@
     "79zgdvnTPyWSuTrd48Ik5O": {
       "name": "百花繚乱",
       "artist": "Lilas",
-      "count": 8
+      "count": 10
     },
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
@@ -850,7 +850,7 @@
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
       "artist": "Mitsukiyo",
-      "count": 9
+      "count": 10
     },
     "5VEsi6BxUXSYUXdOvJrZYe": {
       "name": "Azalea",
@@ -950,7 +950,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 58
+      "count": 60
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -1020,7 +1020,7 @@
     "07dsyRP72k5SoudhrrP1nt": {
       "name": "I'll Make It Right",
       "artist": "Epic Score",
-      "count": 5
+      "count": 6
     },
     "4w1kRlzCTYQKXKXX2UULcK": {
       "name": "The Only Heaven You'll Know",
@@ -1170,7 +1170,7 @@
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
       "artist": "シャイニーカラーズ",
-      "count": 7
+      "count": 8
     },
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
@@ -1891,6 +1891,36 @@
       "name": "Silhouette",
       "artist": "Nayori",
       "count": 4
+    },
+    "2s0tdCFm28mbMudt7rvz2m": {
+      "name": "グラディエント",
+      "artist": "夢限大みゅーたいぷ",
+      "count": 1
+    },
+    "0LimjB4B9s5nh81W2HQmS2": {
+      "name": "HIBANA―火花―",
+      "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
+      "count": 19
+    },
+    "2ROTpRylTg5vpL2SfgR7Kj": {
+      "name": "HIBANA―火花― - Off Vocal",
+      "artist": "いきづらい部！",
+      "count": 1
+    },
+    "10qJwIrtSptEAe0zz4ogtC": {
+      "name": "Burn My Soul",
+      "artist": "She is Legend",
+      "count": 1
+    },
+    "1u55w826cSyroT1foo0Jmu": {
+      "name": "Wish Song",
+      "artist": "Liella!",
+      "count": 1
+    },
+    "1w25qP6ViEMw24RdawuWZC": {
+      "name": "カラフル",
+      "artist": "ClariS",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1904,7 +1934,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 263
+      "count": 264
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -1912,7 +1942,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 67
+      "count": 69
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1928,7 +1958,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 97
+      "count": 98
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2036,7 +2066,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 15
+      "count": 16
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
@@ -2112,7 +2142,7 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 24
+      "count": 25
     },
     "59Mrjc0zATvjSZ0mLsmphn": {
       "name": "Yuuka Bear",
@@ -2148,7 +2178,7 @@
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
-      "count": 30
+      "count": 31
     },
     "0uoN997vSgxUQ0GxGyppxZ": {
       "name": "野崎心平",
@@ -2220,7 +2250,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 23
+      "count": 24
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
@@ -2424,11 +2454,11 @@
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
-      "count": 8
+      "count": 9
     },
     "7cvljqLNhWNFMb8wP2NImJ": {
       "name": "Moe Shop",
-      "count": 8
+      "count": 9
     },
     "2TERX3Wyzpip8d9uw07qYZ": {
       "name": "Bao The Whale",
@@ -2448,15 +2478,15 @@
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
-      "count": 12
+      "count": 13
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
-      "count": 8
+      "count": 10
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 15
+      "count": 16
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
@@ -2504,7 +2534,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 65
+      "count": 67
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -2580,7 +2610,7 @@
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
-      "count": 7
+      "count": 8
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
@@ -2820,6 +2850,26 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
+      "count": 1
+    },
+    "2EzWYxIHqUD1RWBOuSjxtK": {
+      "name": "夢限大みゅーたいぷ",
+      "count": 1
+    },
+    "1zJfgB2BeMgTB3pXkgrg3P": {
+      "name": "いきづらい部！",
+      "count": 20
+    },
+    "6hUH7KF2GYhDXmOGQluTyu": {
+      "name": "駒形花火(CV.藤野こころ)",
+      "count": 19
+    },
+    "7s1MbLjtrALU8ddgv6ClkY": {
+      "name": "She is Legend",
+      "count": 1
+    },
+    "2U3Vgx19saFDI9ZH4KzEIn": {
+      "name": "Liella!",
       "count": 1
     }
   }
