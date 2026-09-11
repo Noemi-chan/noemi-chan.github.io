@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-11T10:12:16.764Z",
+  "updatedAt": "2026-09-11T14:41:20.716Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789121525220,
+  "lastPolledAt": 1789137449887,
   "topTrack": {
     "name": "八芒星ダンス",
     "artist": "Ave Mujica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 205
+    "playCount": 206
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -25,7 +25,7 @@
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
       "artist": "Roselia",
-      "count": 5
+      "count": 6
     },
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
@@ -120,7 +120,7 @@
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 6
+      "count": 7
     },
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
@@ -405,7 +405,7 @@
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 6
+      "count": 7
     },
     "56qTvG1Ej0wwpKhoWrVdMY": {
       "name": "Yokan Koiuta",
@@ -615,7 +615,7 @@
     "3x66sbKzXN2KJfn9gxyoaZ": {
       "name": "Veins of FLOWER",
       "artist": "吉村・Thi・梅(CV:岩田陽葵)",
-      "count": 6
+      "count": 7
     },
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
@@ -655,7 +655,7 @@
     "6f5wgQEqniRTBX8lzQCW5s": {
       "name": "Neunt Praeludium",
       "artist": "一柳隊",
-      "count": 4
+      "count": 5
     },
     "1U9DXW2cBhCju3l0OWK1i6": {
       "name": "壱雫空",
@@ -790,7 +790,7 @@
     "48SXLkk7Af6UtE1GGUu261": {
       "name": "CiRCLING",
       "artist": "Poppin'Party",
-      "count": 5
+      "count": 6
     },
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
@@ -900,7 +900,7 @@
     "096DowSPWbfLWBKPx2mciP": {
       "name": "千本桜 (Cover)",
       "artist": "Poppin'Party",
-      "count": 5
+      "count": 6
     },
     "0js0DKykeOIT37jcmpwOpd": {
       "name": "Sing Alive",
@@ -965,7 +965,7 @@
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
       "artist": "fripSide",
-      "count": 4
+      "count": 5
     },
     "0iIcuwia47B5bzjVpyUwyI": {
       "name": "Drive (From F1® The Movie)",
@@ -980,7 +980,7 @@
     "7Ghf5I1Nvrx0QmAJHxLB3T": {
       "name": "燦々",
       "artist": "Afterglow",
-      "count": 4
+      "count": 5
     },
     "0XKe6ptxwy1yjusyER0ZTi": {
       "name": "DRIVE US CRAZY",
@@ -1255,7 +1255,7 @@
     "1fEqKjJSC5N9knIalwYmJS": {
       "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
       "artist": "RichaadEB",
-      "count": 4
+      "count": 5
     },
     "61Faxn9e21mgi1UFP5C4AB": {
       "name": "Kudaranai ya",
@@ -1280,7 +1280,7 @@
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 4
+      "count": 5
     },
     "05qCCJQJiOwvPQBb7akf1R": {
       "name": "Jamie All Over",
@@ -1500,7 +1500,7 @@
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
       "artist": "DOLLCHESTRA",
-      "count": 3
+      "count": 4
     },
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
@@ -1530,7 +1530,7 @@
     "2BX1YuwKTlIX5LyTwIwBkP": {
       "name": "That's Why I Gave Up on Music",
       "artist": "Rachie",
-      "count": 3
+      "count": 4
     },
     "0QXsOCM6d0uQ6WqWH23KKo": {
       "name": "Re:birth day (instrumental)",
@@ -1540,7 +1540,7 @@
     "2kxfYfgPqiIQMjyCONnDaZ": {
       "name": "迷星叫",
       "artist": "MyGO!!!!!",
-      "count": 3
+      "count": 4
     },
     "2FSeQD4Tk5ELPtbJHIT1ea": {
       "name": "Clear Morning",
@@ -1565,7 +1565,7 @@
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
       "artist": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 3
+      "count": 4
     },
     "5N5WcSciZ3I8QRRczhJzbZ": {
       "name": "るんっ♪てぃてぃー！",
@@ -1765,7 +1765,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 3
+      "count": 4
     },
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
@@ -1830,7 +1830,7 @@
     "0e9I5yTCg5rna47HiIFJMQ": {
       "name": "Holiday∞Holiday (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 3
+      "count": 4
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -1880,12 +1880,12 @@
     "14WYmNQWvR2TTWoRp8t9Ml": {
       "name": "RATATATA",
       "artist": "BABYMETAL, Electric Callboy",
-      "count": 2
+      "count": 3
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
       "artist": "Brian Tyler",
-      "count": 2
+      "count": 3
     },
     "4V1PhMpWs2nVaP7ikGuQwy": {
       "name": "Silhouette",
@@ -1900,7 +1900,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 96
+      "count": 126
     },
     "2ROTpRylTg5vpL2SfgR7Kj": {
       "name": "HIBANA―火花― - Off Vocal",
@@ -1965,7 +1965,7 @@
     "6NZgEzFC6VR8CKCNbhnTCH": {
       "name": "Never Looking Back",
       "artist": "ダイワスカーレット (CV. 木村千咲), グラスワンダー (CV. 前田玲奈), テイエムオペラオー (CV. 徳井青空), ナリタブライアン (CV. 衣川里佳), シンボリルドルフ (CV. 田所あずさ), エアグルーヴ (CV. 青木瑠璃子), マヤノトップガン (CV. 星谷美緒), ミホノブルボン (CV. 長谷川育美)",
-      "count": 2
+      "count": 3
     },
     "5etFFDjMX2UihO2cNCsOdA": {
       "name": "ソシテミンナノ",
@@ -2020,7 +2020,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 205
+      "count": 206
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -2032,7 +2032,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 85
+      "count": 86
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -2048,7 +2048,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 117
+      "count": 118
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
@@ -2092,11 +2092,11 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 126
+      "count": 130
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 6
+      "count": 7
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
@@ -2264,7 +2264,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 13
+      "count": 14
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -2296,7 +2296,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 62
+      "count": 63
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2392,7 +2392,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 75
+      "count": 76
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -2452,7 +2452,7 @@
     },
     "5WQ3NPlPRXdO9jfUn4uMH2": {
       "name": "吉村・Thi・梅(CV:岩田陽葵)",
-      "count": 6
+      "count": 7
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -2476,7 +2476,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 10
+      "count": 11
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2632,7 +2632,7 @@
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
-      "count": 41
+      "count": 42
     },
     "6eUKZXaKkcviH0Ku9w2n3V": {
       "name": "Ed Sheeran",
@@ -2644,7 +2644,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 25
+      "count": 26
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -2660,7 +2660,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 36
+      "count": 37
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
@@ -2772,7 +2772,7 @@
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 4
+      "count": 5
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
@@ -2852,7 +2852,7 @@
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 3
+      "count": 4
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
@@ -2932,15 +2932,15 @@
     },
     "630wzNP2OL7fl4Xl0GnMWq": {
       "name": "BABYMETAL",
-      "count": 2
+      "count": 3
     },
     "1WNoKxsp715jez1Td4vthc": {
       "name": "Electric Callboy",
-      "count": 2
+      "count": 3
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
-      "count": 2
+      "count": 3
     },
     "2EzWYxIHqUD1RWBOuSjxtK": {
       "name": "夢限大みゅーたいぷ",
@@ -2948,11 +2948,11 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 97
+      "count": 127
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 96
+      "count": 126
     },
     "7s1MbLjtrALU8ddgv6ClkY": {
       "name": "She is Legend",
@@ -2996,35 +2996,35 @@
     },
     "0yaxRS7sYtdmwpNIyA1UuR": {
       "name": "ダイワスカーレット (CV. 木村千咲)",
-      "count": 2
+      "count": 3
     },
     "613a940AwltjxfJv9vqBgG": {
       "name": "グラスワンダー (CV. 前田玲奈)",
-      "count": 2
+      "count": 3
     },
     "0HmlG1tmStQxv3UhMNUpXP": {
       "name": "テイエムオペラオー (CV. 徳井青空)",
-      "count": 2
+      "count": 3
     },
     "68SOpX4lz1qAQoQsyvKvXO": {
       "name": "ナリタブライアン (CV. 衣川里佳)",
-      "count": 2
+      "count": 3
     },
     "2ElPdL2qFLO3Apwz0deRWO": {
       "name": "シンボリルドルフ (CV. 田所あずさ)",
-      "count": 2
+      "count": 3
     },
     "5nKLtpb9d7l5i097fKZYnO": {
       "name": "エアグルーヴ (CV. 青木瑠璃子)",
-      "count": 2
+      "count": 3
     },
     "6Qi7KuRGCkHX22OAEFq3vn": {
       "name": "マヤノトップガン (CV. 星谷美緒)",
-      "count": 2
+      "count": 3
     },
     "4640XyVEeNXwxenpk8Ilmt": {
       "name": "ミホノブルボン (CV. 長谷川育美)",
-      "count": 2
+      "count": 3
     },
     "7e2p9zUCmJM0LAbWMawUhS": {
       "name": "キタサンブラック (CV. 矢野妃菜喜)",
