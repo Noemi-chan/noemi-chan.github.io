@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-12T00:47:32.460Z",
+  "updatedAt": "2026-09-12T05:14:57.007Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789174014013,
+  "lastPolledAt": 1789189866316,
   "topTrack": {
-    "name": "八芒星ダンス",
-    "artist": "Ave Mujica",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273521c7ec8fa2506ab94d99cac",
-    "url": "https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy",
-    "playCount": 168
+    "name": "HIBANA―火花―",
+    "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730a1991e6b2d046f2af3da4c0",
+    "url": "https://open.spotify.com/track/0LimjB4B9s5nh81W2HQmS2",
+    "playCount": 296
   },
   "topArtist": {
     "name": "Roselia",
@@ -1900,7 +1900,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 246
+      "count": 296
     },
     "2ROTpRylTg5vpL2SfgR7Kj": {
       "name": "HIBANA―火花― - Off Vocal",
@@ -2948,11 +2948,11 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 247
+      "count": 297
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 246
+      "count": 296
     },
     "7s1MbLjtrALU8ddgv6ClkY": {
       "name": "She is Legend",
