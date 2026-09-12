@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-12T16:37:30.958Z",
+  "updatedAt": "2026-09-12T18:51:36.592Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789231026424,
+  "lastPolledAt": 1789239045137,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -475,7 +475,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 14
+      "count": 44
     },
     "6P1bG5AN1C1s7oTIF5nSm3": {
       "name": "最強☆ソング",
@@ -630,7 +630,7 @@
     "58DZO7oMpMRAxtHVhuDFdl": {
       "name": "Fireworks Beneath My Shoes",
       "artist": "Rachie",
-      "count": 11
+      "count": 12
     },
     "5EhTNo5ex4aAcYSDp1BG5j": {
       "name": "ピンキー・プロミス",
@@ -1490,7 +1490,7 @@
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
       "artist": "Piano Fantasia",
-      "count": 7
+      "count": 8
     },
     "1iKjPM2YygFxUqjUakAI4n": {
       "name": "Can't Kick Up The Roots",
@@ -2024,7 +2024,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 287
+      "count": 317
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -2392,7 +2392,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 81
+      "count": 82
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -2844,7 +2844,7 @@
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
-      "count": 7
+      "count": 8
     },
     "4BVBO54UlQrzDW66hSEefy": {
       "name": "Yui Ogura",
