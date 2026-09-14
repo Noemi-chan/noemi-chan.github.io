@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-13T23:46:38.383Z",
+  "updatedAt": "2026-09-14T02:19:58.358Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789343158413,
+  "lastPolledAt": 1789351840656,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -35,7 +35,7 @@
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
       "artist": "Ave Mujica",
-      "count": 11
+      "count": 12
     },
     "6e2ouMRqwr7bYvKrDBTfmD": {
       "name": "Mujikaku A Priori",
@@ -165,7 +165,7 @@
     "5g77lgmRMa3qIErrc6Qg8H": {
       "name": "Last Actress",
       "artist": "Kotoha Tanaka (CV: Risa Taneda), Momoko Suou (CV: Keiko Watanabe), Konomi Baba (CV: Minami Takahashi), Mizuki Makabe (CV: Rika Abe), Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 11
+      "count": 12
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
@@ -1185,7 +1185,7 @@
     "0cvKr5hsDQV5DxKgmxWtZm": {
       "name": "STAR BEAT!～ホシノコドウ～",
       "artist": "Poppin'Party",
-      "count": 12
+      "count": 13
     },
     "3aJ2aJz5xL03hpaqdPS7Ah": {
       "name": "only my railgun",
@@ -1360,7 +1360,7 @@
     "6to6TiKkMz1o7fGyxw8se5": {
       "name": "フリイジア",
       "artist": "Amamiya Sora",
-      "count": 10
+      "count": 11
     },
     "1CYznYPoNOmDX8laxr5SCh": {
       "name": "イニシャル",
@@ -1445,7 +1445,7 @@
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
-      "count": 8
+      "count": 9
     },
     "0VjIjW4GlUZAMYd2vXMi3b": {
       "name": "Blinding Lights",
@@ -1700,7 +1700,7 @@
     "3zjSOc0XcoOpRoh2fyfB35": {
       "name": "Edel Lilie",
       "artist": "一柳隊",
-      "count": 7
+      "count": 8
     },
     "4HLcj0MD2tg91flaBCIJHJ": {
       "name": "Tastes Like You",
@@ -1925,7 +1925,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 128
+      "count": 157
     },
     "4wZcKcvGmPDbSazHXFw6ex": {
       "name": "Stellar Stream",
@@ -2024,7 +2024,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 324
+      "count": 325
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -2084,7 +2084,7 @@
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 15
+      "count": 16
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
@@ -2092,7 +2092,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 141
+      "count": 142
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -2140,19 +2140,19 @@
     },
     "7vOsyxqAygo6QgUJ5AIeyr": {
       "name": "Kotoha Tanaka (CV: Risa Taneda)",
-      "count": 11
+      "count": 12
     },
     "3Amsmaln3plXWWVJi684Kr": {
       "name": "Momoko Suou (CV: Keiko Watanabe)",
-      "count": 11
+      "count": 12
     },
     "71gXraRrIXOxtuvIGPhQKw": {
       "name": "Konomi Baba (CV: Minami Takahashi)",
-      "count": 11
+      "count": 12
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
-      "count": 11
+      "count": 12
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
@@ -2476,7 +2476,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 12
+      "count": 13
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2540,7 +2540,7 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 27
+      "count": 28
     },
     "0JqX5C4CiNps3qRGvlMLcf": {
       "name": "犬吠埼紫杏 (CV: 長谷川玲奈)",
@@ -2804,7 +2804,7 @@
     },
     "0RLTJBHe0jhxEVsYMVCMz0": {
       "name": "Amamiya Sora",
-      "count": 10
+      "count": 11
     },
     "6MDME20pz9RveH9rEXvrOM": {
       "name": "Clean Bandit",
@@ -2964,7 +2964,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 128
+      "count": 157
     },
     "3xOPOFuT8QCCsx5EQbr5A6": {
       "name": "システィーナ=フィーベル(CV:藤田 茜)",
