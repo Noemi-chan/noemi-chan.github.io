@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-15T17:55:44.163Z",
+  "updatedAt": "2026-09-15T20:40:49.087Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789494912977,
+  "lastPolledAt": 1789504812921,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -13,11 +13,7 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
+    "genres": [],
     "playCount": 238
   },
   "trackPlayCounts": {
@@ -2035,6 +2031,251 @@
       "name": "Snezhnaya",
       "artist": "HOYO-MiX",
       "count": 1
+    },
+    "10EFI0AhaW4ZrD8X8Mfods": {
+      "name": "Through a Glass Darkly",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "44VOu2lNjq96fYtcV4jhHz": {
+      "name": "The Empty Echo",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2DT6dLYjAYJT0vMKsEg3qO": {
+      "name": "When Sunset's Blush Dyes the Branches",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "0jIp7DZPvzFzMgWhw63UYD": {
+      "name": "Nocturne of the Birch Forest",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4O7C1tJxzqqa3XUIFkK8Nv": {
+      "name": "Skein-Song of Stars and Sails",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "0mZLrdmR6sJXFtVwHCuQRk": {
+      "name": "Reclaim Not Bygone Joy",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4EqvTGQMKCmojWZH87j3xG": {
+      "name": "In the Moonlight",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1W8EwVZ7FnVkn6XkFl4YPl": {
+      "name": "Whispers to the Midnight Frost",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6QkjiZ47NV0cMCCUjaCRsT": {
+      "name": "Unfulfilled Aurora",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4DapqE6tiRFUbOU4JBHKtj": {
+      "name": "As if Drenched in Moonlight",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3SuCQdEBKz0ZCiqlvk3gYn": {
+      "name": "The Sinking Day",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6f7cISssAOQ8XhjDy27pSw": {
+      "name": "Snow Falls Soundlessly",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5ZYUihdjNPBQaP2jihG351": {
+      "name": "Ode to the Pine Needle",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5PwrpDINoRcE7d4n6iF630": {
+      "name": "Spine Flute",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5Zt3dye11Bd5CZB4zVzUJS": {
+      "name": "Whispers Woven in Mist",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3pB8iTMCcj1TyKtXpknz9E": {
+      "name": "Snowy Reunion",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3L2GgbZOLfriVSse0pbrLu": {
+      "name": "A Gentle Wind Blows Softly",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "7tT6Wh4PV0MSsFZ169F5lr": {
+      "name": "To Hone Mind and Thought",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5KJJn34gUkBFMvpINcFyka": {
+      "name": "Swift Advance",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1twBwtTU7Y2uTryxbRrZgj": {
+      "name": "Unyielding Icy Wind",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "0dxAfihXZNzBwtgX0xLBB5": {
+      "name": "The Swirling Wave",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "0Dklzfld08rmpuUXFvdkkm": {
+      "name": "The Little Jack Frost Clan",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "35JDMqK8za9EoUKbVN8s5X": {
+      "name": "Love's Labour's Won",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5ZZdMFjh0pPPwP3vKV9wvT": {
+      "name": "Sigh for Sigh",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1AiqxNOyHkeTcr2W3qc1dC": {
+      "name": "The Bitter Wine of Thought",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1S4WBX5jTluB69TbGltBA7": {
+      "name": "The Grain of the Flesh",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2aJu3ztfXs71RvFP5pQCqI": {
+      "name": "Day on the Bald Mountain",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1M7lcuD1XxR6HcOPu5Zw7i": {
+      "name": "The Little Branch Yearns for Home",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4GonaW6JgaZPRxx87IQ6xQ": {
+      "name": "Like Mists, Like Rain",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "1eKOkDIPOSaOY320OTQeWU": {
+      "name": "Pathos of Pavlina's Pathetique",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6nOS47nBQGrQObcLwigVrd": {
+      "name": "In Dreamland to Slumber",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "7mYSNbvMKfyNlkwAFPMV4N": {
+      "name": "In the Wild North",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5sZ2EuEfyMw0ND3nWndV8S": {
+      "name": "High Court of Enduring Ice",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6c8CATAJbxzCDPS6AJc4Ft": {
+      "name": "Poem Without a Hero",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "47OMsJhqtzKQ5toVurMQ0F": {
+      "name": "Penthimos Kodonokrousia",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3P0aoNNMNFCxnIaZbDIf3D": {
+      "name": "When Cranes Fly By",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "7F87yYJEP2pjlcnwsDU3Am": {
+      "name": "Roly-Poly Adventure",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2A1IzuCo6E7tUFVieG8dRY": {
+      "name": "Amidst Dappled Shadows",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6c3o16vUk7uTK7n15RYGP5": {
+      "name": "Skazka Skazok",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "0C3MUsXFi08gOryUhKBB60": {
+      "name": "Above Frost",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "75fgw4MimIJPx5TGsDvr5z": {
+      "name": "As Lamps Light the Harbor at Night",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "02iDFeoKUHSJD6N4RnVWq1": {
+      "name": "Falling Leaves and Even-Stars",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3Vt7DMsMUczbusomzFqtif": {
+      "name": "As Dawn and Dusk Merge",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "22ZQSByHR1c7yOjECSSaPU": {
+      "name": "The Wandering Postman",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3fUlWjrFOfVMOevxIsTgmY": {
+      "name": "A Candle Burning",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "19GP5trRZK1Ea0dJgaa3ER": {
+      "name": "A Night, a Street, a Lamp, a Drugstore",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6Dc8J2iJsgymIWVcIv5RrM": {
+      "name": "Rising Smoke, Crowded Streets",
+      "artist": "HOYO-MiX",
+      "count": 2
+    },
+    "0NprZDshsGmCRKzbupTJnr": {
+      "name": "Argent Arrows Resplendent",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6WBEw9kF7aXoL4j1NRvx5h": {
+      "name": "The Ceaseless Bustle",
+      "artist": "HOYO-MiX",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -3116,7 +3357,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 4
+      "count": 54
     }
   }
 }
