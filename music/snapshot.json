@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-17T20:44:16.235Z",
+  "updatedAt": "2026-09-17T23:15:01.703Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789677736919,
+  "lastPolledAt": 1789681653030,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -13,11 +13,7 @@
     "name": "Roselia",
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
-    "genres": [
-      "j-rock",
-      "j-pop",
-      "anime"
-    ],
+    "genres": [],
     "playCount": 269
   },
   "trackPlayCounts": {
@@ -2419,7 +2415,7 @@
     "5mf36hAmjpnCsCDAH3KgTO": {
       "name": "O Strings, My Strings",
       "artist": "HOYO-MiX",
-      "count": 42
+      "count": 64
     }
   },
   "artistPlayCounts": {
@@ -3501,7 +3497,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 159
+      "count": 181
     }
   }
 }
