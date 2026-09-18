@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-18T12:28:34.591Z",
+  "updatedAt": "2026-09-18T16:48:05.884Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789734184718,
+  "lastPolledAt": 1789750050943,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -10,11 +10,11 @@
     "playCount": 429
   },
   "topArtist": {
-    "name": "Roselia",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
-    "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
+    "name": "HOYO-MiX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
+    "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 278
+    "playCount": 244
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -120,7 +120,7 @@
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 7
+      "count": 8
     },
     "4qbaQKSfKezCOdMUu9FOXS": {
       "name": "Just You and I",
@@ -495,7 +495,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 18
+      "count": 19
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
@@ -755,12 +755,12 @@
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
       "artist": "ブレンド・A",
-      "count": 4
+      "count": 5
     },
     "22eHRqbCHzY8iP9C4FJiRa": {
       "name": "Day Dream",
       "artist": "NTE10AM",
-      "count": 15
+      "count": 16
     },
     "1CWxAyTe6Rst8ZHSTz1O3G": {
       "name": "Crucifix X",
@@ -880,7 +880,7 @@
     "49fItmms7twKQiboPZlqIX": {
       "name": "BLACK SHOUT",
       "artist": "Roselia",
-      "count": 13
+      "count": 14
     },
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
@@ -1165,7 +1165,7 @@
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
       "artist": "Le Castle Vania",
-      "count": 2
+      "count": 3
     },
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
@@ -1225,7 +1225,7 @@
     "0dOtnx984mYxII70LqsDOo": {
       "name": "Rare",
       "artist": "Waterparks",
-      "count": 3
+      "count": 4
     },
     "6D0IAyrFw0vhSlC4LWVvXQ": {
       "name": "Toaru Eiyutachi no Monogatari",
@@ -1240,7 +1240,7 @@
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
       "artist": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 4
+      "count": 5
     },
     "3l44Dmif5PXKtkeiHj2Lst": {
       "name": "LOUDER",
@@ -1345,7 +1345,7 @@
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "23lV0aX1uhNpvkNF8uk1ow": {
       "name": "アイドル (Cover)",
@@ -1525,7 +1525,7 @@
     "6YDtl7oTbmqwhAeMpf9oOq": {
       "name": "Analogy",
       "artist": "彩音",
-      "count": 15
+      "count": 16
     },
     "2BX1YuwKTlIX5LyTwIwBkP": {
       "name": "That's Why I Gave Up on Music",
@@ -1625,7 +1625,7 @@
     "64ATI38dSy6g4g2bJrTtEU": {
       "name": "始まりの季節",
       "artist": "Junpei Fujita",
-      "count": 15
+      "count": 16
     },
     "3bYUFS0H27cU8A7DJW0AOY": {
       "name": "When We Were Young",
@@ -1780,7 +1780,7 @@
     "2AwjcdksNfMMokTEl2t5ke": {
       "name": "Realize (Cover)",
       "artist": "Roselia",
-      "count": 12
+      "count": 13
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
@@ -1810,7 +1810,7 @@
     "6ZTMwdB4WIjrbphjQGUAV4": {
       "name": "Here, the world!",
       "artist": "sumimi",
-      "count": 3
+      "count": 4
     },
     "2Pc3uQU2zILsSvr2orD82o": {
       "name": "Kaiten Screw!!!",
@@ -1925,7 +1925,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 206
+      "count": 207
     },
     "4wZcKcvGmPDbSazHXFw6ex": {
       "name": "Stellar Stream",
@@ -2285,7 +2285,7 @@
     "041siMojdJFkeX5YCZL6Fi": {
       "name": "Ode to Liberty (Bayan Version)",
       "artist": "HOYO-MiX",
-      "count": 4
+      "count": 40
     },
     "57T0DNmbrZ8w0WHoW4HP9u": {
       "name": "Faults and Fallacies",
@@ -2425,7 +2425,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 278
+      "count": 280
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -2497,11 +2497,11 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 179
+      "count": 181
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 7
+      "count": 8
     },
     "4GRe7C0gN8fvHg1pWRpbBd": {
       "name": "Tacitly",
@@ -2509,7 +2509,7 @@
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 35
+      "count": 36
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2797,7 +2797,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 104
+      "count": 105
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
@@ -2933,11 +2933,11 @@
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
-      "count": 4
+      "count": 5
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
-      "count": 15
+      "count": 16
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -3033,7 +3033,7 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 18
+      "count": 19
     },
     "7ucOhItVkxNqunNLo8AkzN": {
       "name": "fripSide",
@@ -3101,7 +3101,7 @@
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
-      "count": 2
+      "count": 3
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
@@ -3157,11 +3157,11 @@
     },
     "3QaxveoTiMetZCMp1sftiu": {
       "name": "Waterparks",
-      "count": 3
+      "count": 4
     },
     "6s8TdjxgJxZrSyH2WGkSoP": {
       "name": "Tsurezure naru Ayatsuri Mugenan",
-      "count": 14
+      "count": 15
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
@@ -3313,7 +3313,7 @@
     },
     "1mcQmE9C1mtNXk1i0qrPdA": {
       "name": "sumimi",
-      "count": 3
+      "count": 4
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -3369,7 +3369,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 206
+      "count": 207
     },
     "3xOPOFuT8QCCsx5EQbr5A6": {
       "name": "システィーナ=フィーベル(CV:藤田 茜)",
@@ -3497,7 +3497,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 208
+      "count": 244
     }
   }
 }
