@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-17T23:15:01.703Z",
+  "updatedAt": "2026-09-18T02:08:46.449Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789681653030,
+  "lastPolledAt": 1789697272380,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -1785,7 +1785,7 @@
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
       "artist": "Against The Current, guardin",
-      "count": 9
+      "count": 10
     },
     "1tdwcvpJyVJkfhu1K5XwaD": {
       "name": "Blessing Chord",
@@ -2415,7 +2415,7 @@
     "5mf36hAmjpnCsCDAH3KgTO": {
       "name": "O Strings, My Strings",
       "artist": "HOYO-MiX",
-      "count": 64
+      "count": 79
     }
   },
   "artistPlayCounts": {
@@ -2757,7 +2757,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 29
+      "count": 30
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
@@ -3309,7 +3309,7 @@
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
-      "count": 9
+      "count": 10
     },
     "1mcQmE9C1mtNXk1i0qrPdA": {
       "name": "sumimi",
@@ -3497,7 +3497,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 181
+      "count": 196
     }
   }
 }
