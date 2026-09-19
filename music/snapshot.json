@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-18T22:03:03.619Z",
+  "updatedAt": "2026-09-19T00:46:46.787Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1789768928568,
+  "lastPolledAt": 1789771106573,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 305
+    "playCount": 313
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -2415,7 +2415,7 @@
     "5mf36hAmjpnCsCDAH3KgTO": {
       "name": "O Strings, My Strings",
       "artist": "HOYO-MiX",
-      "count": 132
+      "count": 140
     }
   },
   "artistPlayCounts": {
@@ -3497,7 +3497,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 305
+      "count": 313
     }
   }
 }
