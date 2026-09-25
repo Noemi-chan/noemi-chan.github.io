@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-25T10:48:01.467Z",
+  "updatedAt": "2026-09-25T15:39:48.112Z",
   "monthKey": "2026-09",
-  "lastPolledAt": 1790328697562,
+  "lastPolledAt": 1790350583553,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 510
+    "playCount": 511
   },
   "trackPlayCounts": {
     "18ZgnKxWQ8z1KiA2A3xky6": {
@@ -415,7 +415,7 @@
     "2yH6eL6f1Ada5MnmNpiPbr": {
       "name": "blindfolded",
       "artist": "Against The Current",
-      "count": 18
+      "count": 19
     },
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
@@ -510,7 +510,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 22
+      "count": 24
     },
     "2FbdvkGnTFEXxoXjV8iSVj": {
       "name": "Thrash Trash",
@@ -885,7 +885,7 @@
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 17
+      "count": 55
     },
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
@@ -950,7 +950,7 @@
     "618sNpgK4RGCaqF3s5eP1C": {
       "name": "カーネーションの咲く日に",
       "artist": "millsage",
-      "count": 105
+      "count": 106
     },
     "36wgXlvAsueJyAWS87IpFy": {
       "name": "邂逅のフェタリテート",
@@ -1510,7 +1510,7 @@
     "1E6nwGciS5IV8Ag5x9PZ4q": {
       "name": "夏に閉じこめて",
       "artist": "Poppin'Party",
-      "count": 10
+      "count": 11
     },
     "2GP0PeV4rJ5Llgm5u4Qi1j": {
       "name": "前へススメ！",
@@ -2400,7 +2400,7 @@
     "2axQ8U35wFj2m8fgMRYN4M": {
       "name": "I Loved You",
       "artist": "HOYO-MiX",
-      "count": 5
+      "count": 6
     },
     "4Re12c0KbXH4AzkFXezYMp": {
       "name": "Of Slumber Bereft",
@@ -2527,7 +2527,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 257
+      "count": 258
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -2787,7 +2787,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 44
+      "count": 45
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
@@ -2835,7 +2835,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 22
+      "count": 24
     },
     "36bLfgFkAodzzHCeG45Jtm": {
       "name": "Jaron Takach",
@@ -3023,7 +3023,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 33
+      "count": 71
     },
     "0e0gYNGBRufy5XlLh5LJ1Q": {
       "name": "Gaijin Entertainment",
@@ -3059,7 +3059,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 121
+      "count": 122
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
@@ -3527,7 +3527,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 510
+      "count": 511
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
