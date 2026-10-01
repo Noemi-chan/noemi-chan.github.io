@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-01T01:40:58.631Z",
+  "updatedAt": "2026-10-01T07:59:58.593Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1790818724706,
+  "lastPolledAt": 1790840905247,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 5
+    "playCount": 11
   },
   "trackPlayCounts": {
     "4BVMwLJWxLkhoOcpKXND22": {
@@ -266,12 +266,257 @@
       "name": "I Loved You",
       "artist": "HOYO-MiX",
       "count": 1
+    },
+    "7aRZV9axsW32NIsewNXHZf": {
+      "name": "無間嫉妬劇場『666』",
+      "artist": "森羅万象",
+      "count": 1
+    },
+    "2XhP4CgI2cbsGjYeLZbzpE": {
+      "name": "Criminally Dinner: Seisan to Evil Knife",
+      "artist": "Miki Hoshii (CV: Akiko Hasegawa), Ayumu Maihama (CV: Megumi Toda), Shizuka Mogami (CV: Azusa Tadokoro), Karen Shinomiya (CV: Yui Kondo), Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "58WUQ6HgftHygkRMcEGN6c": {
+      "name": "Abracadabra - Cover",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "1FSc3Bkvys5sXuB6XHps6U": {
+      "name": "DAYS of DASH",
+      "artist": "Konomi Suzuki",
+      "count": 1
+    },
+    "5ciHaCIDGeVkf9cHg3PEuR": {
+      "name": "羅針盤の彼方",
+      "artist": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "32JhiDVk9SzLbPtdHbCqcB": {
+      "name": "VIOLET LINE",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "3Zwu2K0Qa5sT6teCCHPShP": {
+      "name": "Thnks fr th Mmrs",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "22eHRqbCHzY8iP9C4FJiRa": {
+      "name": "Day Dream",
+      "artist": "NTE10AM",
+      "count": 1
+    },
+    "0ZsgN4zeAqdHaYTDJdcXJZ": {
+      "name": "Heavy Is the Dew",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6f5wgQEqniRTBX8lzQCW5s": {
+      "name": "Neunt Praeludium",
+      "artist": "一柳隊",
+      "count": 2
+    },
+    "2vQrgBIkFTILDjXaY1AMxX": {
+      "name": "Eruption",
+      "artist": "Epic Score",
+      "count": 1
+    },
+    "3kZfj41VWiKhD36LSLIEec": {
+      "name": "Sugarvine (Dubstep Arrange) - English Cover",
+      "artist": "JubyPhonic",
+      "count": 1
+    },
+    "4yyQrtJtzHPZXzhhJRY0Oa": {
+      "name": "QUEEN (Cover)",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "1W8EwVZ7FnVkn6XkFl4YPl": {
+      "name": "Whispers to the Midnight Frost",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "7Ghf5I1Nvrx0QmAJHxLB3T": {
+      "name": "燦々",
+      "artist": "Afterglow",
+      "count": 1
+    },
+    "4SPKuPwXDa5rWFSgrI9Rxr": {
+      "name": "奏（かなで） (Cover)",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "0NprZDshsGmCRKzbupTJnr": {
+      "name": "Argent Arrows Resplendent",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4IX6QvjOI62tyHigVsTUlv": {
+      "name": "Have Faith In Me",
+      "artist": "A Day To Remember",
+      "count": 1
+    },
+    "3rT0UIwun3kYrsDhunfmiR": {
+      "name": "Blue Canvas",
+      "artist": "ClariS",
+      "count": 1
+    },
+    "6SKZeTl2Qrw9SrpQ5FVyVv": {
+      "name": "R·I·O·T",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "3o9kpgkIcffx0iSwxhuNI2": {
+      "name": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "count": 1
+    },
+    "2Y4PQVDUuIB2LQ2w7OhraJ": {
+      "name": "Triumph on the Ice",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6gfUOprNMeD8amncMOSFl0": {
+      "name": "Misery",
+      "artist": "Memphis May Fire",
+      "count": 1
+    },
+    "7cSGyahLFeXWyhTmJCoYmh": {
+      "name": "Hitchcock",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "5rglT9cmL3jeVrYI0LQE2r": {
+      "name": "二羽鶴 Instrumental ver.",
+      "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "3dhWspMJASIE3VoCDpaNtw": {
+      "name": "起死開戦",
+      "artist": "millsage",
+      "count": 1
+    },
+    "3aZQTrc9svekofLsXrv9WZ": {
+      "name": "Shinku no Pasión",
+      "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "2JcDzgcWVqOtGGl9bE66r4": {
+      "name": "OUTSIDER RODEO",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "5BZpy13fGkwbWbR2BEGzzn": {
+      "name": "Song I am.",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "25Eq9bzwKMX3yZTV4qpp8U": {
+      "name": "Smooth Seas Don't Make Good Sailors",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "3uXz1lgsibXdWQ05wc2P6f": {
+      "name": "競宴Red×Violet",
+      "artist": "Roselia, Afterglow",
+      "count": 1
+    },
+    "7nJ9RNeYby2grZELcra8SC": {
+      "name": "Memento Mori",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "74oAk5kk9HxpnxYNViPUQw": {
+      "name": "Eternal Light",
+      "artist": "DiverDiva",
+      "count": 1
+    },
+    "734cyaTXP3BEcmcEkBo2aS": {
+      "name": "夢を撃ち抜く瞬間に！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "0iNEdxHGgVMsCBgHFycwmL": {
+      "name": "神さま、バカ",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "1AWg0OaeyGyr56J3LEHF8N": {
+      "name": "Freedom",
+      "artist": "Poppin'Party, 海野夏希(CV：福圓美里)",
+      "count": 1
+    },
+    "50palGbYA85jbX8y79aqRK": {
+      "name": "ムリムリ進化論",
+      "artist": "NANAOAKARI",
+      "count": 1
+    },
+    "304zLZAJFOviWv2zSFoaVg": {
+      "name": "Thought Crime",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "6QYYzSQnGyMjcRRy67eYwF": {
+      "name": "Miss Wanna Die - English Cover",
+      "artist": "JubyPhonic, Master Andross",
+      "count": 1
+    },
+    "7tBbT0mu8TOhDciTPRsOMq": {
+      "name": "silent stranger",
+      "artist": "Against The Current",
+      "count": 1
+    },
+    "6rtgV9S15N9tuCwJR7wJNY": {
+      "name": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "2ZMtj0CpSiT8kPf2HY8A2v": {
+      "name": "わやわやわー！ - TVアニメ『道産子ギャルはなまらめんこい』EDテーマ",
+      "artist": "亜咲花",
+      "count": 1
+    },
+    "2AwjcdksNfMMokTEl2t5ke": {
+      "name": "Realize (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4eR1tqIsDouIiI1cbTuCMy": {
+      "name": "八芒星ダンス",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "3WlHeBv2athRcNTwbfjg0b": {
+      "name": "Back to Where It Began",
+      "artist": "Rockin' For Decades",
+      "count": 1
+    },
+    "5dp3vri4d2JjeBsGriLFyW": {
+      "name": "IMAWA IINDAYO - Cover",
+      "artist": "Kotoha",
+      "count": 1
+    },
+    "7mYSNbvMKfyNlkwAFPMV4N": {
+      "name": "In the Wild North",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4lPNuizRfDvXB8ltrNPd1v": {
+      "name": "Choir ‘S’ Choir",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "772kg4oxkCZRur0u49cA6I": {
+      "name": "Move",
+      "artist": "Audio Adrenaline",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 5
+      "count": 11
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -279,7 +524,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 3
+      "count": 5
     },
     "4qqHB9SmuXrOopifD0YzMa": {
       "name": "戸山香澄(CV:愛美)",
@@ -303,7 +548,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 2
+      "count": 6
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
@@ -351,7 +596,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 1
+      "count": 2
     },
     "3wzLoR43XSiPV1smicPd8p": {
       "name": "Nor",
@@ -387,7 +632,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
@@ -395,15 +640,15 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 1
+      "count": 3
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 1
+      "count": 3
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 1
+      "count": 2
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -415,7 +660,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "0QANpCVLoBS2BJhi7fKbZF": {
       "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
@@ -431,11 +676,11 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 2
+      "count": 3
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 2
+      "count": 3
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
@@ -475,7 +720,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 1
+      "count": 3
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -503,6 +748,134 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
+      "count": 1
+    },
+    "5ofxS8vbpzqmcgfs8LouBQ": {
+      "name": "森羅万象",
+      "count": 1
+    },
+    "3WIltg9gs4B949YIw2D0Yl": {
+      "name": "Miki Hoshii (CV: Akiko Hasegawa)",
+      "count": 1
+    },
+    "76b3vdXkfXuar9vWeOF0Z9": {
+      "name": "Ayumu Maihama (CV: Megumi Toda)",
+      "count": 1
+    },
+    "4O0cUPcEXzU6U510RtnM8l": {
+      "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+      "count": 1
+    },
+    "5N2Y7IgJMpGvlTKS3RAIvA": {
+      "name": "Karen Shinomiya (CV: Yui Kondo)",
+      "count": 1
+    },
+    "0V7mNNTpBiNAILcuDPVwst": {
+      "name": "Iku Nakatani (CV: Akari Harashima)",
+      "count": 1
+    },
+    "5BKIH2Kwc6LbetG04Boai7": {
+      "name": "Ave Mujica",
+      "count": 4
+    },
+    "3O0kLS5sLZ41XZRxjBKmLF": {
+      "name": "Konomi Suzuki",
+      "count": 1
+    },
+    "77zL8fZvBM4UDw4IRtkkQs": {
+      "name": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "4UXqAaa6dQYAk18Lv7PEgX": {
+      "name": "Fall Out Boy",
+      "count": 1
+    },
+    "6cnMOkdJ13TeD0z4kNLP6n": {
+      "name": "NTE10AM",
+      "count": 1
+    },
+    "4QRFu2rHyWeKiENyVKLeHs": {
+      "name": "一柳隊",
+      "count": 2
+    },
+    "4Kyb02r7dR3H1PH7pYkb8X": {
+      "name": "Epic Score",
+      "count": 1
+    },
+    "4NiJW4q9ichVqL1aUsgGAN": {
+      "name": "A Day To Remember",
+      "count": 1
+    },
+    "6zPsF3A9PvZ4s0NG6z76up": {
+      "name": "RAISE A SUILEN",
+      "count": 2
+    },
+    "7o2ZQYM7nTsaVdkXY38UAA": {
+      "name": "Em Beihold",
+      "count": 1
+    },
+    "7cNNNhdJDrt3vgQjwSavNf": {
+      "name": "Memphis May Fire",
+      "count": 1
+    },
+    "5fHnNjwRhNBezGp6781fvz": {
+      "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "7cBKwPovugxX15beVkPZGA": {
+      "name": "millsage",
+      "count": 1
+    },
+    "0KaXjMCgk5f4maUi6vtZAw": {
+      "name": "chicAAmor",
+      "count": 1
+    },
+    "3tsSGK2yeVzdb9tqR2faOb": {
+      "name": "Sayoko Takayama (CV: Yuri Komagata)",
+      "count": 1
+    },
+    "7IFPSph621cFElVwhbhdlA": {
+      "name": "Fuka Toyokawa (CV: Rie Suegara)",
+      "count": 1
+    },
+    "1CLvL2z5LbARBiaOY5fVeH": {
+      "name": "Julia (CV: Aimi)",
+      "count": 1
+    },
+    "1QpIAQVxfJz3DMqFfs5B4G": {
+      "name": "Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
+    },
+    "1hUfCEkL8nv3iYXDRuvJcn": {
+      "name": "海野夏希(CV：福圓美里)",
+      "count": 1
+    },
+    "06jSjpC81wzjoUoE61Fhdn": {
+      "name": "NANAOAKARI",
+      "count": 1
+    },
+    "5qOJ5nikwvfCIs5gf22n6G": {
+      "name": "Master Andross",
+      "count": 1
+    },
+    "6yhD1KjhLxIETFF7vIRf8B": {
+      "name": "Against The Current",
+      "count": 1
+    },
+    "0QwTvn35AQMMELpKDU176h": {
+      "name": "亜咲花",
+      "count": 1
+    },
+    "2mYqxXIhhzNE3bLwm3X0f7": {
+      "name": "Rockin' For Decades",
+      "count": 1
+    },
+    "76pJHTMyTukyWJNR6yRrZS": {
+      "name": "Kotoha",
+      "count": 1
+    },
+    "01PBXLThJADrhufsPS5tER": {
+      "name": "Audio Adrenaline",
       "count": 1
     }
   }
