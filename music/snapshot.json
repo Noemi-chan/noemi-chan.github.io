@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T00:19:32.360Z",
+  "updatedAt": "2026-10-02T06:26:12.923Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1790900079500,
+  "lastPolledAt": 1790922257954,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -85,7 +85,7 @@
     "4G0mT3Q31bnOMvzNS8yVRY": {
       "name": "Wet Hands (A Cappella) [From \"Minecraft\"]",
       "artist": "Smooth McGroove",
-      "count": 54
+      "count": 101
     },
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
@@ -991,6 +991,21 @@
       "name": "Show",
       "artist": "Ado",
       "count": 1
+    },
+    "5EhTNo5ex4aAcYSDp1BG5j": {
+      "name": "ピンキー・プロミス",
+      "artist": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
+      "count": 1
+    },
+    "1Ua9Y9QG4QjEMKTocsOTNK": {
+      "name": "MY舞☆TONIGHT",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "3RiYi67LMqBpopK1b1D0fb": {
+      "name": "Citrus Love",
+      "artist": "Bao The Whale, Overspace",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1116,7 +1131,7 @@
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
-      "count": 54
+      "count": 101
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
@@ -1404,7 +1419,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 5
+      "count": 6
     },
     "3WYvIdZsoEzhbdBJ8tpxvw": {
       "name": "August Whitaker",
@@ -1596,6 +1611,18 @@
     },
     "6mEQK9m2krja6X1cfsAjfl": {
       "name": "Ado",
+      "count": 1
+    },
+    "4RCOP50kvNoZY3UwZcZ5AC": {
+      "name": "ミリアム・ヒルデガルド・v・グロピウス(CV:高橋花林)",
+      "count": 1
+    },
+    "2TERX3Wyzpip8d9uw07qYZ": {
+      "name": "Bao The Whale",
+      "count": 1
+    },
+    "2DavS3976uZWJvbYH7sbuj": {
+      "name": "Overspace",
       "count": 1
     }
   }
