@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-01T20:40:09.391Z",
+  "updatedAt": "2026-10-02T00:19:32.360Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1790887144055,
+  "lastPolledAt": 1790900079500,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -85,7 +85,7 @@
     "4G0mT3Q31bnOMvzNS8yVRY": {
       "name": "Wet Hands (A Cappella) [From \"Minecraft\"]",
       "artist": "Smooth McGroove",
-      "count": 4
+      "count": 54
     },
     "2OBaqSp29mGmA06Sjf7wIG": {
       "name": "ベノム (Cover)",
@@ -1116,7 +1116,7 @@
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
-      "count": 4
+      "count": 54
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
