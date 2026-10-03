@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T22:40:59.500Z",
+  "updatedAt": "2026-10-03T01:33:19.082Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1790980841458,
+  "lastPolledAt": 1790991027923,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 30
+    "playCount": 32
   },
   "trackPlayCounts": {
     "4BVMwLJWxLkhoOcpKXND22": {
@@ -40,7 +40,7 @@
     "6GIi8LrBsHmhFSp9eDXCUf": {
       "name": "Neo-Aspect",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
@@ -365,12 +365,12 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 1
+      "count": 2
     },
     "3o9kpgkIcffx0iSwxhuNI2": {
       "name": "Numb Little Bug",
       "artist": "Em Beihold",
-      "count": 1
+      "count": 2
     },
     "2Y4PQVDUuIB2LQ2w7OhraJ": {
       "name": "Triumph on the Ice",
@@ -1441,12 +1441,212 @@
       "name": "KNOT",
       "artist": "DOLLCHESTRA",
       "count": 1
+    },
+    "16exrY95yucY3Mkf7qIzhp": {
+      "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
+      "artist": "Wilbert Roget, II",
+      "count": 1
+    },
+    "3T0eF1bddzJ8GD7mZJfhlj": {
+      "name": "Best Laid Plans",
+      "artist": "Steve Ouimette",
+      "count": 1
+    },
+    "6Cx7OtBOhEPgIijiNdrQtd": {
+      "name": "ハナヒバナ",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "7JGQsYndk0VOmmaH8PSMJz": {
+      "name": "水彩世界 (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "7eeuJS8GJeKJKfSPomUIWb": {
+      "name": "A Song Of Romance - from EP \"神の名を\"",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "5FYlc7iKGQTlXjIKdBSgWB": {
+      "name": "Any Other Way",
+      "artist": "We The Kings",
+      "count": 1
+    },
+    "2ZatDCxyPwTS1bZCbQ6ZnG": {
+      "name": "BURN BURN",
+      "artist": "ストレイライト",
+      "count": 1
+    },
+    "5wsqsHO57y8iWki0KErnIu": {
+      "name": "Threat Level Midnight",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "1KpbrM0wNIeqiG1JgrUL2U": {
+      "name": "Start up Stand up",
+      "artist": "ストレイライト",
+      "count": 1
+    },
+    "1fEqKjJSC5N9knIalwYmJS": {
+      "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
+      "artist": "RichaadEB",
+      "count": 1
+    },
+    "0qMpU4VmLf6aMNc7CUErzV": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2Pc3uQU2zILsSvr2orD82o": {
+      "name": "Kaiten Screw!!!",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "58DZO7oMpMRAxtHVhuDFdl": {
+      "name": "Fireworks Beneath My Shoes",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "5mf36hAmjpnCsCDAH3KgTO": {
+      "name": "O Strings, My Strings",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2FSeQD4Tk5ELPtbJHIT1ea": {
+      "name": "Clear Morning",
+      "artist": "Yui Ogura",
+      "count": 1
+    },
+    "2fHByeuosUhSryrMXjQJhY": {
+      "name": "運命のFilament",
+      "artist": "白井夢結(CV:夏吉ゆうこ)",
+      "count": 1
+    },
+    "2GP0PeV4rJ5Llgm5u4Qi1j": {
+      "name": "前へススメ！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "2afnAxLonvpNTTrITbHyD5": {
+      "name": "－HEROIC ADVENT－",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "2BX1YuwKTlIX5LyTwIwBkP": {
+      "name": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "3o0gNgloKgGMjAnK3kHVCN": {
+      "name": "Legendary",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "3QjpMmI6meIZoBD663oHAU": {
+      "name": "ノンフィクションヒーローショー (104期Ver.)",
+      "artist": "みらくらぱーく!",
+      "count": 1
+    },
+    "75SixhsPWyRRmtqHeffiXr": {
+      "name": "Alone Together",
+      "artist": "Fall Out Boy",
+      "count": 1
+    },
+    "3zjSOc0XcoOpRoh2fyfB35": {
+      "name": "Edel Lilie",
+      "artist": "一柳隊",
+      "count": 1
+    },
+    "36wgXlvAsueJyAWS87IpFy": {
+      "name": "邂逅のフェタリテート",
+      "artist": "彩音",
+      "count": 1
+    },
+    "42pipQKfifH5SSithqt313": {
+      "name": "Synchrogazer (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "1gGbdllxQWqNOTnjKtacj9": {
+      "name": "Embraced by the Flame",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "4HLcj0MD2tg91flaBCIJHJ": {
+      "name": "Tastes Like You",
+      "artist": "Ellie Goulding",
+      "count": 1
+    },
+    "0iIcuwia47B5bzjVpyUwyI": {
+      "name": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran, F1 The Album",
+      "count": 1
+    },
+    "5FSP2hxGzUklR4bBb6oWk8": {
+      "name": "余韻 - Off Vocal",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 1
+    },
+    "12Qwn2bEStx6ASvdBKVji0": {
+      "name": "名無声",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0Dklzfld08rmpuUXFvdkkm": {
+      "name": "The Little Jack Frost Clan",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "6tNk1tjuv4s7yiN4xjELdS": {
+      "name": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "0FcS0Cpz3tK1DLXIzr6iL2": {
+      "name": "Bury the Light",
+      "artist": "Casey Edwards",
+      "count": 1
+    },
+    "4GHW4tzEf6OBIoyewdBnZX": {
+      "name": "Happy Judgement Day",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "2FbdvkGnTFEXxoXjV8iSVj": {
+      "name": "Thrash Trash",
+      "artist": "Jaron Takach, Derek Long",
+      "count": 1
+    },
+    "2TRSxe4ZVLKwShY604rUh3": {
+      "name": "Somebody",
+      "artist": "Memphis May Fire",
+      "count": 1
+    },
+    "6BCuusKOo7e2KT22kKghRV": {
+      "name": "Georgette Me, Georgette You",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "7dNndlA0UPWsjBH2q2oD9k": {
+      "name": "Proof",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "1jj0Ha1vWMf32ka1adO0Q2": {
+      "name": "Blood & Water",
+      "artist": "Memphis May Fire",
+      "count": 1
+    },
+    "1ZTni1JBrvpa6TaipvQ8ZW": {
+      "name": "Through The Night",
+      "artist": "Alohaii, Yuuka Bear",
+      "count": 1
     }
   },
   "artistPlayCounts": {
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 30
+      "count": 32
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -1454,7 +1654,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 19
+      "count": 20
     },
     "4qqHB9SmuXrOopifD0YzMa": {
       "name": "戸山香澄(CV:愛美)",
@@ -1478,7 +1678,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 25
+      "count": 30
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
@@ -1562,7 +1762,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 13
+      "count": 15
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
@@ -1590,7 +1790,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 12
+      "count": 13
     },
     "0QANpCVLoBS2BJhi7fKbZF": {
       "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
@@ -1610,7 +1810,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 10
+      "count": 11
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
@@ -1650,7 +1850,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 7
+      "count": 9
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -1678,7 +1878,7 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 3
+      "count": 4
     },
     "5ofxS8vbpzqmcgfs8LouBQ": {
       "name": "森羅万象",
@@ -1706,7 +1906,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 12
+      "count": 15
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -1718,7 +1918,7 @@
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
-      "count": 1
+      "count": 2
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
@@ -1726,7 +1926,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 2
+      "count": 3
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
@@ -1738,15 +1938,15 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 5
+      "count": 6
     },
     "7o2ZQYM7nTsaVdkXY38UAA": {
       "name": "Em Beihold",
-      "count": 1
+      "count": 2
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 4
+      "count": 6
     },
     "5fHnNjwRhNBezGp6781fvz": {
       "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
@@ -1814,7 +2014,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 2
+      "count": 3
     },
     "3WfJ1OtrWI7RViX9DMyEGy": {
       "name": "Mayday Parade",
@@ -1842,7 +2042,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
@@ -1914,15 +2114,15 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 6
+      "count": 7
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 2
+      "count": 3
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 2
+      "count": 3
     },
     "4KBiAMGIoarxbHuyBB25aU": {
       "name": "Shogo",
@@ -1998,7 +2198,7 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 1
+      "count": 2
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
@@ -2014,7 +2214,7 @@
     },
     "3kNWENaTd7pb0xFqNuq7Sc": {
       "name": "Alohaii",
-      "count": 2
+      "count": 3
     },
     "189oT2Q0iCTjqIA8Oqu2fx": {
       "name": "Miori Celesta",
@@ -2094,7 +2294,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 1
+      "count": 2
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2182,6 +2382,58 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
+      "count": 1
+    },
+    "4b6Khs68thyzQrWRISZFrT": {
+      "name": "Wilbert Roget, II",
+      "count": 1
+    },
+    "0dl1CSyAIvbLjyXwE4LcCz": {
+      "name": "Steve Ouimette",
+      "count": 1
+    },
+    "3ao3jf5d70Tf4fPh2bnXVl": {
+      "name": "We The Kings",
+      "count": 1
+    },
+    "493MBQPclwtXx4zWgCalzd": {
+      "name": "ストレイライト",
+      "count": 2
+    },
+    "4BVBO54UlQrzDW66hSEefy": {
+      "name": "Yui Ogura",
+      "count": 1
+    },
+    "5vIveF4PTVZwgynLZmtkqw": {
+      "name": "白井夢結(CV:夏吉ゆうこ)",
+      "count": 1
+    },
+    "5NETkMPykaG8ngC1VcubSX": {
+      "name": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "6eUKZXaKkcviH0Ku9w2n3V": {
+      "name": "Ed Sheeran",
+      "count": 1
+    },
+    "3aly4xJOy3LVznzvRIvFYC": {
+      "name": "F1 The Album",
+      "count": 1
+    },
+    "1hGdQOfaZ5saQ6JWVuxVDZ": {
+      "name": "Casey Edwards",
+      "count": 1
+    },
+    "36bLfgFkAodzzHCeG45Jtm": {
+      "name": "Jaron Takach",
+      "count": 1
+    },
+    "5xJiiKiEDhJYn6Z3EdCZPt": {
+      "name": "Derek Long",
+      "count": 1
+    },
+    "59Mrjc0zATvjSZ0mLsmphn": {
+      "name": "Yuuka Bear",
       "count": 1
     }
   }
