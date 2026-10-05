@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T16:35:34.120Z",
+  "updatedAt": "2026-10-05T22:59:40.577Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1791218003363,
+  "lastPolledAt": 1791240931168,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -125,7 +125,7 @@
     "6pDxzY3V1Df7RxLZuxMG7F": {
       "name": "ホワイト ノスタルジア",
       "artist": "Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "4SqIMK3ILlAsC4FkVgC4Lf": {
       "name": "Serpents",
@@ -170,7 +170,7 @@
     "2EPQXOr3VLvDImQnoHOYO3": {
       "name": "One More Last Time",
       "artist": "Henry Young, Ashley Alisha",
-      "count": 3
+      "count": 4
     },
     "54yTYUoRaT1FKNIROug6Ke": {
       "name": "Babel City Grace - 2023 Version",
@@ -795,7 +795,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 4
+      "count": 52
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -2100,7 +2100,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 28
+      "count": 29
     },
     "0QANpCVLoBS2BJhi7fKbZF": {
       "name": "Alizarin ：フォーミダブル（CV：釘宮理恵）／プリンツ・オイゲン（CV：佐倉綾音）／能代（CV：伊波杏樹）",
@@ -2128,11 +2128,11 @@
     },
     "7BFfb40nQrs3xKRMGK1GrC": {
       "name": "Henry Young",
-      "count": 5
+      "count": 6
     },
     "63P6hjn73jNbnEFT0gKWKk": {
       "name": "Ashley Alisha",
-      "count": 5
+      "count": 6
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
@@ -2464,7 +2464,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 4
+      "count": 52
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
