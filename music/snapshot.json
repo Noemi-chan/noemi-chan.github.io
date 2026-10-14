@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-14T14:10:34.847Z",
+  "updatedAt": "2026-10-14T19:02:49.514Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1791986813434,
+  "lastPolledAt": 1792004464840,
   "topTrack": {
-    "name": "顔",
-    "artist": "Ave Mujica",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273521c7ec8fa2506ab94d99cac",
-    "url": "https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1",
-    "playCount": 107
+    "name": "HIBANA―火花―",
+    "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730a1991e6b2d046f2af3da4c0",
+    "url": "https://open.spotify.com/track/0LimjB4B9s5nh81W2HQmS2",
+    "playCount": 150
   },
   "topArtist": {
     "name": "HOYO-MiX",
@@ -45,7 +45,7 @@
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
       "artist": "アンティーカ",
-      "count": 6
+      "count": 7
     },
     "6NZgEzFC6VR8CKCNbhnTCH": {
       "name": "Never Looking Back",
@@ -1060,7 +1060,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 102
+      "count": 150
     },
     "4jiyKqRJ25IjaCBaJasQpt": {
       "name": "キセキヒカル",
@@ -2010,7 +2010,7 @@
     "4I5Bsfl4gdoRcK3AF47hVf": {
       "name": "黒のバースデイ",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 4
     },
     "404bfT8cVTOCHw2fvGhZNU": {
       "name": "Step by Step",
@@ -2107,7 +2107,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 45
+      "count": 46
     },
     "0yaxRS7sYtdmwpNIyA1UuR": {
       "name": "ダイワスカーレット (CV. 木村千咲)",
@@ -2331,7 +2331,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 187
+      "count": 188
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -2703,11 +2703,11 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 102
+      "count": 150
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 102
+      "count": 150
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
