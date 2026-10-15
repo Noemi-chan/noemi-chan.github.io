@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-14T22:49:55.291Z",
+  "updatedAt": "2026-10-15T01:05:12.363Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792013224515,
+  "lastPolledAt": 1792026193167,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -185,7 +185,7 @@
     "2nMVkKOSXWlx39bDb6O3Ac": {
       "name": "もういちど ルミナス",
       "artist": "ClariS, 丸山彩 from Pastel*Palettes",
-      "count": 7
+      "count": 8
     },
     "4qHdhSUkmDh6r7Ea4NzAvM": {
       "name": "EZ4ENCE (kannatuslaulu)",
@@ -860,7 +860,7 @@
     "4wZcKcvGmPDbSazHXFw6ex": {
       "name": "Stellar Stream",
       "artist": "上原歩夢 (CV.大西亜玖璃)",
-      "count": 11
+      "count": 12
     },
     "61Faxn9e21mgi1UFP5C4AB": {
       "name": "Kudaranai ya",
@@ -1235,7 +1235,7 @@
     "1ubvzeEClhjtfXULU1UpTb": {
       "name": "乙女詞華集",
       "artist": "スリーズブーケ",
-      "count": 6
+      "count": 7
     },
     "2RsB1iRK8dqys4xPYcK73B": {
       "name": "Critical Mistake",
@@ -1980,7 +1980,7 @@
     "6htBSRPTfR3mD3cB5afXvG": {
       "name": "Aile - Harmonized version",
       "artist": "Tsubasa Ibuki (CV: Machico), Julia (CV: Aimi), Mizuki Makabe (CV: Rika Abe)",
-      "count": 7
+      "count": 8
     },
     "5VEsi6BxUXSYUXdOvJrZYe": {
       "name": "Azalea",
@@ -2231,7 +2231,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 18
+      "count": 19
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
@@ -2259,7 +2259,7 @@
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
-      "count": 7
+      "count": 8
     },
     "6G8D4xDyY4yocHtXiXxYmI": {
       "name": "The Verkkars",
@@ -2395,7 +2395,7 @@
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 13
+      "count": 14
     },
     "1QpIAQVxfJz3DMqFfs5B4G": {
       "name": "Chizuru Nikaido (CV: Kanako Nomura)",
@@ -2539,7 +2539,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 40
+      "count": 41
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
@@ -2615,7 +2615,7 @@
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
-      "count": 15
+      "count": 16
     },
     "3fwPbUnAOAhzd60TyDfE8t": {
       "name": "Piano Fantasia",
@@ -2911,7 +2911,7 @@
     },
     "7ziIYbwnpeaMZzmmAiEMKs": {
       "name": "Mizuki Makabe (CV: Rika Abe)",
-      "count": 10
+      "count": 11
     },
     "3XapQeYIT9vl10CnAAZGxD": {
       "name": "Tsumugi Shiraishi (CV: Saki Minami)",
@@ -3027,7 +3027,7 @@
     },
     "10vdoYkSqeOCKyaZLp6Rhb": {
       "name": "Tsubasa Ibuki (CV: Machico)",
-      "count": 7
+      "count": 8
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
