@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T02:05:45.675Z",
+  "updatedAt": "2026-10-17T07:17:51.800Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792202569233,
+  "lastPolledAt": 1792221428341,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 175
+    "playCount": 176
   },
   "trackPlayCounts": {
     "4BVMwLJWxLkhoOcpKXND22": {
@@ -375,7 +375,7 @@
     "2Y4PQVDUuIB2LQ2w7OhraJ": {
       "name": "Triumph on the Ice",
       "artist": "HOYO-MiX",
-      "count": 8
+      "count": 9
     },
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
@@ -905,7 +905,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 6
+      "count": 11
     },
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
@@ -1295,7 +1295,7 @@
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
       "artist": "スリーズブーケ",
-      "count": 197
+      "count": 240
     },
     "50nRYeiTbC3QpKYFdAR6HJ": {
       "name": "What’s the POPIPA!?",
@@ -1690,7 +1690,7 @@
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
       "artist": "シャイニーカラーズ",
-      "count": 10
+      "count": 11
     },
     "20I6sIOMTCkB6w7ryavxtO": {
       "name": "Call Me Maybe",
@@ -2076,7 +2076,7 @@
   "artistPlayCounts": {
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 175
+      "count": 176
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -2544,7 +2544,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 235
+      "count": 278
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
@@ -2636,7 +2636,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 6
+      "count": 11
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2884,7 +2884,7 @@
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
-      "count": 10
+      "count": 11
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
