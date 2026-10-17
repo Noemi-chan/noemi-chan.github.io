@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T07:17:51.800Z",
+  "updatedAt": "2026-10-17T11:50:15.677Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792221428341,
+  "lastPolledAt": 1792237680443,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -905,7 +905,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 11
+      "count": 61
     },
     "563TULUz5M1e0NHeL9TClT": {
       "name": "Izayoi Bonboriuta",
@@ -2636,7 +2636,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 11
+      "count": 61
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
