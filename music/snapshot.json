@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-18T19:04:25.947Z",
+  "updatedAt": "2026-10-18T22:02:25.729Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792350177413,
+  "lastPolledAt": 1792360863519,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -795,7 +795,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 108
+      "count": 129
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -2071,6 +2071,11 @@
       "name": "Light our way",
       "artist": "安月名莉子",
       "count": 2
+    },
+    "0GVEw00pJkbSoj8x8PaV1p": {
+      "name": "Esquisse - Akari Kito Billboard Live 2026 1st Stage",
+      "artist": "Akari Kito",
+      "count": 14
     }
   },
   "artistPlayCounts": {
@@ -2584,7 +2589,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 108
+      "count": 129
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -3053,6 +3058,10 @@
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
       "count": 1
+    },
+    "5PFOljHpjdOGpyP34FGr8S": {
+      "name": "Akari Kito",
+      "count": 14
     }
   }
 }
