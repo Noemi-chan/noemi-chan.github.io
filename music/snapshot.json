@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-18T22:02:25.729Z",
+  "updatedAt": "2026-10-19T00:35:50.833Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792360863519,
+  "lastPolledAt": 1792370076899,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -2075,7 +2075,7 @@
     "0GVEw00pJkbSoj8x8PaV1p": {
       "name": "Esquisse - Akari Kito Billboard Live 2026 1st Stage",
       "artist": "Akari Kito",
-      "count": 14
+      "count": 41
     }
   },
   "artistPlayCounts": {
@@ -3061,7 +3061,7 @@
     },
     "5PFOljHpjdOGpyP34FGr8S": {
       "name": "Akari Kito",
-      "count": 14
+      "count": 41
     }
   }
 }
