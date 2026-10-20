@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T19:44:03.509Z",
+  "updatedAt": "2026-10-20T22:48:45.238Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792522947428,
+  "lastPolledAt": 1792536258998,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -13,7 +13,9 @@
     "name": "HOYO-MiX",
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
-    "genres": [],
+    "genres": [
+      "soundtrack"
+    ],
     "playCount": 217
   },
   "trackPlayCounts": {
@@ -795,7 +797,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 181
+      "count": 202
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -2594,7 +2596,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 181
+      "count": 202
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
