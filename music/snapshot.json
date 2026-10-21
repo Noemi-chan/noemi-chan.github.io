@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21T06:46:23.638Z",
+  "updatedAt": "2026-10-21T12:33:59.694Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792564443821,
+  "lastPolledAt": 1792585820449,
   "topTrack": {
     "name": "HIBANA―火花―",
     "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
@@ -285,7 +285,7 @@
     "1FSc3Bkvys5sXuB6XHps6U": {
       "name": "DAYS of DASH",
       "artist": "Konomi Suzuki",
-      "count": 14
+      "count": 15
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
@@ -330,7 +330,7 @@
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 4
+      "count": 5
     },
     "1W8EwVZ7FnVkn6XkFl4YPl": {
       "name": "Whispers to the Midnight Frost",
@@ -445,7 +445,7 @@
     "1AWg0OaeyGyr56J3LEHF8N": {
       "name": "Freedom",
       "artist": "Poppin'Party, 海野夏希(CV：福圓美里)",
-      "count": 7
+      "count": 8
     },
     "50palGbYA85jbX8y79aqRK": {
       "name": "ムリムリ進化論",
@@ -795,7 +795,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 286
+      "count": 327
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -870,7 +870,7 @@
     "69xq52Yl3XgWRPIAOwfaYY": {
       "name": "In Loving Memory",
       "artist": "First and Forever",
-      "count": 8
+      "count": 9
     },
     "1BEZWpUeIKNvESkYRgedYq": {
       "name": "Song for Denise - Maxi version",
@@ -1290,7 +1290,7 @@
     "16ckvh75PRhSKz7PkmCwpf": {
       "name": "銀翼のアレジアンス -blade of truth-",
       "artist": "アンティーカ",
-      "count": 11
+      "count": 12
     },
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
@@ -2081,6 +2081,26 @@
       "name": "好きだから。",
       "artist": "『ユイカ』",
       "count": 2
+    },
+    "5gTAsPTyl2JM9JcjRq5PIB": {
+      "name": "Great Pursuit - The Resolve of Ryunosuke Naruhodo",
+      "artist": "Yasumasa Kitagawa",
+      "count": 1
+    },
+    "6g1DgoBbkDfTB19DecRFVJ": {
+      "name": "Prelude to Pursuit",
+      "artist": "Yasumasa Kitagawa",
+      "count": 1
+    },
+    "0h8o8XiiNyFahe5oKHv84M": {
+      "name": "Ryunosuke Naruhodo - Overture to Resolve",
+      "artist": "Yasumasa Kitagawa",
+      "count": 1
+    },
+    "4A25H1BEDme9imAHoS2eae": {
+      "name": "アフレぐ！〜Aufregendes leben〜",
+      "artist": "シークフェルト音楽学院中等部",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -2094,7 +2114,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 161
+      "count": 162
     },
     "4qqHB9SmuXrOopifD0YzMa": {
       "name": "戸山香澄(CV:愛美)",
@@ -2122,7 +2142,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 57
+      "count": 58
     },
     "0yaxRS7sYtdmwpNIyA1UuR": {
       "name": "ダイワスカーレット (CV. 木村千咲)",
@@ -2218,7 +2238,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 275
+      "count": 276
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2350,7 +2370,7 @@
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 21
+      "count": 22
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
@@ -2418,7 +2438,7 @@
     },
     "1hUfCEkL8nv3iYXDRuvJcn": {
       "name": "海野夏希(CV：福圓美里)",
-      "count": 7
+      "count": 8
     },
     "06jSjpC81wzjoUoE61Fhdn": {
       "name": "NANAOAKARI",
@@ -2546,7 +2566,7 @@
     },
     "4yoepOpyKCDc3xDj0fX21r": {
       "name": "First and Forever",
-      "count": 15
+      "count": 16
     },
     "1qM11R4ylJyQiPJ0DffE9z": {
       "name": "Lilas",
@@ -2594,7 +2614,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 286
+      "count": 327
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
@@ -3071,6 +3091,14 @@
     "2EqaSEa0WkE59Aca9iXSYj": {
       "name": "『ユイカ』",
       "count": 2
+    },
+    "02rAgib3SCbMTFZuHSii3d": {
+      "name": "Yasumasa Kitagawa",
+      "count": 3
+    },
+    "2VM8C3BgM9NRLvAbthlc8K": {
+      "name": "シークフェルト音楽学院中等部",
+      "count": 1
     }
   }
 }
