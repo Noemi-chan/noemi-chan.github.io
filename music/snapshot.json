@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T06:43:16.946Z",
+  "updatedAt": "2026-10-23T12:16:09.244Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792737729839,
+  "lastPolledAt": 1792757550703,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273decdfb1089cce60ca35bf51e",
     "url": "https://open.spotify.com/track/6KpJZPe7Jdr0zejqFUIga0",
-    "playCount": 338
+    "playCount": 388
   },
   "topArtist": {
     "name": "HOYO-MiX",
@@ -795,7 +795,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 338
+      "count": 388
     },
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
@@ -2619,7 +2619,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 338
+      "count": 388
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
