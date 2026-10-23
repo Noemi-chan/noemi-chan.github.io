@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T12:16:09.244Z",
+  "updatedAt": "2026-10-23T17:35:36.025Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792757550703,
+  "lastPolledAt": 1792776933709,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -485,7 +485,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 7
+      "count": 57
     },
     "3WlHeBv2athRcNTwbfjg0b": {
       "name": "Back to Where It Began",
@@ -2371,7 +2371,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 243
+      "count": 293
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
