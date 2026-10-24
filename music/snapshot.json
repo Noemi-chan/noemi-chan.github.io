@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-24T02:29:12.716Z",
+  "updatedAt": "2026-10-24T07:43:42.131Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792808900412,
+  "lastPolledAt": 1792827762059,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e83221b244b3ec23d8faa58",
     "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg",
     "genres": [],
-    "playCount": 252
+    "playCount": 253
   },
   "trackPlayCounts": {
     "4BVMwLJWxLkhoOcpKXND22": {
@@ -485,7 +485,7 @@
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 68
+      "count": 85
     },
     "3WlHeBv2athRcNTwbfjg0b": {
       "name": "Back to Where It Began",
@@ -1180,7 +1180,7 @@
     "4rBE1sqbE32wnMma6rqlHh": {
       "name": "Snezhnaya",
       "artist": "HOYO-MiX",
-      "count": 6
+      "count": 7
     },
     "1IV4KjKmVgk3tn1Ffnbtuh": {
       "name": "The Grand Delusion",
@@ -1790,7 +1790,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 178
+      "count": 210
     },
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
@@ -2111,7 +2111,7 @@
   "artistPlayCounts": {
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 252
+      "count": 253
     },
     "0PHf0oiic0xAnCrRuLTtHl": {
       "name": "TUYU",
@@ -2371,7 +2371,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 372
+      "count": 421
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
