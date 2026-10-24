@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T23:39:35.142Z",
+  "updatedAt": "2026-10-24T02:29:12.716Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792798555794,
+  "lastPolledAt": 1792808900412,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -1790,7 +1790,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 135
+      "count": 178
     },
     "18CVZSCf490INSs7AmeQ2a": {
       "name": "迷路日々",
@@ -2371,7 +2371,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 329
+      "count": 372
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
