@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T10:22:32.009Z",
+  "updatedAt": "2026-10-25T14:40:20.694Z",
   "monthKey": "2026-10",
-  "lastPolledAt": 1792923637962,
+  "lastPolledAt": 1792939127871,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -405,7 +405,7 @@
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
       "artist": "RAISE A SUILEN",
-      "count": 44
+      "count": 94
     },
     "5BZpy13fGkwbWbR2BEGzzn": {
       "name": "Song I am.",
@@ -2408,7 +2408,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 69
+      "count": 119
     },
     "7o2ZQYM7nTsaVdkXY38UAA": {
       "name": "Em Beihold",
