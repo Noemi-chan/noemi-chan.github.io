@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T01:38:19.919Z",
+  "updatedAt": "2026-11-01T08:23:52.030Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793497034871,
+  "lastPolledAt": 1793521193224,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 4
+    "playCount": 8
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -266,6 +266,241 @@
       "name": "Day Dream",
       "artist": "NTE10AM",
       "count": 1
+    },
+    "0COqiPhxzoWICwFCS4eZcp": {
+      "name": "Bring Me To Life",
+      "artist": "Evanescence",
+      "count": 2
+    },
+    "404bfT8cVTOCHw2fvGhZNU": {
+      "name": "Step by Step",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "7tI5GDU50puokqzVy3rlsR": {
+      "name": "DROPOUT!?",
+      "artist": "Saint Snow",
+      "count": 1
+    },
+    "2JcQF1cSeyFx34F8ItVTRN": {
+      "name": "Motion Sickness",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "035p0m5Tde6oBpUgKiNeFA": {
+      "name": "Where the Moon Kisses the Water",
+      "artist": "HOYO-MiX",
+      "count": 2
+    },
+    "0WaOQy3YvVsMa3UuDGW9d7": {
+      "name": "キラキラだとか夢だとか ～Sing Girls～",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "3I35fTfZj04H43F6L8RRhi": {
+      "name": "Fudosei Innocence",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "3NRYoA2lCeDF2ltxECA1e8": {
+      "name": "Everlasting",
+      "artist": "郭神琳(CV:星守紗凪)",
+      "count": 1
+    },
+    "1fEqKjJSC5N9knIalwYmJS": {
+      "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
+      "artist": "RichaadEB",
+      "count": 1
+    },
+    "0XeIF0B93rJBlwcoYcLgnX": {
+      "name": "Sprechchor",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "1iKjPM2YygFxUqjUakAI4n": {
+      "name": "Can't Kick Up The Roots",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "2lfs1l1xaVOxrFNqKZrAkk": {
+      "name": "Blessing Chord - パラレルver.",
+      "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
+      "count": 1
+    },
+    "7zxz9xLJvou9iSRYiIq3TX": {
+      "name": "影色舞",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "7K67LPW48UmDarAd7FELCn": {
+      "name": "Part of Me",
+      "artist": "American Wolves",
+      "count": 1
+    },
+    "4SPKuPwXDa5rWFSgrI9Rxr": {
+      "name": "奏（かなで） (Cover)",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "5dp3vri4d2JjeBsGriLFyW": {
+      "name": "IMAWA IINDAYO - Cover",
+      "artist": "Kotoha",
+      "count": 1
+    },
+    "3o9kpgkIcffx0iSwxhuNI2": {
+      "name": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "count": 2
+    },
+    "45J1wiCeGG61mfxtANxOrW": {
+      "name": "TORA and TORA",
+      "artist": "BAND-MAIKO",
+      "count": 1
+    },
+    "6hjoFJtQBfrtbvih5PBOrX": {
+      "name": "Daydream Warrior",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "0RvvNjSDtNedo0dy8C2TAC": {
+      "name": "hope ur happy",
+      "artist": "Until I Wake",
+      "count": 1
+    },
+    "6UNnBoYJOhny1DytXoUYf9": {
+      "name": "Our Carol",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4pxvr1Qb2MbwdlNtcgNHV2": {
+      "name": "The Tale of Anastasya's Campaign",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "041siMojdJFkeX5YCZL6Fi": {
+      "name": "Ode to Liberty (Bayan Version)",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "5TpXNMoNyHiQADfECSfSBD": {
+      "name": "Just a Sunny Day for You",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "6BgQWUJd3BXytOhZZv7OW7": {
+      "name": "Colorful Dreams! Colorful Smiles!",
+      "artist": "Nijigasaki High School Idol Club",
+      "count": 1
+    },
+    "65djZ26YS7KA3NvGjlZGHQ": {
+      "name": "走り始めたばかりのキミに",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "3Vt7DMsMUczbusomzFqtif": {
+      "name": "As Dawn and Dusk Merge",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4xNLwVQQqiJeuNx65CSAJd": {
+      "name": "Compared Child - English Cover",
+      "artist": "JubyPhonic",
+      "count": 1
+    },
+    "4Xgono4pmRbojXlCIYh8or": {
+      "name": "Riptide",
+      "artist": "Beartooth",
+      "count": 1
+    },
+    "6o39Ln9118FKTMbM4BvcEy": {
+      "name": "Drown",
+      "artist": "Bring Me The Horizon",
+      "count": 1
+    },
+    "4yyQrtJtzHPZXzhhJRY0Oa": {
+      "name": "QUEEN (Cover)",
+      "artist": "Morfonica",
+      "count": 1
+    },
+    "6GOPwZEXdCnBH5wte4Zy91": {
+      "name": "DAYS of DASH (Cover)",
+      "artist": "Poppin'Party, Konomi Suzuki",
+      "count": 1
+    },
+    "0qMpU4VmLf6aMNc7CUErzV": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4HyMI0Vd5hv1LLrkWDhszY": {
+      "name": "Unsung Heroes",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "5ciHaCIDGeVkf9cHg3PEuR": {
+      "name": "羅針盤の彼方",
+      "artist": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "0ZsgN4zeAqdHaYTDJdcXJZ": {
+      "name": "Heavy Is the Dew",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "708FNo9i6UHes8IR9BOFo5": {
+      "name": "SILENT PAIN",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "6P1bG5AN1C1s7oTIF5nSm3": {
+      "name": "最強☆ソング",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "2nMVkKOSXWlx39bDb6O3Ac": {
+      "name": "もういちど ルミナス",
+      "artist": "ClariS, 丸山彩 from Pastel*Palettes",
+      "count": 1
+    },
+    "26STVZHzUpepcrRHF1aiQJ": {
+      "name": "THRONE OF ROSE",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4jOQ5QOwyu9dwWwbHYmQAm": {
+      "name": "Only Human - feat. AJ Channer",
+      "artist": "Memphis May Fire, AJ Channer",
+      "count": 1
+    },
+    "4eR1tqIsDouIiI1cbTuCMy": {
+      "name": "八芒星ダンス",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "18ZgnKxWQ8z1KiA2A3xky6": {
+      "name": "Numb Little Bug",
+      "artist": "Our Last Night",
+      "count": 1
+    },
+    "21gK6xT6nruG8ddSROoHP7": {
+      "name": "Dream of the Black Snow Swan",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "4G0mT3Q31bnOMvzNS8yVRY": {
+      "name": "Wet Hands (A Cappella) [From \"Minecraft\"]",
+      "artist": "Smooth McGroove",
+      "count": 1
+    },
+    "6pDxzY3V1Df7RxLZuxMG7F": {
+      "name": "ホワイト ノスタルジア",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "2ZatDCxyPwTS1bZCbQ6ZnG": {
+      "name": "BURN BURN",
+      "artist": "ストレイライト",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -299,15 +534,15 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 3
+      "count": 7
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 1
+      "count": 3
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 2
+      "count": 3
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -351,7 +586,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 3
+      "count": 10
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -371,7 +606,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 1
+      "count": 2
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -387,7 +622,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 2
+      "count": 4
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
@@ -399,7 +634,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 4
+      "count": 8
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -407,7 +642,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
@@ -455,6 +690,126 @@
     },
     "6cnMOkdJ13TeD0z4kNLP6n": {
       "name": "NTE10AM",
+      "count": 1
+    },
+    "5nGIFgo0shDenQYSE0Sn7c": {
+      "name": "Evanescence",
+      "count": 2
+    },
+    "2RVXnU56kIClg1UbAW9ehz": {
+      "name": "KARUT",
+      "count": 1
+    },
+    "5bAFl5UIKoCUr4A6090lR7": {
+      "name": "Saint Snow",
+      "count": 1
+    },
+    "6NpkNdWFWIvQpS1GLvdQrY": {
+      "name": "アンティーカ",
+      "count": 2
+    },
+    "7jLw5HDBwa5H8khQmZMr4S": {
+      "name": "郭神琳(CV:星守紗凪)",
+      "count": 1
+    },
+    "4IF11U0nzFhAaLDGZH3vSx": {
+      "name": "RichaadEB",
+      "count": 1
+    },
+    "0HydIryDI0cb2xdizA8MRu": {
+      "name": "I♡インドア",
+      "count": 1
+    },
+    "0wm8M1C1O0Str979kE7MUR": {
+      "name": "市ヶ谷有咲(CV:伊藤彩沙)",
+      "count": 1
+    },
+    "4Ra3Di0TwwE4lFA21m1Hbj": {
+      "name": "白金燐子(CV:志崎樺音)",
+      "count": 1
+    },
+    "5uMq5LpiCbQAuyx2t3oUFW": {
+      "name": "倉田ましろ(CV:進藤あまね)",
+      "count": 1
+    },
+    "5o5tkWvWYdyyAKhNr8vlMq": {
+      "name": "MyGO!!!!!",
+      "count": 1
+    },
+    "6ELd8V4uVbjWXw5asYoISQ": {
+      "name": "American Wolves",
+      "count": 1
+    },
+    "4n97ifZWNPLSPKC6KzfGxg": {
+      "name": "Pastel*Palettes",
+      "count": 2
+    },
+    "76pJHTMyTukyWJNR6yRrZS": {
+      "name": "Kotoha",
+      "count": 1
+    },
+    "7o2ZQYM7nTsaVdkXY38UAA": {
+      "name": "Em Beihold",
+      "count": 2
+    },
+    "2OIN4qI2EqAsEhrVlnfi02": {
+      "name": "BAND-MAIKO",
+      "count": 1
+    },
+    "4XYFjTd83FIwArFrWEYhd5": {
+      "name": "Until I Wake",
+      "count": 1
+    },
+    "6xWuh7ypIYMh9BhqfHtQN1": {
+      "name": "Nijigasaki High School Idol Club",
+      "count": 1
+    },
+    "3YkgOH8w0F49DIP1l9NDC2": {
+      "name": "JubyPhonic",
+      "count": 1
+    },
+    "6vwjIs0tbIiseJMR3pqwiL": {
+      "name": "Beartooth",
+      "count": 1
+    },
+    "1Ffb6ejR6Fe5IamqA5oRUF": {
+      "name": "Bring Me The Horizon",
+      "count": 1
+    },
+    "12BquJvJVg8XFRB3M90MmJ": {
+      "name": "Morfonica",
+      "count": 1
+    },
+    "3O0kLS5sLZ41XZRxjBKmLF": {
+      "name": "Konomi Suzuki",
+      "count": 1
+    },
+    "77zL8fZvBM4UDw4IRtkkQs": {
+      "name": "長門(CV:佐倉綾音)",
+      "count": 1
+    },
+    "5htVtReJ3NAwcAdxdHpim3": {
+      "name": "ClariS",
+      "count": 1
+    },
+    "0N8XbKOOPtJqiSZcjKPfCI": {
+      "name": "丸山彩 from Pastel*Palettes",
+      "count": 1
+    },
+    "0mTRdMo44irGKR85VtzGKd": {
+      "name": "AJ Channer",
+      "count": 1
+    },
+    "00YTqRClk82aMchQQpYMd5": {
+      "name": "Our Last Night",
+      "count": 1
+    },
+    "1eyGtJBOiRGtvXAEhQHpBS": {
+      "name": "Smooth McGroove",
+      "count": 1
+    },
+    "493MBQPclwtXx4zWgCalzd": {
+      "name": "ストレイライト",
       "count": 1
     }
   }
