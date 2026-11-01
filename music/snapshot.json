@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T08:23:52.030Z",
+  "updatedAt": "2026-11-01T15:34:45.978Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793521193224,
+  "lastPolledAt": 1793547035735,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -40,7 +40,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 1
+      "count": 19
     },
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
@@ -501,6 +501,146 @@
       "name": "BURN BURN",
       "artist": "ストレイライト",
       "count": 1
+    },
+    "6QeWRDA4hBnMy3zZA0mQUj": {
+      "name": "GIONCHO",
+      "artist": "BAND-MAIKO",
+      "count": 1
+    },
+    "6tNk1tjuv4s7yiN4xjELdS": {
+      "name": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "count": 3
+    },
+    "6QYYzSQnGyMjcRRy67eYwF": {
+      "name": "Miss Wanna Die - English Cover",
+      "artist": "JubyPhonic, Master Andross",
+      "count": 1
+    },
+    "2khCn0FtcHpiOPRchJxjfs": {
+      "name": "You Suck at Love",
+      "artist": "Simple Plan",
+      "count": 1
+    },
+    "0e9I5yTCg5rna47HiIFJMQ": {
+      "name": "Holiday∞Holiday (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "3ITmLRVfTAQkdBgCUyrBeA": {
+      "name": "Open Up My Heart",
+      "artist": "The Winking Owl",
+      "count": 1
+    },
+    "7JGQsYndk0VOmmaH8PSMJz": {
+      "name": "水彩世界 (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "7eeuJS8GJeKJKfSPomUIWb": {
+      "name": "A Song Of Romance - from EP \"神の名を\"",
+      "artist": "Ave Mujica",
+      "count": 2
+    },
+    "4m9bU1ifWPGprAtAab3VZn": {
+      "name": "KiLLKiSS",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "48fqIDIQDD1ARyTrlSb8wW": {
+      "name": "If I Can Stop One Heart From Breaking",
+      "artist": "Chewie Melodies, Pealeaf",
+      "count": 1
+    },
+    "69Fm2YuD3usLPD0RvK71Oo": {
+      "name": "メリトクラシー",
+      "artist": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "43TrzIBj0B1mq4Z6z7zxeN": {
+      "name": "secret MAIKO lips",
+      "artist": "BAND-MAIKO",
+      "count": 1
+    },
+    "0UpfqToYuoB8rUYDQI6nJA": {
+      "name": "吹雪",
+      "artist": "西沢幸奏",
+      "count": 1
+    },
+    "3RiYi67LMqBpopK1b1D0fb": {
+      "name": "Citrus Love",
+      "artist": "Bao The Whale, Overspace",
+      "count": 1
+    },
+    "6ss2vUwrV64xAVE4fXZMIh": {
+      "name": "I Really Like You",
+      "artist": "Carly Rae Jepsen",
+      "count": 1
+    },
+    "5YMgxFylfZqeIZFzsax0Pq": {
+      "name": "Light Glimmers as Shadows Shift",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2vguXENOIkRxmML0n168Vd": {
+      "name": "Know Your Heart",
+      "artist": "Tacitly",
+      "count": 1
+    },
+    "7fh1kd9kH1F6aw1zjFOI6X": {
+      "name": "天球(そら)のMúsica",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "1nk9moKBnrWMsXoHxnaeJd": {
+      "name": "Y (Please Tell Me Why)",
+      "artist": "freestyle",
+      "count": 1
+    },
+    "734cyaTXP3BEcmcEkBo2aS": {
+      "name": "夢を撃ち抜く瞬間に！",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "40naHpGJBr1C148Tgvg88J": {
+      "name": "Catch the Summer (夏拏)",
+      "artist": "Shirayuki Hina",
+      "count": 1
+    },
+    "1fEpLSVj6JZLH6vEuhePb0": {
+      "name": "Ghost in a Flower",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "3rRkDjqEy2n8Qi930AjiSF": {
+      "name": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1
+    },
+    "4qHdhSUkmDh6r7Ea4NzAvM": {
+      "name": "EZ4ENCE (kannatuslaulu)",
+      "artist": "The Verkkars",
+      "count": 1
+    },
+    "7tBbT0mu8TOhDciTPRsOMq": {
+      "name": "silent stranger",
+      "artist": "Against The Current",
+      "count": 2
+    },
+    "4eZ6wXfhx6N9KgNUJEH2t2": {
+      "name": "アオとキラメキ",
+      "artist": "スピラ・スピカ",
+      "count": 1
+    },
+    "3wqdHdHcTC8mnQMCNLwTFi": {
+      "name": "ガランドFlash - Off Vocal",
+      "artist": "DOLLCHESTRA",
+      "count": 1
+    },
+    "3kZfj41VWiKhD36LSLIEec": {
+      "name": "Sugarvine (Dubstep Arrange) - English Cover",
+      "artist": "JubyPhonic",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -518,23 +658,23 @@
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 1
+      "count": 2
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 1
+      "count": 2
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 1
+      "count": 19
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 1
+      "count": 19
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 7
+      "count": 8
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -542,7 +682,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 3
+      "count": 10
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -586,11 +726,11 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 10
+      "count": 11
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
-      "count": 1
+      "count": 2
     },
     "37H5Xn3SbccttHx8hPcahK": {
       "name": "Leet Mob",
@@ -606,7 +746,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 2
+      "count": 3
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -646,7 +786,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 1
+      "count": 3
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -670,7 +810,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 1
+      "count": 2
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -754,7 +894,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 1
+      "count": 3
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -766,7 +906,7 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 1
+      "count": 3
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
@@ -810,6 +950,62 @@
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
+      "count": 1
+    },
+    "5qOJ5nikwvfCIs5gf22n6G": {
+      "name": "Master Andross",
+      "count": 1
+    },
+    "2p4FqHnazRucYQHyDCdBrJ": {
+      "name": "Simple Plan",
+      "count": 1
+    },
+    "08aT4nW2iKh4WRoYojWmDE": {
+      "name": "The Winking Owl",
+      "count": 1
+    },
+    "2ScjBZKTBFqJ5Rj9lgo0e8": {
+      "name": "ローレライ（歌：水上スイ）",
+      "count": 1
+    },
+    "5aiaXK8lcIBT52N1WmN9BK": {
+      "name": "西沢幸奏",
+      "count": 1
+    },
+    "2TERX3Wyzpip8d9uw07qYZ": {
+      "name": "Bao The Whale",
+      "count": 1
+    },
+    "2DavS3976uZWJvbYH7sbuj": {
+      "name": "Overspace",
+      "count": 1
+    },
+    "4GRe7C0gN8fvHg1pWRpbBd": {
+      "name": "Tacitly",
+      "count": 1
+    },
+    "0LigV2SSsRZaeX2htEFXV9": {
+      "name": "freestyle",
+      "count": 1
+    },
+    "5Rn9nehXFL1tpFFB2SOw0C": {
+      "name": "Shirayuki Hina",
+      "count": 1
+    },
+    "18Zr9CaElvS40S0AtizMWZ": {
+      "name": "hololive IDOL PROJECT",
+      "count": 1
+    },
+    "6G8D4xDyY4yocHtXiXxYmI": {
+      "name": "The Verkkars",
+      "count": 1
+    },
+    "6yhD1KjhLxIETFF7vIRf8B": {
+      "name": "Against The Current",
+      "count": 2
+    },
+    "3ncARjIEl4SrcrnpOIV5CO": {
+      "name": "スピラ・スピカ",
       "count": 1
     }
   }
