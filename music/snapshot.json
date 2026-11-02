@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T23:21:12.690Z",
+  "updatedAt": "2026-11-02T03:21:23.353Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793575155472,
+  "lastPolledAt": 1793589655814,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
     "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
     "genres": [],
-    "playCount": 14
+    "playCount": 15
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -375,7 +375,7 @@
     "4pxvr1Qb2MbwdlNtcgNHV2": {
       "name": "The Tale of Anastasya's Campaign",
       "artist": "HOYO-MiX",
-      "count": 1
+      "count": 2
     },
     "041siMojdJFkeX5YCZL6Fi": {
       "name": "Ode to Liberty (Bayan Version)",
@@ -385,7 +385,7 @@
     "5TpXNMoNyHiQADfECSfSBD": {
       "name": "Just a Sunny Day for You",
       "artist": "Rachie",
-      "count": 1
+      "count": 2
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
@@ -505,37 +505,37 @@
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
       "artist": "BAND-MAIKO",
-      "count": 1
+      "count": 4
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 13
     },
     "6QYYzSQnGyMjcRRy67eYwF": {
       "name": "Miss Wanna Die - English Cover",
       "artist": "JubyPhonic, Master Andross",
-      "count": 1
+      "count": 2
     },
     "2khCn0FtcHpiOPRchJxjfs": {
       "name": "You Suck at Love",
       "artist": "Simple Plan",
-      "count": 1
+      "count": 2
     },
     "0e9I5yTCg5rna47HiIFJMQ": {
       "name": "Holiday∞Holiday (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
       "artist": "The Winking Owl",
-      "count": 1
+      "count": 2
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
       "artist": "スリーズブーケ",
-      "count": 1
+      "count": 2
     },
     "7eeuJS8GJeKJKfSPomUIWb": {
       "name": "A Song Of Romance - from EP \"神の名を\"",
@@ -545,7 +545,7 @@
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "48fqIDIQDD1ARyTrlSb8wW": {
       "name": "If I Can Stop One Heart From Breaking",
@@ -630,7 +630,7 @@
     "4eZ6wXfhx6N9KgNUJEH2t2": {
       "name": "アオとキラメキ",
       "artist": "スピラ・スピカ",
-      "count": 1
+      "count": 18
     },
     "3wqdHdHcTC8mnQMCNLwTFi": {
       "name": "ガランドFlash - Off Vocal",
@@ -760,7 +760,7 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "3uXz1lgsibXdWQ05wc2P6f": {
       "name": "競宴Red×Violet",
@@ -911,6 +911,56 @@
       "name": "hectopascal",
       "artist": "小糸 侑(CV:高田憂希), 七海燈子(CV:寿 美菜子)",
       "count": 1
+    },
+    "2VfY6NbLJEzie37TkTEt6Q": {
+      "name": "Summer (Let's Make This Forever)",
+      "artist": "You vs Yesterday",
+      "count": 1
+    },
+    "2jPYsHFanS1lrfJngoUx3s": {
+      "name": "HOLLOW",
+      "artist": "Execution Day",
+      "count": 1
+    },
+    "2GC2OsWhRm9ltfxWBKuHhE": {
+      "name": "春日影 (MyGO!!!!! ver.)",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0OXdfW3Q6VJGpg1k5Ik1SW": {
+      "name": "Give Me a Kiss",
+      "artist": "Crash Adams",
+      "count": 1
+    },
+    "50nRYeiTbC3QpKYFdAR6HJ": {
+      "name": "What’s the POPIPA!?",
+      "artist": "Poppin'Party",
+      "count": 1
+    },
+    "7zuSfLULYc31XRPBwv5GMB": {
+      "name": "Ode to Liberty",
+      "artist": "HOYO-MiX",
+      "count": 2
+    },
+    "5mf36hAmjpnCsCDAH3KgTO": {
+      "name": "O Strings, My Strings",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3ajnP3J1EEPpdCjIF9keIE": {
+      "name": "In Your Eyes",
+      "artist": "Tom Wilson, MAJRO",
+      "count": 1
+    },
+    "29vY6gIKRje259YNZ7FyDb": {
+      "name": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "count": 1
+    },
+    "3o0gNgloKgGMjAnK3kHVCN": {
+      "name": "Legendary",
+      "artist": "Roselia",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -944,7 +994,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 10
+      "count": 12
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -952,7 +1002,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 14
+      "count": 25
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -996,7 +1046,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 13
+      "count": 17
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -1016,7 +1066,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 3
+      "count": 4
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1044,7 +1094,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 14
+      "count": 15
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -1056,7 +1106,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 6
+      "count": 9
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1144,7 +1194,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 1
+      "count": 2
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -1164,7 +1214,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 3
+      "count": 6
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -1176,7 +1226,7 @@
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 3
+      "count": 4
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
@@ -1224,15 +1274,15 @@
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
-      "count": 1
+      "count": 2
     },
     "2p4FqHnazRucYQHyDCdBrJ": {
       "name": "Simple Plan",
-      "count": 1
+      "count": 2
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
-      "count": 1
+      "count": 2
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
@@ -1276,7 +1326,7 @@
     },
     "3ncARjIEl4SrcrnpOIV5CO": {
       "name": "スピラ・スピカ",
-      "count": 1
+      "count": 18
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
@@ -1384,6 +1434,26 @@
     },
     "6qUczxgk62pVNKkA04wAcp": {
       "name": "七海燈子(CV:寿 美菜子)",
+      "count": 1
+    },
+    "1PxE1tqEDHBQMGsV1K7Dwu": {
+      "name": "You vs Yesterday",
+      "count": 1
+    },
+    "3f3CYDS0i8Z0Egxp9gwD1Z": {
+      "name": "Execution Day",
+      "count": 1
+    },
+    "6d8NscVVbeMVINZwJDOoN5": {
+      "name": "Crash Adams",
+      "count": 1
+    },
+    "4W9vuLWmzlcGv6stGVWPPC": {
+      "name": "Tom Wilson",
+      "count": 1
+    },
+    "6sUsfQ1mfjViQCKig0NtMp": {
+      "name": "MAJRO",
       "count": 1
     }
   }
