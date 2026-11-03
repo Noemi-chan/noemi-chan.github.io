@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T21:02:10.856Z",
+  "updatedAt": "2026-11-03T03:09:19.553Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793652713779,
+  "lastPolledAt": 1793673203477,
   "topTrack": {
     "name": "Wreath of Brave",
     "artist": "Morfonica",
@@ -10,11 +10,11 @@
     "playCount": 1
   },
   "topArtist": {
-    "name": "Roselia",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6be675ed6fc9435165e120ca",
-    "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy",
+    "name": "Ave Mujica",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
+    "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
     "genres": [],
-    "playCount": 18
+    "playCount": 35
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -40,7 +40,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 20
+      "count": 33
     },
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
@@ -495,17 +495,17 @@
     "6pDxzY3V1Df7RxLZuxMG7F": {
       "name": "ホワイト ノスタルジア",
       "artist": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "2ZatDCxyPwTS1bZCbQ6ZnG": {
       "name": "BURN BURN",
       "artist": "ストレイライト",
-      "count": 2
+      "count": 3
     },
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
       "artist": "BAND-MAIKO",
-      "count": 10
+      "count": 16
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -540,7 +540,7 @@
     "7eeuJS8GJeKJKfSPomUIWb": {
       "name": "A Song Of Romance - from EP \"神の名を\"",
       "artist": "Ave Mujica",
-      "count": 2
+      "count": 10
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -560,7 +560,7 @@
     "43TrzIBj0B1mq4Z6z7zxeN": {
       "name": "secret MAIKO lips",
       "artist": "BAND-MAIKO",
-      "count": 1
+      "count": 2
     },
     "0UpfqToYuoB8rUYDQI6nJA": {
       "name": "吹雪",
@@ -600,7 +600,7 @@
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
@@ -725,12 +725,12 @@
     "0js0DKykeOIT37jcmpwOpd": {
       "name": "Sing Alive",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "3dhWspMJASIE3VoCDpaNtw": {
       "name": "起死開戦",
       "artist": "millsage",
-      "count": 1
+      "count": 2
     },
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
@@ -760,22 +760,22 @@
     "5Lcl4lqTR9p1I91LEqisbd": {
       "name": "ときめきエクスペリエンス！",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "3uXz1lgsibXdWQ05wc2P6f": {
       "name": "競宴Red×Violet",
       "artist": "Roselia, Afterglow",
-      "count": 1
+      "count": 2
     },
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 1
+      "count": 2
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
       "artist": "RAISE A SUILEN",
-      "count": 8
+      "count": 9
     },
     "05GuHr7o6FkD36OiGAl99Y": {
       "name": "Marine Border Parasol",
@@ -790,12 +790,12 @@
     "1Ua9Y9QG4QjEMKTocsOTNK": {
       "name": "MY舞☆TONIGHT",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
       "artist": "Brian Tyler",
-      "count": 1
+      "count": 2
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -1046,6 +1046,61 @@
       "name": "Play No Games",
       "artist": "Henry Young, Ashley Alisha",
       "count": 39
+    },
+    "1rTFsQZyUUdokzz3mibkqm": {
+      "name": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0XKe6ptxwy1yjusyER0ZTi": {
+      "name": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "count": 1
+    },
+    "4VwhDHPgNVr0xoDB0ZyDyG": {
+      "name": "ピコっと！パピっと！！ガルパ☆ピコ！！！",
+      "artist": "戸山香澄(CV:愛美), 美竹 蘭(CV:佐倉綾音), 丸山 彩(CV:前島亜美), 湊 友希那(CV:相羽あいな), 弦巻こころ(CV:伊藤美来)",
+      "count": 1
+    },
+    "4gOHIJEgIO0PI4W32WWzts": {
+      "name": "SAKURA PUNCH",
+      "artist": "Nor",
+      "count": 1
+    },
+    "4ogbBL1IaEdS64aJi7IFLO": {
+      "name": "二羽鶴",
+      "artist": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "1Vixb2G70s0J2Irf6hi8VE": {
+      "name": "Payphone",
+      "artist": "Maroon 5",
+      "count": 1
+    },
+    "6Z8J1wZFilJmJ7vsBuAARY": {
+      "name": "R",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "1KpbrM0wNIeqiG1JgrUL2U": {
+      "name": "Start up Stand up",
+      "artist": "ストレイライト",
+      "count": 1
+    },
+    "1gGbdllxQWqNOTnjKtacj9": {
+      "name": "Embraced by the Flame",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "7Iuh4MrwLBU1fIM3uWExKW": {
+      "name": "Denshi Toujou!",
+      "artist": "KARUT",
+      "count": 1
+    },
+    "4IX6QvjOI62tyHigVsTUlv": {
+      "name": "Have Faith In Me",
+      "artist": "A Day To Remember",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1059,7 +1114,7 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 4
+      "count": 5
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
@@ -1071,23 +1126,23 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 20
+      "count": 33
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 20
+      "count": 33
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 15
+      "count": 17
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 9
+      "count": 10
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 27
+      "count": 35
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -1179,7 +1234,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 18
+      "count": 21
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -1195,7 +1250,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 11
+      "count": 13
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
@@ -1243,7 +1298,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 1
+      "count": 2
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
@@ -1279,7 +1334,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 3
+      "count": 4
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -1287,7 +1342,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 6
+      "count": 7
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
@@ -1299,7 +1354,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 12
+      "count": 19
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -1355,7 +1410,7 @@
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
-      "count": 2
+      "count": 4
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
@@ -1439,7 +1494,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 1
+      "count": 2
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
@@ -1459,7 +1514,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 1
+      "count": 2
     },
     "0yF5feBSqKd4frxmdkft3O": {
       "name": "桜内梨子 (CV.逢田梨香子)",
@@ -1475,7 +1530,7 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
-      "count": 1
+      "count": 2
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -1600,6 +1655,46 @@
     "63P6hjn73jNbnEFT0gKWKk": {
       "name": "Ashley Alisha",
       "count": 39
+    },
+    "4qqHB9SmuXrOopifD0YzMa": {
+      "name": "戸山香澄(CV:愛美)",
+      "count": 1
+    },
+    "1I1n83hJ3xoQcf1YUmxOis": {
+      "name": "美竹 蘭(CV:佐倉綾音)",
+      "count": 1
+    },
+    "4yvuKmdw1adgH4GC6d5tJ9": {
+      "name": "丸山 彩(CV:前島亜美)",
+      "count": 1
+    },
+    "5tb5Ya8txUfxvU3USDffwT": {
+      "name": "湊 友希那(CV:相羽あいな)",
+      "count": 1
+    },
+    "7p71sCKDBWLEJT8qTFHhSk": {
+      "name": "弦巻こころ(CV:伊藤美来)",
+      "count": 1
+    },
+    "3wzLoR43XSiPV1smicPd8p": {
+      "name": "Nor",
+      "count": 1
+    },
+    "5fHnNjwRhNBezGp6781fvz": {
+      "name": "第五航空戦隊 <「翔鶴」「瑞鶴」（CV:野水伊織）>",
+      "count": 1
+    },
+    "04gDigrS5kc9YWfZHwBETP": {
+      "name": "Maroon 5",
+      "count": 1
+    },
+    "5NETkMPykaG8ngC1VcubSX": {
+      "name": "UNDEAD CORPORATION DOUJIN WORKS",
+      "count": 1
+    },
+    "4NiJW4q9ichVqL1aUsgGAN": {
+      "name": "A Day To Remember",
+      "count": 1
     }
   }
 }
