@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T00:37:04.683Z",
+  "updatedAt": "2026-11-05T07:32:18.744Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793838891866,
+  "lastPolledAt": 1793863738036,
   "topTrack": {
     "name": "Wreath of Brave",
     "artist": "Morfonica",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
     "genres": [],
-    "playCount": 50
+    "playCount": 51
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -40,7 +40,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 33
+      "count": 78
     },
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
@@ -540,7 +540,7 @@
     "7eeuJS8GJeKJKfSPomUIWb": {
       "name": "A Song Of Romance - from EP \"神の名を\"",
       "artist": "Ave Mujica",
-      "count": 10
+      "count": 11
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -1576,6 +1576,26 @@
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
       "artist": "Le Castle Vania",
       "count": 1
+    },
+    "6rtgV9S15N9tuCwJR7wJNY": {
+      "name": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "24fIQnkpmhXorJRJXxjbbG": {
+      "name": "Link to the FUTURE (104期Ver.)",
+      "artist": "スリーズブーケ, DOLLCHESTRA, みらくらぱーく!",
+      "count": 1
+    },
+    "2grjqo0Frpf2okIBiifQKs": {
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "count": 1
+    },
+    "5ByAGFPwMLf6ykn5UzIks1": {
+      "name": "More Than Misery",
+      "artist": "Caskets, TELLE",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1601,11 +1621,11 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 33
+      "count": 78
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 33
+      "count": 78
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
@@ -1617,7 +1637,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 50
+      "count": 51
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -1701,7 +1721,7 @@
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 3
+      "count": 4
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
@@ -1721,7 +1741,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 17
+      "count": 18
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -1745,7 +1765,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 6
+      "count": 7
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -1809,7 +1829,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 9
+      "count": 10
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2093,7 +2113,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 1
+      "count": 2
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
@@ -2357,6 +2377,14 @@
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
+      "count": 1
+    },
+    "4QQgXkCYTt3BlENzhyNETg": {
+      "name": "Earth, Wind & Fire",
+      "count": 1
+    },
+    "2ZLkrrjhoAzlDuxGZJSWB2": {
+      "name": "TELLE",
       "count": 1
     }
   }
