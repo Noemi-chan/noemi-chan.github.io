@@ -1,21 +1,19 @@
 {
-  "updatedAt": "2026-11-06T01:54:26.651Z",
+  "updatedAt": "2026-11-06T08:44:33.803Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1793929970781,
+  "lastPolledAt": 1793954634066,
   "topTrack": {
-    "name": "HIBANA―火花―",
-    "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730a1991e6b2d046f2af3da4c0",
-    "url": "https://open.spotify.com/track/0LimjB4B9s5nh81W2HQmS2",
-    "playCount": 78
+    "name": "arc-en-ciel",
+    "artist": "花たん",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273decdfb1089cce60ca35bf51e",
+    "url": "https://open.spotify.com/track/6KpJZPe7Jdr0zejqFUIga0",
+    "playCount": 4
   },
   "topArtist": {
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [
-      "j-rock"
-    ],
+    "genres": [],
     "playCount": 59
   },
   "trackPlayCounts": {
@@ -667,7 +665,7 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 1
+      "count": 42
     },
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
@@ -1678,6 +1676,11 @@
       "name": "Shinzo wo Sasageyo !",
       "artist": "Linked Horizon",
       "count": 1
+    },
+    "2mWkRziSA8Mp9QOMC5OZmh": {
+      "name": "1日は25時間。",
+      "artist": "ツルシマアンナ",
+      "count": 9
     }
   },
   "artistPlayCounts": {
@@ -1955,7 +1958,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 6
+      "count": 47
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -2492,6 +2495,10 @@
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
       "count": 1
+    },
+    "66Tqv3DqPeLRlTDHzzNa63": {
+      "name": "ツルシマアンナ",
+      "count": 9
     }
   }
 }
