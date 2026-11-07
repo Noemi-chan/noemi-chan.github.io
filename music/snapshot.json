@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T07:59:05.643Z",
+  "updatedAt": "2026-11-07T14:43:05.313Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794038238523,
+  "lastPolledAt": 1794062412841,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -13,9 +13,7 @@
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [
-      "j-rock"
-    ],
+    "genres": [],
     "playCount": 66
   },
   "trackPlayCounts": {
@@ -272,82 +270,82 @@
     "0COqiPhxzoWICwFCS4eZcp": {
       "name": "Bring Me To Life",
       "artist": "Evanescence",
-      "count": 2
+      "count": 3
     },
     "404bfT8cVTOCHw2fvGhZNU": {
       "name": "Step by Step",
       "artist": "KARUT",
-      "count": 1
+      "count": 2
     },
     "7tI5GDU50puokqzVy3rlsR": {
       "name": "DROPOUT!?",
       "artist": "Saint Snow",
-      "count": 1
+      "count": 2
     },
     "2JcQF1cSeyFx34F8ItVTRN": {
       "name": "Motion Sickness",
       "artist": "Neck Deep",
-      "count": 1
+      "count": 2
     },
     "035p0m5Tde6oBpUgKiNeFA": {
       "name": "Where the Moon Kisses the Water",
       "artist": "HOYO-MiX",
-      "count": 2
+      "count": 3
     },
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
       "artist": "アンティーカ",
-      "count": 1
+      "count": 2
     },
     "3NRYoA2lCeDF2ltxECA1e8": {
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
-      "count": 1
+      "count": 2
     },
     "1fEqKjJSC5N9knIalwYmJS": {
       "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
       "artist": "RichaadEB",
-      "count": 1
+      "count": 2
     },
     "0XeIF0B93rJBlwcoYcLgnX": {
       "name": "Sprechchor",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "1iKjPM2YygFxUqjUakAI4n": {
       "name": "Can't Kick Up The Roots",
       "artist": "Neck Deep",
-      "count": 2
+      "count": 3
     },
     "2lfs1l1xaVOxrFNqKZrAkk": {
       "name": "Blessing Chord - パラレルver.",
       "artist": "I♡インドア, 市ヶ谷有咲(CV:伊藤彩沙), 白金燐子(CV:志崎樺音), 倉田ましろ(CV:進藤あまね)",
-      "count": 2
+      "count": 3
     },
     "7zxz9xLJvou9iSRYiIq3TX": {
       "name": "影色舞",
       "artist": "MyGO!!!!!",
-      "count": 2
+      "count": 3
     },
     "7K67LPW48UmDarAd7FELCn": {
       "name": "Part of Me",
       "artist": "American Wolves",
-      "count": 2
+      "count": 3
     },
     "4SPKuPwXDa5rWFSgrI9Rxr": {
       "name": "奏（かなで） (Cover)",
       "artist": "Pastel*Palettes",
-      "count": 2
+      "count": 3
     },
     "5dp3vri4d2JjeBsGriLFyW": {
       "name": "IMAWA IINDAYO - Cover",
       "artist": "Kotoha",
-      "count": 1
+      "count": 2
     },
     "3o9kpgkIcffx0iSwxhuNI2": {
       "name": "Numb Little Bug",
@@ -507,7 +505,7 @@
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
       "artist": "BAND-MAIKO",
-      "count": 18
+      "count": 39
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -1703,6 +1701,71 @@
       "name": "Blood & Water",
       "artist": "Memphis May Fire",
       "count": 2
+    },
+    "68pyZjn31y1s2MKgoOu4ug": {
+      "name": "詩超絆",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "7nzbVPqd0HVjdPiK5LZN70": {
+      "name": "Tring Quarry",
+      "artist": "Trash Boat",
+      "count": 1
+    },
+    "2vAwfoFawdgwN8M1xjPyH0": {
+      "name": "銀翼のアレジアンス -blade of truth- - Off Vocal",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "1IV4KjKmVgk3tn1Ffnbtuh": {
+      "name": "The Grand Delusion",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "5AQxiOtc3EsQSQP2wirgg2": {
+      "name": "ナカナ イナ カナイ",
+      "artist": "花園たえ(CV:大塚紗英), レイヤ(CV:Raychell)",
+      "count": 1
+    },
+    "2vCThgwnGOO2PofrVbsyhz": {
+      "name": "Genwaku SILHOUETTE - 2023 Version",
+      "artist": "アンティーカ",
+      "count": 1
+    },
+    "4pqH9UhPa697MDOSIPiBvJ": {
+      "name": "Shiny Racers",
+      "artist": "小原鞠莉 (CV.鈴木愛奈)",
+      "count": 1
+    },
+    "1C7XFuIyp7zoURPRd0kbmW": {
+      "name": "Heads or Tails？",
+      "artist": "コメティック",
+      "count": 1
+    },
+    "0SMtNovWLTRkt9UXMY3SCO": {
+      "name": "大胆",
+      "artist": "WANDS",
+      "count": 1
+    },
+    "656Ipbib8V7vJShg31rDIv": {
+      "name": "きゅ〜まい＊flower",
+      "artist": "Pastel*Palettes",
+      "count": 1
+    },
+    "6TyNKENZ3rrnZklMzj1z6z": {
+      "name": "3:03 PM",
+      "artist": "しゃろう",
+      "count": 1
+    },
+    "0wBfQ27OiE3IEGGKnmyARG": {
+      "name": "Rain with Cappuccino",
+      "artist": "Rachie",
+      "count": 1
+    },
+    "3aZQTrc9svekofLsXrv9WZ": {
+      "name": "Shinku no Pasión",
+      "artist": "chicAAmor, Sayoko Takayama (CV: Yuri Komagata), Fuka Toyokawa (CV: Rie Suegara), Julia (CV: Aimi), Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1736,7 +1799,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 44
+      "count": 45
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -1788,7 +1851,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 53
+      "count": 54
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -1808,7 +1871,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 13
+      "count": 14
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1824,7 +1887,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 25
+      "count": 28
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
@@ -1836,7 +1899,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 50
+      "count": 51
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -1896,59 +1959,59 @@
     },
     "5nGIFgo0shDenQYSE0Sn7c": {
       "name": "Evanescence",
-      "count": 2
+      "count": 3
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 6
+      "count": 7
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
-      "count": 1
+      "count": 2
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 15
+      "count": 18
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
-      "count": 1
+      "count": 2
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 2
+      "count": 3
     },
     "0HydIryDI0cb2xdizA8MRu": {
       "name": "I♡インドア",
-      "count": 2
+      "count": 3
     },
     "0wm8M1C1O0Str979kE7MUR": {
       "name": "市ヶ谷有咲(CV:伊藤彩沙)",
-      "count": 2
+      "count": 3
     },
     "4Ra3Di0TwwE4lFA21m1Hbj": {
       "name": "白金燐子(CV:志崎樺音)",
-      "count": 4
+      "count": 5
     },
     "5uMq5LpiCbQAuyx2t3oUFW": {
       "name": "倉田ましろ(CV:進藤あまね)",
-      "count": 2
+      "count": 3
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 15
+      "count": 17
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
-      "count": 2
+      "count": 3
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 24
+      "count": 26
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
-      "count": 1
+      "count": 2
     },
     "7o2ZQYM7nTsaVdkXY38UAA": {
       "name": "Em Beihold",
@@ -1956,7 +2019,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 85
+      "count": 106
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2144,7 +2207,7 @@
     },
     "1CLvL2z5LbARBiaOY5fVeH": {
       "name": "Julia (CV: Aimi)",
-      "count": 4
+      "count": 5
     },
     "5EWAtvRDy8I6sSYlMjD6g0": {
       "name": "The Gospel Youth",
@@ -2168,7 +2231,7 @@
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
-      "count": 4
+      "count": 5
     },
     "1DJHntdu7NoSc8rd4b7GcT": {
       "name": "小糸 侑(CV:高田憂希)",
@@ -2521,6 +2584,46 @@
     "66Tqv3DqPeLRlTDHzzNa63": {
       "name": "ツルシマアンナ",
       "count": 9
+    },
+    "0XGJ3GUPwslwFJ66yNbHeh": {
+      "name": "Trash Boat",
+      "count": 1
+    },
+    "3m7Y1adYVPRrEcAFffxV7Q": {
+      "name": "花園たえ(CV:大塚紗英)",
+      "count": 1
+    },
+    "2s43jUxV6eSRlc9IF6bUD1": {
+      "name": "レイヤ(CV:Raychell)",
+      "count": 1
+    },
+    "5AeHYcYFgZ8VHULQk0vHM2": {
+      "name": "小原鞠莉 (CV.鈴木愛奈)",
+      "count": 1
+    },
+    "4iaPh4BzUKBQuunyMKVxU7": {
+      "name": "WANDS",
+      "count": 1
+    },
+    "78Oq5iXIM9HCAe0zYg8E7o": {
+      "name": "しゃろう",
+      "count": 1
+    },
+    "0KaXjMCgk5f4maUi6vtZAw": {
+      "name": "chicAAmor",
+      "count": 1
+    },
+    "3tsSGK2yeVzdb9tqR2faOb": {
+      "name": "Sayoko Takayama (CV: Yuri Komagata)",
+      "count": 1
+    },
+    "7IFPSph621cFElVwhbhdlA": {
+      "name": "Fuka Toyokawa (CV: Rie Suegara)",
+      "count": 1
+    },
+    "1QpIAQVxfJz3DMqFfs5B4G": {
+      "name": "Chizuru Nikaido (CV: Kanako Nomura)",
+      "count": 1
     }
   }
 }
