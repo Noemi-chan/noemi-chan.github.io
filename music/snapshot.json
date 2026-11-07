@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T19:11:04.466Z",
+  "updatedAt": "2026-11-07T23:14:20.161Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794071104828,
+  "lastPolledAt": 1794093101855,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
     "genres": [],
-    "playCount": 67
+    "playCount": 70
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -540,7 +540,7 @@
     "7eeuJS8GJeKJKfSPomUIWb": {
       "name": "A Song Of Romance - from EP \"神の名を\"",
       "artist": "Ave Mujica",
-      "count": 11
+      "count": 12
     },
     "4m9bU1ifWPGprAtAab3VZn": {
       "name": "KiLLKiSS",
@@ -605,7 +605,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "1fEpLSVj6JZLH6vEuhePb0": {
       "name": "Ghost in a Flower",
@@ -1135,22 +1135,22 @@
     "68OymWhEAobP8ljyEoOo1M": {
       "name": "Sage der Rosen",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "02xwA3Ej9NPetftp9V7VZ3": {
       "name": "好きだから。",
       "artist": "『ユイカ』",
-      "count": 1
+      "count": 2
     },
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
       "artist": "Mitsukiyo",
-      "count": 1
+      "count": 2
     },
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
       "artist": "RAISE A SUILEN",
-      "count": 1
+      "count": 2
     },
     "47BBI51FKFwOMlIiX6m8ya": {
       "name": "I Want It That Way",
@@ -1245,7 +1245,7 @@
     "4Mudg5HCSIhNyjN8Rg08gM": {
       "name": "ふたつの月 ~Deep Into The Forest~",
       "artist": "Ave Mujica",
-      "count": 1
+      "count": 2
     },
     "4TZ2Ub8bZh4LTs06eANDXa": {
       "name": "Lights - Sped Up Version",
@@ -1500,7 +1500,7 @@
     "2sdXeSyXeOIFzx1A6A0d4U": {
       "name": "Hopes And Dreams",
       "artist": "Toby Fox",
-      "count": 20
+      "count": 21
     },
     "4z2BS8V3SbOJ0tRGpo1RvA": {
       "name": "Collision Alarm",
@@ -1595,7 +1595,7 @@
     "5ByAGFPwMLf6ykn5UzIks1": {
       "name": "More Than Misery",
       "artist": "Caskets, TELLE",
-      "count": 1
+      "count": 2
     },
     "3Xfg7AegXaDLoD5GOUMf2e": {
       "name": "My Demons",
@@ -1946,6 +1946,116 @@
       "name": "Stellar Stream",
       "artist": "上原歩夢 (CV.大西亜玖璃)",
       "count": 1
+    },
+    "1coE0U4cDTQVNVBlp6ljfG": {
+      "name": "Reweave (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "4Ssi6tKwrTHi5qvDndrZRP": {
+      "name": "Wish You Were Here",
+      "artist": "Neck Deep",
+      "count": 1
+    },
+    "19ssxlaQiFfHWYylOcRuKN": {
+      "name": "Dead Reckoning Opening Titles",
+      "artist": "Lorne Balfe",
+      "count": 1
+    },
+    "3rWUlpvT1IRxDmtbOnhw9D": {
+      "name": "心の羽よ君へ飛んでけ！",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "3znfvELPxknjHKgk5zOLtN": {
+      "name": "Like a Shooting Star",
+      "artist": "アドマイヤベガ (CV. 咲々木瞳)",
+      "count": 1
+    },
+    "4hDXe9C6UbApzZhw5AXbC7": {
+      "name": "again&again",
+      "artist": "Against The Current, guardin",
+      "count": 1
+    },
+    "4AyjEuG3ODerWxU0xUo0eY": {
+      "name": "六兆年と一夜物語 (Cover)",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "772kg4oxkCZRur0u49cA6I": {
+      "name": "Move",
+      "artist": "Audio Adrenaline",
+      "count": 1
+    },
+    "4I5Bsfl4gdoRcK3AF47hVf": {
+      "name": "黒のバースデイ",
+      "artist": "Ave Mujica",
+      "count": 1
+    },
+    "1w25qP6ViEMw24RdawuWZC": {
+      "name": "カラフル",
+      "artist": "ClariS",
+      "count": 1
+    },
+    "74oAk5kk9HxpnxYNViPUQw": {
+      "name": "Eternal Light",
+      "artist": "DiverDiva",
+      "count": 1
+    },
+    "2axQ8U35wFj2m8fgMRYN4M": {
+      "name": "I Loved You",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3bYUFS0H27cU8A7DJW0AOY": {
+      "name": "When We Were Young",
+      "artist": "We The Kings, Derek Sanders",
+      "count": 1
+    },
+    "12Qwn2bEStx6ASvdBKVji0": {
+      "name": "名無声",
+      "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "4HLcj0MD2tg91flaBCIJHJ": {
+      "name": "Tastes Like You",
+      "artist": "Ellie Goulding",
+      "count": 1
+    },
+    "1W8EwVZ7FnVkn6XkFl4YPl": {
+      "name": "Whispers to the Midnight Frost",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "2Y4PQVDUuIB2LQ2w7OhraJ": {
+      "name": "Triumph on the Ice",
+      "artist": "HOYO-MiX",
+      "count": 1
+    },
+    "3zjSOc0XcoOpRoh2fyfB35": {
+      "name": "Edel Lilie",
+      "artist": "一柳隊",
+      "count": 1
+    },
+    "0iIcuwia47B5bzjVpyUwyI": {
+      "name": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran, F1 The Album",
+      "count": 1
+    },
+    "49fItmms7twKQiboPZlqIX": {
+      "name": "BLACK SHOUT",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "0asJiqD3Xwvjxhjzxe2XmZ": {
+      "name": "FIRE BIRD",
+      "artist": "Roselia",
+      "count": 1
+    },
+    "0QXsOCM6d0uQ6WqWH23KKo": {
+      "name": "Re:birth day (instrumental)",
+      "artist": "Roselia",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -1983,11 +2093,11 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 17
+      "count": 18
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 67
+      "count": 70
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -2031,7 +2141,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 55
+      "count": 58
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2067,7 +2177,7 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 31
+      "count": 32
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
@@ -2079,7 +2189,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 53
+      "count": 59
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2095,7 +2205,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 23
+      "count": 24
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
@@ -2107,7 +2217,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 3
+      "count": 4
     },
     "1qqdO7xMptucPDMopsOdkr": {
       "name": "State Champs",
@@ -2179,7 +2289,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 18
+      "count": 19
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2235,7 +2345,7 @@
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 8
+      "count": 9
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
@@ -2295,7 +2405,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 1
+      "count": 2
     },
     "18Zr9CaElvS40S0AtizMWZ": {
       "name": "hololive IDOL PROJECT",
@@ -2307,7 +2417,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 5
+      "count": 6
     },
     "3ncARjIEl4SrcrnpOIV5CO": {
       "name": "スピラ・スピカ",
@@ -2443,7 +2553,7 @@
     },
     "3ao3jf5d70Tf4fPh2bnXVl": {
       "name": "We The Kings",
-      "count": 1
+      "count": 2
     },
     "36bLfgFkAodzzHCeG45Jtm": {
       "name": "Jaron Takach",
@@ -2463,7 +2573,7 @@
     },
     "2XIbOWDT5vZPW7jNyzdfcK": {
       "name": "Caskets",
-      "count": 3
+      "count": 4
     },
     "0YC192cP3KPCRWx8zr8MfZ": {
       "name": "Hans Zimmer",
@@ -2555,7 +2665,7 @@
     },
     "2EqaSEa0WkE59Aca9iXSYj": {
       "name": "『ユイカ』",
-      "count": 1
+      "count": 2
     },
     "5rSXSAkZ67PYJSvpUpkOr7": {
       "name": "Backstreet Boys",
@@ -2563,7 +2673,7 @@
     },
     "6dU7gPN2BhEPfO5QHLt7es": {
       "name": "Lorne Balfe",
-      "count": 10
+      "count": 11
     },
     "2IeMt1qx6ZVt1HFjdfE5tl": {
       "name": "Jonathan Young",
@@ -2591,7 +2701,7 @@
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
-      "count": 1
+      "count": 2
     },
     "1YzaVDzA3EdEipDSUeNQER": {
       "name": "Speed Radio",
@@ -2611,7 +2721,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 2
+      "count": 3
     },
     "3SNFK5uJ7eOBLqjtFTcPB9": {
       "name": "安達(CV:鬼頭明里)",
@@ -2715,7 +2825,7 @@
     },
     "57DlMWmbVIf2ssJ8QBpBau": {
       "name": "Toby Fox",
-      "count": 20
+      "count": 21
     },
     "1cqB0cMBR5OooKEEhRbWpl": {
       "name": "Joe Kraemer",
@@ -2735,7 +2845,7 @@
     },
     "2ZLkrrjhoAzlDuxGZJSWB2": {
       "name": "TELLE",
-      "count": 1
+      "count": 2
     },
     "0kD8IT1CzF7js2XKM9lLLa": {
       "name": "STARSET",
@@ -2747,7 +2857,7 @@
     },
     "4QRFu2rHyWeKiENyVKLeHs": {
       "name": "一柳隊",
-      "count": 1
+      "count": 2
     },
     "1GQptL2kOEsfMXerW4OjMT": {
       "name": "nano.RIPE",
@@ -2863,6 +2973,30 @@
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
+      "count": 1
+    },
+    "77jJBS7kai3P7IpnhczBTU": {
+      "name": "アドマイヤベガ (CV. 咲々木瞳)",
+      "count": 1
+    },
+    "6zqcGQ6MH6yetBUoquMnL7": {
+      "name": "guardin",
+      "count": 1
+    },
+    "01PBXLThJADrhufsPS5tER": {
+      "name": "Audio Adrenaline",
+      "count": 1
+    },
+    "5vfh5OHbhWef7NigPS6CCE": {
+      "name": "Derek Sanders",
+      "count": 1
+    },
+    "6eUKZXaKkcviH0Ku9w2n3V": {
+      "name": "Ed Sheeran",
+      "count": 1
+    },
+    "3aly4xJOy3LVznzvRIvFYC": {
+      "name": "F1 The Album",
       "count": 1
     }
   }
