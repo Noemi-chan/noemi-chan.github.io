@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T21:52:03.439Z",
+  "updatedAt": "2026-11-07T01:26:22.849Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794001858279,
+  "lastPolledAt": 1794014750869,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -14,7 +14,7 @@
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
     "genres": [],
-    "playCount": 65
+    "playCount": 66
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -370,122 +370,122 @@
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "4pxvr1Qb2MbwdlNtcgNHV2": {
       "name": "The Tale of Anastasya's Campaign",
       "artist": "HOYO-MiX",
-      "count": 2
+      "count": 3
     },
     "041siMojdJFkeX5YCZL6Fi": {
       "name": "Ode to Liberty (Bayan Version)",
       "artist": "HOYO-MiX",
-      "count": 1
+      "count": 2
     },
     "5TpXNMoNyHiQADfECSfSBD": {
       "name": "Just a Sunny Day for You",
       "artist": "Rachie",
-      "count": 2
+      "count": 3
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 1
+      "count": 2
     },
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 1
+      "count": 2
     },
     "3Vt7DMsMUczbusomzFqtif": {
       "name": "As Dawn and Dusk Merge",
       "artist": "HOYO-MiX",
-      "count": 1
+      "count": 2
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
-      "count": 1
+      "count": 2
     },
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
       "artist": "Beartooth",
-      "count": 3
+      "count": 4
     },
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
       "artist": "Bring Me The Horizon",
-      "count": 2
+      "count": 3
     },
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 2
+      "count": 3
     },
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 2
+      "count": 3
     },
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
       "artist": "アンティーカ",
-      "count": 2
+      "count": 3
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 2
+      "count": 3
     },
     "0ZsgN4zeAqdHaYTDJdcXJZ": {
       "name": "Heavy Is the Dew",
       "artist": "HOYO-MiX",
-      "count": 1
+      "count": 2
     },
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
       "artist": "Aqours",
-      "count": 2
+      "count": 3
     },
     "6P1bG5AN1C1s7oTIF5nSm3": {
       "name": "最強☆ソング",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "2nMVkKOSXWlx39bDb6O3Ac": {
       "name": "もういちど ルミナス",
       "artist": "ClariS, 丸山彩 from Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "26STVZHzUpepcrRHF1aiQJ": {
       "name": "THRONE OF ROSE",
       "artist": "Roselia",
-      "count": 3
+      "count": 4
     },
     "4jOQ5QOwyu9dwWwbHYmQAm": {
       "name": "Only Human - feat. AJ Channer",
       "artist": "Memphis May Fire, AJ Channer",
-      "count": 3
+      "count": 4
     },
     "4eR1tqIsDouIiI1cbTuCMy": {
       "name": "八芒星ダンス",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 4
     },
     "18ZgnKxWQ8z1KiA2A3xky6": {
       "name": "Numb Little Bug",
       "artist": "Our Last Night",
-      "count": 3
+      "count": 4
     },
     "21gK6xT6nruG8ddSROoHP7": {
       "name": "Dream of the Black Snow Swan",
       "artist": "HOYO-MiX",
-      "count": 2
+      "count": 3
     },
     "4G0mT3Q31bnOMvzNS8yVRY": {
       "name": "Wet Hands (A Cappella) [From \"Minecraft\"]",
@@ -495,12 +495,12 @@
     "6pDxzY3V1Df7RxLZuxMG7F": {
       "name": "ホワイト ノスタルジア",
       "artist": "Pastel*Palettes",
-      "count": 4
+      "count": 5
     },
     "2ZatDCxyPwTS1bZCbQ6ZnG": {
       "name": "BURN BURN",
       "artist": "ストレイライト",
-      "count": 4
+      "count": 5
     },
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
@@ -795,7 +795,7 @@
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
       "artist": "Brian Tyler",
-      "count": 4
+      "count": 5
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -915,7 +915,7 @@
     "2VfY6NbLJEzie37TkTEt6Q": {
       "name": "Summer (Let's Make This Forever)",
       "artist": "You vs Yesterday",
-      "count": 2
+      "count": 3
     },
     "2jPYsHFanS1lrfJngoUx3s": {
       "name": "HOLLOW",
@@ -1125,7 +1125,7 @@
     "2JoqtXeVgy7gZP0fgCoUth": {
       "name": "Awful Ever After",
       "artist": "Hot Milk",
-      "count": 1
+      "count": 2
     },
     "6XWdcMK2pfSjDkFbRtiwIk": {
       "name": "イントロダクション",
@@ -1734,15 +1734,15 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 39
+      "count": 42
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 14
+      "count": 15
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 65
+      "count": 66
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -1786,7 +1786,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 45
+      "count": 50
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -1806,7 +1806,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 11
+      "count": 12
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1834,7 +1834,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 45
+      "count": 48
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -1842,7 +1842,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 10
+      "count": 11
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
@@ -1906,7 +1906,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 13
+      "count": 14
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -1942,7 +1942,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 23
+      "count": 24
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
@@ -1962,47 +1962,47 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 1
+      "count": 2
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 9
+      "count": 10
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
-      "count": 3
+      "count": 4
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
-      "count": 2
+      "count": 3
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 47
+      "count": 48
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 2
+      "count": 3
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 2
+      "count": 3
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
-      "count": 7
+      "count": 8
     },
     "0N8XbKOOPtJqiSZcjKPfCI": {
       "name": "丸山彩 from Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "0mTRdMo44irGKR85VtzGKd": {
       "name": "AJ Channer",
-      "count": 3
+      "count": 4
     },
     "00YTqRClk82aMchQQpYMd5": {
       "name": "Our Last Night",
-      "count": 3
+      "count": 4
     },
     "1eyGtJBOiRGtvXAEhQHpBS": {
       "name": "Smooth McGroove",
@@ -2010,7 +2010,7 @@
     },
     "493MBQPclwtXx4zWgCalzd": {
       "name": "ストレイライト",
-      "count": 6
+      "count": 7
     },
     "5qOJ5nikwvfCIs5gf22n6G": {
       "name": "Master Andross",
@@ -2130,7 +2130,7 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
-      "count": 4
+      "count": 5
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2178,7 +2178,7 @@
     },
     "1PxE1tqEDHBQMGsV1K7Dwu": {
       "name": "You vs Yesterday",
-      "count": 2
+      "count": 3
     },
     "3f3CYDS0i8Z0Egxp9gwD1Z": {
       "name": "Execution Day",
@@ -2306,7 +2306,7 @@
     },
     "1koutXdSFq2PHqtxSWj9tK": {
       "name": "Hot Milk",
-      "count": 2
+      "count": 3
     },
     "2EqaSEa0WkE59Aca9iXSYj": {
       "name": "『ユイカ』",
