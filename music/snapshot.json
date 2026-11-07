@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T01:26:22.849Z",
+  "updatedAt": "2026-11-07T07:59:05.643Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794014750869,
+  "lastPolledAt": 1794038238523,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -13,7 +13,9 @@
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [],
+    "genres": [
+      "j-rock"
+    ],
     "playCount": 66
   },
   "trackPlayCounts": {
@@ -355,7 +357,7 @@
     "45J1wiCeGG61mfxtANxOrW": {
       "name": "TORA and TORA",
       "artist": "BAND-MAIKO",
-      "count": 28
+      "count": 63
     },
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
@@ -370,77 +372,77 @@
     "6UNnBoYJOhny1DytXoUYf9": {
       "name": "Our Carol",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "4pxvr1Qb2MbwdlNtcgNHV2": {
       "name": "The Tale of Anastasya's Campaign",
       "artist": "HOYO-MiX",
-      "count": 3
+      "count": 4
     },
     "041siMojdJFkeX5YCZL6Fi": {
       "name": "Ode to Liberty (Bayan Version)",
       "artist": "HOYO-MiX",
-      "count": 2
+      "count": 3
     },
     "5TpXNMoNyHiQADfECSfSBD": {
       "name": "Just a Sunny Day for You",
       "artist": "Rachie",
-      "count": 3
+      "count": 4
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 2
+      "count": 3
     },
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
       "artist": "Poppin'Party",
-      "count": 2
+      "count": 3
     },
     "3Vt7DMsMUczbusomzFqtif": {
       "name": "As Dawn and Dusk Merge",
       "artist": "HOYO-MiX",
-      "count": 2
+      "count": 3
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
       "artist": "JubyPhonic",
-      "count": 2
+      "count": 3
     },
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
       "artist": "Beartooth",
-      "count": 4
+      "count": 5
     },
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
       "artist": "Bring Me The Horizon",
-      "count": 3
+      "count": 4
     },
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 3
+      "count": 4
     },
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
       "artist": "Poppin'Party, Konomi Suzuki",
-      "count": 3
+      "count": 4
     },
     "0qMpU4VmLf6aMNc7CUErzV": {
       "name": "FIRE BIRD",
       "artist": "Roselia",
-      "count": 3
+      "count": 4
     },
     "4HyMI0Vd5hv1LLrkWDhszY": {
       "name": "Unsung Heroes",
       "artist": "アンティーカ",
-      "count": 3
+      "count": 4
     },
     "5ciHaCIDGeVkf9cHg3PEuR": {
       "name": "羅針盤の彼方",
       "artist": "長門(CV:佐倉綾音)",
-      "count": 3
+      "count": 4
     },
     "0ZsgN4zeAqdHaYTDJdcXJZ": {
       "name": "Heavy Is the Dew",
@@ -1734,7 +1736,7 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 42
+      "count": 44
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
@@ -1786,7 +1788,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 50
+      "count": 53
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -1806,7 +1808,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 12
+      "count": 13
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -1834,7 +1836,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 48
+      "count": 50
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -1906,7 +1908,7 @@
     },
     "6NpkNdWFWIvQpS1GLvdQrY": {
       "name": "アンティーカ",
-      "count": 14
+      "count": 15
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
@@ -1954,7 +1956,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 50
+      "count": 85
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -1962,31 +1964,31 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 2
+      "count": 3
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
-      "count": 10
+      "count": 11
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
-      "count": 4
+      "count": 5
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
-      "count": 3
+      "count": 4
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 48
+      "count": 49
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
-      "count": 3
+      "count": 4
     },
     "77zL8fZvBM4UDw4IRtkkQs": {
       "name": "長門(CV:佐倉綾音)",
-      "count": 3
+      "count": 4
     },
     "5htVtReJ3NAwcAdxdHpim3": {
       "name": "ClariS",
