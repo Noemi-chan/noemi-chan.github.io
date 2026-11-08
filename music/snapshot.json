@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T10:52:49.039Z",
+  "updatedAt": "2026-11-08T16:50:38.362Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794135157945,
+  "lastPolledAt": 1794156614658,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -355,7 +355,7 @@
     "45J1wiCeGG61mfxtANxOrW": {
       "name": "TORA and TORA",
       "artist": "BAND-MAIKO",
-      "count": 63
+      "count": 85
     },
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
@@ -505,7 +505,7 @@
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
       "artist": "BAND-MAIKO",
-      "count": 39
+      "count": 46
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -980,7 +980,7 @@
     "4rBE1sqbE32wnMma6rqlHh": {
       "name": "Snezhnaya",
       "artist": "HOYO-MiX",
-      "count": 4
+      "count": 7
     },
     "2FbdvkGnTFEXxoXjV8iSVj": {
       "name": "Thrash Trash",
@@ -1530,7 +1530,7 @@
     "547nJ0TDuWXAl7qG1XlP3x": {
       "name": "The A400",
       "artist": "Joe Kraemer",
-      "count": 27
+      "count": 41
     },
     "4H0h0dLqZl6mR4Lt4vdIXx": {
       "name": "Sonorous",
@@ -1965,22 +1965,22 @@
     "3rWUlpvT1IRxDmtbOnhw9D": {
       "name": "心の羽よ君へ飛んでけ！",
       "artist": "Aqours",
-      "count": 1
+      "count": 2
     },
     "3znfvELPxknjHKgk5zOLtN": {
       "name": "Like a Shooting Star",
       "artist": "アドマイヤベガ (CV. 咲々木瞳)",
-      "count": 1
+      "count": 2
     },
     "4hDXe9C6UbApzZhw5AXbC7": {
       "name": "again&again",
       "artist": "Against The Current, guardin",
-      "count": 1
+      "count": 2
     },
     "4AyjEuG3ODerWxU0xUo0eY": {
       "name": "六兆年と一夜物語 (Cover)",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "772kg4oxkCZRur0u49cA6I": {
       "name": "Move",
@@ -2113,7 +2113,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 20
+      "count": 21
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -2161,7 +2161,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 63
+      "count": 66
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2209,7 +2209,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 67
+      "count": 68
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2329,7 +2329,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 106
+      "count": 135
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2437,7 +2437,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 7
+      "count": 8
     },
     "3ncARjIEl4SrcrnpOIV5CO": {
       "name": "スピラ・スピカ",
@@ -2849,7 +2849,7 @@
     },
     "1cqB0cMBR5OooKEEhRbWpl": {
       "name": "Joe Kraemer",
-      "count": 27
+      "count": 41
     },
     "2cqPrv4nO5puTb0WBGaso3": {
       "name": "幽谷霧子 (CV.結名美月)",
@@ -2997,11 +2997,11 @@
     },
     "77jJBS7kai3P7IpnhczBTU": {
       "name": "アドマイヤベガ (CV. 咲々木瞳)",
-      "count": 1
+      "count": 2
     },
     "6zqcGQ6MH6yetBUoquMnL7": {
       "name": "guardin",
-      "count": 1
+      "count": 2
     },
     "01PBXLThJADrhufsPS5tER": {
       "name": "Audio Adrenaline",
