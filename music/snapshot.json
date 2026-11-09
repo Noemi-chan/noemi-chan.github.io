@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T00:17:31.341Z",
+  "updatedAt": "2026-11-09T07:25:46.729Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794183290113,
+  "lastPolledAt": 1794209128478,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -13,7 +13,9 @@
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [],
+    "genres": [
+      "j-rock"
+    ],
     "playCount": 79
   },
   "trackPlayCounts": {
@@ -355,7 +357,7 @@
     "45J1wiCeGG61mfxtANxOrW": {
       "name": "TORA and TORA",
       "artist": "BAND-MAIKO",
-      "count": 85
+      "count": 92
     },
     "6hjoFJtQBfrtbvih5PBOrX": {
       "name": "Daydream Warrior",
@@ -2080,7 +2082,7 @@
     "5G35RrUNW28GBCHfVBe9CZ": {
       "name": "Final Reckoning - Sacrifice Teaser - Bonus Track",
       "artist": "Max Aruj, Alfie Godfrey",
-      "count": 1
+      "count": 44
     },
     "6trvO6Cyl8G7HmAz9p9XgR": {
       "name": "Fallout",
@@ -2339,7 +2341,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 136
+      "count": 143
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -3039,11 +3041,11 @@
     },
     "7HXs8gSW7QhamzsxMqwU3j": {
       "name": "Max Aruj",
-      "count": 1
+      "count": 44
     },
     "2EWj1EZDbZyvQK6X6owDsP": {
       "name": "Alfie Godfrey",
-      "count": 1
+      "count": 44
     }
   }
 }
