@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-09T07:25:46.729Z",
+  "updatedAt": "2026-11-09T17:57:43.413Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794209128478,
+  "lastPolledAt": 1794246774589,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273decdfb1089cce60ca35bf51e",
     "url": "https://open.spotify.com/track/6KpJZPe7Jdr0zejqFUIga0",
-    "playCount": 4
+    "playCount": 14
   },
   "topArtist": {
     "name": "Ave Mujica",
@@ -16,7 +16,7 @@
     "genres": [
       "j-rock"
     ],
-    "playCount": 79
+    "playCount": 106
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -162,7 +162,7 @@
     "6MtEzxuKMIDEXcKoUGJjy1": {
       "name": "顔",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 30
     },
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
@@ -772,7 +772,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 4
+      "count": 14
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
@@ -1167,7 +1167,7 @@
     "4eeEFwUuXJafqgJSSL9dza": {
       "name": "The Exchange",
       "artist": "Lorne Balfe",
-      "count": 2
+      "count": 15
     },
     "3l44Dmif5PXKtkeiHj2Lst": {
       "name": "LOUDER",
@@ -2129,7 +2129,7 @@
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 79
+      "count": 106
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
@@ -2501,7 +2501,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 4
+      "count": 14
     },
     "0yF5feBSqKd4frxmdkft3O": {
       "name": "桜内梨子 (CV.逢田梨香子)",
@@ -2705,7 +2705,7 @@
     },
     "6dU7gPN2BhEPfO5QHLt7es": {
       "name": "Lorne Balfe",
-      "count": 13
+      "count": 26
     },
     "2IeMt1qx6ZVt1HFjdfE5tl": {
       "name": "Jonathan Young",
