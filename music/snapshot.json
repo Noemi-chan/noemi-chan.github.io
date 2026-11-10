@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:43:29.495Z",
+  "updatedAt": "2026-11-10T22:01:54.745Z",
   "monthKey": "2026-11",
   "lastPolledAt": 1794326454365,
   "topTrack": {
@@ -13,9 +13,7 @@
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [
-      "j-rock"
-    ],
+    "genres": [],
     "playCount": 107
   },
   "trackPlayCounts": {
