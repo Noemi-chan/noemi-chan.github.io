@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T17:57:43.413Z",
+  "updatedAt": "2026-11-10T01:08:46.500Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794246774589,
+  "lastPolledAt": 1794272747166,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -13,9 +13,7 @@
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
-    "genres": [
-      "j-rock"
-    ],
+    "genres": [],
     "playCount": 106
   },
   "trackPlayCounts": {
@@ -42,7 +40,7 @@
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
       "artist": "いきづらい部！, 駒形花火(CV.藤野こころ)",
-      "count": 80
+      "count": 100
     },
     "4vqYo5KzaCDgEarkNnaex5": {
       "name": "八月のif",
@@ -117,7 +115,7 @@
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
       "artist": "Rachie",
-      "count": 2
+      "count": 4
     },
     "3ZgsSyr3nNYyN1ghjshjTf": {
       "name": "Rising - Main Titles Extended",
@@ -147,7 +145,7 @@
     "4oVdhvxZrKQTM9ZsUIZa3S": {
       "name": "December",
       "artist": "Neck Deep",
-      "count": 3
+      "count": 4
     },
     "1DSlH3bKoMyah4hythflEG": {
       "name": "Memories of Kindness",
@@ -532,7 +530,7 @@
     "3ITmLRVfTAQkdBgCUyrBeA": {
       "name": "Open Up My Heart",
       "artist": "The Winking Owl",
-      "count": 6
+      "count": 7
     },
     "7JGQsYndk0VOmmaH8PSMJz": {
       "name": "水彩世界 (104期Ver.)",
@@ -612,7 +610,7 @@
     "1fEpLSVj6JZLH6vEuhePb0": {
       "name": "Ghost in a Flower",
       "artist": "Rachie",
-      "count": 4
+      "count": 5
     },
     "3rRkDjqEy2n8Qi930AjiSF": {
       "name": "至上主義アドトラック",
@@ -742,7 +740,7 @@
     "3ajGxMZOPTiH1T0olC2nlp": {
       "name": "See You in Hell",
       "artist": "Epic Score",
-      "count": 3
+      "count": 4
     },
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
@@ -847,7 +845,7 @@
     "16exrY95yucY3Mkf7qIzhp": {
       "name": "A Cup of Liber-tea (Helldivers 2 Main Theme)",
       "artist": "Wilbert Roget, II",
-      "count": 4
+      "count": 5
     },
     "0kgXakO9GnycldN5sGScwZ": {
       "name": "A Song Of Romance Pt.2",
@@ -857,7 +855,7 @@
     "2C7DrdqoU4U7Wc0vZRVi21": {
       "name": "ぼなぺてぃーと▽S",
       "artist": "ブレンド・A",
-      "count": 4
+      "count": 5
     },
     "07dsyRP72k5SoudhrrP1nt": {
       "name": "I'll Make It Right",
@@ -1297,7 +1295,7 @@
     "4BVMwLJWxLkhoOcpKXND22": {
       "name": "Wielding Light to Sever Shadows",
       "artist": "HOYO-MiX",
-      "count": 3
+      "count": 4
     },
     "1xwYqbWwl2DBDmXnWErYsZ": {
       "name": "THE HISTORIC...",
@@ -1492,7 +1490,7 @@
     "2Pc3uQU2zILsSvr2orD82o": {
       "name": "Kaiten Screw!!!",
       "artist": "KARUT",
-      "count": 4
+      "count": 5
     },
     "7jwDuO7UZvWs77KNj9HbvF": {
       "name": "The Phoenix",
@@ -1552,7 +1550,7 @@
     "49UM7E3WP63YVtdp9CuIUY": {
       "name": "The Boon of Immortality",
       "artist": "HOYO-MiX",
-      "count": 1
+      "count": 2
     },
     "4pUSuZujEeDFHLnmpVncuR": {
       "name": "Suicide Mission",
@@ -1587,7 +1585,7 @@
     "24fIQnkpmhXorJRJXxjbbG": {
       "name": "Link to the FUTURE (104期Ver.)",
       "artist": "スリーズブーケ, DOLLCHESTRA, みらくらぱーく!",
-      "count": 2
+      "count": 3
     },
     "2grjqo0Frpf2okIBiifQKs": {
       "name": "September",
@@ -1652,7 +1650,7 @@
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
       "artist": "Steve Ouimette",
-      "count": 3
+      "count": 21
     },
     "4GHW4tzEf6OBIoyewdBnZX": {
       "name": "Happy Judgement Day",
@@ -2113,11 +2111,11 @@
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
-      "count": 80
+      "count": 100
     },
     "6hUH7KF2GYhDXmOGQluTyu": {
       "name": "駒形花火(CV.藤野こころ)",
-      "count": 80
+      "count": 100
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
@@ -2173,7 +2171,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 74
+      "count": 76
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2193,7 +2191,7 @@
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 18
+      "count": 21
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -2209,11 +2207,11 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 40
+      "count": 41
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 6
+      "count": 7
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
@@ -2233,7 +2231,7 @@
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
-      "count": 27
+      "count": 28
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
@@ -2257,7 +2255,7 @@
     },
     "6M4HRvHCFBOWlPW3Tn2Oqh": {
       "name": "DOLLCHESTRA",
-      "count": 13
+      "count": 14
     },
     "3wCJxpjgYDXbwLn4vmSBEx": {
       "name": "電音部",
@@ -2285,7 +2283,7 @@
     },
     "2RVXnU56kIClg1UbAW9ehz": {
       "name": "KARUT",
-      "count": 11
+      "count": 12
     },
     "5bAFl5UIKoCUr4A6090lR7": {
       "name": "Saint Snow",
@@ -2409,7 +2407,7 @@
     },
     "08aT4nW2iKh4WRoYojWmDE": {
       "name": "The Winking Owl",
-      "count": 6
+      "count": 7
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
@@ -2489,7 +2487,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 9
+      "count": 10
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2537,11 +2535,11 @@
     },
     "4b6Khs68thyzQrWRISZFrT": {
       "name": "Wilbert Roget, II",
-      "count": 4
+      "count": 5
     },
     "1djn2nFD39MVfBAYV3S7M2": {
       "name": "ブレンド・A",
-      "count": 4
+      "count": 5
     },
     "4UXqAaa6dQYAk18Lv7PEgX": {
       "name": "Fall Out Boy",
@@ -2897,7 +2895,7 @@
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
-      "count": 3
+      "count": 21
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
