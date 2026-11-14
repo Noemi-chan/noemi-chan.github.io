@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-14T14:37:40.963Z",
+  "updatedAt": "2026-11-14T19:34:56.322Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794667036332,
+  "lastPolledAt": 1794684786476,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273decdfb1089cce60ca35bf51e",
     "url": "https://open.spotify.com/track/6KpJZPe7Jdr0zejqFUIga0",
-    "playCount": 14
+    "playCount": 15
   },
   "topArtist": {
     "name": "Ave Mujica",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8d209e4b82aa02ec5e794693",
     "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7",
     "genres": [],
-    "playCount": 127
+    "playCount": 128
   },
   "trackPlayCounts": {
     "0dOtnx984mYxII70LqsDOo": {
@@ -35,7 +35,7 @@
     "0g1Pa3zCIkmUwRqSo9yqH2": {
       "name": "If I Can Stop One Heart From Breaking (instrumental ver.)",
       "artist": "Chewie Melodies, Pealeaf",
-      "count": 7
+      "count": 8
     },
     "0LimjB4B9s5nh81W2HQmS2": {
       "name": "HIBANA―火花―",
@@ -100,7 +100,7 @@
     "4slbyzCHSXx0cI5MlyuQX9": {
       "name": "Umbrella",
       "artist": "Nayori",
-      "count": 2
+      "count": 3
     },
     "5JJcEhn73YFF1O3KqFdgrb": {
       "name": "キズナミュージック♪",
@@ -110,7 +110,7 @@
     "48cHUSrX0pmHpgDvFg3xF7": {
       "name": "御簾を上げろ！",
       "artist": "Junpei Fujita",
-      "count": 3
+      "count": 4
     },
     "5rehAVBJYYWngBV4iDW6T9": {
       "name": "Deep Indigo - Album Ver.",
@@ -140,7 +140,7 @@
     "0KbxDQoJBg40hvg34xPuxW": {
       "name": "マハラジャンボリー (104期Ver.)",
       "artist": "みらくらぱーく!",
-      "count": 2
+      "count": 3
     },
     "4oVdhvxZrKQTM9ZsUIZa3S": {
       "name": "December",
@@ -165,7 +165,7 @@
     "42pipQKfifH5SSithqt313": {
       "name": "Synchrogazer (Cover)",
       "artist": "Roselia",
-      "count": 3
+      "count": 4
     },
     "4vQxoBgjkODJbFyzOdYLfw": {
       "name": "Iron Lotus",
@@ -175,7 +175,7 @@
     "2TRSxe4ZVLKwShY604rUh3": {
       "name": "Somebody",
       "artist": "Memphis May Fire",
-      "count": 1
+      "count": 2
     },
     "7ahptM6ggRFr7sHYoALoJP": {
       "name": "Mix shake!!",
@@ -190,12 +190,12 @@
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
       "artist": "RAISE A SUILEN",
-      "count": 2
+      "count": 3
     },
     "3q8eRaKAhPBJuw4nwKo6wn": {
       "name": "ツバサ・ラ・リベルテ (104期Ver.)",
       "artist": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 4
+      "count": 5
     },
     "7KIPsvQQtxa8bzdxfA2eKB": {
       "name": "“UNIONS” Road",
@@ -295,7 +295,7 @@
     "0WaOQy3YvVsMa3UuDGW9d7": {
       "name": "キラキラだとか夢だとか ～Sing Girls～",
       "artist": "Poppin'Party",
-      "count": 4
+      "count": 5
     },
     "3I35fTfZj04H43F6L8RRhi": {
       "name": "Fudosei Innocence",
@@ -385,7 +385,7 @@
     "5TpXNMoNyHiQADfECSfSBD": {
       "name": "Just a Sunny Day for You",
       "artist": "Rachie",
-      "count": 4
+      "count": 5
     },
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
@@ -400,7 +400,7 @@
     "3Vt7DMsMUczbusomzFqtif": {
       "name": "As Dawn and Dusk Merge",
       "artist": "HOYO-MiX",
-      "count": 3
+      "count": 4
     },
     "4xNLwVQQqiJeuNx65CSAJd": {
       "name": "Compared Child - English Cover",
@@ -410,7 +410,7 @@
     "4Xgono4pmRbojXlCIYh8or": {
       "name": "Riptide",
       "artist": "Beartooth",
-      "count": 5
+      "count": 6
     },
     "6o39Ln9118FKTMbM4BvcEy": {
       "name": "Drown",
@@ -420,7 +420,7 @@
     "4yyQrtJtzHPZXzhhJRY0Oa": {
       "name": "QUEEN (Cover)",
       "artist": "Morfonica",
-      "count": 4
+      "count": 5
     },
     "6GOPwZEXdCnBH5wte4Zy91": {
       "name": "DAYS of DASH (Cover)",
@@ -445,7 +445,7 @@
     "0ZsgN4zeAqdHaYTDJdcXJZ": {
       "name": "Heavy Is the Dew",
       "artist": "HOYO-MiX",
-      "count": 5
+      "count": 6
     },
     "708FNo9i6UHes8IR9BOFo5": {
       "name": "SILENT PAIN",
@@ -580,7 +580,7 @@
     "5YMgxFylfZqeIZFzsax0Pq": {
       "name": "Light Glimmers as Shadows Shift",
       "artist": "HOYO-MiX",
-      "count": 7
+      "count": 8
     },
     "2vguXENOIkRxmML0n168Vd": {
       "name": "Know Your Heart",
@@ -600,7 +600,7 @@
     "734cyaTXP3BEcmcEkBo2aS": {
       "name": "夢を撃ち抜く瞬間に！",
       "artist": "Poppin'Party",
-      "count": 6
+      "count": 7
     },
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
@@ -610,7 +610,7 @@
     "1fEpLSVj6JZLH6vEuhePb0": {
       "name": "Ghost in a Flower",
       "artist": "Rachie",
-      "count": 5
+      "count": 6
     },
     "3rRkDjqEy2n8Qi930AjiSF": {
       "name": "至上主義アドトラック",
@@ -645,7 +645,7 @@
     "25Eq9bzwKMX3yZTV4qpp8U": {
       "name": "Smooth Seas Don't Make Good Sailors",
       "artist": "Neck Deep",
-      "count": 5
+      "count": 6
     },
     "2afnAxLonvpNTTrITbHyD5": {
       "name": "－HEROIC ADVENT－",
@@ -665,12 +665,12 @@
     "4ASq7X4whuOi22olYMRnAw": {
       "name": "Wreath of Brave",
       "artist": "Morfonica",
-      "count": 43
+      "count": 44
     },
     "1vdYPvIKC9ekIGbUWmTP2z": {
       "name": "Guruguru Live",
       "artist": "由崎司(CV:鬼頭明里)",
-      "count": 4
+      "count": 5
     },
     "1E6nwGciS5IV8Ag5x9PZ4q": {
       "name": "夏に閉じこめて",
@@ -730,7 +730,7 @@
     "3dhWspMJASIE3VoCDpaNtw": {
       "name": "起死開戦",
       "artist": "millsage",
-      "count": 4
+      "count": 5
     },
     "4M3Tg9Pt350jg8Sv6OEvaD": {
       "name": "Dye the sky. - 2023 Version",
@@ -740,7 +740,7 @@
     "3ajGxMZOPTiH1T0olC2nlp": {
       "name": "See You in Hell",
       "artist": "Epic Score",
-      "count": 5
+      "count": 6
     },
     "1v6FImr8Ebpd5j2ZanEphC": {
       "name": "dual existence<TVsize>",
@@ -770,7 +770,7 @@
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
       "artist": "花たん",
-      "count": 14
+      "count": 15
     },
     "2JcDzgcWVqOtGGl9bE66r4": {
       "name": "OUTSIDER RODEO",
@@ -865,7 +865,7 @@
     "1Ztka7fCyxUv46FW1mZH9T": {
       "name": "December (again) [feat. Mark Hoppus]",
       "artist": "Neck Deep",
-      "count": 5
+      "count": 6
     },
     "2LpBokrAiZaTTAoStHMKKP": {
       "name": "Yusaishoku Eureka",
@@ -960,7 +960,7 @@
     "3o0gNgloKgGMjAnK3kHVCN": {
       "name": "Legendary",
       "artist": "Roselia",
-      "count": 6
+      "count": 7
     },
     "5FYlc7iKGQTlXjIKdBSgWB": {
       "name": "Any Other Way",
@@ -975,7 +975,7 @@
     "2lTTUaOv8OQAucFoFJrouC": {
       "name": "Power of LOVE!!!",
       "artist": "Pastel*Palettes",
-      "count": 1
+      "count": 2
     },
     "4rBE1sqbE32wnMma6rqlHh": {
       "name": "Snezhnaya",
@@ -1030,7 +1030,7 @@
     "6gfUOprNMeD8amncMOSFl0": {
       "name": "Misery",
       "artist": "Memphis May Fire",
-      "count": 3
+      "count": 4
     },
     "1cwpxTBmnJrN7Qj1UAvB4x": {
       "name": "Rain then Rainbow",
@@ -1145,7 +1145,7 @@
     "3jizBdzPFS3ElexhMnuviI": {
       "name": "Morose Dreamer",
       "artist": "Mitsukiyo",
-      "count": 4
+      "count": 5
     },
     "5x3ExaxnOVA4SwjLBYm6wX": {
       "name": "V.I.P MONSTER",
@@ -1185,7 +1185,7 @@
     "0xyCnsaZlFaeDA8IJUnzEb": {
       "name": "Waltz of the Tornado",
       "artist": "Gaijin Entertainment, Jimmie Asche, Nikita Mokrov",
-      "count": 2
+      "count": 3
     },
     "6D0IAyrFw0vhSlC4LWVvXQ": {
       "name": "Toaru Eiyutachi no Monogatari",
@@ -1230,7 +1230,7 @@
     "6YDtl7oTbmqwhAeMpf9oOq": {
       "name": "Analogy",
       "artist": "彩音",
-      "count": 3
+      "count": 4
     },
     "58WUQ6HgftHygkRMcEGN6c": {
       "name": "Abracadabra - Cover",
@@ -1320,12 +1320,12 @@
     "4tTfKPjzxibtueDLiYr5Yb": {
       "name": "TITLE IDOL",
       "artist": "Pastel*Palettes",
-      "count": 3
+      "count": 4
     },
     "7CKog95ty3gEj60M488SOn": {
       "name": "ROZEN HORIZON",
       "artist": "Roselia",
-      "count": 2
+      "count": 3
     },
     "66JWJ7mOd9b44FPM515HrX": {
       "name": "THE SECRET NiGHT",
@@ -1450,7 +1450,7 @@
     "4lPNuizRfDvXB8ltrNPd1v": {
       "name": "Choir ‘S’ Choir",
       "artist": "Ave Mujica",
-      "count": 3
+      "count": 4
     },
     "2abb1LnnH2S10dknazDbW4": {
       "name": "軌跡",
@@ -1465,7 +1465,7 @@
     "56qTvG1Ej0wwpKhoWrVdMY": {
       "name": "Yokan Koiuta",
       "artist": "Mamiya(CV:Yui Horie)",
-      "count": 8
+      "count": 9
     },
     "2EXMoOCIHbhnLzDg5gZZ4U": {
       "name": "DIVINE",
@@ -1575,7 +1575,7 @@
     "0w1tZ33hR01YBsTPL41oZN": {
       "name": "Operation Black Light: The Otherside Series, Vol. 4",
       "artist": "Le Castle Vania",
-      "count": 2
+      "count": 3
     },
     "6rtgV9S15N9tuCwJR7wJNY": {
       "name": "潜在表明",
@@ -1610,7 +1610,7 @@
     "2qFUf9vh3e9CtCrkPMwMZz": {
       "name": "レゴリス",
       "artist": "ローレライ（歌：水上スイ）",
-      "count": 2
+      "count": 3
     },
     "4J3RBZPZ0XQjmO5fqJzYBU": {
       "name": "Moods Like English Weather",
@@ -1650,7 +1650,7 @@
     "3T0eF1bddzJ8GD7mZJfhlj": {
       "name": "Best Laid Plans",
       "artist": "Steve Ouimette",
-      "count": 22
+      "count": 23
     },
     "4GHW4tzEf6OBIoyewdBnZX": {
       "name": "Happy Judgement Day",
@@ -1660,7 +1660,7 @@
     "6GQHTuC5aRpAy179r91FC8": {
       "name": "Dream Believers (SAKURA Ver.)",
       "artist": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 3
+      "count": 4
     },
     "75SixhsPWyRRmtqHeffiXr": {
       "name": "Alone Together",
@@ -1700,12 +1700,12 @@
     "1jj0Ha1vWMf32ka1adO0Q2": {
       "name": "Blood & Water",
       "artist": "Memphis May Fire",
-      "count": 2
+      "count": 3
     },
     "68pyZjn31y1s2MKgoOu4ug": {
       "name": "詩超絆",
       "artist": "MyGO!!!!!",
-      "count": 3
+      "count": 4
     },
     "7nzbVPqd0HVjdPiK5LZN70": {
       "name": "Tring Quarry",
@@ -1780,7 +1780,7 @@
     "2EPQXOr3VLvDImQnoHOYO3": {
       "name": "One More Last Time",
       "artist": "Henry Young, Ashley Alisha",
-      "count": 4
+      "count": 5
     },
     "14WYmNQWvR2TTWoRp8t9Ml": {
       "name": "RATATATA",
@@ -1805,7 +1805,7 @@
     "3AZt0Kw4LzCOANkpNDZScz": {
       "name": "陽だまりロードナイト",
       "artist": "Roselia",
-      "count": 1
+      "count": 2
     },
     "096DowSPWbfLWBKPx2mciP": {
       "name": "千本桜 (Cover)",
@@ -1925,7 +1925,7 @@
     "2yH6eL6f1Ada5MnmNpiPbr": {
       "name": "blindfolded",
       "artist": "Against The Current",
-      "count": 6
+      "count": 8
     },
     "1FSc3Bkvys5sXuB6XHps6U": {
       "name": "DAYS of DASH",
@@ -1935,7 +1935,7 @@
     "4aI91AYZfMFs4cb8him5lI": {
       "name": "Hop? Stop? Nonstop!",
       "artist": "Aqours",
-      "count": 2
+      "count": 3
     },
     "0cvKr5hsDQV5DxKgmxWtZm": {
       "name": "STAR BEAT!～ホシノコドウ～",
@@ -2080,7 +2080,7 @@
     "5G35RrUNW28GBCHfVBe9CZ": {
       "name": "Final Reckoning - Sacrifice Teaser - Bonus Track",
       "artist": "Max Aruj, Alfie Godfrey",
-      "count": 64
+      "count": 66
     },
     "6trvO6Cyl8G7HmAz9p9XgR": {
       "name": "Fallout",
@@ -2151,6 +2151,21 @@
       "name": "Of Slumber Bereft",
       "artist": "HOYO-MiX",
       "count": 1
+    },
+    "1OZpcKuBLUoxnVcMdPmZ4e": {
+      "name": "Next SPARKLING!!",
+      "artist": "Aqours",
+      "count": 1
+    },
+    "5uFJdtfMv3gzC0V1iNF8pJ": {
+      "name": "DIVE！",
+      "artist": "優木せつ菜 (CV.楠木ともり)",
+      "count": 1
+    },
+    "3FTc8QsYzs2PRo8fTQ5JyM": {
+      "name": "Night of Nights",
+      "artist": "RichaadEB",
+      "count": 1
     }
   },
   "artistPlayCounts": {
@@ -2168,11 +2183,11 @@
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 12
+      "count": 13
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 12
+      "count": 13
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
@@ -2184,19 +2199,19 @@
     },
     "2XzrQN7hxZibYdVEbl0nO6": {
       "name": "Poppin'Party",
-      "count": 91
+      "count": 93
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 28
+      "count": 30
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
-      "count": 127
+      "count": 128
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
-      "count": 8
+      "count": 9
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
@@ -2236,7 +2251,7 @@
     },
     "2YvlK6lKiKVjXxsjvNbnqg": {
       "name": "HOYO-MiX",
-      "count": 111
+      "count": 114
     },
     "6sFIWsNpZYqfjUpaCgueju": {
       "name": "Carly Rae Jepsen",
@@ -2248,15 +2263,15 @@
     },
     "3dUyIL0d0OzFNJhn7RxgK1": {
       "name": "Nayori",
-      "count": 11
+      "count": 12
     },
     "2ew3H8jZrLxHHqbs0b14F8": {
       "name": "Junpei Fujita",
-      "count": 12
+      "count": 13
     },
     "2SW5wli9uAsYHQnezGESFB": {
       "name": "Rachie",
-      "count": 28
+      "count": 30
     },
     "5ZwO7Q0ua9s0PdFoZ34Kn7": {
       "name": "Formula E",
@@ -2272,11 +2287,11 @@
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 60
+      "count": 62
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
-      "count": 9
+      "count": 10
     },
     "6x0uAbxmfF2engOvb8Oplu": {
       "name": "Kano",
@@ -2284,7 +2299,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 107
+      "count": 111
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2292,7 +2307,7 @@
     },
     "7cNNNhdJDrt3vgQjwSavNf": {
       "name": "Memphis May Fire",
-      "count": 14
+      "count": 17
     },
     "6L7wKf6aQv6A3OpiuMITqM": {
       "name": "スリーズブーケ",
@@ -2300,11 +2315,11 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 36
+      "count": 37
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
-      "count": 8
+      "count": 10
     },
     "2yRnjWtHzmDELwYaUiX0Yh": {
       "name": "Atarayo",
@@ -2312,7 +2327,7 @@
     },
     "0cdpFI2dZC34peIkjI1rLs": {
       "name": "Mitsukiyo",
-      "count": 6
+      "count": 7
     },
     "1qqdO7xMptucPDMopsOdkr": {
       "name": "State Champs",
@@ -2364,7 +2379,7 @@
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
-      "count": 5
+      "count": 6
     },
     "0HydIryDI0cb2xdizA8MRu": {
       "name": "I♡インドア",
@@ -2384,7 +2399,7 @@
     },
     "5o5tkWvWYdyyAKhNr8vlMq": {
       "name": "MyGO!!!!!",
-      "count": 36
+      "count": 37
     },
     "6ELd8V4uVbjWXw5asYoISQ": {
       "name": "American Wolves",
@@ -2392,7 +2407,7 @@
     },
     "4n97ifZWNPLSPKC6KzfGxg": {
       "name": "Pastel*Palettes",
-      "count": 45
+      "count": 47
     },
     "76pJHTMyTukyWJNR6yRrZS": {
       "name": "Kotoha",
@@ -2420,7 +2435,7 @@
     },
     "6vwjIs0tbIiseJMR3pqwiL": {
       "name": "Beartooth",
-      "count": 5
+      "count": 6
     },
     "1Ffb6ejR6Fe5IamqA5oRUF": {
       "name": "Bring Me The Horizon",
@@ -2428,7 +2443,7 @@
     },
     "12BquJvJVg8XFRB3M90MmJ": {
       "name": "Morfonica",
-      "count": 51
+      "count": 53
     },
     "3O0kLS5sLZ41XZRxjBKmLF": {
       "name": "Konomi Suzuki",
@@ -2476,7 +2491,7 @@
     },
     "2ScjBZKTBFqJ5Rj9lgo0e8": {
       "name": "ローレライ（歌：水上スイ）",
-      "count": 8
+      "count": 9
     },
     "5aiaXK8lcIBT52N1WmN9BK": {
       "name": "西沢幸奏",
@@ -2512,7 +2527,7 @@
     },
     "6yhD1KjhLxIETFF7vIRf8B": {
       "name": "Against The Current",
-      "count": 18
+      "count": 20
     },
     "3ncARjIEl4SrcrnpOIV5CO": {
       "name": "スピラ・スピカ",
@@ -2520,7 +2535,7 @@
     },
     "3DZPDkF2LcgJBefu3J1k6k": {
       "name": "由崎司(CV:鬼頭明里)",
-      "count": 4
+      "count": 5
     },
     "49yTs5PHrOjyslAqSF2iCG": {
       "name": "Keygen Church",
@@ -2544,7 +2559,7 @@
     },
     "7cBKwPovugxX15beVkPZGA": {
       "name": "millsage",
-      "count": 7
+      "count": 8
     },
     "7ApxPPvOHclelY9xkLZwBR": {
       "name": "シャイニーカラーズ",
@@ -2552,7 +2567,7 @@
     },
     "4Kyb02r7dR3H1PH7pYkb8X": {
       "name": "Epic Score",
-      "count": 13
+      "count": 14
     },
     "65UVZimR43krwnW1JaScHi": {
       "name": "Andora",
@@ -2564,7 +2579,7 @@
     },
     "7gCg1p9hTSlp86FNnq5VJN": {
       "name": "花たん",
-      "count": 14
+      "count": 15
     },
     "0yF5feBSqKd4frxmdkft3O": {
       "name": "桜内梨子 (CV.逢田梨香子)",
@@ -2612,7 +2627,7 @@
     },
     "18ept9gCH3chL1S16u5CSQ": {
       "name": "彩音",
-      "count": 9
+      "count": 10
     },
     "48UrAAuut2mSFi2k9KmV1c": {
       "name": "コメティック",
@@ -2700,11 +2715,11 @@
     },
     "7BFfb40nQrs3xKRMGK1GrC": {
       "name": "Henry Young",
-      "count": 60
+      "count": 61
     },
     "63P6hjn73jNbnEFT0gKWKk": {
       "name": "Ashley Alisha",
-      "count": 60
+      "count": 61
     },
     "4qqHB9SmuXrOopifD0YzMa": {
       "name": "戸山香澄(CV:愛美)",
@@ -2780,15 +2795,15 @@
     },
     "0e0gYNGBRufy5XlLh5LJ1Q": {
       "name": "Gaijin Entertainment",
-      "count": 2
+      "count": 3
     },
     "0Kn3iPQHkFB4sLMSu5rltP": {
       "name": "Jimmie Asche",
-      "count": 2
+      "count": 3
     },
     "2K9GlcaZ7KZNuWqAJuzSd3": {
       "name": "Nikita Mokrov",
-      "count": 2
+      "count": 3
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
@@ -2892,7 +2907,7 @@
     },
     "3gkk1UGN5kNXyV6Nbpv279": {
       "name": "Mamiya(CV:Yui Horie)",
-      "count": 8
+      "count": 9
     },
     "3WIltg9gs4B949YIw2D0Yl": {
       "name": "Miki Hoshii (CV: Akiko Hasegawa)",
@@ -2932,7 +2947,7 @@
     },
     "2KrXlzpSX4wWvJ2555FWLv": {
       "name": "Le Castle Vania",
-      "count": 2
+      "count": 3
     },
     "4QQgXkCYTt3BlENzhyNETg": {
       "name": "Earth, Wind & Fire",
@@ -2960,7 +2975,7 @@
     },
     "0dl1CSyAIvbLjyXwE4LcCz": {
       "name": "Steve Ouimette",
-      "count": 22
+      "count": 23
     },
     "3eNYrVLcWfjJ9JdH9kiPJO": {
       "name": "Linked Horizon",
@@ -3104,11 +3119,11 @@
     },
     "7HXs8gSW7QhamzsxMqwU3j": {
       "name": "Max Aruj",
-      "count": 64
+      "count": 66
     },
     "2EWj1EZDbZyvQK6X6owDsP": {
       "name": "Alfie Godfrey",
-      "count": 64
+      "count": 66
     },
     "6RQ5VjHW97K397QfPd0aXt": {
       "name": "島村卯月 (CV: 大橋彩香)",
