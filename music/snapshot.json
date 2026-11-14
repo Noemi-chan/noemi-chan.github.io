@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T00:02:00.272Z",
+  "updatedAt": "2026-11-14T07:10:42.300Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1794599663290,
+  "lastPolledAt": 1794639978117,
   "topTrack": {
     "name": "arc-en-ciel",
     "artist": "花たん",
@@ -305,7 +305,7 @@
     "3NRYoA2lCeDF2ltxECA1e8": {
       "name": "Everlasting",
       "artist": "郭神琳(CV:星守紗凪)",
-      "count": 26
+      "count": 36
     },
     "1fEqKjJSC5N9knIalwYmJS": {
       "name": "A Cup of Liber-Tea (Helldivers 2 Theme)",
@@ -505,7 +505,7 @@
     "6QeWRDA4hBnMy3zZA0mQUj": {
       "name": "GIONCHO",
       "artist": "BAND-MAIKO",
-      "count": 50
+      "count": 52
     },
     "6tNk1tjuv4s7yiN4xjELdS": {
       "name": "Symbol I : △",
@@ -550,7 +550,7 @@
     "48fqIDIQDD1ARyTrlSb8wW": {
       "name": "If I Can Stop One Heart From Breaking",
       "artist": "Chewie Melodies, Pealeaf",
-      "count": 4
+      "count": 5
     },
     "69Fm2YuD3usLPD0RvK71Oo": {
       "name": "メリトクラシー",
@@ -765,7 +765,7 @@
     "3uXz1lgsibXdWQ05wc2P6f": {
       "name": "競宴Red×Violet",
       "artist": "Roselia, Afterglow",
-      "count": 4
+      "count": 5
     },
     "6KpJZPe7Jdr0zejqFUIga0": {
       "name": "arc-en-ciel",
@@ -795,7 +795,7 @@
     "5r7egnfTIQjaKSGREhIky9": {
       "name": "Formula 1 Theme",
       "artist": "Brian Tyler",
-      "count": 6
+      "count": 7
     },
     "408vxBzcZxn9FwCQIOGZTb": {
       "name": "HELL! or HELL?",
@@ -885,7 +885,7 @@
     "6SKZeTl2Qrw9SrpQ5FVyVv": {
       "name": "R·I·O·T",
       "artist": "RAISE A SUILEN",
-      "count": 7
+      "count": 8
     },
     "3DXAJeYw1DeTUAbAE9JojM": {
       "name": "眩耀夜行",
@@ -1075,7 +1075,7 @@
     "1Vixb2G70s0J2Irf6hi8VE": {
       "name": "Payphone",
       "artist": "Maroon 5",
-      "count": 3
+      "count": 4
     },
     "6Z8J1wZFilJmJ7vsBuAARY": {
       "name": "R",
@@ -1880,7 +1880,7 @@
     "3xATvhSPkMADsyeQm1kjfX": {
       "name": "僕らの走ってきた道は…",
       "artist": "Aqours",
-      "count": 3
+      "count": 4
     },
     "2fHByeuosUhSryrMXjQJhY": {
       "name": "運命のFilament",
@@ -2115,7 +2115,7 @@
     "4LjIQmt1t6NjpM0tpttzjo": {
       "name": "勇者",
       "artist": "YOASOBI",
-      "count": 1
+      "count": 2
     },
     "43xmjkkfa74RSAulh88rez": {
       "name": "Azalea",
@@ -2164,15 +2164,15 @@
     },
     "4Gahj9N72kVKOBZbKMu0OI": {
       "name": "Afterglow",
-      "count": 10
+      "count": 11
     },
     "2dbjQX4XbIMrb5kayolqSZ": {
       "name": "Chewie Melodies",
-      "count": 11
+      "count": 12
     },
     "0KA6hGOfI1cXBiRikEXwoa": {
       "name": "Pealeaf",
-      "count": 11
+      "count": 12
     },
     "1zJfgB2BeMgTB3pXkgrg3P": {
       "name": "いきづらい部！",
@@ -2188,7 +2188,7 @@
     },
     "6zxQda06WxXX8GmCeYstwV": {
       "name": "Aqours",
-      "count": 27
+      "count": 28
     },
     "5BKIH2Kwc6LbetG04Boai7": {
       "name": "Ave Mujica",
@@ -2284,7 +2284,7 @@
     },
     "1bljHdc9g7V7ZLkYuf4yfy": {
       "name": "Roselia",
-      "count": 103
+      "count": 104
     },
     "0K05TDnN7xPwIHDOwD2YYs": {
       "name": "Mili",
@@ -2300,7 +2300,7 @@
     },
     "6zPsF3A9PvZ4s0NG6z76up": {
       "name": "RAISE A SUILEN",
-      "count": 35
+      "count": 36
     },
     "1bY7QMGccPmba1f1frZ8Xb": {
       "name": "蓮ノ空女学院スクールアイドルクラブ",
@@ -2360,7 +2360,7 @@
     },
     "7jLw5HDBwa5H8khQmZMr4S": {
       "name": "郭神琳(CV:星守紗凪)",
-      "count": 26
+      "count": 36
     },
     "4IF11U0nzFhAaLDGZH3vSx": {
       "name": "RichaadEB",
@@ -2404,7 +2404,7 @@
     },
     "2OIN4qI2EqAsEhrVlnfi02": {
       "name": "BAND-MAIKO",
-      "count": 149
+      "count": 151
     },
     "4XYFjTd83FIwArFrWEYhd5": {
       "name": "Until I Wake",
@@ -2580,7 +2580,7 @@
     },
     "109FvbnDVNag1UcJDVpFlr": {
       "name": "Brian Tyler",
-      "count": 6
+      "count": 7
     },
     "0ofhRkasSdhp6LUs7tFcF7": {
       "name": "WSTR",
@@ -2736,7 +2736,7 @@
     },
     "04gDigrS5kc9YWfZHwBETP": {
       "name": "Maroon 5",
-      "count": 3
+      "count": 4
     },
     "5NETkMPykaG8ngC1VcubSX": {
       "name": "UNDEAD CORPORATION DOUJIN WORKS",
@@ -3132,7 +3132,7 @@
     },
     "64tJ2EAv1R6UaZqc4iOCyj": {
       "name": "YOASOBI",
-      "count": 1
+      "count": 2
     },
     "3U8W8KZ51Z96pSqPjkWNYz": {
       "name": "日高零奈 (CV: 蔀 祐佳)",
