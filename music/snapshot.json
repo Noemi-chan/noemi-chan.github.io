@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-19T10:54:21.756Z",
+  "updatedAt": "2026-11-19T19:15:15.040Z",
   "monthKey": "2026-11",
-  "lastPolledAt": 1795085632436,
+  "lastPolledAt": 1795115669800,
   "topTrack": {
     "name": "Final Reckoning - Sacrifice Teaser - Bonus Track",
     "artist": "Max Aruj, Alfie Godfrey",
@@ -185,7 +185,7 @@
     "3JF4yGrfMBrD1aPlFBMAi8": {
       "name": "決意の光",
       "artist": "三船栞子 (CV.小泉萌香)",
-      "count": 3
+      "count": 4
     },
     "0WpDulmFSKKXr0Qfk5PDZD": {
       "name": "Sacred world",
@@ -390,7 +390,7 @@
     "6BgQWUJd3BXytOhZZv7OW7": {
       "name": "Colorful Dreams! Colorful Smiles!",
       "artist": "Nijigasaki High School Idol Club",
-      "count": 7
+      "count": 9
     },
     "65djZ26YS7KA3NvGjlZGHQ": {
       "name": "走り始めたばかりのキミに",
@@ -605,7 +605,7 @@
     "40naHpGJBr1C148Tgvg88J": {
       "name": "Catch the Summer (夏拏)",
       "artist": "Shirayuki Hina",
-      "count": 7
+      "count": 8
     },
     "1fEpLSVj6JZLH6vEuhePb0": {
       "name": "Ghost in a Flower",
@@ -750,7 +750,7 @@
     "5wsqsHO57y8iWki0KErnIu": {
       "name": "Threat Level Midnight",
       "artist": "Neck Deep",
-      "count": 4
+      "count": 5
     },
     "4BBwxAA4Ww0CRstH2epx41": {
       "name": "Euphoria",
@@ -1215,7 +1215,7 @@
     "1e6dkNtmWM80Od29g9pJgk": {
       "name": "いつだってfor you!",
       "artist": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 5
+      "count": 6
     },
     "7cSGyahLFeXWyhTmJCoYmh": {
       "name": "Hitchcock",
@@ -2000,7 +2000,7 @@
     "74oAk5kk9HxpnxYNViPUQw": {
       "name": "Eternal Light",
       "artist": "DiverDiva",
-      "count": 7
+      "count": 9
     },
     "2axQ8U35wFj2m8fgMRYN4M": {
       "name": "I Loved You",
@@ -2160,7 +2160,7 @@
     "5uFJdtfMv3gzC0V1iNF8pJ": {
       "name": "DIVE！",
       "artist": "優木せつ菜 (CV.楠木ともり)",
-      "count": 3
+      "count": 5
     },
     "3FTc8QsYzs2PRo8fTQ5JyM": {
       "name": "Night of Nights",
@@ -2195,6 +2195,126 @@
     "4lypt03XVYnSat94IWFVPd": {
       "name": "焚音打",
       "artist": "MyGO!!!!!",
+      "count": 1
+    },
+    "0FDGtEhMtkstVVnXSlcpaI": {
+      "name": "Shadow Effect",
+      "artist": "DiverDiva",
+      "count": 2
+    },
+    "7sppMR5Ag87PFaGFdzgq1m": {
+      "name": "Lemonade",
+      "artist": "ミア・テイラー (CV.内田 秀)",
+      "count": 2
+    },
+    "5jQCdGr8t1kQs7V1Zcpiiu": {
+      "name": "Go Our Way！",
+      "artist": "Nijigasaki High School Idol Club",
+      "count": 2
+    },
+    "0gqA3xe0lQJUI7qBxNrWre": {
+      "name": "Butterfly",
+      "artist": "近江彼方 (CV.鬼頭明里)",
+      "count": 2
+    },
+    "4oJXZkrYgrwruRh51IuN4p": {
+      "name": "PHOENIX",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "count": 2
+    },
+    "1ZEc7pPYI7TtcVYMeaU4cn": {
+      "name": "EMOTION",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 2
+    },
+    "6bhGm5TsggCqNPMR6qEicx": {
+      "name": "MONSTER GIRLS",
+      "artist": "R3BIRTH",
+      "count": 2
+    },
+    "7n75MVUfPk9WeL2dgzukDc": {
+      "name": "TOKIMEKI Runners (12人 Ver.)",
+      "artist": "Nijigasaki High School Idol Club",
+      "count": 2
+    },
+    "4nd2DYq7dNskPrFReoVZLT": {
+      "name": "ENJOY IT！",
+      "artist": "QU4RTZ",
+      "count": 2
+    },
+    "78a4aiFsQ0N649oXfekqIL": {
+      "name": "Queendom",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "count": 2
+    },
+    "07GOmymyQUhf6Wiq5cthFf": {
+      "name": "Solitude Rain",
+      "artist": "桜坂しずく (CV.前田佳織里)",
+      "count": 2
+    },
+    "4Yv36z13Ye9W3dKxzZuIfS": {
+      "name": "MELODY",
+      "artist": "優木せつ菜 (CV.楠木ともり)",
+      "count": 2
+    },
+    "4Q2eyfUkm6MRGNRuXPONqy": {
+      "name": "ツナガルコネクト",
+      "artist": "天王寺璃奈 (CV.田中ちえ美)",
+      "count": 2
+    },
+    "6Ut3eQN8VLwQXjRejHmNk3": {
+      "name": "チェリーボム",
+      "artist": "優木せつ菜 (CV.林 鼓子)",
+      "count": 2
+    },
+    "6ZBVYtAQQf4VjDm7lLiUag": {
+      "name": "翠いカナリア",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 2
+    },
+    "06cY8jv4vjF8xW0RwuDYpw": {
+      "name": "stars we chase",
+      "artist": "ミア・テイラー (CV.内田 秀)",
+      "count": 2
+    },
+    "08jHICuBUw39Mct5JfZ3C5": {
+      "name": "Bring the LOVE！",
+      "artist": "渡辺 曜 (CV.斉藤朱夏), 上原歩夢 (CV.大西亜玖璃), 澁谷かのん (CV.伊達さゆり), 日野下花帆 (CV.楡井希実), 高坂穂乃果(CV.新田恵海)",
+      "count": 1
+    },
+    "05DZPBOfAqqdywyCX33yh1": {
+      "name": "咬福論",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "count": 1
+    },
+    "5B24hLFhi4F8KxhZyYLj2v": {
+      "name": "夜明珠",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "count": 1
+    },
+    "4GZwgfIJauJZXbtNi3lVzt": {
+      "name": "Starlight",
+      "artist": "朝香果林 (CV.久保田未夢)",
+      "count": 1
+    },
+    "51o3HaQuKwmcHEWWKvCTMm": {
+      "name": "LIKE IT！LOVE IT！",
+      "artist": "優木せつ菜 (CV.楠木ともり)",
+      "count": 1
+    },
+    "1Wr4m8btedIIMTzmV38nRo": {
+      "name": "無敵級*ビリーバー",
+      "artist": "中須かすみ (CV.相良茉優)",
+      "count": 1
+    },
+    "58N59QptRCYvEee9KKTURD": {
+      "name": "5201314",
+      "artist": "鐘 嵐珠 (CV.法元明菜)",
+      "count": 1
+    },
+    "2HEIUm9pIViliot1yfkJi3": {
+      "name": "Daydream Mermaid",
+      "artist": "近江彼方 (CV.鬼頭明里)",
       "count": 1
     }
   },
@@ -2241,7 +2361,7 @@
     },
     "4CS5ASqHbFf9YKjlkkd2cN": {
       "name": "優木せつ菜 (CV.楠木ともり)",
-      "count": 12
+      "count": 17
     },
     "2mYqxXIhhzNE3bLwm3X0f7": {
       "name": "Rockin' For Decades",
@@ -2313,11 +2433,11 @@
     },
     "2wFPTxM1Xl1f5vUk1jPY3d": {
       "name": "三船栞子 (CV.小泉萌香)",
-      "count": 15
+      "count": 21
     },
     "2TM0qnbJH4QPhGMCdPt7fH": {
       "name": "Neck Deep",
-      "count": 84
+      "count": 85
     },
     "3he8Hc0WxcVbpLzFpRsnO4": {
       "name": "みらくらぱーく!",
@@ -2457,7 +2577,7 @@
     },
     "6xWuh7ypIYMh9BhqfHtQN1": {
       "name": "Nijigasaki High School Idol Club",
-      "count": 7
+      "count": 13
     },
     "3YkgOH8w0F49DIP1l9NDC2": {
       "name": "JubyPhonic",
@@ -2545,7 +2665,7 @@
     },
     "5Rn9nehXFL1tpFFB2SOw0C": {
       "name": "Shirayuki Hina",
-      "count": 7
+      "count": 8
     },
     "18Zr9CaElvS40S0AtizMWZ": {
       "name": "hololive IDOL PROJECT",
@@ -2617,7 +2737,7 @@
     },
     "0tfFouX7e1G86zdxkzBlRB": {
       "name": "渡辺 曜 (CV.斉藤朱夏)",
-      "count": 5
+      "count": 6
     },
     "3WtfrqneXkOVCPf3EdTfDV": {
       "name": "Glocal Orchestra",
@@ -2837,7 +2957,7 @@
     },
     "23JZudIPdcNEhcV5DfDq5M": {
       "name": "エマ・ヴェルデ (CV.指出毬亜)",
-      "count": 5
+      "count": 6
     },
     "0X2BH1fck6amBIoJhDVmmJ": {
       "name": "Ellie Goulding",
@@ -2861,7 +2981,7 @@
     },
     "0PyKHNnxTNPQDA4Ow7jRnd": {
       "name": "DiverDiva",
-      "count": 16
+      "count": 20
     },
     "3SNFK5uJ7eOBLqjtFTcPB9": {
       "name": "安達(CV:鬼頭明里)",
@@ -3113,7 +3233,7 @@
     },
     "7it8CXxJEe5Rn1fSl34ugQ": {
       "name": "上原歩夢 (CV.大西亜玖璃)",
-      "count": 7
+      "count": 8
     },
     "77jJBS7kai3P7IpnhczBTU": {
       "name": "アドマイヤベガ (CV. 咲々木瞳)",
@@ -3169,11 +3289,11 @@
     },
     "2KO3nQQqN4LJAKQebedEHF": {
       "name": "澁谷かのん (CV.伊達さゆり)",
-      "count": 4
+      "count": 5
     },
     "3K0kUxY4moTB2FF7nYLgzs": {
       "name": "日野下花帆 (CV.楡井希実)",
-      "count": 4
+      "count": 5
     },
     "64tJ2EAv1R6UaZqc4iOCyj": {
       "name": "YOASOBI",
@@ -3213,6 +3333,50 @@
     },
     "4640XyVEeNXwxenpk8Ilmt": {
       "name": "ミホノブルボン (CV. 長谷川育美)",
+      "count": 1
+    },
+    "54hnRUYsDChS7pkIRHiz5P": {
+      "name": "ミア・テイラー (CV.内田 秀)",
+      "count": 4
+    },
+    "2SX8w3DHQPTBtQPMnFw0QI": {
+      "name": "近江彼方 (CV.鬼頭明里)",
+      "count": 3
+    },
+    "1btXM114txUV2HtiylRvoK": {
+      "name": "鐘 嵐珠 (CV.法元明菜)",
+      "count": 6
+    },
+    "2xg4mnz8QOKejta6NzNCeG": {
+      "name": "R3BIRTH",
+      "count": 2
+    },
+    "2glYsWdZ2iBS2IhjopVcBK": {
+      "name": "QU4RTZ",
+      "count": 2
+    },
+    "6csqZOVRUvmw9RnBjb0daq": {
+      "name": "桜坂しずく (CV.前田佳織里)",
+      "count": 2
+    },
+    "1bNt2NaGReLx58RaBpKuk3": {
+      "name": "天王寺璃奈 (CV.田中ちえ美)",
+      "count": 2
+    },
+    "5BkAdBE9lBB9aFtcx9ToA1": {
+      "name": "優木せつ菜 (CV.林 鼓子)",
+      "count": 2
+    },
+    "4BZs8fDixaE49bgj2xMjPr": {
+      "name": "高坂穂乃果(CV.新田恵海)",
+      "count": 1
+    },
+    "6mGi9UIrYgzUrcrgBGQFku": {
+      "name": "朝香果林 (CV.久保田未夢)",
+      "count": 1
+    },
+    "690QfHJEGFsAryHLPVvzqA": {
+      "name": "中須かすみ (CV.相良茉優)",
       "count": 1
     }
   }
